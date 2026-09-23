@@ -11,18 +11,22 @@ async function run() {
   return Response.json({ updatedAt: data.updatedAt, count: data.questions.length });
 }
 
-export async function GET(request) {
-  const secret = process.env.CRON_SECRET;
-  if (secret && request.headers.get("authorization") !== `Bearer ${secret}`) {
-    return Response.json({ error: "unauthorized" }, { status: 401 });
-  }
-  return run();
-}
-
-export async function POST() {
+async function throttled() {
   const { updatedAt } = await getFresh();
   if (Date.now() - updatedAt < MIN_GAP_MS) {
     return Response.json({ error: "too_soon", updatedAt }, { status: 429 });
   }
   return run();
 }
+
+export async function GET(request) {
+  const secret = process.env.CRON_SECRET;
+  // Without CRON_SECRET, anyone could call this URL — fall back to the throttle.
+  if (!secret) return throttled();
+  if (request.headers.get("authorization") !== `Bearer ${secret}`) {
+    return Response.json({ error: "unauthorized" }, { status: 401 });
+  }
+  return run();
+}
+
+export const POST = throttled;
