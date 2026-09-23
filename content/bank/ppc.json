@@ -1,0 +1,2777 @@
+[
+  {
+    "id": "ppc-1",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In online advertising, what does PPC stand for?",
+      "hi": "Online advertising mein PPC ka full form kya hai?",
+      "mr": "ऑनलाइन जाहिरातीत PPC चे पूर्ण रूप काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Pay-Per-Conversion",
+        "Pay-Per-Click",
+        "Price-Per-Campaign",
+        "Profit-Per-Customer"
+      ],
+      "hi": [
+        "Pay-Per-Conversion",
+        "Pay-Per-Click",
+        "Price-Per-Campaign",
+        "Profit-Per-Customer"
+      ],
+      "mr": [
+        "Pay-Per-Conversion",
+        "Pay-Per-Click",
+        "Price-Per-Campaign",
+        "Profit-Per-Customer"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "PPC = Pay-Per-Click: you pay only when someone clicks your ad. Google Ads Search campaigns are the classic PPC example.",
+      "hi": "PPC = Pay-Per-Click: aap tabhi pay karte ho jab koi aapke ad pe click kare. Google Ads Search campaigns iska classic example hai.",
+      "mr": "PPC = Pay-Per-Click: कोणी तुमच्या जाहिरातीवर क्लिक केल्यावरच तुम्ही पैसे देता. Google Ads Search campaigns हे याचे उत्तम उदाहरण आहे."
+    }
+  },
+  {
+    "id": "ppc-2",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Google Ads, what does CPC mean?",
+      "hi": "Google Ads mein CPC ka matlab kya hai?",
+      "mr": "Google Ads मध्ये CPC म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Clicks Per Campaign",
+        "Conversions Per Customer",
+        "Cost Per Click",
+        "Cost Per Content"
+      ],
+      "hi": [
+        "Clicks Per Campaign",
+        "Conversions Per Customer",
+        "Cost Per Click",
+        "Cost Per Content"
+      ],
+      "mr": [
+        "Clicks Per Campaign",
+        "Conversions Per Customer",
+        "Cost Per Click",
+        "Cost Per Content"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "CPC = Cost Per Click, the amount you pay for each click. Average CPC = total cost ÷ total clicks.",
+      "hi": "CPC = Cost Per Click, yaani har click ka kitna paisa laga. Average CPC = total cost ÷ total clicks.",
+      "mr": "CPC = Cost Per Click, म्हणजे प्रत्येक क्लिकसाठी लागणारी रक्कम. Average CPC = एकूण खर्च ÷ एकूण क्लिक्स."
+    }
+  },
+  {
+    "id": "ppc-3",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Where do Google Ads Search campaign ads mainly appear?",
+      "hi": "Google Ads ke Search campaign ke ads mainly kahan dikhte hain?",
+      "mr": "Google Ads च्या Search campaign च्या जाहिराती मुख्यतः कुठे दिसतात?"
+    },
+    "opts": {
+      "en": [
+        "Only inside the Gmail inbox",
+        "On TV channels and radio",
+        "On Instagram Stories",
+        "On Google search results when people search"
+      ],
+      "hi": [
+        "Sirf Gmail inbox ke andar",
+        "TV channels aur radio pe",
+        "Instagram Stories pe",
+        "Google search results pe jab log search karte hain"
+      ],
+      "mr": [
+        "फक्त Gmail inbox मध्ये",
+        "TV चॅनेल्स आणि रेडिओवर",
+        "Instagram Stories वर",
+        "लोक सर्च करतात तेव्हा Google search results मध्ये"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Search campaigns show text ads on Google search results (and optionally search partner sites) when a query matches your keywords.",
+      "hi": "Search campaigns text ads ko Google search results pe dikhate hain jab kisi ki query aapke keywords se match hoti hai.",
+      "mr": "एखाद्याची query तुमच्या keywords शी जुळली की Search campaigns Google search results वर text ads दाखवतात."
+    }
+  },
+  {
+    "id": "ppc-4",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What are 'keywords' in a Google Ads Search campaign?",
+      "hi": "Google Ads Search campaign mein 'keywords' kya hote hain?",
+      "mr": "Google Ads Search campaign मध्ये 'keywords' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Words or phrases you choose to match ads to searches",
+        "Passwords used to log in to the ads account",
+        "Hashtags you add under a YouTube video",
+        "The brand names of your competitors only"
+      ],
+      "hi": [
+        "Words/phrases jo aap chunte ho taaki ads searches se match ho",
+        "Ads account mein login karne ke passwords",
+        "YouTube video ke neeche lagaye hashtags",
+        "Sirf competitors ke brand names"
+      ],
+      "mr": [
+        "जाहिराती searches शी जुळवण्यासाठी तुम्ही निवडलेले शब्द/phrases",
+        "Ads account मध्ये login करण्याचे passwords",
+        "YouTube video खाली टाकलेले hashtags",
+        "फक्त स्पर्धकांची brand names"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Keywords are the words or phrases you pick so Google can match your ads to what people search, e.g. 'cake shop in Pune'.",
+      "hi": "Keywords woh words/phrases hain jo aap select karte ho taaki Google aapke ads ko logon ki searches se match kare, jaise 'cake shop in Pune'.",
+      "mr": "Keywords म्हणजे तुम्ही निवडलेले शब्द/phrases, ज्यांच्या आधारे Google तुमच्या जाहिराती लोकांच्या searches शी जुळवते, उदा. 'cake shop in Pune'."
+    }
+  },
+  {
+    "id": "ppc-5",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Google Shopping ads get product details like price and image from which tool?",
+      "hi": "Google Shopping ads product ki price aur image jaisi details kis tool se lete hain?",
+      "mr": "Google Shopping ads उत्पादनाची किंमत आणि image सारखी माहिती कोणत्या tool मधून घेतात?"
+    },
+    "opts": {
+      "en": [
+        "Google Search Console",
+        "Google Merchant Center",
+        "Google Analytics",
+        "Google Tag Manager"
+      ],
+      "hi": [
+        "Google Search Console",
+        "Google Merchant Center",
+        "Google Analytics",
+        "Google Tag Manager"
+      ],
+      "mr": [
+        "Google Search Console",
+        "Google Merchant Center",
+        "Google Analytics",
+        "Google Tag Manager"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Shopping ads use the product data (feed) you upload to Google Merchant Center: title, price, image, availability and more.",
+      "hi": "Shopping ads Google Merchant Center mein upload kiye product data (feed) se chalte hain: title, price, image, availability, etc.",
+      "mr": "Shopping ads Google Merchant Center मध्ये upload केलेल्या product data (feed) वर चालतात: title, price, image, availability इ."
+    }
+  },
+  {
+    "id": "ppc-6",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In PPC reports, what is an 'impression'?",
+      "hi": "PPC reports mein 'impression' kya hota hai?",
+      "mr": "PPC reports मध्ये 'impression' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Each time someone buys your product",
+        "Each time someone clicks your ad",
+        "Each time your ad is shown",
+        "Each time someone calls your business"
+      ],
+      "hi": [
+        "Har baar jab koi product khareedta hai",
+        "Har baar jab koi ad pe click karta hai",
+        "Har baar jab aapka ad dikhaya jata hai",
+        "Har baar jab koi business ko call karta hai"
+      ],
+      "mr": [
+        "प्रत्येक वेळी कोणी उत्पादन विकत घेते",
+        "प्रत्येक वेळी कोणी जाहिरातीवर क्लिक करते",
+        "प्रत्येक वेळी तुमची जाहिरात दाखवली जाते",
+        "प्रत्येक वेळी कोणी व्यवसायाला call करते"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "An impression is counted each time your ad is shown. Clicks, calls and purchases are separate metrics.",
+      "hi": "Jab bhi aapka ad show hota hai, ek impression count hota hai. Clicks, calls aur purchases alag metrics hain.",
+      "mr": "तुमची जाहिरात प्रत्येक वेळी दाखवली की एक impression मोजला जातो. Clicks, calls आणि purchases हे वेगळे metrics आहेत."
+    }
+  },
+  {
+    "id": "ppc-7",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which advertising platform is used to run search ads on Bing?",
+      "hi": "Bing pe search ads chalane ke liye kaunsa advertising platform use hota hai?",
+      "mr": "Bing वर search ads चालवण्यासाठी कोणता advertising platform वापरतात?"
+    },
+    "opts": {
+      "en": [
+        "Meta Ads Manager",
+        "Amazon Ads",
+        "LinkedIn Campaign Manager",
+        "Microsoft Advertising"
+      ],
+      "hi": [
+        "Meta Ads Manager",
+        "Amazon Ads",
+        "LinkedIn Campaign Manager",
+        "Microsoft Advertising"
+      ],
+      "mr": [
+        "Meta Ads Manager",
+        "Amazon Ads",
+        "LinkedIn Campaign Manager",
+        "Microsoft Advertising"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Microsoft Advertising (Microsoft Ads) runs search ads on Bing and its partner network. You can even import campaigns from Google Ads.",
+      "hi": "Microsoft Advertising (Microsoft Ads) Bing aur uske partner network pe search ads chalata hai. Google Ads se campaigns import bhi kar sakte ho.",
+      "mr": "Microsoft Advertising (Microsoft Ads) Bing आणि त्याच्या partner network वर search ads चालवते. Google Ads मधून campaigns import देखील करता येतात."
+    }
+  },
+  {
+    "id": "ppc-8",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In paid ads, what does CPA usually stand for?",
+      "hi": "Paid ads mein CPA ka full form usually kya hota hai?",
+      "mr": "Paid ads मध्ये CPA चे पूर्ण रूप सहसा काय असते?"
+    },
+    "opts": {
+      "en": [
+        "Cost Per Acquisition",
+        "Clicks Per Advert",
+        "Campaign Performance Average",
+        "Customer Purchase Amount"
+      ],
+      "hi": [
+        "Cost Per Acquisition",
+        "Clicks Per Advert",
+        "Campaign Performance Average",
+        "Customer Purchase Amount"
+      ],
+      "mr": [
+        "Cost Per Acquisition",
+        "Clicks Per Advert",
+        "Campaign Performance Average",
+        "Customer Purchase Amount"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "CPA = Cost Per Acquisition (or Action): total cost ÷ conversions. It tells you how much you pay for each lead or sale.",
+      "hi": "CPA = Cost Per Acquisition (ya Action): total cost ÷ conversions. Isse pata chalta hai har lead ya sale kitne mein padi.",
+      "mr": "CPA = Cost Per Acquisition (किंवा Action): एकूण खर्च ÷ conversions. प्रत्येक lead किंवा sale साठी किती खर्च झाला हे यातून कळते."
+    }
+  },
+  {
+    "id": "ppc-9",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Google Ads Quality Score is reported on which scale?",
+      "hi": "Google Ads ka Quality Score kis scale pe dikhaya jata hai?",
+      "mr": "Google Ads चा Quality Score कोणत्या scale वर दाखवला जातो?"
+    },
+    "opts": {
+      "en": [
+        "0 to 100",
+        "1 to 10",
+        "A to F grades",
+        "1 to 5 stars"
+      ],
+      "hi": [
+        "0 se 100",
+        "1 se 10",
+        "A se F grades",
+        "1 se 5 stars"
+      ],
+      "mr": [
+        "0 ते 100",
+        "1 ते 10",
+        "A ते F grades",
+        "1 ते 5 stars"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Quality Score is a keyword-level diagnostic from 1 to 10. Higher usually means your ads and landing page are more relevant to searchers.",
+      "hi": "Quality Score keyword-level diagnostic hai jo 1 se 10 tak hota hai. Zyada score ka matlab aapke ads aur landing page searchers ke liye zyada relevant hain.",
+      "mr": "Quality Score हा keyword-level diagnostic असून 1 ते 10 पर्यंत असतो. जास्त score म्हणजे तुमच्या जाहिराती व landing page searchers साठी अधिक relevant आहेत."
+    }
+  },
+  {
+    "id": "ppc-10",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does adding a negative keyword do in Google Ads?",
+      "hi": "Google Ads mein negative keyword add karne se kya hota hai?",
+      "mr": "Google Ads मध्ये negative keyword टाकल्याने काय होते?"
+    },
+    "opts": {
+      "en": [
+        "Lowers your bid on that word",
+        "Shows your ad only for that word",
+        "Stops ads showing for searches with that term",
+        "Reports that word to Google as spam"
+      ],
+      "hi": [
+        "Us word pe aapki bid kam karta hai",
+        "Ad sirf usi word pe dikhata hai",
+        "Us term wali searches pe ads dikhna band karta hai",
+        "Us word ko Google ko spam report karta hai"
+      ],
+      "mr": [
+        "त्या शब्दावरची bid कमी करतो",
+        "जाहिरात फक्त त्या शब्दावर दाखवतो",
+        "तो term असलेल्या searches वर जाहिराती दाखवणे थांबवतो",
+        "तो शब्द Google कडे spam म्हणून report करतो"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Negative keywords block your ads from searches containing that term, e.g. adding 'free' or 'jobs' to stop wasted clicks.",
+      "hi": "Negative keywords aapke ads ko un searches se block karte hain jismein woh term ho, jaise 'free' ya 'jobs' add karke wasted clicks rokna.",
+      "mr": "Negative keywords तो term असलेल्या searches वर तुमच्या जाहिराती दिसू देत नाहीत, उदा. 'free' किंवा 'jobs' टाकून वाया जाणारे clicks थांबवणे."
+    }
+  },
+  {
+    "id": "ppc-11",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which Google Ads keyword match type gives the widest reach?",
+      "hi": "Google Ads ka kaunsa keyword match type sabse zyada reach deta hai?",
+      "mr": "Google Ads चा कोणता keyword match type सर्वात जास्त reach देतो?"
+    },
+    "opts": {
+      "en": [
+        "Exact match",
+        "Phrase match",
+        "Negative match",
+        "Broad match"
+      ],
+      "hi": [
+        "Exact match",
+        "Phrase match",
+        "Negative match",
+        "Broad match"
+      ],
+      "mr": [
+        "Exact match",
+        "Phrase match",
+        "Negative match",
+        "Broad match"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Broad match can show your ad for searches related to your keyword, even without its exact words, so it reaches the most queries. Exact is the narrowest.",
+      "hi": "Broad match aapke keyword se related searches pe bhi ad dikha sakta hai, bina exact words ke bhi, isliye reach sabse zyada. Exact sabse narrow hai.",
+      "mr": "Broad match तुमच्या keyword शी संबंधित searches वर, अगदी ते शब्द नसतानाही, जाहिरात दाखवू शकतो, म्हणून reach सर्वात जास्त. Exact सर्वात narrow आहे."
+    }
+  },
+  {
+    "id": "ppc-12",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a sitelink asset (formerly sitelink extension) in Google Ads?",
+      "hi": "Google Ads mein sitelink asset (pehle sitelink extension) kya hai?",
+      "mr": "Google Ads मध्ये sitelink asset (पूर्वीचे sitelink extension) म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Extra links under your ad to specific website pages",
+        "A backlink Google gives your site for SEO",
+        "A link that opens your WhatsApp chat only",
+        "A map pin showing your shop location"
+      ],
+      "hi": [
+        "Ad ke neeche extra links jo specific pages pe le jaate hain",
+        "SEO ke liye Google ka diya backlink",
+        "Link jo sirf WhatsApp chat kholta hai",
+        "Shop location dikhane wala map pin"
+      ],
+      "mr": [
+        "जाहिरातीखाली website च्या विशिष्ट pages चे extra links",
+        "SEO साठी Google ने दिलेली backlink",
+        "फक्त WhatsApp chat उघडणारी link",
+        "दुकानाचे location दाखवणारी map pin"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Sitelinks add extra clickable links (e.g. 'Courses', 'Fees', 'Contact') below a search ad, making it bigger and more useful. A map pin is the location asset.",
+      "hi": "Sitelinks search ad ke neeche extra clickable links add karte hain (jaise 'Courses', 'Fees', 'Contact'), ad bada aur useful banta hai. Map pin location asset hai.",
+      "mr": "Sitelinks search ad खाली extra clickable links जोडतात (उदा. 'Courses', 'Fees', 'Contact'), त्यामुळे जाहिरात मोठी व उपयोगी होते. Map pin हा location asset आहे."
+    }
+  },
+  {
+    "id": "ppc-13",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Google Ads, what is a 'conversion'?",
+      "hi": "Google Ads mein 'conversion' kya hota hai?",
+      "mr": "Google Ads मध्ये 'conversion' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Any time your ad is shown on a page",
+        "A valuable action like a purchase, form fill or call",
+        "Changing a campaign from Search to Display",
+        "Converting your budget from ₹ to dollars"
+      ],
+      "hi": [
+        "Jab bhi ad kisi page pe show ho",
+        "Valuable action jaise purchase, form fill ya call",
+        "Campaign ko Search se Display mein badalna",
+        "Budget ko ₹ se dollars mein convert karna"
+      ],
+      "mr": [
+        "जाहिरात एखाद्या page वर दाखवली जाणे",
+        "purchase, form भरणे किंवा call सारखी मौल्यवान कृती",
+        "Campaign Search मधून Display मध्ये बदलणे",
+        "Budget ₹ मधून dollars मध्ये बदलणे"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "A conversion is an action you define as valuable after an ad interaction: a sale, lead form, call, app install, etc. You must set up conversion tracking to count it.",
+      "hi": "Conversion woh action hai jo aap valuable define karte ho ad interaction ke baad: sale, lead form, call, app install. Isko count karne ke liye conversion tracking setup zaroori hai.",
+      "mr": "Conversion म्हणजे जाहिरातीशी interaction नंतर होणारी, तुम्ही मौल्यवान ठरवलेली कृती: sale, lead form, call, app install इ. ती मोजण्यासाठी conversion tracking लावावे लागते."
+    }
+  },
+  {
+    "id": "ppc-14",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is remarketing in Google Ads?",
+      "hi": "Google Ads mein remarketing kya hai?",
+      "mr": "Google Ads मध्ये remarketing म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Selling the same ad account to another agency",
+        "Relaunching a paused campaign with a new name",
+        "Showing ads to people who already visited your site or app",
+        "Re-uploading the same ad every week"
+      ],
+      "hi": [
+        "Ad account kisi aur agency ko bechna",
+        "Paused campaign ko naye naam se relaunch karna",
+        "Un logon ko ads dikhana jo pehle aapki site/app pe aa chuke hain",
+        "Har hafte same ad dobara upload karna"
+      ],
+      "mr": [
+        "Ad account दुसऱ्या agency ला विकणे",
+        "Pause केलेली campaign नव्या नावाने पुन्हा सुरू करणे",
+        "आधी तुमच्या site/app ला भेट दिलेल्या लोकांना जाहिराती दाखवणे",
+        "दर आठवड्याला तीच जाहिरात पुन्हा upload करणे"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Remarketing targets people who previously interacted with your website, app or videos, reminding warm users to come back and convert.",
+      "hi": "Remarketing un logon ko target karta hai jo pehle aapki website, app ya videos se interact kar chuke hain, taaki woh wapas aakar convert karein.",
+      "mr": "Remarketing आधी तुमच्या website, app किंवा videos शी interact केलेल्या लोकांना target करते, जेणेकरून ते परत येऊन convert होतील."
+    }
+  },
+  {
+    "id": "ppc-15",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which Google Ads campaign type is built mainly for YouTube video ads?",
+      "hi": "Google Ads ka kaunsa campaign type mainly YouTube video ads ke liye bana hai?",
+      "mr": "Google Ads चा कोणता campaign type मुख्यतः YouTube video ads साठी आहे?"
+    },
+    "opts": {
+      "en": [
+        "Shopping campaign",
+        "Search campaign",
+        "App campaign",
+        "Video campaign"
+      ],
+      "hi": [
+        "Shopping campaign",
+        "Search campaign",
+        "App campaign",
+        "Video campaign"
+      ],
+      "mr": [
+        "Shopping campaign",
+        "Search campaign",
+        "App campaign",
+        "Video campaign"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Video campaigns run video ads on YouTube and Google video partners. Search and Shopping focus on search results; App campaigns promote app installs.",
+      "hi": "Video campaigns YouTube aur Google video partners pe video ads chalate hain. Search aur Shopping search results ke liye, App campaigns app installs ke liye.",
+      "mr": "Video campaigns YouTube आणि Google video partners वर video ads चालवतात. Search व Shopping search results साठी, तर App campaigns app installs साठी असतात."
+    }
+  },
+  {
+    "id": "ppc-16",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does the daily budget of a Google Ads campaign represent?",
+      "hi": "Google Ads campaign ka daily budget kya represent karta hai?",
+      "mr": "Google Ads campaign चे daily budget काय दर्शवते?"
+    },
+    "opts": {
+      "en": [
+        "The average amount you want to spend per day",
+        "The maximum you pay for a single click",
+        "The minimum sales you expect per day",
+        "The fee Google charges to open an account"
+      ],
+      "hi": [
+        "Roz ka average kharcha jo aap karna chahte ho",
+        "Ek click ke liye maximum payment",
+        "Roz ki minimum expected sales",
+        "Account kholne ki Google fees"
+      ],
+      "mr": [
+        "दररोज सरासरी किती खर्च करायचा ती रक्कम",
+        "एका क्लिकसाठी जास्तीत जास्त रक्कम",
+        "दररोज अपेक्षित किमान विक्री",
+        "Account उघडण्याची Google fee"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "The daily budget is the average you're willing to spend per day on that campaign. Max CPC is the per-click limit, which is a different setting.",
+      "hi": "Daily budget woh average amount hai jo aap us campaign pe roz kharch karna chahte ho. Max CPC per-click limit hai, jo alag setting hai.",
+      "mr": "Daily budget म्हणजे त्या campaign वर दररोज सरासरी खर्च करायची तयारी असलेली रक्कम. Max CPC ही per-click मर्यादा असून ती वेगळी setting आहे."
+    }
+  },
+  {
+    "id": "ppc-17",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which three components make up Google Ads Quality Score?",
+      "hi": "Google Ads Quality Score ke teen components kaunse hain?",
+      "mr": "Google Ads Quality Score चे तीन घटक कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Bid, budget and account age",
+        "Expected CTR, ad relevance, landing page experience",
+        "Impressions, clicks and conversions",
+        "Keyword length, ad length, page length"
+      ],
+      "hi": [
+        "Bid, budget aur account age",
+        "Expected CTR, ad relevance, landing page experience",
+        "Impressions, clicks aur conversions",
+        "Keyword length, ad length, page length"
+      ],
+      "mr": [
+        "Bid, budget आणि account age",
+        "Expected CTR, ad relevance, landing page experience",
+        "Impressions, clicks आणि conversions",
+        "Keyword length, ad length, page length"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Quality Score is based on expected CTR, ad relevance and landing page experience. Your bid and budget affect Ad Rank, not Quality Score.",
+      "hi": "Quality Score expected CTR, ad relevance aur landing page experience pe based hai. Bid aur budget Ad Rank ko affect karte hain, Quality Score ko nahi.",
+      "mr": "Quality Score हा expected CTR, ad relevance आणि landing page experience वर आधारित असतो. Bid व budget Ad Rank वर परिणाम करतात, Quality Score वर नाही."
+    }
+  },
+  {
+    "id": "ppc-18",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "A responsive search ad (RSA) can have up to how many headlines and descriptions?",
+      "hi": "Responsive search ad (RSA) mein maximum kitni headlines aur descriptions ho sakti hain?",
+      "mr": "Responsive search ad (RSA) मध्ये जास्तीत जास्त किती headlines आणि descriptions असू शकतात?"
+    },
+    "opts": {
+      "en": [
+        "3 headlines and 2 descriptions",
+        "5 headlines and 5 descriptions",
+        "15 headlines and 4 descriptions",
+        "30 headlines and 10 descriptions"
+      ],
+      "hi": [
+        "3 headlines aur 2 descriptions",
+        "5 headlines aur 5 descriptions",
+        "15 headlines aur 4 descriptions",
+        "30 headlines aur 10 descriptions"
+      ],
+      "mr": [
+        "3 headlines आणि 2 descriptions",
+        "5 headlines आणि 5 descriptions",
+        "15 headlines आणि 4 descriptions",
+        "30 headlines आणि 10 descriptions"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "An RSA takes up to 15 headlines (30 characters each) and 4 descriptions (90 characters each); Google mixes them to find the best combinations.",
+      "hi": "RSA mein 15 headlines (har ek 30 characters) aur 4 descriptions (har ek 90 characters) tak de sakte ho; Google inko mix karke best combinations dhoondhta hai.",
+      "mr": "RSA मध्ये 15 headlines (प्रत्येकी 30 characters) आणि 4 descriptions (प्रत्येकी 90 characters) पर्यंत देता येतात; Google ते mix करून सर्वोत्तम combinations शोधते."
+    }
+  },
+  {
+    "id": "ppc-19",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "How is conversion rate usually calculated in Google Ads?",
+      "hi": "Google Ads mein conversion rate usually kaise calculate hota hai?",
+      "mr": "Google Ads मध्ये conversion rate सहसा कसा काढतात?"
+    },
+    "opts": {
+      "en": [
+        "Clicks ÷ Impressions × 100",
+        "Cost ÷ Conversions",
+        "Conversion value ÷ Cost",
+        "Conversions ÷ Clicks (interactions) × 100"
+      ],
+      "hi": [
+        "Clicks ÷ Impressions × 100",
+        "Cost ÷ Conversions",
+        "Conversion value ÷ Cost",
+        "Conversions ÷ Clicks (interactions) × 100"
+      ],
+      "mr": [
+        "Clicks ÷ Impressions × 100",
+        "Cost ÷ Conversions",
+        "Conversion value ÷ Cost",
+        "Conversions ÷ Clicks (interactions) × 100"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Conversion rate = conversions ÷ ad interactions (clicks for search) × 100. Clicks ÷ impressions is CTR and cost ÷ conversions is CPA.",
+      "hi": "Conversion rate = conversions ÷ ad interactions (search mein clicks) × 100. Clicks ÷ impressions CTR hai aur cost ÷ conversions CPA hai.",
+      "mr": "Conversion rate = conversions ÷ ad interactions (search मध्ये clicks) × 100. Clicks ÷ impressions म्हणजे CTR आणि cost ÷ conversions म्हणजे CPA."
+    }
+  },
+  {
+    "id": "ppc-20",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Your phrase match keyword is \"running shoes\". Which search can trigger your ad?",
+      "hi": "Aapka phrase match keyword \"running shoes\" hai. Kaunsi search pe aapka ad aa sakta hai?",
+      "mr": "तुमचा phrase match keyword \"running shoes\" आहे. कोणत्या search वर तुमची जाहिरात येऊ शकते?"
+    },
+    "opts": {
+      "en": [
+        "best running shoes for women",
+        "running socks online",
+        "leather office shoes",
+        "marathon training plan"
+      ],
+      "hi": [
+        "best running shoes for women",
+        "running socks online",
+        "leather office shoes",
+        "marathon training plan"
+      ],
+      "mr": [
+        "best running shoes for women",
+        "running socks online",
+        "leather office shoes",
+        "marathon training plan"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Phrase match shows ads for searches that include the meaning of your phrase, with words before or after it. 'Running socks' or 'office shoes' change the meaning.",
+      "hi": "Phrase match un searches pe ad dikhata hai jismein aapke phrase ka meaning ho, aage-peeche words ke saath. 'Running socks' ya 'office shoes' ka meaning alag hai.",
+      "mr": "Phrase match तुमच्या phrase चा अर्थ असलेल्या searches वर, आधी-नंतर शब्द असले तरी, जाहिरात दाखवतो. 'Running socks' किंवा 'office shoes' चा अर्थ वेगळा आहे."
+    }
+  },
+  {
+    "id": "ppc-21",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a callout asset in Google Ads?",
+      "hi": "Google Ads mein callout asset kya hai?",
+      "mr": "Google Ads मध्ये callout asset म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "A button that places a phone call",
+        "Short non-clickable text like 'Free delivery'",
+        "A pop-up that appears on your landing page",
+        "An alert Google sends when budget runs out"
+      ],
+      "hi": [
+        "Button jo phone call lagata hai",
+        "Chhota non-clickable text jaise 'Free delivery'",
+        "Landing page pe aane wala pop-up",
+        "Budget khatam hone pe Google ka alert"
+      ],
+      "mr": [
+        "Phone call लावणारे button",
+        "'Free delivery' सारखा छोटा non-clickable text",
+        "Landing page वर येणारा pop-up",
+        "Budget संपल्यावर Google चा alert"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Callouts add short, non-clickable selling points (e.g. 'Free delivery', '24/7 support') to your ad. The call button is a separate call asset.",
+      "hi": "Callouts ad mein chhote non-clickable selling points add karte hain (jaise 'Free delivery', '24/7 support'). Call button alag call asset hai.",
+      "mr": "Callouts जाहिरातीत छोटे non-clickable selling points जोडतात (उदा. 'Free delivery', '24/7 support'). Call button हा वेगळा call asset आहे."
+    }
+  },
+  {
+    "id": "ppc-22",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Your max CPC bid is ₹50. What do you usually pay per click in the Google Ads auction?",
+      "hi": "Aapki max CPC bid ₹50 hai. Google Ads auction mein usually per click kitna pay karte ho?",
+      "mr": "तुमची max CPC bid ₹50 आहे. Google Ads auction मध्ये सहसा प्रति क्लिक किती पैसे द्यावे लागतात?"
+    },
+    "opts": {
+      "en": [
+        "Always exactly ₹50",
+        "Always double the max bid",
+        "Often less: just enough to beat the next Ad Rank",
+        "A fixed ₹10 set by Google"
+      ],
+      "hi": [
+        "Hamesha exactly ₹50",
+        "Hamesha max bid ka double",
+        "Aksar kam: bas agle Ad Rank ko beat karne jitna",
+        "Google ka fixed ₹10"
+      ],
+      "mr": [
+        "नेहमी बरोबर ₹50",
+        "नेहमी max bid च्या दुप्पट",
+        "बहुतेकदा कमी: पुढच्या Ad Rank ला मागे टाकण्याइतकेच",
+        "Google ने ठरवलेले fixed ₹10"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Actual CPC is often below your max CPC: you pay roughly what's needed to hold your position above the advertiser below you (and meet thresholds).",
+      "hi": "Actual CPC aksar max CPC se kam hota hai: aap lagbhag utna pay karte ho jitna neeche wale advertiser se upar rehne (aur thresholds meet karne) ke liye chahiye.",
+      "mr": "Actual CPC बहुतेकदा max CPC पेक्षा कमी असतो: खालच्या advertiser च्या वर राहण्यासाठी (आणि thresholds पूर्ण करण्यासाठी) लागणारी रक्कमच साधारण द्यावी लागते."
+    }
+  },
+  {
+    "id": "ppc-23",
+    "level": 3,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Pune bakery's search ads get many clicks from people searching 'cake recipe' and 'how to bake cake at home', with zero orders. Best quick fix?",
+      "hi": "Pune ki ek bakery ke search ads ko 'cake recipe' aur 'how to bake cake at home' search karne walon se bahut clicks milte hain, orders zero. Best quick fix?",
+      "mr": "पुण्यातील एका bakery च्या search ads ना 'cake recipe' आणि 'how to bake cake at home' शोधणाऱ्यांकडून खूप clicks मिळतात, पण order शून्य. सर्वोत्तम quick fix?"
+    },
+    "opts": {
+      "en": [
+        "Increase the daily budget to get more clicks",
+        "Switch every keyword to broad match",
+        "Turn on the Display Network as well",
+        "Add 'recipe' and 'how to' as negative keywords"
+      ],
+      "hi": [
+        "Zyada clicks ke liye daily budget badhao",
+        "Saare keywords broad match pe kar do",
+        "Display Network bhi on kar do",
+        "'recipe' aur 'how to' ko negative keywords mein daalo"
+      ],
+      "mr": [
+        "जास्त clicks साठी daily budget वाढवा",
+        "सगळे keywords broad match करा",
+        "Display Network सुद्धा चालू करा",
+        "'recipe' आणि 'how to' negative keywords म्हणून टाका"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "These searchers want to bake, not buy. Negatives like 'recipe' and 'how to' stop that waste. More budget or broader matching would only waste more money.",
+      "hi": "Yeh log khud bake karna chahte hain, khareedna nahi. 'recipe' aur 'how to' jaise negatives yeh waste rokte hain. Budget ya broad match badhane se aur paisa barbaad hoga.",
+      "mr": "हे लोक स्वतः bake करू इच्छितात, विकत घेऊ नाही. 'recipe' आणि 'how to' सारखे negatives हा खर्च थांबवतात. Budget वाढवणे किंवा broad match केल्याने आणखी पैसे वाया जातील."
+    }
+  },
+  {
+    "id": "ppc-24",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does the Search terms report in Google Ads show?",
+      "hi": "Google Ads ki Search terms report kya dikhati hai?",
+      "mr": "Google Ads चा Search terms report काय दाखवतो?"
+    },
+    "opts": {
+      "en": [
+        "The actual searches that triggered your ads",
+        "Keywords your competitors are bidding on",
+        "Top trending searches across all of India",
+        "SEO rankings of your website pages"
+      ],
+      "hi": [
+        "Asli searches jinse aapke ads trigger hue",
+        "Keywords jin pe competitors bid kar rahe hain",
+        "Poore India ke top trending searches",
+        "Aapke website pages ki SEO rankings"
+      ],
+      "mr": [
+        "तुमच्या जाहिराती ज्या प्रत्यक्ष searches मुळे दिसल्या त्या",
+        "स्पर्धक bid करत असलेले keywords",
+        "संपूर्ण भारतातील top trending searches",
+        "तुमच्या website pages चे SEO rankings"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "The Search terms report lists the real queries people typed that triggered your ads, which helps you find new keywords and negatives. It doesn't reveal competitor keywords.",
+      "hi": "Search terms report woh asli queries dikhati hai jo logon ne type ki aur jinse aapke ads aaye; isse naye keywords aur negatives milte hain. Competitors ke keywords nahi dikhte.",
+      "mr": "Search terms report लोकांनी type केलेल्या आणि तुमच्या जाहिराती दाखवणाऱ्या प्रत्यक्ष queries दाखवतो; त्यातून नवे keywords आणि negatives मिळतात. स्पर्धकांचे keywords यात दिसत नाहीत."
+    }
+  },
+  {
+    "id": "ppc-25",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Google Ads, what does Search impression share measure?",
+      "hi": "Google Ads mein Search impression share kya measure karta hai?",
+      "mr": "Google Ads मध्ये Search impression share काय मोजतो?"
+    },
+    "opts": {
+      "en": [
+        "Your share of total clicks in your industry",
+        "Impressions received ÷ impressions you were eligible for",
+        "Your ad's position on the page, 1 to 10",
+        "Share of budget spent on search vs display"
+      ],
+      "hi": [
+        "Industry ke total clicks mein aapka share",
+        "Mile impressions ÷ jitne impressions ke eligible the",
+        "Page pe ad ki position, 1 se 10",
+        "Search vs display pe kharch hua budget share"
+      ],
+      "mr": [
+        "Industry मधील एकूण clicks मध्ये तुमचा वाटा",
+        "मिळालेले impressions ÷ ज्या impressions साठी पात्र होता ते",
+        "Page वर जाहिरातीचे स्थान, 1 ते 10",
+        "Search विरुद्ध display वर खर्च झालेल्या budget चा वाटा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Impression share = impressions you got ÷ the estimated impressions you were eligible to get. It shows how much of the available demand you are capturing.",
+      "hi": "Impression share = mile impressions ÷ estimated eligible impressions. Isse pata chalta hai available demand ka kitna hissa aap capture kar rahe ho.",
+      "mr": "Impression share = मिळालेले impressions ÷ अंदाजे पात्र impressions. उपलब्ध demand पैकी किती भाग तुम्ही मिळवत आहात हे यातून कळते."
+    }
+  },
+  {
+    "id": "ppc-26",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "A campaign shows 'Search lost IS (budget)' of 45%. What does this mean?",
+      "hi": "Ek campaign mein 'Search lost IS (budget)' 45% hai. Iska matlab kya hai?",
+      "mr": "एका campaign मध्ये 'Search lost IS (budget)' 45% आहे. याचा अर्थ काय?"
+    },
+    "opts": {
+      "en": [
+        "45% of your clicks were invalid",
+        "Your Quality Score dropped by 45%",
+        "You missed ~45% of eligible impressions because budget ran short",
+        "45% of your budget was refunded"
+      ],
+      "hi": [
+        "Aapke 45% clicks invalid the",
+        "Quality Score 45% gir gaya",
+        "Budget kam padne se ~45% eligible impressions miss hue",
+        "Budget ka 45% refund hua"
+      ],
+      "mr": [
+        "तुमचे 45% clicks invalid होते",
+        "Quality Score 45% ने घसरला",
+        "Budget कमी पडल्याने ~45% पात्र impressions गमावले",
+        "Budget चा 45% परत मिळाला"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Lost IS (budget) is the share of eligible impressions you missed because your budget was too low. Missed impressions due to low Ad Rank show as Lost IS (rank).",
+      "hi": "Lost IS (budget) woh eligible impressions ka share hai jo budget kam hone se miss hue. Kam Ad Rank se miss hue impressions Lost IS (rank) mein dikhte hain.",
+      "mr": "Lost IS (budget) म्हणजे budget कमी पडल्यामुळे गमावलेल्या पात्र impressions चा वाटा. कमी Ad Rank मुळे गमावलेले impressions Lost IS (rank) मध्ये दिसतात."
+    }
+  },
+  {
+    "id": "ppc-27",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does the Maximize conversions bid strategy do?",
+      "hi": "Maximize conversions bid strategy kya karti hai?",
+      "mr": "Maximize conversions bid strategy काय करते?"
+    },
+    "opts": {
+      "en": [
+        "Keeps every click at the lowest possible CPC",
+        "Shows your ad in the top position every time",
+        "Gets the most clicks regardless of conversions",
+        "Sets bids automatically to get the most conversions within budget"
+      ],
+      "hi": [
+        "Har click ko lowest possible CPC pe rakhti hai",
+        "Ad ko har baar top position pe dikhati hai",
+        "Conversions ki parwah kiye bina max clicks laati hai",
+        "Budget ke andar max conversions ke liye automatically bids set karti hai"
+      ],
+      "mr": [
+        "प्रत्येक click सर्वात कमी CPC वर ठेवते",
+        "जाहिरात नेहमी top position ला दाखवते",
+        "Conversions चा विचार न करता जास्तीत जास्त clicks आणते",
+        "Budget मध्ये जास्तीत जास्त conversions साठी आपोआप bids ठरवते"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Maximize conversions is a Smart Bidding strategy that sets bids in each auction to get as many conversions as possible while spending your budget. Maximize clicks is the one that chases clicks.",
+      "hi": "Maximize conversions Smart Bidding strategy hai jo har auction mein bids set karke budget ke andar max conversions laati hai. Clicks ke peeche Maximize clicks bhaagti hai.",
+      "mr": "Maximize conversions ही Smart Bidding strategy प्रत्येक auction मध्ये bids ठरवून budget मध्ये जास्तीत जास्त conversions आणते. Clicks मागे धावणारी strategy म्हणजे Maximize clicks."
+    }
+  },
+  {
+    "id": "ppc-28",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What are enhanced conversions in Google Ads?",
+      "hi": "Google Ads mein enhanced conversions kya hain?",
+      "mr": "Google Ads मध्ये enhanced conversions म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Sending hashed first-party data (e.g. email) to improve conversion measurement",
+        "Paying extra so conversions are counted twice",
+        "A bid boost for users who converted before",
+        "Adding animations to ads to increase conversions"
+      ],
+      "hi": [
+        "Hashed first-party data (jaise email) bhejkar conversion measurement improve karna",
+        "Extra pay karke conversions do baar count karwana",
+        "Pehle convert hue users ke liye bid boost",
+        "Conversions badhane ke liye ads mein animations lagana"
+      ],
+      "mr": [
+        "Hashed first-party data (उदा. email) पाठवून conversion measurement सुधारणे",
+        "जास्त पैसे देऊन conversions दोनदा मोजणे",
+        "आधी convert झालेल्या users साठी bid boost",
+        "Conversions वाढवण्यासाठी जाहिरातीत animations टाकणे"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Enhanced conversions send hashed (SHA-256) customer data like email or phone from your conversion page, helping Google match conversions to ad clicks more accurately.",
+      "hi": "Enhanced conversions conversion page se email ya phone jaisa customer data hashed (SHA-256) form mein bhejte hain, taaki Google conversions ko ad clicks se zyada accurately match kare.",
+      "mr": "Enhanced conversions तुमच्या conversion page वरून email किंवा phone सारखा customer data hashed (SHA-256) स्वरूपात पाठवतात, त्यामुळे Google conversions आणि ad clicks अधिक अचूक जुळवते."
+    }
+  },
+  {
+    "id": "ppc-29",
+    "level": 4,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Nagpur coaching institute targets 'Nagpur' in Google Ads but gets many leads from people living in other states who can't attend. Which setting should it fix first?",
+      "hi": "Nagpur ka ek coaching institute Google Ads mein 'Nagpur' target karta hai, par dusre states mein rehne wale logon ki leads aati hain jo attend nahi kar sakte. Pehle kaunsi setting fix kare?",
+      "mr": "नागपूरचे एक coaching institute Google Ads मध्ये 'Nagpur' target करते, पण इतर राज्यांत राहणाऱ्या, class ला येऊ न शकणाऱ्या लोकांचे leads येतात. आधी कोणती setting दुरुस्त करावी?"
+    },
+    "opts": {
+      "en": [
+        "Change bidding to Maximize clicks",
+        "Set location option to 'Presence': people in or regularly in Nagpur",
+        "Add more headlines to the responsive search ad",
+        "Increase the daily budget for Nagpur"
+      ],
+      "hi": [
+        "Bidding ko Maximize clicks pe karo",
+        "Location option 'Presence' karo: jo log Nagpur mein hain ya regularly rehte hain",
+        "RSA mein aur headlines add karo",
+        "Nagpur ka daily budget badhao"
+      ],
+      "mr": [
+        "Bidding Maximize clicks वर करा",
+        "Location option 'Presence' करा: नागपुरात असलेले किंवा नियमित असणारे लोक",
+        "RSA मध्ये आणखी headlines टाका",
+        "नागपूरसाठी daily budget वाढवा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "The default 'Presence or interest' option also reaches people just searching about Nagpur. 'Presence' limits ads to people in, or regularly in, the target location.",
+      "hi": "Default 'Presence or interest' option un logon tak bhi pahunchta hai jo sirf Nagpur ke baare mein search karte hain. 'Presence' ads ko sirf location mein ya regularly wahan rehne walon tak rakhta hai.",
+      "mr": "Default 'Presence or interest' option फक्त नागपूरबद्दल शोधणाऱ्यांपर्यंतही पोहोचतो. 'Presence' जाहिराती फक्त त्या location मध्ये असलेल्या किंवा नियमित असणाऱ्या लोकांपुरत्या मर्यादित ठेवतो."
+    }
+  },
+  {
+    "id": "ppc-30",
+    "level": 4,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A D2C tea brand's RSA shows Ad strength 'Poor'. It has only 4 headlines, all saying 'Buy Assam Tea Online'. Best improvement?",
+      "hi": "Ek D2C tea brand ke RSA ki Ad strength 'Poor' hai. Sirf 4 headlines hain, sab 'Buy Assam Tea Online' bol rahi hain. Best improvement?",
+      "mr": "एका D2C tea brand च्या RSA ची Ad strength 'Poor' आहे. फक्त 4 headlines आहेत आणि सगळ्या 'Buy Assam Tea Online' म्हणतात. सर्वोत्तम सुधारणा?"
+    },
+    "opts": {
+      "en": [
+        "Pin all four headlines to position 1",
+        "Delete the ad and use only sitelinks",
+        "Add more unique headlines: keywords, benefits, offers, CTAs",
+        "Raise the bid so Ad strength improves"
+      ],
+      "hi": [
+        "Chaaron headlines ko position 1 pe pin karo",
+        "Ad delete karke sirf sitelinks use karo",
+        "Aur unique headlines add karo: keywords, benefits, offers, CTAs",
+        "Bid badhao taaki Ad strength sudhre"
+      ],
+      "mr": [
+        "चारही headlines position 1 ला pin करा",
+        "जाहिरात delete करून फक्त sitelinks वापरा",
+        "आणखी वेगळ्या headlines टाका: keywords, benefits, offers, CTAs",
+        "Ad strength सुधारण्यासाठी bid वाढवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Ad strength rewards more, and more distinct, headlines and descriptions relevant to your keywords. Bids don't affect it, and heavy pinning reduces combinations.",
+      "hi": "Ad strength zyada aur alag-alag, keyword-relevant headlines/descriptions ko reward karti hai. Bid ka isse lena-dena nahi, aur zyada pinning combinations kam karti hai.",
+      "mr": "Ad strength जास्त संख्येच्या, वेगवेगळ्या आणि keywords शी relevant headlines/descriptions ना महत्त्व देते. Bid चा त्यावर परिणाम होत नाही, आणि जास्त pinning combinations कमी करते."
+    }
+  },
+  {
+    "id": "ppc-31",
+    "level": 4,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Pune dental clinic gets most bookings by phone, and most searchers are on mobile. Which Google Ads addition helps most?",
+      "hi": "Pune ke ek dental clinic ki zyada bookings phone se aati hain, aur zyada searchers mobile pe hain. Google Ads mein kya add karna sabse helpful hai?",
+      "mr": "पुण्यातील एका dental clinic च्या बहुतेक bookings phone वर येतात आणि बहुतेक searchers mobile वर असतात. Google Ads मध्ये काय जोडणे सर्वात उपयोगी?"
+    },
+    "opts": {
+      "en": [
+        "A price asset listing every treatment",
+        "A YouTube bumper ad campaign",
+        "An App campaign for installs",
+        "A call asset, with calls tracked as conversions"
+      ],
+      "hi": [
+        "Har treatment ki list wala price asset",
+        "YouTube bumper ad campaign",
+        "Installs ke liye App campaign",
+        "Call asset, aur calls ko conversions ki tarah track karo"
+      ],
+      "mr": [
+        "प्रत्येक treatment ची यादी असलेला price asset",
+        "YouTube bumper ad campaign",
+        "Installs साठी App campaign",
+        "Call asset, आणि calls conversions म्हणून track करा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "A call asset adds a tap-to-call button on mobile ads, and tracking calls as conversions lets you see which keywords drive bookings.",
+      "hi": "Call asset mobile ads pe tap-to-call button laga deta hai, aur calls ko conversion track karne se pata chalta hai kaunse keywords bookings la rahe hain.",
+      "mr": "Call asset mobile ads वर tap-to-call button देतो, आणि calls conversions म्हणून track केल्याने कोणते keywords bookings आणतात ते कळते."
+    }
+  },
+  {
+    "id": "ppc-32",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "When auto-tagging is on in Google Ads, what gets added to your landing page URLs?",
+      "hi": "Google Ads mein auto-tagging on ho to landing page URLs mein kya add hota hai?",
+      "mr": "Google Ads मध्ये auto-tagging चालू असल्यास landing page URLs मध्ये काय जोडले जाते?"
+    },
+    "opts": {
+      "en": [
+        "A GCLID (Google Click Identifier) parameter",
+        "The user's email address",
+        "Your Quality Score for that keyword",
+        "A discount coupon code"
+      ],
+      "hi": [
+        "GCLID (Google Click Identifier) parameter",
+        "User ka email address",
+        "Us keyword ka Quality Score",
+        "Discount coupon code"
+      ],
+      "mr": [
+        "GCLID (Google Click Identifier) parameter",
+        "User चा email address",
+        "त्या keyword चा Quality Score",
+        "Discount coupon code"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Auto-tagging appends a unique GCLID to each ad click URL. It links clicks to conversions and GA4 data, and is used for offline conversion imports.",
+      "hi": "Auto-tagging har ad click URL mein ek unique GCLID jodta hai. Isse clicks conversions aur GA4 data se link hote hain, aur offline conversion import mein kaam aata hai.",
+      "mr": "Auto-tagging प्रत्येक ad click URL ला एक unique GCLID जोडते. त्यामुळे clicks conversions व GA4 data शी जोडले जातात आणि offline conversion import साठीही ते वापरले जाते."
+    }
+  },
+  {
+    "id": "ppc-33",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does the Target CPA bid strategy aim to do?",
+      "hi": "Target CPA bid strategy ka aim kya hai?",
+      "mr": "Target CPA bid strategy चे उद्दिष्ट काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Get the most clicks for a fixed cost per click",
+        "Get as many conversions as possible at your target average CPA",
+        "Guarantee every conversion costs less than the target",
+        "Show ads only when CPC is below the target"
+      ],
+      "hi": [
+        "Fixed CPC pe maximum clicks lana",
+        "Aapke target average CPA pe jitne ho sake utne conversions lana",
+        "Guarantee karna ki har conversion target se sasta ho",
+        "Ads tabhi dikhana jab CPC target se kam ho"
+      ],
+      "mr": [
+        "Fixed CPC वर जास्तीत जास्त clicks आणणे",
+        "तुमच्या target average CPA वर शक्य तितके conversions आणणे",
+        "प्रत्येक conversion target पेक्षा स्वस्त असेल याची खात्री",
+        "CPC target पेक्षा कमी असेल तेव्हाच जाहिराती दाखवणे"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Target CPA sets bids to get as many conversions as possible at the average cost per action you set. Some conversions will cost more and some less; it's an average, not a cap.",
+      "hi": "Target CPA bids aise set karta hai ki aapke diye average CPA pe max conversions milein. Kuch conversions mehenge, kuch saste honge; yeh average hai, cap nahi.",
+      "mr": "Target CPA तुम्ही दिलेल्या सरासरी CPA वर जास्तीत जास्त conversions मिळावेत अशा bids ठरवतो. काही conversions महाग, काही स्वस्त असतील; ही सरासरी आहे, मर्यादा नाही."
+    }
+  },
+  {
+    "id": "ppc-34",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What best describes a Performance Max campaign?",
+      "hi": "Performance Max campaign ko sabse sahi kaise describe karenge?",
+      "mr": "Performance Max campaign चे सर्वात योग्य वर्णन कोणते?"
+    },
+    "opts": {
+      "en": [
+        "A Search campaign that allows only exact match",
+        "A manual CPC campaign for Display banners only",
+        "One goal-based campaign across Google inventory like Search, YouTube, Display, Maps",
+        "A free campaign type for Google Business Profile"
+      ],
+      "hi": [
+        "Search campaign jismein sirf exact match allowed",
+        "Sirf Display banners ke liye manual CPC campaign",
+        "Ek goal-based campaign jo Search, YouTube, Display, Maps jaisi Google inventory pe chalta hai",
+        "Google Business Profile ka free campaign type"
+      ],
+      "mr": [
+        "फक्त exact match चालणारी Search campaign",
+        "फक्त Display banners साठी manual CPC campaign",
+        "Search, YouTube, Display, Maps सारख्या Google inventory वर चालणारी एकच goal-based campaign",
+        "Google Business Profile साठी free campaign type"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Performance Max uses one campaign, your assets and your conversion goals to serve across Google's channels (Search, YouTube, Display, Discover, Gmail, Maps) with automated bidding.",
+      "hi": "Performance Max ek hi campaign, aapke assets aur conversion goals use karke Google ke channels (Search, YouTube, Display, Discover, Gmail, Maps) pe automated bidding ke saath chalta hai.",
+      "mr": "Performance Max एकच campaign, तुमचे assets आणि conversion goals वापरून Google च्या channels वर (Search, YouTube, Display, Discover, Gmail, Maps) automated bidding सह चालते."
+    }
+  },
+  {
+    "id": "ppc-35",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Google Ads Demand Gen campaigns (rolled out 2023-24) replaced which older campaign type?",
+      "hi": "Google Ads ke Demand Gen campaigns (2023-24 mein aaye) ne kaunse purane campaign type ko replace kiya?",
+      "mr": "Google Ads च्या Demand Gen campaigns (2023-24 मध्ये आलेल्या) ने कोणत्या जुन्या campaign type ची जागा घेतली?"
+    },
+    "opts": {
+      "en": [
+        "Smart Shopping campaigns",
+        "Local campaigns",
+        "Expanded text ads",
+        "Discovery campaigns"
+      ],
+      "hi": [
+        "Smart Shopping campaigns",
+        "Local campaigns",
+        "Expanded text ads",
+        "Discovery campaigns"
+      ],
+      "mr": [
+        "Smart Shopping campaigns",
+        "Local campaigns",
+        "Expanded text ads",
+        "Discovery campaigns"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Demand Gen replaced Discovery campaigns, serving visual ads on YouTube (including Shorts), Discover and Gmail. Smart Shopping and Local campaigns were upgraded to Performance Max instead.",
+      "hi": "Demand Gen ne Discovery campaigns ko replace kiya, jo YouTube (Shorts bhi), Discover aur Gmail pe visual ads chalata hai. Smart Shopping aur Local campaigns Performance Max mein upgrade hue the.",
+      "mr": "Demand Gen ने Discovery campaigns ची जागा घेतली; ते YouTube (Shorts सह), Discover आणि Gmail वर visual ads चालवते. Smart Shopping आणि Local campaigns मात्र Performance Max मध्ये upgrade झाल्या."
+    }
+  },
+  {
+    "id": "ppc-36",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Google Ads, what is the difference between primary and secondary conversion actions?",
+      "hi": "Google Ads mein primary aur secondary conversion actions mein kya farak hai?",
+      "mr": "Google Ads मध्ये primary आणि secondary conversion actions मध्ये काय फरक आहे?"
+    },
+    "opts": {
+      "en": [
+        "Primary actions are used for bidding; secondary are for observation only",
+        "Primary actions are paid; secondary actions are free",
+        "Secondary actions count double in the Conversions column",
+        "Primary is for mobile; secondary is for desktop"
+      ],
+      "hi": [
+        "Primary actions bidding ke liye use hote hain; secondary sirf observation ke liye",
+        "Primary paid hote hain; secondary free",
+        "Secondary actions Conversions column mein double count hote hain",
+        "Primary mobile ke liye; secondary desktop ke liye"
+      ],
+      "mr": [
+        "Primary actions bidding साठी वापरतात; secondary फक्त निरीक्षणासाठी",
+        "Primary पैसे देऊन; secondary मोफत",
+        "Secondary actions Conversions column मध्ये दुप्पट मोजले जातात",
+        "Primary mobile साठी; secondary desktop साठी"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Primary conversion actions appear in the 'Conversions' column and drive Smart Bidding. Secondary actions show in 'All conversions' for reporting but don't steer bids.",
+      "hi": "Primary conversion actions 'Conversions' column mein aate hain aur Smart Bidding ko chalate hain. Secondary 'All conversions' mein reporting ke liye dikhte hain, bids pe asar nahi.",
+      "mr": "Primary conversion actions 'Conversions' column मध्ये दिसतात आणि Smart Bidding चालवतात. Secondary actions 'All conversions' मध्ये reporting साठी दिसतात, bids वर परिणाम करत नाहीत."
+    }
+  },
+  {
+    "id": "ppc-37",
+    "level": 5,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Surat saree D2C brand has a 25% profit margin on each order (after product and delivery costs). Roughly what ROAS does it need just to break even on ad spend?",
+      "hi": "Surat ke ek saree D2C brand ka har order pe 25% profit margin hai (product aur delivery cost ke baad). Ad spend pe break even ke liye roughly kitna ROAS chahiye?",
+      "mr": "सुरतच्या एका saree D2C brand चे प्रत्येक order वर 25% profit margin आहे (product आणि delivery खर्चानंतर). Ad spend वर break even साठी साधारण किती ROAS लागेल?"
+    },
+    "opts": {
+      "en": [
+        "1.25x (125%)",
+        "4x (400%)",
+        "2x (200%)",
+        "25x (2500%)"
+      ],
+      "hi": [
+        "1.25x (125%)",
+        "4x (400%)",
+        "2x (200%)",
+        "25x (2500%)"
+      ],
+      "mr": [
+        "1.25x (125%)",
+        "4x (400%)",
+        "2x (200%)",
+        "25x (2500%)"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Break-even ROAS = 1 ÷ margin = 1 ÷ 0.25 = 4x. Each ₹1 of ads must bring ₹4 of revenue, whose 25% margin (₹1) just covers the ad cost.",
+      "hi": "Break-even ROAS = 1 ÷ margin = 1 ÷ 0.25 = 4x. Har ₹1 ke ad pe ₹4 revenue chahiye, jiska 25% margin (₹1) ad cost cover karta hai.",
+      "mr": "Break-even ROAS = 1 ÷ margin = 1 ÷ 0.25 = 4x. प्रत्येक ₹1 जाहिरातीवर ₹4 revenue हवा, ज्याचा 25% margin (₹1) जाहिरातीचा खर्च भरून काढतो."
+    }
+  },
+  {
+    "id": "ppc-38",
+    "level": 5,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A new Google Ads account for a Mumbai interior designer has no conversion tracking yet. The owner wants to use Target CPA right away. What should you do first?",
+      "hi": "Mumbai ke ek interior designer ka naya Google Ads account hai, conversion tracking abhi nahi hai. Owner turant Target CPA use karna chahta hai. Pehle kya karoge?",
+      "mr": "मुंबईच्या एका interior designer चे नवे Google Ads account आहे, conversion tracking अजून नाही. Owner ला लगेच Target CPA वापरायचा आहे. आधी काय कराल?"
+    },
+    "opts": {
+      "en": [
+        "Set Target CPA very low to save money",
+        "Switch to Display Network for cheaper clicks",
+        "Set up conversion tracking for leads and calls",
+        "Increase the budget so Google learns faster"
+      ],
+      "hi": [
+        "Paisa bachane ke liye Target CPA bahut kam rakho",
+        "Saste clicks ke liye Display Network pe jao",
+        "Leads aur calls ke liye conversion tracking setup karo",
+        "Budget badhao taaki Google jaldi seekhe"
+      ],
+      "mr": [
+        "पैसे वाचवण्यासाठी Target CPA खूप कमी ठेवा",
+        "स्वस्त clicks साठी Display Network वर जा",
+        "Leads आणि calls साठी conversion tracking सेट करा",
+        "Google लवकर शिकावे म्हणून budget वाढवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Conversion-based Smart Bidding needs conversion data to optimize. Without tracking, Target CPA has nothing to learn from, so tracking comes first.",
+      "hi": "Conversion-based Smart Bidding ko optimize karne ke liye conversion data chahiye. Tracking ke bina Target CPA ke paas seekhne ko kuch nahi, isliye pehle tracking.",
+      "mr": "Conversion-based Smart Bidding ला optimize करण्यासाठी conversion data लागतो. Tracking शिवाय Target CPA ला शिकण्यासाठी काहीच नसते, म्हणून आधी tracking."
+    }
+  },
+  {
+    "id": "ppc-39",
+    "level": 5,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Jaipur jewellery store's Shopping products are disapproved in Merchant Center for 'price mismatch'. What's the right fix?",
+      "hi": "Jaipur ke ek jewellery store ke Shopping products Merchant Center mein 'price mismatch' ki wajah se disapproved hain. Sahi fix kya hai?",
+      "mr": "जयपूरच्या एका jewellery store चे Shopping products Merchant Center मध्ये 'price mismatch' मुळे disapproved आहेत. योग्य उपाय कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Raise the Shopping campaign's bids",
+        "Remove prices from the landing pages",
+        "Create a new Merchant Center account",
+        "Make feed prices match the landing page prices"
+      ],
+      "hi": [
+        "Shopping campaign ki bids badhao",
+        "Landing pages se prices hata do",
+        "Naya Merchant Center account banao",
+        "Feed ki prices ko landing page ki prices se match karo"
+      ],
+      "mr": [
+        "Shopping campaign च्या bids वाढवा",
+        "Landing pages वरून किंमती काढून टाका",
+        "नवे Merchant Center account बनवा",
+        "Feed मधील किंमती landing page वरील किंमतींशी जुळवा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Merchant Center requires the feed price to match the price shown on the landing page. Update the feed (or its sync) so they match; bids or new accounts won't fix it.",
+      "hi": "Merchant Center chahta hai ki feed price landing page ki price se match kare. Feed (ya uska sync) update karo; bids ya naya account se yeh fix nahi hoga.",
+      "mr": "Merchant Center नुसार feed मधील किंमत landing page वरील किंमतीशी जुळली पाहिजे. Feed (किंवा त्याचे sync) update करा; bids किंवा नव्या account ने हे सुटणार नाही."
+    }
+  },
+  {
+    "id": "ppc-40",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What are RLSA (Remarketing Lists for Search Ads) used for?",
+      "hi": "RLSA (Remarketing Lists for Search Ads) kis kaam aate hain?",
+      "mr": "RLSA (Remarketing Lists for Search Ads) कशासाठी वापरतात?"
+    },
+    "opts": {
+      "en": [
+        "Tailoring search bids and ads for people who visited your site before",
+        "Showing banner ads on news websites",
+        "Finding new keywords from competitor sites",
+        "Sending SMS to people who searched your brand"
+      ],
+      "hi": [
+        "Pehle site visit kar chuke logon ke liye search bids aur ads customize karna",
+        "News websites pe banner ads dikhana",
+        "Competitor sites se naye keywords dhoondhna",
+        "Brand search karne walon ko SMS bhejna"
+      ],
+      "mr": [
+        "आधी site ला भेट दिलेल्या लोकांसाठी search bids आणि ads बदलणे",
+        "News websites वर banner ads दाखवणे",
+        "स्पर्धकांच्या sites मधून नवे keywords शोधणे",
+        "Brand शोधणाऱ्यांना SMS पाठवणे"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "RLSA lets you adjust bids, keywords or ads in Search campaigns when past visitors search again, since they are usually more likely to convert.",
+      "hi": "RLSA se aap Search campaigns mein bids, keywords ya ads adjust kar sakte ho jab purane visitors dobara search karein, kyunki woh zyada convert karte hain.",
+      "mr": "RLSA मुळे जुने visitors पुन्हा search करतात तेव्हा Search campaigns मध्ये bids, keywords किंवा ads बदलता येतात, कारण ते convert होण्याची शक्यता जास्त असते."
+    }
+  },
+  {
+    "id": "ppc-41",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which of these is NOT a factor Google uses to calculate Ad Rank?",
+      "hi": "Inmein se kaunsa factor Google Ad Rank calculate karne mein use NAHI karta?",
+      "mr": "यापैकी कोणता घटक Google Ad Rank काढण्यासाठी वापरत नाही?"
+    },
+    "opts": {
+      "en": [
+        "Your bid",
+        "Your total monthly account spend",
+        "Quality of your ads and landing page",
+        "The context of the search (device, location, time)"
+      ],
+      "hi": [
+        "Aapki bid",
+        "Aapka total monthly account spend",
+        "Ads aur landing page ki quality",
+        "Search ka context (device, location, time)"
+      ],
+      "mr": [
+        "तुमची bid",
+        "तुमचा एकूण monthly account spend",
+        "जाहिराती आणि landing page ची quality",
+        "Search चा context (device, location, वेळ)"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Ad Rank uses your bid, ad and landing page quality, Ad Rank thresholds, search context and expected impact of assets. How much you spend overall doesn't buy a better rank.",
+      "hi": "Ad Rank bid, ad aur landing page quality, Ad Rank thresholds, search context aur assets ke expected impact pe based hai. Total kitna kharch karte ho, usse rank nahi milti.",
+      "mr": "Ad Rank तुमची bid, जाहिरात व landing page quality, Ad Rank thresholds, search context आणि assets चा अपेक्षित परिणाम यावर ठरतो. एकूण किती खर्च करता त्याने rank मिळत नाही."
+    }
+  },
+  {
+    "id": "ppc-42",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "You add 'job' as a negative keyword. Why might ads still show for 'jobs' searches?",
+      "hi": "Aapne 'job' negative keyword add kiya. Phir bhi 'jobs' searches pe ads kyun aa sakte hain?",
+      "mr": "तुम्ही 'job' negative keyword म्हणून टाकला. तरीही 'jobs' searches वर जाहिराती का येऊ शकतात?"
+    },
+    "opts": {
+      "en": [
+        "Negative keywords only work on Display",
+        "Negatives take 30 days to activate",
+        "Negative keywords don't match close variants like plurals",
+        "Google ignores negatives when budget is high"
+      ],
+      "hi": [
+        "Negative keywords sirf Display pe chalte hain",
+        "Negatives activate hone mein 30 din lagte hain",
+        "Negative keywords plurals jaise close variants match nahi karte",
+        "Budget zyada ho to Google negatives ignore karta hai"
+      ],
+      "mr": [
+        "Negative keywords फक्त Display वर चालतात",
+        "Negatives चालू व्हायला 30 दिवस लागतात",
+        "Negative keywords plurals सारखे close variants match करत नाहीत",
+        "Budget जास्त असल्यास Google negatives दुर्लक्षित करते"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Unlike normal keywords, negatives don't expand to close variants such as plurals or misspellings, so you must add 'jobs' separately.",
+      "hi": "Normal keywords ke ulat, negatives plurals ya misspellings jaise close variants tak expand nahi hote, isliye 'jobs' alag se add karna padega.",
+      "mr": "सामान्य keywords प्रमाणे negatives plurals किंवा misspellings सारख्या close variants पर्यंत पसरत नाहीत, म्हणून 'jobs' वेगळा टाकावा लागतो."
+    }
+  },
+  {
+    "id": "ppc-43",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a portfolio bid strategy in Google Ads?",
+      "hi": "Google Ads mein portfolio bid strategy kya hai?",
+      "mr": "Google Ads मध्ये portfolio bid strategy म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "A report comparing bids against competitors",
+        "A list of keywords saved for future use",
+        "A strategy that bids only on brand keywords",
+        "One automated bid strategy shared across multiple campaigns"
+      ],
+      "hi": [
+        "Competitors ke saath bids compare karne wali report",
+        "Future ke liye save kiye keywords ki list",
+        "Sirf brand keywords pe bid karne wali strategy",
+        "Ek automated bid strategy jo kai campaigns mein share hoti hai"
+      ],
+      "mr": [
+        "स्पर्धकांशी bids ची तुलना करणारा report",
+        "भविष्यासाठी save केलेली keywords ची यादी",
+        "फक्त brand keywords वर bid करणारी strategy",
+        "अनेक campaigns मध्ये share होणारी एक automated bid strategy"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "A portfolio bid strategy groups several campaigns under one automated strategy (e.g. a shared Target CPA), letting Google balance bids across them to hit the overall goal.",
+      "hi": "Portfolio bid strategy kai campaigns ko ek automated strategy (jaise shared Target CPA) mein group karti hai, taaki Google overall goal ke liye unke beech bids balance kare.",
+      "mr": "Portfolio bid strategy अनेक campaigns एका automated strategy (उदा. shared Target CPA) खाली आणते, जेणेकरून Google एकूण goal साठी त्यांच्यात bids balance करते."
+    }
+  },
+  {
+    "id": "ppc-44",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Pune real-estate developer gets cheap form leads on Maximize conversions, but the sales team says most are junk. Best next step?",
+      "hi": "Pune ke ek real-estate developer ko Maximize conversions pe saste form leads milte hain, par sales team kehti hai zyada junk hain. Best next step?",
+      "mr": "पुण्यातील एका real-estate developer ला Maximize conversions वर स्वस्त form leads मिळतात, पण sales team म्हणते बहुतेक junk आहेत. पुढची सर्वोत्तम पायरी?"
+    },
+    "opts": {
+      "en": [
+        "Import qualified leads/site visits from the CRM (via GCLID) and optimize to them",
+        "Switch to Maximize clicks to get more traffic",
+        "Remove the form and ask users to email instead",
+        "Cut the budget by half and wait"
+      ],
+      "hi": [
+        "CRM se qualified leads/site visits (GCLID ke through) import karke unpe optimize karo",
+        "Zyada traffic ke liye Maximize clicks pe switch karo",
+        "Form hata ke users ko email karne bolo",
+        "Budget aadha karke wait karo"
+      ],
+      "mr": [
+        "CRM मधून qualified leads/site visits (GCLID द्वारे) import करून त्यावर optimize करा",
+        "जास्त traffic साठी Maximize clicks वर जा",
+        "Form काढून users ना email करायला सांगा",
+        "Budget अर्धे करून वाट पाहा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Bidding optimizes for whatever you call a conversion. Importing offline, qualified outcomes teaches Smart Bidding to find buyers, not just form-fillers.",
+      "hi": "Bidding usi cheez pe optimize karti hai jise aap conversion bolte ho. Offline qualified outcomes import karne se Smart Bidding buyers dhoondhna seekhti hai, sirf form bharne wale nahi.",
+      "mr": "तुम्ही ज्याला conversion म्हणता त्यावरच bidding optimize होते. Offline qualified outcomes import केल्याने Smart Bidding फक्त form भरणारे नव्हे तर खरे buyers शोधायला शिकते."
+    }
+  },
+  {
+    "id": "ppc-45",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "An online gift store set Target ROAS to 800% while it usually achieves around 350%. Now the campaign barely spends. Most likely reason and fix?",
+      "hi": "Ek online gift store ne Target ROAS 800% set kiya jabki usually 350% ke aas-paas aata hai. Ab campaign mushkil se spend karta hai. Sabse likely reason aur fix?",
+      "mr": "एका online gift store ने Target ROAS 800% ठेवला, पण सहसा तो सुमारे 350% मिळवतो. आता campaign जवळजवळ खर्चच करत नाही. संभाव्य कारण आणि उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Budget too high; reduce the budget",
+        "Target is unrealistic and limits bids; lower it closer to actual",
+        "Ads are disapproved; rewrite all ads",
+        "Quality Score is 10; add worse keywords"
+      ],
+      "hi": [
+        "Budget zyada hai; budget kam karo",
+        "Target unrealistic hai aur bids limit kar raha hai; actual ke paas laao",
+        "Ads disapproved hain; saare ads dobara likho",
+        "Quality Score 10 hai; kharab keywords add karo"
+      ],
+      "mr": [
+        "Budget जास्त आहे; budget कमी करा",
+        "Target अवास्तव असून bids मर्यादित करतो; तो प्रत्यक्ष ROAS जवळ आणा",
+        "Ads disapproved आहेत; सगळ्या ads पुन्हा लिहा",
+        "Quality Score 10 आहे; वाईट keywords टाका"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "A Target ROAS far above what you achieve makes Smart Bidding bid very conservatively, so volume collapses. Set it near historical ROAS and adjust gradually.",
+      "hi": "Actual se bahut upar Target ROAS rakhne se Smart Bidding bahut kam bid karti hai, isliye volume gir jaata hai. Historical ROAS ke paas rakho aur dheere-dheere adjust karo.",
+      "mr": "प्रत्यक्षापेक्षा खूप जास्त Target ROAS ठेवल्यास Smart Bidding खूप कमी bids लावते, त्यामुळे volume कोसळतो. तो historical ROAS जवळ ठेवा आणि हळूहळू बदला."
+    }
+  },
+  {
+    "id": "ppc-46",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "An electronics store runs a 3-day Diwali flash sale and expects conversion rates to jump sharply. It uses Smart Bidding. What should it set up?",
+      "hi": "Ek electronics store 3-din ki Diwali flash sale chala raha hai aur conversion rate mein bada jump expect karta hai. Smart Bidding use hoti hai. Kya setup kare?",
+      "mr": "एक electronics store 3 दिवसांचा Diwali flash sale चालवत आहे आणि conversion rate मध्ये मोठी वाढ अपेक्षित आहे. Smart Bidding वापरात आहे. काय सेट करावे?"
+    },
+    "opts": {
+      "en": [
+        "A data exclusion for the sale days",
+        "A new account just for the sale",
+        "A seasonality adjustment for the sale dates",
+        "A switch to Manual CPC for one month"
+      ],
+      "hi": [
+        "Sale ke dinon ke liye data exclusion",
+        "Sirf sale ke liye naya account",
+        "Sale ki dates ke liye seasonality adjustment",
+        "Ek mahine ke liye Manual CPC pe switch"
+      ],
+      "mr": [
+        "Sale च्या दिवसांसाठी data exclusion",
+        "फक्त sale साठी नवे account",
+        "Sale च्या तारखांसाठी seasonality adjustment",
+        "एक महिन्यासाठी Manual CPC वर switch"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Seasonality adjustments tell Smart Bidding to expect a short-term conversion-rate change (best for a few days). Data exclusions are for broken tracking, not sales.",
+      "hi": "Seasonality adjustments Smart Bidding ko batate hain ki thode din conversion rate badlega (short events ke liye best). Data exclusions tracking kharab hone ke liye hain, sale ke liye nahi.",
+      "mr": "Seasonality adjustments Smart Bidding ला अल्पकाळ conversion rate बदलणार आहे हे सांगतात (काही दिवसांच्या events साठी उत्तम). Data exclusions हे tracking बिघडल्यावर वापरतात, sale साठी नाही."
+    }
+  },
+  {
+    "id": "ppc-47",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Bengaluru shoe brand finds a competitor's ads appearing when people search its brand name. What's the most practical response?",
+      "hi": "Bengaluru ke ek shoe brand ne dekha ki uske brand name search karne pe competitor ke ads aate hain. Sabse practical response kya hai?",
+      "mr": "बेंगळुरूच्या एका shoe brand ला दिसले की त्याचे brand name शोधल्यावर स्पर्धकाच्या जाहिराती येतात. सर्वात व्यावहारिक प्रतिसाद कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Ask Google to ban the competitor's account",
+        "Stop all ads until the competitor stops",
+        "Bid on the competitor's brand in your ad text",
+        "Run your own brand campaign; report only trademark misuse in ad text"
+      ],
+      "hi": [
+        "Google se competitor ka account ban karwao",
+        "Competitor ruke tab tak saare ads band karo",
+        "Apne ad text mein competitor ka brand use karo",
+        "Apna brand campaign chalao; ad text mein trademark misuse ho to hi report karo"
+      ],
+      "mr": [
+        "Google कडून स्पर्धकाचे account ban करून घ्या",
+        "स्पर्धक थांबेपर्यंत सगळ्या जाहिराती बंद करा",
+        "तुमच्या ad text मध्ये स्पर्धकाचा brand वापरा",
+        "स्वतःची brand campaign चालवा; ad text मध्ये trademark misuse असल्यासच report करा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "In most regions Google allows bidding on others' brand terms as keywords; its trademark policy mainly covers use in ad text. Your own brand ads are usually cheap and highly relevant.",
+      "hi": "Zyadatar regions mein Google dusre ke brand terms pe keyword bidding allow karta hai; trademark policy mainly ad text ke use ko cover karti hai. Apne brand ads usually saste aur bahut relevant hote hain.",
+      "mr": "बहुतेक regions मध्ये Google दुसऱ्याच्या brand terms वर keyword bidding करू देते; trademark policy मुख्यतः ad text मधील वापराला लागू होते. स्वतःच्या brand ads सहसा स्वस्त व अत्यंत relevant असतात."
+    }
+  },
+  {
+    "id": "ppc-48",
+    "level": 7,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "A Search campaign and a Performance Max campaign in the same account could both serve for a query. When does the Search campaign get priority?",
+      "hi": "Same account mein Search aur Performance Max dono campaign ek query pe serve ho sakte hain. Search campaign ko priority kab milti hai?",
+      "mr": "एकाच account मधील Search आणि Performance Max दोन्ही campaigns एका query वर serve होऊ शकतात. Search campaign ला priority कधी मिळते?"
+    },
+    "opts": {
+      "en": [
+        "When a Search keyword is identical to the user's query",
+        "Always, because Search is older",
+        "Only when the Search budget is higher",
+        "Never; Performance Max always wins"
+      ],
+      "hi": [
+        "Jab Search ka koi keyword user ki query se bilkul identical ho",
+        "Hamesha, kyunki Search purana hai",
+        "Sirf jab Search ka budget zyada ho",
+        "Kabhi nahi; Performance Max hamesha jeet-ta hai"
+      ],
+      "mr": [
+        "Search मधील keyword user च्या query शी अगदी identical असेल तेव्हा",
+        "नेहमी, कारण Search जुने आहे",
+        "फक्त Search चे budget जास्त असेल तेव्हा",
+        "कधीच नाही; Performance Max नेहमी जिंकते"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Google prioritizes a Search campaign when the user's query is identical to one of its keywords. Otherwise the campaign with the higher Ad Rank serves, which may be Performance Max.",
+      "hi": "Jab user ki query Search campaign ke kisi keyword se identical ho, Google Search ko priority deta hai. Warna jiska Ad Rank zyada, woh serve hota hai, jo PMax bhi ho sakta hai.",
+      "mr": "User ची query Search campaign मधील keyword शी identical असल्यास Google Search ला priority देते. अन्यथा ज्याचा Ad Rank जास्त ती campaign serve होते, ती Performance Max असू शकते."
+    }
+  },
+  {
+    "id": "ppc-49",
+    "level": 7,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Your website's conversion tag broke for 4 days, so Google Ads recorded almost no conversions. Which tool stops Smart Bidding learning from that bad data?",
+      "hi": "Website ka conversion tag 4 din tak toota raha, isliye Google Ads ne almost zero conversions record kiye. Kaunsa tool Smart Bidding ko us kharab data se seekhne se rokta hai?",
+      "mr": "Website चा conversion tag 4 दिवस बिघडला होता, त्यामुळे Google Ads ने जवळपास शून्य conversions नोंदवले. कोणते tool Smart Bidding ला त्या चुकीच्या data वरून शिकण्यापासून थांबवते?"
+    },
+    "opts": {
+      "en": [
+        "Seasonality adjustment",
+        "Data exclusion",
+        "Ad schedule",
+        "Negative keyword list"
+      ],
+      "hi": [
+        "Seasonality adjustment",
+        "Data exclusion",
+        "Ad schedule",
+        "Negative keyword list"
+      ],
+      "mr": [
+        "Seasonality adjustment",
+        "Data exclusion",
+        "Ad schedule",
+        "Negative keyword list"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "A data exclusion tells Smart Bidding to ignore conversion data from dates with tracking problems. Seasonality adjustments are for expected real changes like sales.",
+      "hi": "Data exclusion Smart Bidding ko tracking problem wali dates ka conversion data ignore karne ko bolta hai. Seasonality adjustments sale jaise asli expected changes ke liye hain.",
+      "mr": "Data exclusion Smart Bidding ला tracking अडचणी असलेल्या तारखांचा conversion data दुर्लक्षित करायला सांगते. Seasonality adjustments हे sale सारख्या खऱ्या अपेक्षित बदलांसाठी असतात."
+    }
+  },
+  {
+    "id": "ppc-50",
+    "level": 7,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Google Ads Auction insights, what does 'Overlap rate' show?",
+      "hi": "Google Ads Auction insights mein 'Overlap rate' kya dikhata hai?",
+      "mr": "Google Ads Auction insights मध्ये 'Overlap rate' काय दाखवतो?"
+    },
+    "opts": {
+      "en": [
+        "How often your ads overlap on the same web page",
+        "How many keywords you share with a competitor",
+        "How often a competitor's ad showed when yours also showed",
+        "How much of your budget a competitor used"
+      ],
+      "hi": [
+        "Kitni baar aapke ads ek hi web page pe overlap hue",
+        "Competitor ke saath kitne keywords share hain",
+        "Kitni baar competitor ka ad bhi dikha jab aapka dikha",
+        "Competitor ne aapka kitna budget use kiya"
+      ],
+      "mr": [
+        "तुमच्या जाहिराती एकाच web page वर किती वेळा overlap झाल्या",
+        "स्पर्धकाशी किती keywords share आहेत",
+        "तुमची जाहिरात दिसली तेव्हा स्पर्धकाची जाहिरातही किती वेळा दिसली",
+        "स्पर्धकाने तुमचे किती budget वापरले"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Overlap rate is how often another advertiser's ad got an impression in the same auctions where yours did. It shows who you compete with most, not their keyword list.",
+      "hi": "Overlap rate batata hai kitni baar dusre advertiser ka ad usi auction mein dikha jismein aapka dikha. Isse pata chalta hai sabse zyada competition kisse hai, unki keyword list nahi.",
+      "mr": "Overlap rate म्हणजे तुमची जाहिरात दिसलेल्या auctions मध्ये दुसऱ्या advertiser ची जाहिरातही किती वेळा दिसली. सर्वाधिक स्पर्धा कोणाशी आहे हे कळते, त्यांची keyword list नाही."
+    }
+  },
+  {
+    "id": "ppc-51",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Pune coaching institute's CPC rose 40% in a month. CTR, Quality Score and ads are unchanged, and Auction insights show a new competitor with rising overlap and outranking share. Best interpretation?",
+      "hi": "Pune ke ek coaching institute ka CPC ek mahine mein 40% badh gaya. CTR, Quality Score aur ads same hain, aur Auction insights mein ek naya competitor rising overlap aur outranking share ke saath dikh raha hai. Best interpretation?",
+      "mr": "पुण्यातील एका coaching institute चा CPC एका महिन्यात 40% वाढला. CTR, Quality Score आणि ads तसेच आहेत, आणि Auction insights मध्ये वाढता overlap व outranking share असलेला नवा स्पर्धक दिसतो. सर्वोत्तम अर्थ?"
+    },
+    "opts": {
+      "en": [
+        "Google is penalizing the account; open a new one",
+        "The landing page broke; rebuild the whole website",
+        "Clicks are fake; pause the campaign",
+        "Auction competition rose; review bids vs CPA and sharpen relevance"
+      ],
+      "hi": [
+        "Google account ko penalize kar raha hai; naya account kholo",
+        "Landing page toot gaya; poori website dobara banao",
+        "Clicks fake hain; campaign pause karo",
+        "Auction competition badha; CPA ke hisaab se bids review karo aur relevance sudharo"
+      ],
+      "mr": [
+        "Google account ला दंड करत आहे; नवे account उघडा",
+        "Landing page बिघडले; संपूर्ण website पुन्हा बनवा",
+        "Clicks बनावट आहेत; campaign pause करा",
+        "Auction मधील स्पर्धा वाढली; CPA नुसार bids तपासा आणि relevance सुधारा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "With your own quality metrics stable, a new aggressive bidder in Auction insights explains higher CPCs. Decide bids based on your CPA target and improve ad relevance rather than panic.",
+      "hi": "Aapke quality metrics stable hain, to Auction insights mein naya aggressive bidder hi CPC badhne ki wajah hai. Apne CPA target ke hisaab se bids decide karo aur relevance sudharo, panic mat karo.",
+      "mr": "तुमचे quality metrics स्थिर असताना Auction insights मधील नवा आक्रमक bidder हेच CPC वाढीचे कारण आहे. CPA target नुसार bids ठरवा आणि relevance सुधारा, घाबरू नका."
+    }
+  },
+  {
+    "id": "ppc-52",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "After a website redesign, a Kolkata furniture store's Google Ads conversions dropped to almost zero overnight, while clicks and GA4 sessions look normal. What should you check first?",
+      "hi": "Website redesign ke baad Kolkata ke ek furniture store ke Google Ads conversions raaton-raat almost zero ho gaye, jabki clicks aur GA4 sessions normal hain. Pehle kya check karoge?",
+      "mr": "Website redesign नंतर कोलकात्याच्या एका furniture store चे Google Ads conversions रातोरात जवळपास शून्य झाले, पण clicks आणि GA4 sessions सामान्य आहेत. आधी काय तपासाल?"
+    },
+    "opts": {
+      "en": [
+        "Whether the conversion tag still fires on the new site",
+        "Whether competitors have raised their bids",
+        "Whether the ad copy needs new headlines",
+        "Whether the daily budget should be doubled"
+      ],
+      "hi": [
+        "Kya conversion tag nayi site pe abhi bhi fire ho raha hai",
+        "Kya competitors ne bids badha di",
+        "Kya ad copy ko nayi headlines chahiye",
+        "Kya daily budget double karna chahiye"
+      ],
+      "mr": [
+        "Conversion tag नव्या site वर अजूनही fire होतो का",
+        "स्पर्धकांनी bids वाढवल्या का",
+        "Ad copy ला नव्या headlines हव्यात का",
+        "Daily budget दुप्पट करावे का"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Normal traffic but vanished conversions right after a site change almost always means the tag was removed or broken. Check tag diagnostics or Tag Assistant first.",
+      "hi": "Traffic normal par site change ke turant baad conversions gaayab, yeh almost hamesha tag hatne ya tootne ka sign hai. Pehle tag diagnostics ya Tag Assistant check karo.",
+      "mr": "Traffic सामान्य पण site बदलानंतर लगेच conversions गायब, याचा अर्थ जवळपास नेहमीच tag काढला गेला किंवा बिघडला. आधी tag diagnostics किंवा Tag Assistant तपासा."
+    }
+  },
+  {
+    "id": "ppc-53",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Pune bakery's Display campaign gets lots of cheap clicks but zero orders. The placements report shows most clicks come from mobile game apps. Best action?",
+      "hi": "Pune ki ek bakery ke Display campaign ko bahut saste clicks milte hain par orders zero. Placements report dikhati hai zyada clicks mobile game apps se aa rahe hain. Best action?",
+      "mr": "पुण्यातील एका bakery च्या Display campaign ला खूप स्वस्त clicks मिळतात पण orders शून्य. Placements report दाखवतो की बहुतेक clicks mobile game apps मधून येतात. सर्वोत्तम कृती?"
+    },
+    "opts": {
+      "en": [
+        "Raise bids to win better placements automatically",
+        "Exclude the low-quality app placements",
+        "Switch the campaign to Maximize clicks",
+        "Add more images so game users convert"
+      ],
+      "hi": [
+        "Bids badhao taaki automatically better placements milein",
+        "Low-quality app placements ko exclude karo",
+        "Campaign ko Maximize clicks pe switch karo",
+        "Aur images add karo taaki game users convert hon"
+      ],
+      "mr": [
+        "आपोआप चांगले placements मिळावेत म्हणून bids वाढवा",
+        "कमी quality चे app placements exclude करा",
+        "Campaign Maximize clicks वर switch करा",
+        "Game users convert व्हावेत म्हणून आणखी images टाका"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Clicks inside games are often accidental taps. Excluding those placements stops the waste; chasing clicks would make it worse.",
+      "hi": "Games ke andar clicks aksar galti se hue taps hote hain. Un placements ko exclude karne se waste rukta hai; clicks ke peeche bhaagne se aur bura hoga.",
+      "mr": "Games मधील clicks बहुतेकदा चुकून झालेले taps असतात. ते placements exclude केल्याने खर्च वाचतो; clicks मागे धावल्यास स्थिती आणखी बिघडेल."
+    }
+  },
+  {
+    "id": "ppc-54",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "An insurance agent runs broad match keywords with Manual CPC and no conversion tracking. Spend is high on irrelevant searches. What's the best fix?",
+      "hi": "Ek insurance agent broad match keywords Manual CPC pe chala raha hai, conversion tracking nahi hai. Irrelevant searches pe kharcha zyada ho raha hai. Best fix kya hai?",
+      "mr": "एक insurance agent Manual CPC वर broad match keywords चालवतो, conversion tracking नाही. Irrelevant searches वर खर्च जास्त होत आहे. सर्वोत्तम उपाय कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Add more broad match keywords to find new buyers",
+        "Turn on search partners for cheaper clicks",
+        "Add tracking; until Smart Bidding has data, use phrase/exact plus negatives",
+        "Raise max CPC so better users see the ads"
+      ],
+      "hi": [
+        "Naye buyers ke liye aur broad match keywords daalo",
+        "Saste clicks ke liye search partners on karo",
+        "Tracking lagao; jab tak Smart Bidding ke paas data na ho, phrase/exact aur negatives use karo",
+        "Max CPC badhao taaki better users ads dekhein"
+      ],
+      "mr": [
+        "नवे buyers शोधण्यासाठी आणखी broad match keywords टाका",
+        "स्वस्त clicks साठी search partners चालू करा",
+        "Tracking लावा; Smart Bidding कडे data येईपर्यंत phrase/exact आणि negatives वापरा",
+        "चांगल्या users ना ads दिसाव्यात म्हणून max CPC वाढवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Google recommends pairing broad match with Smart Bidding, which uses conversion signals to filter queries. Without tracking, tighter match types plus negatives control waste.",
+      "hi": "Google broad match ko Smart Bidding ke saath use karne ki salah deta hai, jo conversion signals se queries filter karti hai. Tracking ke bina tight match types aur negatives se waste control hota hai.",
+      "mr": "Google broad match हे Smart Bidding सोबत वापरायला सांगते, जी conversion signals वापरून queries गाळते. Tracking शिवाय tight match types आणि negatives नेच खर्च नियंत्रणात राहतो."
+    }
+  },
+  {
+    "id": "ppc-55",
+    "level": 8,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "An e-commerce site sends the same fixed value for every purchase, though orders range from ₹300 to ₹30,000. Why is passing the actual order value better?",
+      "hi": "Ek e-commerce site har purchase ke liye same fixed value bhejti hai, jabki orders ₹300 se ₹30,000 tak hote hain. Actual order value bhejna kyun better hai?",
+      "mr": "एक e-commerce site प्रत्येक purchase साठी एकच fixed value पाठवते, पण orders ₹300 ते ₹30,000 पर्यंत असतात. प्रत्यक्ष order value पाठवणे का चांगले?"
+    },
+    "opts": {
+      "en": [
+        "It lowers the CPC on every keyword",
+        "It is required to run Search ads at all",
+        "It stops Google from counting duplicate orders",
+        "It lets value-based bidding (e.g. Target ROAS) favour high-value orders"
+      ],
+      "hi": [
+        "Har keyword ka CPC kam karta hai",
+        "Search ads chalane ke liye zaroori hai",
+        "Google ko duplicate orders count karne se rokta hai",
+        "Value-based bidding (jaise Target ROAS) ko high-value orders prefer karne deta hai"
+      ],
+      "mr": [
+        "प्रत्येक keyword चा CPC कमी करते",
+        "Search ads चालवण्यासाठी आवश्यकच आहे",
+        "Google ला duplicate orders मोजण्यापासून थांबवते",
+        "Value-based bidding (उदा. Target ROAS) ला जास्त value च्या orders ना प्राधान्य देऊ देते"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Dynamic values let Target ROAS or Maximize conversion value bid more for searches likely to bring big orders. Duplicates are handled with transaction IDs, not values.",
+      "hi": "Dynamic values se Target ROAS ya Maximize conversion value un searches pe zyada bid karte hain jahan bade orders ki sambhavna ho. Duplicates transaction IDs se handle hote hain, values se nahi.",
+      "mr": "Dynamic values मुळे Target ROAS किंवा Maximize conversion value मोठे orders येण्याची शक्यता असलेल्या searches वर जास्त bid करतात. Duplicates transaction IDs ने हाताळले जातात, values ने नाही."
+    }
+  },
+  {
+    "id": "ppc-56",
+    "level": 8,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does the 'click-through conversion window' setting control in Google Ads?",
+      "hi": "Google Ads mein 'click-through conversion window' setting kya control karti hai?",
+      "mr": "Google Ads मध्ये 'click-through conversion window' setting काय नियंत्रित करते?"
+    },
+    "opts": {
+      "en": [
+        "How many days after an ad click a conversion is still counted",
+        "How long an ad stays live before it expires",
+        "How many clicks a single user can make per day",
+        "The hours of the day when ads can show"
+      ],
+      "hi": [
+        "Ad click ke kitne din baad tak conversion count hoga",
+        "Ad expire hone se pehle kitne din live rahega",
+        "Ek user roz kitne clicks kar sakta hai",
+        "Din ke kaunse ghante ads dikh sakte hain"
+      ],
+      "mr": [
+        "Ad click नंतर किती दिवसांपर्यंत conversion मोजला जाईल",
+        "जाहिरात expire होण्यापूर्वी किती काळ live राहील",
+        "एक user दररोज किती clicks करू शकतो",
+        "दिवसातील कोणत्या तासांत जाहिराती दिसू शकतात"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "The conversion window (30 days by default for click-through) sets how long after a click a conversion is credited. Long sales cycles may need a longer window; ad hours are set by ad schedule.",
+      "hi": "Conversion window (click-through ke liye default 30 din) batata hai click ke kitne din baad tak conversion credit hoga. Lambi sales cycle ho to lamba window; ad ke ghante ad schedule se set hote hain.",
+      "mr": "Conversion window (click-through साठी default 30 दिवस) click नंतर किती काळ conversion चे श्रेय दिले जाईल हे ठरवते. दीर्घ sales cycle असल्यास मोठा window लागू शकतो; जाहिरातीचे तास ad schedule ने ठरतात."
+    }
+  },
+  {
+    "id": "ppc-57",
+    "level": 8,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "How does Google Ads treat clicks it identifies as invalid (e.g. bots or accidental repeat clicks)?",
+      "hi": "Google Ads un clicks ke saath kya karta hai jinhe woh invalid identify karta hai (jaise bots ya galti se repeat clicks)?",
+      "mr": "Google Ads ज्या clicks ना invalid ओळखते (उदा. bots किंवा चुकून झालेले repeat clicks) त्यांचे काय करते?"
+    },
+    "opts": {
+      "en": [
+        "Charges double to discourage them",
+        "Filters them so you aren't charged, or credits them later",
+        "Blocks your account until you verify each click",
+        "Counts them as conversions automatically"
+      ],
+      "hi": [
+        "Rokne ke liye double charge karta hai",
+        "Unhe filter karta hai taaki charge na ho, ya baad mein credit deta hai",
+        "Har click verify hone tak account block karta hai",
+        "Unhe automatically conversions gin leta hai"
+      ],
+      "mr": [
+        "त्यांना आळा घालण्यासाठी दुप्पट charge करते",
+        "ते filter करते म्हणजे charge लागत नाही, किंवा नंतर credit देते",
+        "प्रत्येक click verify होईपर्यंत account block करते",
+        "त्यांना आपोआप conversions म्हणून मोजते"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Google automatically filters invalid clicks so you aren't charged; if some are caught later, it issues credits. You can see them in the Invalid clicks column.",
+      "hi": "Google invalid clicks ko automatically filter karta hai taaki aapko charge na ho; baad mein pakde gaye to credit deta hai. Invalid clicks column mein dekh sakte ho.",
+      "mr": "Google invalid clicks आपोआप filter करते म्हणजे तुम्हाला charge लागत नाही; नंतर सापडल्यास credit देते. हे Invalid clicks column मध्ये दिसतात."
+    }
+  },
+  {
+    "id": "ppc-58",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A coaching institute's Google Ads show a great cost per lead, but the CRM shows far fewer unique leads. Students often submit the enquiry form 2-3 times. What's the likely setting fix?",
+      "hi": "Ek coaching institute ke Google Ads mein cost per lead bahut accha dikhta hai, par CRM mein unique leads kaafi kam hain. Students aksar enquiry form 2-3 baar bharte hain. Likely setting fix kya hai?",
+      "mr": "एका coaching institute च्या Google Ads मध्ये cost per lead छान दिसतो, पण CRM मध्ये unique leads खूप कमी आहेत. Students अनेकदा enquiry form 2-3 वेळा भरतात. संभाव्य setting fix कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Shorten the conversion window to 1 day",
+        "Switch attribution to last click",
+        "Set the lead conversion's counting to 'One' per click",
+        "Mark the lead conversion as secondary"
+      ],
+      "hi": [
+        "Conversion window 1 din kar do",
+        "Attribution last click pe kar do",
+        "Lead conversion ki counting 'One' per click set karo",
+        "Lead conversion ko secondary mark karo"
+      ],
+      "mr": [
+        "Conversion window 1 दिवसाची करा",
+        "Attribution last click वर करा",
+        "Lead conversion ची counting 'One' per click करा",
+        "Lead conversion secondary म्हणून mark करा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "For leads, counting 'One' records only one conversion per ad click, so repeat form submissions don't inflate numbers. 'Every' suits purchases.",
+      "hi": "Leads ke liye 'One' counting har ad click pe sirf ek conversion record karti hai, isliye baar-baar form bharne se numbers inflate nahi hote. 'Every' purchases ke liye sahi hai.",
+      "mr": "Leads साठी 'One' counting प्रत्येक ad click मागे एकच conversion नोंदवते, त्यामुळे वारंवार form भरल्याने आकडे फुगत नाहीत. 'Every' हे purchases साठी योग्य आहे."
+    }
+  },
+  {
+    "id": "ppc-59",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Goa resort's keyword 'beach villa with private pool Goa' has Quality Score 3, with 'Below average' landing page experience. Ads go to a slow homepage. Best fix?",
+      "hi": "Goa ke ek resort ke keyword 'beach villa with private pool Goa' ka Quality Score 3 hai, landing page experience 'Below average'. Ads slow homepage pe jaate hain. Best fix?",
+      "mr": "गोव्यातील एका resort च्या 'beach villa with private pool Goa' keyword चा Quality Score 3 आहे, landing page experience 'Below average'. जाहिराती slow homepage वर जातात. सर्वोत्तम उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Raise the bid until Quality Score improves",
+        "Add the keyword ten times in the ad headlines",
+        "Change the keyword to broad match",
+        "Send traffic to a fast, mobile-friendly private-pool villa page"
+      ],
+      "hi": [
+        "Quality Score sudharne tak bid badhao",
+        "Ad headlines mein keyword das baar daalo",
+        "Keyword ko broad match kar do",
+        "Traffic ko fast, mobile-friendly private-pool villa page pe bhejo"
+      ],
+      "mr": [
+        "Quality Score सुधारेपर्यंत bid वाढवा",
+        "Ad headlines मध्ये keyword दहा वेळा टाका",
+        "Keyword broad match करा",
+        "Traffic जलद, mobile-friendly private-pool villa page वर पाठवा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Landing page experience improves when the page matches the searcher's intent and loads fast on mobile. Bids don't raise Quality Score, and stuffing keywords hurts ad quality.",
+      "hi": "Landing page experience tab sudharta hai jab page searcher ke intent se match kare aur mobile pe fast load ho. Bid se Quality Score nahi badhta, aur keyword stuffing ad quality bigaadti hai.",
+      "mr": "Page searcher च्या intent शी जुळले आणि mobile वर जलद load झाले तर landing page experience सुधारतो. Bid ने Quality Score वाढत नाही, आणि keyword stuffing ने ad quality बिघडते."
+    }
+  },
+  {
+    "id": "ppc-60",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A manager changes a campaign's Target CPA by about 30% every day based on yesterday's results. Performance is erratic. What's the best advice?",
+      "hi": "Ek manager kal ke results dekhkar roz campaign ka Target CPA lagbhag 30% badal deta hai. Performance erratic hai. Best advice kya hai?",
+      "mr": "एक manager कालच्या निकालांवरून दररोज campaign चा Target CPA सुमारे 30% बदलतो. Performance अस्थिर आहे. सर्वोत्तम सल्ला कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Make smaller, less frequent changes and judge over longer periods",
+        "Change it every hour instead for faster learning",
+        "Switch to a new campaign every week",
+        "Pause the campaign on low-conversion days"
+      ],
+      "hi": [
+        "Chhote aur kam frequent changes karo aur lambe period pe judge karo",
+        "Tez learning ke liye har ghante badlo",
+        "Har hafte naya campaign banao",
+        "Kam conversion wale din campaign pause karo"
+      ],
+      "mr": [
+        "लहान आणि कमी वेळा बदल करा आणि दीर्घ कालावधीवर मूल्यमापन करा",
+        "जलद शिकण्यासाठी दर तासाला बदला",
+        "दर आठवड्याला नवी campaign सुरू करा",
+        "कमी conversion च्या दिवशी campaign pause करा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Big, frequent target changes keep Smart Bidding re-adjusting and daily data is noisy. Make gradual changes and evaluate over weeks, accounting for conversion delays.",
+      "hi": "Bade aur baar-baar target changes Smart Bidding ko lagataar re-adjust karwate hain, aur daily data noisy hota hai. Dheere changes karo aur hafton ke data pe judge karo, conversion delay dhyan mein rakho.",
+      "mr": "मोठे आणि वारंवार target बदल Smart Bidding ला सतत re-adjust करायला लावतात, आणि दैनिक data गोंधळाचा असतो. हळूहळू बदल करा आणि conversion delay लक्षात घेऊन आठवड्यांच्या data वर मूल्यमापन करा."
+    }
+  },
+  {
+    "id": "ppc-61",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A D2C brand's Performance Max shows 9x ROAS, but search insights reveal much of its spend goes to searches for the brand's own name. Best fix?",
+      "hi": "Ek D2C brand ka Performance Max 9x ROAS dikhata hai, par search insights batate hain ki kaafi spend brand ke apne naam ki searches pe ja raha hai. Best fix?",
+      "mr": "एका D2C brand चा Performance Max 9x ROAS दाखवतो, पण search insights नुसार बराच खर्च brand च्याच नावाच्या searches वर जात आहे. सर्वोत्तम उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Raise Target ROAS to 15x",
+        "Apply brand exclusions in PMax and cover brand in a separate Search campaign",
+        "Remove all product images from asset groups",
+        "Increase the PMax budget since ROAS is high"
+      ],
+      "hi": [
+        "Target ROAS 15x kar do",
+        "PMax mein brand exclusions lagao aur brand ko alag Search campaign mein cover karo",
+        "Asset groups se saari product images hata do",
+        "ROAS high hai to PMax budget badhao"
+      ],
+      "mr": [
+        "Target ROAS 15x करा",
+        "PMax मध्ये brand exclusions लावा आणि brand वेगळ्या Search campaign मध्ये चालवा",
+        "Asset groups मधून सगळ्या product images काढा",
+        "ROAS जास्त आहे म्हणून PMax budget वाढवा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Brand searchers would often buy anyway, so brand traffic inflates PMax ROAS. Brand exclusions push PMax toward new demand, while a Search campaign handles brand with clear reporting.",
+      "hi": "Brand search karne wale aksar waise bhi khareed lete, isliye brand traffic PMax ka ROAS inflate karta hai. Brand exclusions PMax ko nayi demand ki taraf dhakelte hain, aur Search campaign brand ko clear reporting ke saath handle karta hai.",
+      "mr": "Brand शोधणारे बहुतेकदा तसेही खरेदी करतात, म्हणून brand traffic मुळे PMax चा ROAS फुगतो. Brand exclusions PMax ला नव्या demand कडे वळवतात, आणि Search campaign brand स्पष्ट reporting सह हाताळते."
+    }
+  },
+  {
+    "id": "ppc-62",
+    "level": 9,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is the main risk of using Target impression share bidding at 100% 'absolute top of page' without a max CPC limit?",
+      "hi": "Target impression share bidding ko 100% 'absolute top of page' pe bina max CPC limit ke use karne ka main risk kya hai?",
+      "mr": "Target impression share bidding 100% 'absolute top of page' वर max CPC limit शिवाय वापरण्याचा मुख्य धोका कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Ads will only show on the Display Network",
+        "Quality Score drops to 1 automatically",
+        "CPCs can climb very high because it chases visibility, not conversions",
+        "Google will stop counting impressions"
+      ],
+      "hi": [
+        "Ads sirf Display Network pe dikhenge",
+        "Quality Score automatically 1 ho jayega",
+        "CPC bahut upar ja sakta hai kyunki yeh conversions nahi, visibility ke peeche bhaagta hai",
+        "Google impressions count karna band kar dega"
+      ],
+      "mr": [
+        "जाहिराती फक्त Display Network वर दिसतील",
+        "Quality Score आपोआप 1 होईल",
+        "CPC खूप वाढू शकतो कारण ही strategy conversions नव्हे तर visibility मागे धावते",
+        "Google impressions मोजणे थांबवेल"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Target impression share optimizes for visibility, so an aggressive target can push bids very high regardless of conversions. Setting a max CPC bid limit caps that risk.",
+      "hi": "Target impression share visibility ke liye optimize karta hai, isliye aggressive target conversions ki parwah kiye bina bids bahut badha sakta hai. Max CPC bid limit isko cap karti hai.",
+      "mr": "Target impression share visibility साठी optimize करते, त्यामुळे आक्रमक target conversions चा विचार न करता bids खूप वाढवू शकतो. Max CPC bid limit हा धोका मर्यादित करते."
+    }
+  },
+  {
+    "id": "ppc-63",
+    "level": 9,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Performance Max, what does the new customer acquisition goal set to 'bid higher for new customers' do?",
+      "hi": "Performance Max mein new customer acquisition goal ko 'bid higher for new customers' pe set karne se kya hota hai?",
+      "mr": "Performance Max मध्ये new customer acquisition goal 'bid higher for new customers' वर ठेवल्यास काय होते?"
+    },
+    "opts": {
+      "en": [
+        "Excludes all past website visitors from ads",
+        "Gives new customers an automatic discount",
+        "Shows ads only in cities you haven't targeted before",
+        "Values new-customer conversions more, using your customer lists or data"
+      ],
+      "hi": [
+        "Saare purane website visitors ko ads se exclude karta hai",
+        "Naye customers ko automatic discount deta hai",
+        "Sirf un cities mein ads dikhata hai jo pehle target nahi ki",
+        "Customer lists/data use karke new-customer conversions ko zyada value deta hai"
+      ],
+      "mr": [
+        "सर्व जुन्या website visitors ना जाहिरातींमधून वगळते",
+        "नव्या customers ना आपोआप discount देते",
+        "आधी target न केलेल्या शहरांतच जाहिराती दाखवते",
+        "Customer lists/data वापरून new-customer conversions ना जास्त value देते"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "The goal uses your customer lists and conversion data to spot new vs existing customers and bids more for new ones by adding extra value. It doesn't give discounts or exclude all past visitors.",
+      "hi": "Yeh goal customer lists aur conversion data se naye vs existing customers pehchaanta hai aur naye customers ke liye extra value jodkar zyada bid karta hai. Discount ya saare visitors exclude nahi karta.",
+      "mr": "हा goal customer lists आणि conversion data वरून नवे vs जुने customers ओळखतो आणि नव्या customers साठी extra value जोडून जास्त bid करतो. तो discount देत नाही किंवा सगळे visitors वगळत नाही."
+    }
+  },
+  {
+    "id": "ppc-64",
+    "level": 9,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Your campaign's average daily budget is ₹1,000, but Google spent ₹1,900 on one day. What's true?",
+      "hi": "Campaign ka average daily budget ₹1,000 hai, par Google ne ek din ₹1,900 kharch kar diye. Kya sach hai?",
+      "mr": "Campaign चे average daily budget ₹1,000 आहे, पण Google ने एका दिवशी ₹1,900 खर्च केले. काय खरे आहे?"
+    },
+    "opts": {
+      "en": [
+        "Normal: daily spend can reach 2x, but monthly charges stay within ~30.4x daily budget",
+        "It's a billing error and will be fully refunded automatically",
+        "Your budget was hacked; change your password",
+        "Google will charge ₹1,900 every day from now on"
+      ],
+      "hi": [
+        "Normal: daily spend 2x tak ja sakta hai, par monthly charge ~30.4x daily budget ke andar rehta hai",
+        "Billing error hai, poora automatically refund hoga",
+        "Budget hack hua; password badlo",
+        "Ab se Google roz ₹1,900 charge karega"
+      ],
+      "mr": [
+        "सामान्य: दैनिक खर्च 2x पर्यंत जाऊ शकतो, पण monthly charge ~30.4x daily budget च्या आत राहतो",
+        "Billing error आहे, पूर्ण रक्कम आपोआप परत मिळेल",
+        "Budget hack झाले; password बदला",
+        "आतापासून Google दररोज ₹1,900 घेईल"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Google may spend up to 2x your average daily budget on high-traffic days, but over a month you won't be charged more than about 30.4 times the daily budget.",
+      "hi": "High-traffic dinon mein Google average daily budget ka 2x tak kharch kar sakta hai, par mahine mein daily budget ke lagbhag 30.4 guna se zyada charge nahi hota.",
+      "mr": "जास्त traffic च्या दिवशी Google average daily budget च्या 2x पर्यंत खर्च करू शकते, पण महिन्यात daily budget च्या सुमारे 30.4 पटांपेक्षा जास्त charge लागत नाही."
+    }
+  },
+  {
+    "id": "ppc-65",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A D2C skincare brand's last-click reports show its YouTube/Demand Gen campaigns get almost no conversions, so the CFO wants to cut them. Branded searches rose after they launched. Best move?",
+      "hi": "Ek D2C skincare brand ki last-click reports mein YouTube/Demand Gen campaigns ke almost zero conversions hain, isliye CFO unhe band karna chahta hai. Launch ke baad branded searches badhi. Best move?",
+      "mr": "एका D2C skincare brand च्या last-click reports मध्ये YouTube/Demand Gen campaigns चे जवळपास शून्य conversions आहेत, म्हणून CFO त्या बंद करू इच्छितो. सुरू झाल्यानंतर branded searches वाढल्या. सर्वोत्तम पाऊल?"
+    },
+    "opts": {
+      "en": [
+        "Cut them immediately since last click shows no sales",
+        "Run a lift/geo test and check data-driven attribution before deciding",
+        "Move the whole budget into brand search",
+        "Double the video budget without any measurement"
+      ],
+      "hi": [
+        "Turant band karo kyunki last click mein sales nahi",
+        "Decide karne se pehle lift/geo test chalao aur data-driven attribution dekho",
+        "Poora budget brand search mein daal do",
+        "Bina measurement ke video budget double karo"
+      ],
+      "mr": [
+        "Last click मध्ये sales नाहीत म्हणून लगेच बंद करा",
+        "निर्णयापूर्वी lift/geo test चालवा आणि data-driven attribution तपासा",
+        "संपूर्ण budget brand search मध्ये टाका",
+        "कोणतेही मोजमाप न करता video budget दुप्पट करा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Upper-funnel video often drives later branded searches that last click credits to Search. A lift or geo test (plus data-driven attribution) shows the true incremental impact before cutting.",
+      "hi": "Upper-funnel video aksar baad ki branded searches chalata hai jinka credit last click Search ko deta hai. Lift ya geo test (aur data-driven attribution) cut karne se pehle asli incremental impact dikhata hai.",
+      "mr": "Upper-funnel video अनेकदा नंतरच्या branded searches घडवतो, ज्यांचे श्रेय last click Search ला देते. Lift किंवा geo test (आणि data-driven attribution) बंद करण्यापूर्वी खरा incremental परिणाम दाखवतो."
+    }
+  },
+  {
+    "id": "ppc-66",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A B2B machinery firm imports offline conversions: raw leads, qualified leads and closed deals. Deal sizes vary hugely. It wants bidding to chase revenue, not lead count. Best setup?",
+      "hi": "Ek B2B machinery firm offline conversions import karti hai: raw leads, qualified leads aur closed deals. Deal sizes mein bahut farak hai. Bidding ko lead count nahi, revenue ke peeche bhagana hai. Best setup?",
+      "mr": "एक B2B machinery firm offline conversions import करते: raw leads, qualified leads आणि closed deals. Deal sizes मध्ये खूप फरक आहे. Bidding ने lead count नव्हे तर revenue मागे धावावे. सर्वोत्तम setup?"
+    },
+    "opts": {
+      "en": [
+        "Give every stage the same value and use Maximize clicks",
+        "Keep only raw leads as primary with Target CPA",
+        "Assign values by stage/deal size and use Maximize conversion value or Target ROAS",
+        "Stop importing offline data to avoid confusion"
+      ],
+      "hi": [
+        "Har stage ko same value do aur Maximize clicks use karo",
+        "Sirf raw leads ko primary rakho Target CPA ke saath",
+        "Stage/deal size ke hisaab se values do aur Maximize conversion value ya Target ROAS use karo",
+        "Confusion se bachne ke liye offline data import band karo"
+      ],
+      "mr": [
+        "प्रत्येक stage ला समान value द्या आणि Maximize clicks वापरा",
+        "फक्त raw leads primary ठेवा Target CPA सह",
+        "Stage/deal size नुसार values द्या आणि Maximize conversion value किंवा Target ROAS वापरा",
+        "गोंधळ टाळण्यासाठी offline data import बंद करा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Value-based bidding needs values that reflect business worth. Weighting deeper stages and bigger deals lets Maximize conversion value/Target ROAS chase revenue instead of cheap leads.",
+      "hi": "Value-based bidding ko business worth dikhane wali values chahiye. Deeper stages aur bade deals ko zyada value dene se Maximize conversion value/Target ROAS saste leads nahi, revenue ke peeche jaata hai.",
+      "mr": "Value-based bidding ला व्यवसायाचे खरे मूल्य दाखवणाऱ्या values लागतात. पुढच्या stages आणि मोठ्या deals ना जास्त value दिल्यास Maximize conversion value/Target ROAS स्वस्त leads नव्हे तर revenue मागे जाते."
+    }
+  },
+  {
+    "id": "ppc-67",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Chennai AC-repair campaign has CPA well below target and steady profit. Search lost IS (budget) is 55% and lost IS (rank) is 5%. Best next step?",
+      "hi": "Chennai ke ek AC-repair campaign ka CPA target se kaafi kam hai aur profit steady hai. Search lost IS (budget) 55% aur lost IS (rank) 5% hai. Best next step?",
+      "mr": "चेन्नईच्या एका AC-repair campaign चा CPA target पेक्षा खूप कमी आहे आणि नफा स्थिर आहे. Search lost IS (budget) 55% आणि lost IS (rank) 5% आहे. पुढची सर्वोत्तम पायरी?"
+    },
+    "opts": {
+      "en": [
+        "Raise bids sharply to fix the rank problem",
+        "Rewrite ads to improve Quality Score first",
+        "Pause half the keywords to save money",
+        "Increase the budget to capture the profitable demand you're missing"
+      ],
+      "hi": [
+        "Rank problem fix karne ke liye bids tezi se badhao",
+        "Pehle Quality Score sudharne ke liye ads dobara likho",
+        "Paisa bachane ke liye aadhe keywords pause karo",
+        "Budget badhao taaki miss ho rahi profitable demand capture ho"
+      ],
+      "mr": [
+        "Rank समस्या सोडवण्यासाठी bids झपाट्याने वाढवा",
+        "आधी Quality Score सुधारण्यासाठी ads पुन्हा लिहा",
+        "पैसे वाचवण्यासाठी अर्धे keywords pause करा",
+        "गमावत असलेली फायदेशीर demand मिळवण्यासाठी budget वाढवा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Most lost impressions are due to budget, not rank, and the campaign is profitable. Adding budget captures more of that demand; raising bids would mostly just raise CPCs.",
+      "hi": "Zyadatar impressions budget ki wajah se miss ho rahe hain, rank se nahi, aur campaign profitable hai. Budget badhane se woh demand milegi; bids badhane se mostly CPC hi badhega.",
+      "mr": "बहुतेक impressions budget मुळे गमावले जात आहेत, rank मुळे नाही, आणि campaign फायदेशीर आहे. Budget वाढवल्यास ती demand मिळेल; bids वाढवल्यास मुख्यतः CPC च वाढेल."
+    }
+  },
+  {
+    "id": "ppc-68",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A B2B HR-software company wants search ads that favour people in HR roles at mid-size companies. Which platform feature fits best?",
+      "hi": "Ek B2B HR-software company chahti hai ki search ads mid-size companies mein HR roles wale logon ko prefer karein. Kaunsa platform feature best fit hai?",
+      "mr": "एका B2B HR-software company ला mid-size companies मधील HR roles मधल्या लोकांना प्राधान्य देणाऱ्या search ads हव्या आहेत. कोणते platform feature सर्वात योग्य?"
+    },
+    "opts": {
+      "en": [
+        "Microsoft Advertising's LinkedIn profile targeting",
+        "Google Merchant Center product feeds",
+        "Google Ads location 'Presence' option",
+        "YouTube bumper ads"
+      ],
+      "hi": [
+        "Microsoft Advertising ka LinkedIn profile targeting",
+        "Google Merchant Center product feeds",
+        "Google Ads ka location 'Presence' option",
+        "YouTube bumper ads"
+      ],
+      "mr": [
+        "Microsoft Advertising चे LinkedIn profile targeting",
+        "Google Merchant Center product feeds",
+        "Google Ads चा location 'Presence' option",
+        "YouTube bumper ads"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Microsoft Advertising can use LinkedIn profile data (company, industry, job function) to target or adjust bids on search ads, which is useful for B2B.",
+      "hi": "Microsoft Advertising search ads ke liye LinkedIn profile data (company, industry, job function) se targeting ya bid adjustment kar sakta hai, jo B2B ke liye useful hai.",
+      "mr": "Microsoft Advertising search ads साठी LinkedIn profile data (company, industry, job function) वापरून targeting किंवा bid adjustment करू शकते, जे B2B साठी उपयुक्त आहे."
+    }
+  },
+  {
+    "id": "ppc-69",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "An electronics D2C store uses Target ROAS on revenue. Phones have 8% margin and accessories 50%, so the account shows good ROAS but thin profit. Best strategic fix?",
+      "hi": "Ek electronics D2C store revenue pe Target ROAS use karta hai. Phones ka margin 8% aur accessories ka 50% hai, isliye account mein ROAS accha par profit kam hai. Best strategic fix?",
+      "mr": "एक electronics D2C store revenue वर Target ROAS वापरते. Phones चा margin 8% आणि accessories चा 50% आहे, त्यामुळे account मध्ये ROAS चांगला पण नफा कमी आहे. सर्वोत्तम strategic उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Raise the Target ROAS for the whole account",
+        "Optimize to profit: send margin-based values or split by margin with separate targets",
+        "Stop selling phones on Google entirely",
+        "Switch to Maximize clicks to cut CPC"
+      ],
+      "hi": [
+        "Poore account ka Target ROAS badhao",
+        "Profit pe optimize karo: margin-based values bhejo ya margin ke hisaab se split karke alag targets do",
+        "Google pe phones bechna bilkul band karo",
+        "CPC kam karne ke liye Maximize clicks pe jao"
+      ],
+      "mr": [
+        "संपूर्ण account चा Target ROAS वाढवा",
+        "नफ्यावर optimize करा: margin-based values पाठवा किंवा margin नुसार विभागून वेगळे targets द्या",
+        "Google वर phones विकणे पूर्ण बंद करा",
+        "CPC कमी करण्यासाठी Maximize clicks वर जा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Revenue ROAS treats ₹1 of phone sales like ₹1 of accessory sales. Passing profit-based values, or splitting products by margin with their own targets, makes bidding chase profit.",
+      "hi": "Revenue ROAS phone ke ₹1 aur accessory ke ₹1 ko barabar maanta hai. Profit-based values bhejne ya margin ke hisaab se products split karke alag targets dene se bidding profit ke peeche jaati hai.",
+      "mr": "Revenue ROAS phone चा ₹1 आणि accessory चा ₹1 सारखाच मानतो. Profit-based values पाठवणे किंवा margin नुसार products विभागून वेगळे targets देणे यामुळे bidding नफ्यामागे जाते."
+    }
+  },
+  {
+    "id": "ppc-70",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A campaign mixing brand and non-brand keywords shows 12x ROAS. Split out, brand is 30x but non-brand is 1.5x, below the 2.5x break-even. Best move?",
+      "hi": "Brand aur non-brand keywords mix wala campaign 12x ROAS dikhata hai. Alag karne pe brand 30x hai par non-brand 1.5x, jo 2.5x break-even se neeche hai. Best move?",
+      "mr": "Brand आणि non-brand keywords एकत्र असलेली campaign 12x ROAS दाखवते. वेगळे केल्यावर brand 30x पण non-brand 1.5x आहे, जो 2.5x break-even पेक्षा कमी आहे. सर्वोत्तम पाऊल?"
+    },
+    "opts": {
+      "en": [
+        "Keep them together since blended ROAS is great",
+        "Pause brand keywords because they look too good",
+        "Split into separate campaigns with their own targets and fix non-brand",
+        "Double the combined budget to scale the 12x"
+      ],
+      "hi": [
+        "Saath rakho kyunki blended ROAS badhiya hai",
+        "Brand keywords pause karo kyunki bahut acche lag rahe hain",
+        "Alag campaigns banao apne targets ke saath aur non-brand ko fix karo",
+        "12x ko scale karne ke liye combined budget double karo"
+      ],
+      "mr": [
+        "एकत्रच ठेवा कारण blended ROAS उत्तम आहे",
+        "Brand keywords pause करा कारण ते खूपच चांगले दिसतात",
+        "स्वतःच्या targets सह वेगळ्या campaigns बनवा आणि non-brand सुधारा",
+        "12x scale करण्यासाठी combined budget दुप्पट करा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Blended ROAS hides loss-making non-brand spend behind cheap brand conversions. Separating them allows proper targets and budgets, and shows where to fix non-brand.",
+      "hi": "Blended ROAS saste brand conversions ke peeche nuksaan wala non-brand spend chhupa deta hai. Alag karne se sahi targets aur budgets set hote hain, aur non-brand mein kya fix karna hai woh dikhta hai.",
+      "mr": "Blended ROAS स्वस्त brand conversions च्या आड तोट्यातील non-brand खर्च लपवतो. वेगळे केल्याने योग्य targets व budgets ठरवता येतात आणि non-brand मध्ये काय सुधारायचे ते दिसते."
+    }
+  },
+  {
+    "id": "ppc-71",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A SaaS startup has ₹30,000/month. Expected CPC is ~₹150 and conversion rate ~2%, i.e. about 4 sign-ups a month. The founder wants to test Search, Display, YouTube and PMax at once. Best advice?",
+      "hi": "Ek SaaS startup ke paas ₹30,000/month hai. Expected CPC ~₹150 aur conversion rate ~2%, yaani mahine mein lagbhag 4 sign-ups. Founder Search, Display, YouTube aur PMax ek saath test karna chahta hai. Best advice?",
+      "mr": "एका SaaS startup कडे ₹30,000/महिना आहेत. अपेक्षित CPC ~₹150 आणि conversion rate ~2%, म्हणजे महिन्याला सुमारे 4 sign-ups. Founder ला Search, Display, YouTube आणि PMax एकाच वेळी test करायचे आहेत. सर्वोत्तम सल्ला?"
+    },
+    "opts": {
+      "en": [
+        "Split the budget equally across all four channels",
+        "Set Target CPA at ₹1,000 from day one",
+        "Use 200 broad match keywords to find more volume",
+        "Focus on a few high-intent keywords in one Search campaign and track micro-conversions"
+      ],
+      "hi": [
+        "Budget chaaron channels mein barabar baanto",
+        "Pehle din se Target CPA ₹1,000 set karo",
+        "Zyada volume ke liye 200 broad match keywords use karo",
+        "Ek Search campaign mein kuch high-intent keywords pe focus karo aur micro-conversions track karo"
+      ],
+      "mr": [
+        "Budget चारही channels मध्ये समान वाटा",
+        "पहिल्या दिवसापासून Target CPA ₹1,000 ठेवा",
+        "जास्त volume साठी 200 broad match keywords वापरा",
+        "एका Search campaign मध्ये काही high-intent keywords वर लक्ष द्या आणि micro-conversions track करा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "₹30,000 ÷ ₹150 ≈ 200 clicks × 2% ≈ 4 conversions. Split four ways, no channel gets enough data. Concentrate on high-intent search and track micro-conversions to learn faster.",
+      "hi": "₹30,000 ÷ ₹150 ≈ 200 clicks × 2% ≈ 4 conversions. Chaar jagah baantne se kisi channel ko enough data nahi milega. High-intent search pe focus karo aur micro-conversions track karo taaki jaldi seekho.",
+      "mr": "₹30,000 ÷ ₹150 ≈ 200 clicks × 2% ≈ 4 conversions. चार ठिकाणी वाटल्यास कोणत्याही channel ला पुरेसा data मिळणार नाही. High-intent search वर लक्ष द्या आणि लवकर शिकण्यासाठी micro-conversions track करा."
+    }
+  },
+  {
+    "id": "ppc-72",
+    "level": 10,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Why might Google Ads show fractional conversions like 12.4 for a keyword?",
+      "hi": "Google Ads kisi keyword ke liye 12.4 jaise fractional conversions kyun dikha sakta hai?",
+      "mr": "Google Ads एखाद्या keyword साठी 12.4 सारखे fractional conversions का दाखवू शकते?"
+    },
+    "opts": {
+      "en": [
+        "Data-driven attribution splits credit across several ad interactions",
+        "Some users converted on two devices at once",
+        "Google rounds conversions to save storage",
+        "Invalid clicks are subtracted as decimals"
+      ],
+      "hi": [
+        "Data-driven attribution credit ko kai ad interactions mein baant-ta hai",
+        "Kuch users ne ek saath do devices pe convert kiya",
+        "Storage bachane ke liye Google conversions round karta hai",
+        "Invalid clicks decimals mein minus hote hain"
+      ],
+      "mr": [
+        "Data-driven attribution श्रेय अनेक ad interactions मध्ये वाटते",
+        "काही users नी एकाच वेळी दोन devices वर convert केले",
+        "Storage वाचवण्यासाठी Google conversions round करते",
+        "Invalid clicks decimals मध्ये वजा होतात"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "With data-driven attribution, one conversion's credit is shared across the clicks and interactions that contributed, so keywords receive fractions. Smart Bidding uses this credit too.",
+      "hi": "Data-driven attribution mein ek conversion ka credit un saare clicks/interactions mein baant-ta hai jinhone contribute kiya, isliye keywords ko fractions milte hain. Smart Bidding bhi yahi credit use karti hai.",
+      "mr": "Data-driven attribution मध्ये एका conversion चे श्रेय योगदान दिलेल्या सर्व clicks/interactions मध्ये वाटले जाते, म्हणून keywords ना अपूर्णांक मिळतात. Smart Bidding सुद्धा हेच श्रेय वापरते."
+    }
+  },
+  {
+    "id": "ppc-73",
+    "level": 10,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "A Mumbai home-loan advisor knows leads from Mumbai close 3x more often than leads from elsewhere. Which Google Ads feature lets value-based bidding reflect this without changing the tag?",
+      "hi": "Mumbai ke ek home-loan advisor ko pata hai ki Mumbai ke leads baaki jagah ke leads se 3x zyada close hote hain. Kaunsa Google Ads feature bina tag badle value-based bidding mein yeh reflect karta hai?",
+      "mr": "मुंबईच्या एका home-loan advisor ला माहीत आहे की मुंबईचे leads इतर ठिकाणच्या leads पेक्षा 3x जास्त close होतात. Tag न बदलता value-based bidding मध्ये हे दाखवणारे Google Ads feature कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Location bid adjustments on Maximize clicks",
+        "Conversion value rules",
+        "Ad schedule",
+        "Callout assets"
+      ],
+      "hi": [
+        "Maximize clicks pe location bid adjustments",
+        "Conversion value rules",
+        "Ad schedule",
+        "Callout assets"
+      ],
+      "mr": [
+        "Maximize clicks वर location bid adjustments",
+        "Conversion value rules",
+        "Ad schedule",
+        "Callout assets"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Conversion value rules adjust conversion values by location, audience or device in real time, so Target ROAS or Maximize conversion value bids more where leads are worth more.",
+      "hi": "Conversion value rules location, audience ya device ke hisaab se conversion values real time mein adjust karte hain, taaki Target ROAS ya Maximize conversion value wahan zyada bid kare jahan leads zyada valuable hain.",
+      "mr": "Conversion value rules location, audience किंवा device नुसार conversion values real time मध्ये बदलतात, त्यामुळे Target ROAS किंवा Maximize conversion value जिथे leads जास्त मौल्यवान तिथे जास्त bid करतात."
+    }
+  },
+  {
+    "id": "ppc-74",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "After launching Performance Max, an agency reports 900 PMax conversions in a quarter. Yet total business conversions rose by only about 200, and brand Search and remarketing conversions fell. Most likely explanation?",
+      "hi": "Performance Max launch ke baad agency ek quarter mein 900 PMax conversions report karti hai. Par total business conversions sirf lagbhag 200 badhe, aur brand Search aur remarketing conversions gire. Sabse likely explanation?",
+      "mr": "Performance Max सुरू केल्यानंतर agency एका quarter मध्ये 900 PMax conversions report करते. पण एकूण business conversions फक्त सुमारे 200 ने वाढले, आणि brand Search व remarketing conversions घटले. सर्वात संभाव्य स्पष्टीकरण?"
+    },
+    "opts": {
+      "en": [
+        "The conversion tag is double-counting only brand Search",
+        "Business data is wrong; ad platforms are always accurate",
+        "PMax is claiming conversions that other campaigns would have got anyway",
+        "PMax needs more budget to show its full effect"
+      ],
+      "hi": [
+        "Conversion tag sirf brand Search ko double-count kar raha hai",
+        "Business data galat hai; ad platforms hamesha accurate hote hain",
+        "PMax un conversions ka credit le raha hai jo baaki campaigns ko waise bhi milte",
+        "PMax ko pura asar dikhane ke liye aur budget chahiye"
+      ],
+      "mr": [
+        "Conversion tag फक्त brand Search दुप्पट मोजत आहे",
+        "Business data चुकीचा आहे; ad platforms नेहमी अचूक असतात",
+        "इतर campaigns ना तसेही मिळाले असते त्या conversions चे श्रेय PMax घेत आहे",
+        "पूर्ण परिणाम दाखवण्यासाठी PMax ला जास्त budget हवे"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "PMax can serve on brand and remarketing traffic, taking credit for sales that would have happened anyway. Judge by incremental account-level results or experiments, and use brand exclusions.",
+      "hi": "PMax brand aur remarketing traffic pe bhi serve hota hai aur un sales ka credit le leta hai jo waise bhi hoti. Incremental account-level results ya experiments se judge karo, aur brand exclusions lagao.",
+      "mr": "PMax brand आणि remarketing traffic वरही serve होतो आणि तसेही झाल्या असत्या अशा sales चे श्रेय घेतो. Incremental account-level निकाल किंवा experiments वरून मूल्यमापन करा आणि brand exclusions वापरा."
+    }
+  },
+  {
+    "id": "ppc-75",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Hyderabad clinic's campaign on Maximize conversions spends its full ₹5,000/day, but CPA is ₹1,200 against a ₹600 goal. What's the smartest correction?",
+      "hi": "Hyderabad ke ek clinic ka Maximize conversions campaign roz ka pura ₹5,000 kharch karta hai, par CPA ₹1,200 hai jabki goal ₹600 hai. Sabse smart correction kya hai?",
+      "mr": "हैदराबादच्या एका clinic ची Maximize conversions campaign दररोजचे पूर्ण ₹5,000 खर्च करते, पण CPA ₹1,200 आहे आणि goal ₹600 आहे. सर्वात हुशार सुधारणा कोणती?"
+    },
+    "opts": {
+      "en": [
+        "Double the budget so Google finds cheaper conversions",
+        "Set Target CPA at ₹600 immediately",
+        "Switch to Maximize clicks to lower CPC",
+        "Add a Target CPA near the current CPA, lower it gradually, and cut wasteful queries"
+      ],
+      "hi": [
+        "Budget double karo taaki Google saste conversions dhoondhe",
+        "Turant Target CPA ₹600 set karo",
+        "CPC kam karne ke liye Maximize clicks pe jao",
+        "Current CPA ke paas Target CPA lagao, dheere-dheere kam karo, aur wasteful queries hatao"
+      ],
+      "mr": [
+        "Google स्वस्त conversions शोधेल म्हणून budget दुप्पट करा",
+        "लगेच Target CPA ₹600 ठेवा",
+        "CPC कमी करण्यासाठी Maximize clicks वर जा",
+        "सध्याच्या CPA जवळ Target CPA ठेवा, हळूहळू कमी करा आणि वाया जाणाऱ्या queries काढा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Without a target, Maximize conversions spends the whole budget even at high CPA. A Target CPA near current results, lowered in steps, plus removing waste, improves efficiency without collapsing volume.",
+      "hi": "Target ke bina Maximize conversions pura budget kharch karta hai chahe CPA zyada ho. Current results ke paas Target CPA, steps mein kam karna, aur waste hatana volume giraye bina efficiency sudharta hai.",
+      "mr": "Target नसल्यास Maximize conversions CPA जास्त असला तरी पूर्ण budget खर्च करते. सध्याच्या निकालांजवळ Target CPA ठेवून टप्प्याटप्प्याने कमी करणे आणि waste काढणे यामुळे volume न घसरता efficiency सुधारते."
+    }
+  }
+]

@@ -281,6 +281,46 @@ body.lang-mr .won-label, body.lang-mr .brand, body.lang-mr .title { letter-spaci
 .foot a { color: var(--muted); }
 .foot p { margin: 8px 0 0; }
 
+/* ---------- v3 features: daily, challenge, share, sponsor, leads, modal ---------- */
+.bank-stats { color: var(--gold-2); font-weight: 700; font-size: .92rem; margin: -6px 0 6px; }
+#dailyBtn.done { opacity: .7; }
+.tag.maths { background: rgba(255, 220, 90, .18); color: var(--gold-2); }
+.challenge-bar { display: flex; gap: 12px; align-items: center; justify-content: center; flex-wrap: wrap; padding: 10px 16px; background: linear-gradient(90deg, rgba(255,154,26,.25), rgba(245,197,66,.2)); border-bottom: 1px solid rgba(245,197,66,.5); font-weight: 700; text-align: center; }
+.sponsor-slot { margin: 14px auto 0; max-width: 560px; }
+.sponsor-slot a { display: flex; gap: 10px; align-items: center; justify-content: center; padding: 8px 14px; border-radius: 12px; background: rgba(255,255,255,.05); border: 1px solid rgba(245,197,66,.35); color: var(--text); text-decoration: none; font-size: .9rem; }
+.sponsor-slot small { color: var(--muted); }
+.pill-btn { border: 1px solid var(--panel-border); background: rgba(255,255,255,.06); color: var(--text); padding: 8px 14px; border-radius: 999px; font: inherit; font-weight: 700; font-size: .88rem; cursor: pointer; }
+.pill-btn:hover { border-color: var(--gold); }
+.pill-btn.gold { background: rgba(245,197,66,.16); border-color: rgba(245,197,66,.6); color: var(--gold-2); }
+.reward-btn { display: block; margin: 0 auto 10px; border: 1px dashed var(--gold); background: rgba(245,197,66,.1); color: var(--gold-2); padding: 6px 14px; border-radius: 999px; font: inherit; font-weight: 700; font-size: .85rem; cursor: pointer; }
+.modal { position: fixed; inset: 0; z-index: 40; background: rgba(0, 2, 20, .7); backdrop-filter: blur(4px); display: grid; place-items: center; padding: 16px; }
+.modal-card { position: relative; width: min(640px, 100%); max-height: 85vh; overflow: auto; }
+.modal-close { position: absolute; top: 12px; right: 12px; }
+.topic-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; margin-top: 12px; }
+.topic-grid .lz { width: 100%; text-align: center; }
+.topic-grid small { color: var(--muted); font-weight: 600; }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); opacity: 0; z-index: 60; background: #0b1260; border: 1px solid var(--gold); color: var(--text); padding: 10px 18px; border-radius: 999px; font-weight: 700; transition: all .25s; pointer-events: none; max-width: calc(100% - 32px); text-align: center; }
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+.aff-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.aff { display: flex; flex-direction: column; gap: 4px; padding: 14px; border-radius: 12px; background: rgba(255,255,255,.05); border: 1px solid var(--panel-border); color: var(--text); text-decoration: none; }
+.aff:hover { border-color: var(--gold); }
+.aff span { color: var(--muted); font-size: .88rem; }
+.aff em { color: var(--gold-2); font-style: normal; font-weight: 700; font-size: .88rem; }
+.lead-form { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.lead-form input, .lead-form select { font: inherit; padding: 10px 12px; border-radius: 10px; background: rgba(255,255,255,.07); color: var(--text); border: 1px solid var(--panel-border); }
+.lead-form select option { color: #111; }
+.lead-form .consent, .lead-form button, .lead-form .lead-msg { grid-column: 1 / -1; }
+.lead-form .consent { display: flex; gap: 8px; align-items: flex-start; font-size: .85rem; color: var(--muted); }
+.lead-form .consent input { margin-top: 3px; }
+.lead-thanks { font-weight: 700; color: var(--green-2); }
+@media (max-width: 560px) { .lead-form { grid-template-columns: 1fr; } }
+.glossary-list { display: grid; gap: 10px; }
+.glossary-list dt { font-weight: 800; color: var(--gold-2); margin-top: 10px; }
+.glossary-list dd { margin: 2px 0 0; color: #dde2ff; }
+.pager { display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0; }
+.pager a, .pager span { padding: 6px 12px; border-radius: 8px; border: 1px solid var(--panel-border); text-decoration: none; }
+.pager span { background: rgba(245,197,66,.2); color: var(--gold-2); }
+
 /* ---------- content pages (quiz topics, blog, legal) ---------- */
 .content { max-width: 820px; margin: 0 auto; }
 .content h1 { font-family: "Cinzel", serif; color: var(--gold); font-size: clamp(1.6rem, 4.5vw, 2.4rem); }

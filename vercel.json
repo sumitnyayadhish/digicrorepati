@@ -1,13 +1,14 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "node scripts/build-seo.mjs",
+  "buildCommand": "node scripts/build-bank.mjs && node scripts/build-seo.mjs",
   "outputDirectory": "public",
   "cleanUrls": true,
-  "functions": {
-    "api/refresh.js": { "maxDuration": 300 },
-    "api/explain.js": { "maxDuration": 60 }
-  },
-  "crons": [{ "path": "/api/refresh", "schedule": "30 1 * * *" }],
+  "redirects": [
+    { "source": "/:lang(hi|mr)/quiz/ai-llm-quiz", "destination": "/:lang/quiz/ai-llm-basics", "permanent": true },
+    { "source": "/quiz/ai-llm-quiz", "destination": "/quiz/ai-llm-basics", "permanent": true },
+    { "source": "/:lang(hi|mr)/quiz/seo-web-tech-quiz", "destination": "/:lang/quiz/seo", "permanent": true },
+    { "source": "/quiz/seo-web-tech-quiz", "destination": "/quiz/seo", "permanent": true }
+  ],
   "headers": [
     {
       "source": "/(.*)",
@@ -15,6 +16,14 @@
         { "key": "X-Content-Type-Options", "value": "nosniff" },
         { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
       ]
+    },
+    {
+      "source": "/bank/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=86400" }]
+    },
+    {
+      "source": "/sw.js",
+      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
     }
   ]
 }

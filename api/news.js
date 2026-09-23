@@ -1,4 +1,4 @@
-import { getNews } from "../lib/ai.js";
+import { getNews } from "../lib/news.js";
 
 export async function GET() {
   const items = (await getNews()).slice(0, 16);

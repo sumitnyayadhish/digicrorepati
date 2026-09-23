@@ -1,0 +1,2777 @@
+[
+ {
+  "id": "seo-1",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In SEO, what is a 'keyword'?",
+   "hi": "SEO mein 'keyword' kya hota hai?",
+   "mr": "SEO मध्ये 'keyword' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A word or phrase people type into a search engine",
+    "A password used to log in to Google Search Console",
+    "A paid tag you buy from Google to rank higher",
+    "The HTML code at the top of your homepage"
+   ],
+   "hi": [
+    "Woh word ya phrase jo log search engine mein type karte hain",
+    "Google Search Console login karne ka password",
+    "Google se kharida hua paid tag jo ranking badhata hai",
+    "Homepage ke top pe likha HTML code"
+   ],
+   "mr": [
+    "लोक सर्च इंजिनमध्ये टाइप करतात तो शब्द किंवा वाक्यांश",
+    "Google Search Console मध्ये login करण्याचा password",
+    "ranking वाढवण्यासाठी Google कडून विकत घेतलेला paid tag",
+    "homepage च्या वरच्या भागातील HTML code"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "A keyword is the word or phrase users search for, like 'cake shop in Pune'. SEO means making relevant pages for the keywords your customers actually use. You cannot buy organic rankings.",
+   "hi": "Keyword woh word ya phrase hai jo user search karta hai, jaise 'cake shop in Pune'. SEO ka matlab hai un keywords ke liye relevant pages banana jo aapke customers sach mein use karte hain. Organic ranking kharidi nahi ja sakti.",
+   "mr": "Keyword म्हणजे user शोधतो तो शब्द किंवा वाक्यांश, उदा. 'cake shop in Pune'. तुमचे ग्राहक खरोखर वापरतात त्या keywords साठी योग्य pages बनवणे म्हणजे SEO. Organic ranking विकत घेता येत नाही."
+  }
+ },
+ {
+  "id": "seo-2",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What does SERP stand for?",
+   "hi": "SERP ka full form kya hai?",
+   "mr": "SERP चे पूर्ण रूप काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "Search Engine Ranking Program",
+    "Search Engine Results Page",
+    "Site Engagement Report Panel",
+    "Social Engine Reach Percentage"
+   ],
+   "hi": [
+    "Search Engine Ranking Program",
+    "Search Engine Results Page",
+    "Site Engagement Report Panel",
+    "Social Engine Reach Percentage"
+   ],
+   "mr": [
+    "Search Engine Ranking Program",
+    "Search Engine Results Page",
+    "Site Engagement Report Panel",
+    "Social Engine Reach Percentage"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "SERP = Search Engine Results Page: the page Google shows after you search, with organic results, ads, maps, videos and other features.",
+   "hi": "SERP = Search Engine Results Page: search karne ke baad Google jo page dikhata hai, jisme organic results, ads, maps, videos jaise features hote hain.",
+   "mr": "SERP = Search Engine Results Page: search केल्यानंतर Google दाखवते ते page, ज्यात organic results, ads, maps, videos असे features असतात."
+  }
+ },
+ {
+  "id": "seo-3",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is a 'backlink'?",
+   "hi": "'Backlink' kya hota hai?",
+   "mr": "'Backlink' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A link on your homepage that goes back to the top",
+    "The browser's back button on a web page",
+    "A link from another website pointing to your website",
+    "A broken link that returns an error"
+   ],
+   "hi": [
+    "Homepage pe ek link jo wapas top pe le jaata hai",
+    "Web page pe browser ka back button",
+    "Doosri website se aapki website ki taraf aane wala link",
+    "Ek broken link jo error deta hai"
+   ],
+   "mr": [
+    "homepage वरील link जी पुन्हा वर घेऊन जाते",
+    "web page वरील browser चे back button",
+    "दुसऱ्या website वरून तुमच्या website कडे येणारी link",
+    "error देणारी broken link"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "A backlink is a link from another site to yours. Relevant links from trusted sites act like votes of confidence and help Google discover and rank your pages.",
+   "hi": "Backlink matlab doosri site se aapki site pe aane wala link. Trusted aur relevant sites ke links 'vote of confidence' jaise kaam karte hain aur ranking mein help karte hain.",
+   "mr": "Backlink म्हणजे दुसऱ्या site वरून तुमच्या site वर येणारी link. विश्वासार्ह आणि relevant sites च्या links 'vote of confidence' सारख्या काम करतात आणि ranking ला मदत करतात."
+  }
+ },
+ {
+  "id": "seo-4",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which HTML element usually becomes the blue clickable headline of your page in Google results?",
+   "hi": "Google results mein page ki blue clickable headline aam taur pe kaunse HTML element se aati hai?",
+   "mr": "Google results मध्ये page ची निळी clickable headline सहसा कोणत्या HTML element मधून येते?"
+  },
+  "opts": {
+   "en": [
+    "The <footer> element",
+    "The <img> alt attribute",
+    "The <body> element",
+    "The <title> element"
+   ],
+   "hi": [
+    "<footer> element",
+    "<img> ka alt attribute",
+    "<body> element",
+    "<title> element"
+   ],
+   "mr": [
+    "<footer> element",
+    "<img> चा alt attribute",
+    "<body> element",
+    "<title> element"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "The <title> tag is the main source of the title link in search results. Keep it unique, descriptive and not stuffed with keywords.",
+   "hi": "<title> tag hi search results ki title link ka main source hota hai. Ise unique, descriptive rakho aur keywords se stuff mat karo.",
+   "mr": "<title> tag हा search results मधील title link चा मुख्य स्रोत असतो. तो unique, वर्णनात्मक ठेवा आणि keywords ने भरू नका."
+  }
+ },
+ {
+  "id": "seo-5",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which free Google tool shows how your website performs in Google Search (clicks, queries, indexing issues)?",
+   "hi": "Kaunsa free Google tool dikhata hai ki aapki website Google Search mein kaise perform kar rahi hai (clicks, queries, indexing issues)?",
+   "mr": "तुमची website Google Search मध्ये कशी perform करते (clicks, queries, indexing issues) हे कोणते free Google tool दाखवते?"
+  },
+  "opts": {
+   "en": [
+    "Google Search Console",
+    "Google Ads Keyword Planner",
+    "Google Forms",
+    "Google Keep"
+   ],
+   "hi": [
+    "Google Search Console",
+    "Google Ads Keyword Planner",
+    "Google Forms",
+    "Google Keep"
+   ],
+   "mr": [
+    "Google Search Console",
+    "Google Ads Keyword Planner",
+    "Google Forms",
+    "Google Keep"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Google Search Console is Google's free tool for site owners: search queries, clicks, impressions, indexing status, sitemaps and manual actions. Keyword Planner is for ad keyword research.",
+   "hi": "Google Search Console site owners ke liye free tool hai: queries, clicks, impressions, indexing status, sitemaps aur manual actions sab yahan dikhte hain. Keyword Planner ads ki keyword research ke liye hai.",
+   "mr": "Google Search Console हे site owners साठी free tool आहे: queries, clicks, impressions, indexing status, sitemaps आणि manual actions इथे दिसतात. Keyword Planner हे ads च्या keyword research साठी आहे."
+  }
+ },
+ {
+  "id": "seo-6",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is image 'alt text' mainly for?",
+   "hi": "Image ka 'alt text' mainly kis liye hota hai?",
+   "mr": "Image चा 'alt text' मुख्यतः कशासाठी असतो?"
+  },
+  "opts": {
+   "en": [
+    "Making the image load faster on slow mobile networks",
+    "Describing the image for screen readers and search engines",
+    "Adding a watermark so others can't copy the image",
+    "Changing the image colours automatically in dark mode"
+   ],
+   "hi": [
+    "Slow mobile network pe image ko fast load karna",
+    "Screen readers aur search engines ke liye image ko describe karna",
+    "Watermark lagana taaki koi image copy na kar sake",
+    "Dark mode mein image ke colours apne aap badalna"
+   ],
+   "mr": [
+    "slow mobile network वर image लवकर load करणे",
+    "screen readers आणि search engines साठी image चे वर्णन करणे",
+    "कोणी image copy करू नये म्हणून watermark लावणे",
+    "dark mode मध्ये image चे रंग आपोआप बदलणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Alt text describes an image in words. It helps visually impaired users using screen readers and helps Google understand the image, including for Google Images.",
+   "hi": "Alt text image ko words mein describe karta hai. Isse screen reader use karne wale users ko help milti hai aur Google ko image samajhne mein bhi, Google Images ke liye bhi.",
+   "mr": "Alt text image चे शब्दांत वर्णन करतो. Screen reader वापरणाऱ्या users ना आणि Google ला image समजण्यासाठी, Google Images साठीही, याची मदत होते."
+  }
+ },
+ {
+  "id": "seo-7",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which statement about Google's organic (non-ad) results is TRUE?",
+   "hi": "Google ke organic (non-ad) results ke baare mein kaunsi baat SACH hai?",
+   "mr": "Google च्या organic (non-ad) results बद्दल कोणते विधान खरे आहे?"
+  },
+  "opts": {
+   "en": [
+    "Running Google Ads automatically improves organic rankings",
+    "Organic results are updated only once a year",
+    "You cannot pay Google to rank higher in organic results",
+    "Only websites with .com domains can rank organically"
+   ],
+   "hi": [
+    "Google Ads chalane se organic ranking apne aap badh jaati hai",
+    "Organic results saal mein sirf ek baar update hote hain",
+    "Organic results mein upar aane ke liye Google ko pay nahi kar sakte",
+    "Sirf .com domain wali sites hi organic rank kar sakti hain"
+   ],
+   "mr": [
+    "Google Ads चालवल्याने organic ranking आपोआप वाढते",
+    "Organic results वर्षातून फक्त एकदाच update होतात",
+    "Organic results मध्ये वर येण्यासाठी Google ला पैसे देता येत नाहीत",
+    "फक्त .com domain असलेल्या sites च organic rank करू शकतात"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Organic rankings are earned through relevance and quality; Google does not sell them. Ads appear separately with a 'Sponsored' label and do not boost organic positions.",
+   "hi": "Organic ranking relevance aur quality se kamai jaati hai; Google ise bechta nahi. Ads alag se 'Sponsored' label ke saath dikhte hain aur organic position nahi badhate.",
+   "mr": "Organic ranking relevance आणि quality मुळे मिळते; Google ती विकत नाही. Ads वेगळ्या 'Sponsored' label सह दिसतात आणि organic position वाढवत नाहीत."
+  }
+ },
+ {
+  "id": "seo-8",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'local SEO'?",
+   "hi": "'Local SEO' kya hai?",
+   "mr": "'Local SEO' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "SEO done only by agencies based in your own city",
+    "Hosting your website on a server located in India",
+    "Writing all website content in a regional language",
+    "Optimizing to show up in nearby searches and Google Maps"
+   ],
+   "hi": [
+    "Sirf apne shehar ki agencies se SEO karwana",
+    "Website ko India mein located server pe host karna",
+    "Poori website ka content regional language mein likhna",
+    "Nearby searches aur Google Maps mein dikhne ke liye optimize karna"
+   ],
+   "mr": [
+    "फक्त आपल्या शहरातील agencies कडून SEO करून घेणे",
+    "website India मधील server वर host करणे",
+    "website चा सर्व content प्रादेशिक भाषेत लिहिणे",
+    "जवळच्या searches आणि Google Maps मध्ये दिसण्यासाठी optimize करणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Local SEO helps a business show up for nearby searches like 'dentist near me' or 'saree shop in Nashik', mainly through Google Business Profile, reviews and local pages.",
+   "hi": "Local SEO se business 'dentist near me' ya 'saree shop in Nashik' jaisi nearby searches mein dikhta hai, mainly Google Business Profile, reviews aur local pages ke through.",
+   "mr": "Local SEO मुळे business 'dentist near me' किंवा 'saree shop in Nashik' सारख्या जवळच्या searches मध्ये दिसतो, मुख्यतः Google Business Profile, reviews आणि local pages द्वारे."
+  }
+ },
+ {
+  "id": "seo-9",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which heading tag is normally used for the main heading of a page?",
+   "hi": "Page ki main heading ke liye normally kaunsa heading tag use hota hai?",
+   "mr": "Page च्या मुख्य heading साठी सहसा कोणता heading tag वापरतात?"
+  },
+  "opts": {
+   "en": [
+    "<h1>",
+    "<h6>",
+    "<head>",
+    "<header>"
+   ],
+   "hi": [
+    "<h1>",
+    "<h6>",
+    "<head>",
+    "<header>"
+   ],
+   "mr": [
+    "<h1>",
+    "<h6>",
+    "<head>",
+    "<header>"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "<h1> is the main visible heading that tells users and search engines what the page is about. <head> is the non-visible metadata section, not a heading.",
+   "hi": "<h1> page ki main visible heading hai jo users aur search engines ko batati hai ki page kis baare mein hai. <head> non-visible metadata section hai, heading nahi.",
+   "mr": "<h1> ही page ची मुख्य दिसणारी heading असून page कशाबद्दल आहे हे users आणि search engines ना सांगते. <head> हा न दिसणारा metadata विभाग आहे, heading नाही."
+  }
+ },
+ {
+  "id": "seo-10",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "In SEO, what is 'crawling'?",
+   "hi": "SEO mein 'crawling' kya hai?",
+   "mr": "SEO मध्ये 'crawling' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Users slowly scrolling down through a very long web page",
+    "Bots discovering pages by fetching them and following links",
+    "Google sorting indexed pages in order of their quality",
+    "Copying text content from competitor websites onto yours"
+   ],
+   "hi": [
+    "Users ka ek bahut lambe web page ko dheere-dheere scroll karna",
+    "Bots ka pages fetch karke aur links follow karke pages dhoondhna",
+    "Google ka indexed pages ko quality ke order mein sort karna",
+    "Competitor websites se text content copy karke apni site pe daalna"
+   ],
+   "mr": [
+    "users नी खूप लांब web page हळूहळू scroll करणे",
+    "bots नी pages fetch करून आणि links follow करून pages शोधणे",
+    "Google ने indexed pages quality नुसार क्रमाने लावणे",
+    "competitor websites वरून text content copy करून आपल्या site वर टाकणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Crawling is discovery: bots like Googlebot fetch pages and follow links to find new URLs. After crawling comes indexing, and only indexed pages can rank.",
+   "hi": "Crawling matlab discovery: Googlebot jaise bots pages fetch karte hain aur links follow karke naye URLs dhoondhte hain. Crawling ke baad indexing hoti hai, aur sirf indexed pages hi rank kar sakte hain.",
+   "mr": "Crawling म्हणजे शोध: Googlebot सारखे bots pages fetch करतात आणि links follow करून नवीन URLs शोधतात. Crawling नंतर indexing होते, आणि फक्त indexed pages च rank करू शकतात."
+  }
+ },
+ {
+  "id": "seo-11",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is an XML sitemap?",
+   "hi": "XML sitemap kya hota hai?",
+   "mr": "XML sitemap म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A visual map of your office location for Google Maps",
+    "A file that blocks bots from crawling your site",
+    "A file listing the URLs you want search engines to find",
+    "A report that shows your competitors' keywords"
+   ],
+   "hi": [
+    "Google Maps ke liye office location ka visual map",
+    "Ek file jo bots ko site crawl karne se rokti hai",
+    "Ek file jisme woh URLs hote hain jo aap search engines ko dikhana chahte ho",
+    "Competitors ke keywords dikhane wali report"
+   ],
+   "mr": [
+    "Google Maps साठी office location चा visual map",
+    "bots ना site crawl करण्यापासून रोखणारी file",
+    "search engines ना सापडावेत असे URLs असलेली file",
+    "competitors चे keywords दाखवणारा report"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "An XML sitemap lists important URLs (often with last-modified dates) to help search engines discover them. It helps discovery but does not guarantee indexing. Blocking bots is robots.txt's job.",
+   "hi": "XML sitemap mein important URLs (aksar last-modified date ke saath) hote hain taaki search engines unhe dhoondh sakein. Isse discovery mein help milti hai, indexing ki guarantee nahi. Bots rokna robots.txt ka kaam hai.",
+   "mr": "XML sitemap मध्ये महत्त्वाचे URLs (अनेकदा last-modified तारखेसह) असतात, जेणेकरून search engines ना ते सापडतात. यामुळे discovery ला मदत होते, indexing ची खात्री नाही. Bots रोखणे हे robots.txt चे काम आहे."
+  }
+ },
+ {
+  "id": "seo-12",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Compared with a short 'head' keyword like 'cake', a long-tail keyword like 'eggless cake delivery Kothrud' usually has…",
+   "hi": "'cake' jaise chhote 'head' keyword ke comparison mein, 'eggless cake delivery Kothrud' jaise long-tail keyword mein aam taur pe…",
+   "mr": "'cake' सारख्या छोट्या 'head' keyword च्या तुलनेत, 'eggless cake delivery Kothrud' सारख्या long-tail keyword मध्ये सहसा…"
+  },
+  "opts": {
+   "en": [
+    "Higher search volume and much less competition",
+    "No commercial value because few people search it",
+    "A higher cost per click in every Google Ads auction",
+    "Lower search volume but clearer intent and easier ranking"
+   ],
+   "hi": [
+    "Zyada search volume aur bahut kam competition",
+    "Koi commercial value nahi kyunki kam log search karte hain",
+    "Har Google Ads auction mein zyada cost per click",
+    "Kam search volume par clear intent aur rank karna aasan"
+   ],
+   "mr": [
+    "जास्त search volume आणि खूप कमी competition",
+    "कमी लोक search करतात म्हणून commercial मूल्य नाही",
+    "प्रत्येक Google Ads auction मध्ये जास्त cost per click",
+    "कमी search volume पण स्पष्ट intent आणि rank करणे सोपे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Long-tail keywords are longer, specific searches. Each gets fewer searches, but the intent is clearer and competition lower, so they are easier to rank for and often convert better.",
+   "hi": "Long-tail keywords lambe, specific searches hote hain. Har ek ka search volume kam hota hai, par intent clear aur competition kam, isliye rank karna aasan aur conversion aksar better hota hai.",
+   "mr": "Long-tail keywords म्हणजे लांब, specific searches. प्रत्येकाचा search volume कमी असतो, पण intent स्पष्ट आणि competition कमी, त्यामुळे rank करणे सोपे आणि conversion बहुधा चांगले होते."
+  }
+ },
+ {
+  "id": "seo-13",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does it mean when a page is 'indexed' by Google?",
+   "hi": "Jab Google kisi page ko 'index' karta hai toh iska matlab kya hai?",
+   "mr": "Google ने page 'index' केले म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Google has stored it, so it is eligible to appear in results",
+    "The page is guaranteed to rank on the first results page",
+    "The page has been added to your Google Ads account",
+    "The page has been blocked from appearing in search results"
+   ],
+   "hi": [
+    "Google ne use store kar liya, ab woh results mein aa sakta hai",
+    "Page ka first results page pe rank hona guaranteed hai",
+    "Page aapke Google Ads account mein add ho gaya hai",
+    "Page search results mein dikhne se block ho gaya hai"
+   ],
+   "mr": [
+    "Google ने ते साठवले आहे, त्यामुळे ते results मध्ये दिसू शकते",
+    "page पहिल्या results page वर rank होणे निश्चित आहे",
+    "page तुमच्या Google Ads account मध्ये add झाले आहे",
+    "page search results मध्ये दिसण्यापासून block झाले आहे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Indexed means Google has processed and stored the page, making it eligible to appear in search. Eligible is not the same as ranking well; that depends on relevance and quality.",
+   "hi": "Indexed matlab Google ne page process karke store kar liya, ab woh search mein aa sakta hai. Eligible hona aur achha rank karna alag baat hai; ranking relevance aur quality pe depend karti hai.",
+   "mr": "Indexed म्हणजे Google ने page process करून साठवले, आता ते search मध्ये दिसू शकते. पात्र असणे आणि चांगले rank होणे वेगळे आहे; ranking relevance आणि quality वर अवलंबून असते."
+  }
+ },
+ {
+  "id": "seo-14",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In local SEO, what does NAP stand for?",
+   "hi": "Local SEO mein NAP ka matlab kya hai?",
+   "mr": "Local SEO मध्ये NAP म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Network, Audience, Placement",
+    "Name, Address, Phone number",
+    "New Automated Posting",
+    "Nearby Area Promotion"
+   ],
+   "hi": [
+    "Network, Audience, Placement",
+    "Name, Address, Phone number",
+    "New Automated Posting",
+    "Nearby Area Promotion"
+   ],
+   "mr": [
+    "Network, Audience, Placement",
+    "Name, Address, Phone number",
+    "New Automated Posting",
+    "Nearby Area Promotion"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "NAP = Name, Address, Phone number. Keeping NAP identical on your website, Google Business Profile and directories helps Google trust your business details.",
+   "hi": "NAP = Name, Address, Phone number. Website, Google Business Profile aur directories pe NAP same rakhne se Google aapke business details pe trust karta hai.",
+   "mr": "NAP = Name, Address, Phone number. Website, Google Business Profile आणि directories वर NAP सारखा ठेवल्याने Google ला तुमच्या business माहितीवर विश्वास बसतो."
+  }
+ },
+ {
+  "id": "seo-15",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'anchor text'?",
+   "hi": "'Anchor text' kya hota hai?",
+   "mr": "'Anchor text' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "The fixed header text that stays on screen while scrolling",
+    "The text inside a website's footer",
+    "The visible, clickable text of a hyperlink",
+    "The hidden text used to describe an image"
+   ],
+   "hi": [
+    "Scroll karte waqt screen pe fixed rehne wala header text",
+    "Website ke footer ka text",
+    "Hyperlink ka visible, clickable text",
+    "Image describe karne wala hidden text"
+   ],
+   "mr": [
+    "scroll करताना screen वर स्थिर राहणारा header text",
+    "website च्या footer मधील text",
+    "hyperlink चा दिसणारा, clickable text",
+    "image चे वर्णन करणारा hidden text"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Anchor text is the clickable text of a link, e.g. 'eggless cakes in Pune'. Descriptive anchors help users and Google understand the linked page. Image descriptions are alt text.",
+   "hi": "Anchor text link ka clickable text hota hai, jaise 'eggless cakes in Pune'. Descriptive anchor se users aur Google dono ko linked page samajh aata hai. Image description alt text hota hai.",
+   "mr": "Anchor text म्हणजे link चा clickable text, उदा. 'eggless cakes in Pune'. वर्णनात्मक anchor मुळे users आणि Google दोघांना linked page समजते. Image चे वर्णन म्हणजे alt text."
+  }
+ },
+ {
+  "id": "seo-16",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which HTTP status code means 'Page Not Found'?",
+   "hi": "Kaunsa HTTP status code 'Page Not Found' batata hai?",
+   "mr": "कोणता HTTP status code 'Page Not Found' दर्शवतो?"
+  },
+  "opts": {
+   "en": [
+    "200",
+    "301",
+    "500",
+    "404"
+   ],
+   "hi": [
+    "200",
+    "301",
+    "500",
+    "404"
+   ],
+   "mr": [
+    "200",
+    "301",
+    "500",
+    "404"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "404 means the server could not find the page. 200 means OK, 301 is a permanent redirect and 500 is a server error.",
+   "hi": "404 ka matlab server ko page nahi mila. 200 matlab OK, 301 permanent redirect hai aur 500 server error.",
+   "mr": "404 म्हणजे server ला page सापडले नाही. 200 म्हणजे OK, 301 म्हणजे permanent redirect आणि 500 म्हणजे server error."
+  }
+ },
+ {
+  "id": "seo-17",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "A page has moved to a new URL forever. Which redirect should you use?",
+   "hi": "Ek page hamesha ke liye naye URL pe shift ho gaya hai. Kaunsa redirect use karna chahiye?",
+   "mr": "एखादे page कायमचे नवीन URL वर गेले आहे. कोणता redirect वापरावा?"
+  },
+  "opts": {
+   "en": [
+    "301 (permanent)",
+    "302 (temporary)",
+    "404 (not found)",
+    "503 (unavailable)"
+   ],
+   "hi": [
+    "301 (permanent)",
+    "302 (temporary)",
+    "404 (not found)",
+    "503 (unavailable)"
+   ],
+   "mr": [
+    "301 (permanent)",
+    "302 (temporary)",
+    "404 (not found)",
+    "503 (unavailable)"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "A 301 tells browsers and search engines the move is permanent, so Google shifts indexing and signals to the new URL. A 302 signals a temporary move.",
+   "hi": "301 browsers aur search engines ko batata hai ki move permanent hai, isliye Google indexing aur signals naye URL pe shift karta hai. 302 temporary move ka signal hai.",
+   "mr": "301 browsers आणि search engines ना सांगतो की बदल कायमचा आहे, त्यामुळे Google indexing आणि signals नवीन URL कडे वळवते. 302 तात्पुरत्या बदलाचा signal आहे."
+  }
+ },
+ {
+  "id": "seo-18",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is the search intent behind 'buy running shoes online'?",
+   "hi": "'buy running shoes online' ke peeche search intent kya hai?",
+   "mr": "'buy running shoes online' मागचा search intent कोणता आहे?"
+  },
+  "opts": {
+   "en": [
+    "Informational",
+    "Transactional",
+    "Navigational",
+    "Educational"
+   ],
+   "hi": [
+    "Informational",
+    "Transactional",
+    "Navigational",
+    "Educational"
+   ],
+   "mr": [
+    "Informational",
+    "Transactional",
+    "Navigational",
+    "Educational"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "The word 'buy' shows the user is ready to purchase, so the intent is transactional. Product and category pages suit it best, not a 'what are running shoes' blog post.",
+   "hi": "'buy' word dikhata hai ki user khareedne ko ready hai, isliye intent transactional hai. Iske liye product/category pages best hain, 'running shoes kya hote hain' wala blog nahi.",
+   "mr": "'buy' शब्द दाखवतो की user खरेदीसाठी तयार आहे, म्हणून intent transactional आहे. यासाठी product/category pages योग्य, 'running shoes म्हणजे काय' असा blog नाही."
+  }
+ },
+ {
+  "id": "seo-19",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does a 'noindex' robots meta tag on a page do?",
+   "hi": "Page pe 'noindex' robots meta tag kya karta hai?",
+   "mr": "Page वरील 'noindex' robots meta tag काय करतो?"
+  },
+  "opts": {
+   "en": [
+    "Stops all users from opening the page in a browser",
+    "Makes the page load faster for search engine bots",
+    "Asks search engines not to show the page in results",
+    "Removes all the links that point to the page"
+   ],
+   "hi": [
+    "Sabhi users ko browser mein page kholne se rokta hai",
+    "Search engine bots ke liye page ko fast load karta hai",
+    "Search engines se kehta hai ki page results mein na dikhayein",
+    "Page ki taraf aane wale saare links hata deta hai"
+   ],
+   "mr": [
+    "सर्व users ना browser मध्ये page उघडण्यापासून रोखतो",
+    "search engine bots साठी page लवकर load करतो",
+    "search engines ना page results मध्ये न दाखवण्यास सांगतो",
+    "page कडे येणाऱ्या सर्व links काढून टाकतो"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "noindex keeps a page out of search results, e.g. thank-you or internal search pages. Users can still visit it. Google must be able to crawl the page to see the tag.",
+   "hi": "noindex page ko search results se bahar rakhta hai, jaise thank-you ya internal search pages. Users phir bhi page khol sakte hain. Tag dekhne ke liye Google ka page crawl kar paana zaroori hai.",
+   "mr": "noindex page ला search results बाहेर ठेवतो, उदा. thank-you किंवा internal search pages. Users तरीही page उघडू शकतात. Tag दिसण्यासाठी Google ला page crawl करता आले पाहिजे."
+  }
+ },
+ {
+  "id": "seo-20",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What are 'internal links'?",
+   "hi": "'Internal links' kya hote hain?",
+   "mr": "'Internal links' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Links shared only inside your company's WhatsApp group",
+    "Links from other websites to your homepage",
+    "Links that open in a new browser tab",
+    "Links from one page of your site to another page on the same site"
+   ],
+   "hi": [
+    "Sirf company ke WhatsApp group mein share hone wale links",
+    "Doosri websites se aapke homepage pe aane wale links",
+    "New browser tab mein khulne wale links",
+    "Aapki site ke ek page se usi site ke doosre page pe jaane wale links"
+   ],
+   "mr": [
+    "फक्त कंपनीच्या WhatsApp group मध्ये शेअर होणाऱ्या links",
+    "इतर websites वरून तुमच्या homepage वर येणाऱ्या links",
+    "नवीन browser tab मध्ये उघडणाऱ्या links",
+    "तुमच्या site च्या एका page वरून त्याच site च्या दुसऱ्या page वर जाणाऱ्या links"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Internal links connect pages on the same site. They help users navigate, help Google discover pages and show which pages are most important. Links from other sites are backlinks.",
+   "hi": "Internal links same site ke pages ko jodte hain. Isse users ko navigation, Google ko pages discover karne aur important pages samajhne mein help milti hai. Doosri sites ke links backlinks hote hain.",
+   "mr": "Internal links त्याच site ची pages जोडतात. यामुळे users ना navigation, Google ला pages शोधणे आणि महत्त्वाची pages ओळखणे सोपे होते. इतर sites च्या links म्हणजे backlinks."
+  }
+ },
+ {
+  "id": "seo-21",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which URL style is best practice for SEO?",
+   "hi": "SEO ke liye kaunsa URL style best practice hai?",
+   "mr": "SEO साठी कोणती URL style best practice आहे?"
+  },
+  "opts": {
+   "en": [
+    "Short, readable words separated by hyphens",
+    "Long numeric IDs like ?id=8372&cat=2",
+    "Words joined with underscores and CAPITAL letters",
+    "The upload date and time in every URL"
+   ],
+   "hi": [
+    "Chhote, readable words jo hyphens se alag hon",
+    "Lambe numeric IDs jaise ?id=8372&cat=2",
+    "Underscores aur CAPITAL letters se jude words",
+    "Har URL mein upload date aur time"
+   ],
+   "mr": [
+    "hyphens ने वेगळे केलेले छोटे, वाचता येणारे शब्द",
+    "?id=8372&cat=2 सारखे लांब numeric IDs",
+    "underscores आणि CAPITAL letters ने जोडलेले शब्द",
+    "प्रत्येक URL मध्ये upload तारीख आणि वेळ"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Google recommends simple, descriptive URLs with hyphens between words, e.g. /eggless-cakes-pune. They are easier for users to read and share. Google treats hyphens as word separators.",
+   "hi": "Google simple, descriptive URLs recommend karta hai jisme words ke beech hyphen ho, jaise /eggless-cakes-pune. Users ke liye padhna aur share karna aasan hota hai. Google hyphen ko word separator maanta hai.",
+   "mr": "Google शब्दांमध्ये hyphen असलेले साधे, वर्णनात्मक URLs सुचवते, उदा. /eggless-cakes-pune. Users ना वाचणे आणि शेअर करणे सोपे जाते. Google hyphen ला शब्द-विभाजक मानते."
+  }
+ },
+ {
+  "id": "seo-22",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which of these can a business manage in its Google Business Profile?",
+   "hi": "Business apne Google Business Profile mein inme se kya manage kar sakta hai?",
+   "mr": "Business आपल्या Google Business Profile मध्ये यापैकी काय manage करू शकतो?"
+  },
+  "opts": {
+   "en": [
+    "Its organic ranking position for any keyword",
+    "Opening hours, photos and replies to reviews",
+    "Deleting any negative review it dislikes",
+    "The ads competitors show on Maps"
+   ],
+   "hi": [
+    "Kisi bhi keyword ke liye apni organic ranking position",
+    "Opening hours, photos aur reviews ke replies",
+    "Koi bhi negative review jo pasand na ho delete karna",
+    "Competitors ke Maps pe dikhne wale ads"
+   ],
+   "mr": [
+    "कोणत्याही keyword साठी आपली organic ranking position",
+    "उघडण्याच्या वेळा, photos आणि reviews ना उत्तरे",
+    "न आवडणारा कोणताही negative review delete करणे",
+    "competitors चे Maps वरील ads"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "In Google Business Profile you can update hours, photos, services and posts, and reply to reviews. You cannot delete genuine reviews; you can only flag ones that violate Google's policies.",
+   "hi": "Google Business Profile mein hours, photos, services, posts update kar sakte ho aur reviews ka reply de sakte ho. Genuine reviews delete nahi kar sakte; sirf policy todne wale reviews ko flag kar sakte ho.",
+   "mr": "Google Business Profile मध्ये वेळा, photos, services, posts update करता येतात आणि reviews ना उत्तर देता येते. खरे reviews delete करता येत नाहीत; फक्त policy मोडणारे reviews flag करता येतात."
+  }
+ },
+ {
+  "id": "seo-23",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which HTTP status code tells search engines a page has been permanently removed (gone) with no replacement?",
+   "hi": "Kaunsa HTTP status code search engines ko batata hai ki page permanently hata diya gaya hai (gone) aur koi replacement nahi hai?",
+   "mr": "कोणता HTTP status code search engines ना सांगतो की page कायमचे काढले आहे (gone) आणि पर्याय नाही?"
+  },
+  "opts": {
+   "en": [
+    "200",
+    "302",
+    "410",
+    "304"
+   ],
+   "hi": [
+    "200",
+    "302",
+    "410",
+    "304"
+   ],
+   "mr": [
+    "200",
+    "302",
+    "410",
+    "304"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "410 Gone says the page was intentionally removed. Both 404 and 410 lead to removal from the index over time; 410 is a slightly stronger signal. 304 means 'not modified'.",
+   "hi": "410 Gone batata hai ki page jaan-boojh ke hataya gaya hai. 404 aur 410 dono se page time ke saath index se hat jaata hai; 410 thoda strong signal hai. 304 ka matlab 'not modified'.",
+   "mr": "410 Gone सांगतो की page मुद्दाम काढले आहे. 404 आणि 410 दोन्हीमुळे page कालांतराने index मधून जाते; 410 थोडा जास्त स्पष्ट signal आहे. 304 म्हणजे 'not modified'."
+  }
+ },
+ {
+  "id": "seo-24",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'keyword stuffing'?",
+   "hi": "'Keyword stuffing' kya hai?",
+   "mr": "'Keyword stuffing' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Researching hundreds of keywords inside one tool",
+    "Adding many keywords to your Google Ads account",
+    "Grouping related keywords into topic clusters",
+    "Unnaturally repeating keywords to manipulate rankings"
+   ],
+   "hi": [
+    "Ek hi tool mein saikdon keywords research karna",
+    "Google Ads account mein bahut saare keywords add karna",
+    "Related keywords ko topic clusters mein group karna",
+    "Ranking manipulate karne ke liye keywords unnatural tareeke se repeat karna"
+   ],
+   "mr": [
+    "एकाच tool मध्ये शेकडो keywords शोधणे",
+    "Google Ads account मध्ये अनेक keywords add करणे",
+    "संबंधित keywords topic clusters मध्ये group करणे",
+    "ranking मध्ये फेरफार करण्यासाठी keywords अनैसर्गिकपणे पुन्हा पुन्हा लिहिणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Keyword stuffing, e.g. 'best cake Pune cake Pune cheap cake Pune', is against Google's spam policies and hurts readability. Write naturally for people instead.",
+   "hi": "Keyword stuffing, jaise 'best cake Pune cake Pune cheap cake Pune', Google ki spam policies ke khilaf hai aur padhne mein bhi kharab lagta hai. Logon ke liye natural likho.",
+   "mr": "Keyword stuffing, उदा. 'best cake Pune cake Pune cheap cake Pune', हे Google च्या spam policies विरुद्ध आहे आणि वाचायलाही वाईट वाटते. लोकांसाठी नैसर्गिकपणे लिहा."
+  }
+ },
+ {
+  "id": "seo-25",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which Google Search Console report shows your queries, clicks, impressions, CTR and average position?",
+   "hi": "Google Search Console ki kaunsi report queries, clicks, impressions, CTR aur average position dikhati hai?",
+   "mr": "Google Search Console मधील कोणता report queries, clicks, impressions, CTR आणि average position दाखवतो?"
+  },
+  "opts": {
+   "en": [
+    "Links report",
+    "Performance report",
+    "Removals tool",
+    "Core Web Vitals report"
+   ],
+   "hi": [
+    "Links report",
+    "Performance report",
+    "Removals tool",
+    "Core Web Vitals report"
+   ],
+   "mr": [
+    "Links report",
+    "Performance report",
+    "Removals tool",
+    "Core Web Vitals report"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "The Performance (Search results) report shows which queries and pages bring clicks and impressions, plus CTR and average position. Core Web Vitals covers page experience, not queries.",
+   "hi": "Performance (Search results) report batati hai kaunsi queries aur pages clicks, impressions laate hain, saath mein CTR aur average position. Core Web Vitals page experience ke liye hai, queries ke liye nahi.",
+   "mr": "Performance (Search results) report दाखवतो कोणत्या queries आणि pages मुळे clicks, impressions येतात, तसेच CTR आणि average position. Core Web Vitals हा page experience साठी आहे, queries साठी नाही."
+  }
+ },
+ {
+  "id": "seo-26",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is structured data (schema markup) used for in SEO?",
+   "hi": "SEO mein structured data (schema markup) kis kaam aata hai?",
+   "mr": "SEO मध्ये structured data (schema markup) कशासाठी वापरतात?"
+  },
+  "opts": {
+   "en": [
+    "Encrypting the website so that hackers cannot read its pages",
+    "Compressing images and scripts so that pages load faster",
+    "Describing content in a standard format so it may earn rich results",
+    "Guaranteeing a top-3 ranking for every marked-up page"
+   ],
+   "hi": [
+    "Website encrypt karna taaki hackers pages na padh sakein",
+    "Images aur scripts compress karna taaki page fast load ho",
+    "Content ko standard format mein batana taaki rich results mil sakein",
+    "Har marked-up page ki top-3 ranking guarantee karna"
+   ],
+   "mr": [
+    "hackers ना pages वाचता येऊ नयेत म्हणून website encrypt करणे",
+    "page लवकर load व्हावे म्हणून images आणि scripts compress करणे",
+    "rich results मिळू शकतील म्हणून content standard format मध्ये सांगणे",
+    "प्रत्येक marked-up page ची top-3 ranking निश्चित करणे"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Structured data (Schema.org vocabulary) tells search engines what things are: a product, price, recipe, event, business. It can make pages eligible for rich results but does not guarantee them or rankings.",
+   "hi": "Structured data (Schema.org vocabulary) search engines ko batata hai ki cheez kya hai: product, price, recipe, event, business. Isse page rich results ke liye eligible ho sakta hai, par rich result ya ranking ki guarantee nahi.",
+   "mr": "Structured data (Schema.org vocabulary) search engines ना सांगतो की गोष्ट काय आहे: product, price, recipe, event, business. यामुळे page rich results साठी पात्र होऊ शकते, पण rich result किंवा ranking ची खात्री नाही."
+  }
+ },
+ {
+  "id": "seo-27",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which structured data format does Google recommend in its documentation?",
+   "hi": "Google apne documentation mein kaunsa structured data format recommend karta hai?",
+   "mr": "Google आपल्या documentation मध्ये कोणता structured data format सुचवते?"
+  },
+  "opts": {
+   "en": [
+    "CSV",
+    "YAML",
+    "XML sitemap",
+    "JSON-LD"
+   ],
+   "hi": [
+    "CSV",
+    "YAML",
+    "XML sitemap",
+    "JSON-LD"
+   ],
+   "mr": [
+    "CSV",
+    "YAML",
+    "XML sitemap",
+    "JSON-LD"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Google supports JSON-LD, Microdata and RDFa, but recommends JSON-LD because it sits in a separate script block and is easiest to add and maintain. An XML sitemap is not structured data markup.",
+   "hi": "Google JSON-LD, Microdata aur RDFa support karta hai, par JSON-LD recommend karta hai kyunki woh alag script block mein hota hai aur add/maintain karna sabse aasan hai. XML sitemap structured data markup nahi hai.",
+   "mr": "Google JSON-LD, Microdata आणि RDFa support करते, पण JSON-LD सुचवते कारण तो वेगळ्या script block मध्ये असतो आणि add/maintain करणे सर्वात सोपे आहे. XML sitemap हे structured data markup नाही."
+  }
+ },
+ {
+  "id": "seo-28",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune dental clinic's Google Business Profile shows an old phone number, the website shows a new one, and JustDial shows a third. Patients call the wrong number. Best fix?",
+   "hi": "Pune ke ek dental clinic ke Google Business Profile pe purana phone number hai, website pe naya, aur JustDial pe teesra. Patients galat number pe call kar rahe hain. Best fix kya hai?",
+   "mr": "पुण्यातील एका dental clinic च्या Google Business Profile वर जुना phone number आहे, website वर नवीन, आणि JustDial वर तिसराच. रुग्ण चुकीच्या नंबरवर call करतात. सर्वोत्तम उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Make name, address and phone identical on GBP, site and directories",
+    "Delete the Google Business Profile and create a fresh one",
+    "Update only the website, since Google trusts it the most",
+    "Show all three phone numbers on every listing for safety"
+   ],
+   "hi": [
+    "GBP, website aur directories pe name, address, phone ek jaisa karo",
+    "Google Business Profile delete karke naya bana lo",
+    "Sirf website update karo, Google usi pe sabse zyada trust karta hai",
+    "Safety ke liye har listing pe teeno phone numbers dikhao"
+   ],
+   "mr": [
+    "GBP, website आणि directories वर name, address, phone एकसारखे करा",
+    "Google Business Profile delete करून नवीन तयार करा",
+    "फक्त website update करा, Google तिच्यावरच सर्वात जास्त विश्वास ठेवते",
+    "खबरदारी म्हणून प्रत्येक listing वर तिन्ही phone numbers दाखवा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Consistent NAP across GBP, website and directories builds trust with Google and stops lost calls. Deleting the profile throws away its reviews and history; adding all numbers creates more confusion.",
+   "hi": "GBP, website aur directories pe consistent NAP se Google ka trust banta hai aur calls miss nahi hote. Profile delete karne se reviews aur history chali jaati hai; saare numbers daalne se confusion aur badhega.",
+   "mr": "GBP, website आणि directories वर सारखा NAP ठेवल्याने Google चा विश्वास बसतो आणि calls चुकत नाहीत. Profile delete केल्यास reviews आणि history जाते; सगळे नंबर टाकल्याने गोंधळ वाढतो."
+  }
+ },
+ {
+  "id": "seo-29",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A coaching institute's blog post 'What is the CAT exam?' ranks at position 4 with 20,000 monthly impressions but only 0.8% CTR. What should you try first?",
+   "hi": "Ek coaching institute ka blog 'What is the CAT exam?' position 4 pe rank kar raha hai, 20,000 monthly impressions hain par CTR sirf 0.8% hai. Sabse pehle kya try karna chahiye?",
+   "mr": "एका coaching institute चा blog 'What is the CAT exam?' position 4 वर rank होतो, दरमहा 20,000 impressions आहेत पण CTR फक्त 0.8% आहे. सर्वात आधी काय करून पाहावे?"
+  },
+  "opts": {
+   "en": [
+    "Build 200 new backlinks to the post within this month",
+    "Rewrite the title and meta description to better match the query",
+    "Delete the post and publish a brand-new one on the topic",
+    "Repeat the keyword 'CAT exam' 30 more times in the body"
+   ],
+   "hi": [
+    "Is mahine post ke liye 200 naye backlinks banao",
+    "Title aur meta description ko query se better match karke likho",
+    "Post delete karke usi topic pe bilkul naya post daalo",
+    "Body mein 'CAT exam' keyword 30 baar aur repeat karo"
+   ],
+   "mr": [
+    "या महिन्यात post साठी 200 नवीन backlinks तयार करा",
+    "title आणि meta description query शी अधिक जुळतील असे लिहा",
+    "post delete करून त्याच विषयावर नवीन post टाका",
+    "body मध्ये 'CAT exam' keyword आणखी 30 वेळा लिहा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Good position plus low CTR usually means the snippet isn't winning clicks. Improving the title and description (e.g. adding the current year's pattern, eligibility, dates) is the fastest test. Stuffing keywords would hurt.",
+   "hi": "Achhi position aur low CTR ka matlab aksar snippet clicks nahi jeet raha. Title aur description improve karna (jaise pattern, eligibility, dates batana) sabse fast test hai. Keyword stuffing se nuksaan hoga.",
+   "mr": "चांगली position पण कमी CTR म्हणजे snippet clicks मिळवत नाही. Title आणि description सुधारणे (उदा. pattern, eligibility, dates सांगणे) हा सर्वात जलद प्रयोग आहे. Keyword stuffing ने नुकसान होईल."
+  }
+ },
+ {
+  "id": "seo-30",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does adding rel=\"nofollow\" to a link tell Google?",
+   "hi": "Link pe rel=\"nofollow\" lagane se Google ko kya signal milta hai?",
+   "mr": "Link वर rel=\"nofollow\" लावल्याने Google ला काय सांगितले जाते?"
+  },
+  "opts": {
+   "en": [
+    "Never crawl or index the linking page",
+    "Open the link in a new tab",
+    "You don't want to vouch for or pass ranking credit to the linked page",
+    "The linked page is a paid advertisement that must be removed"
+   ],
+   "hi": [
+    "Linking page ko kabhi crawl ya index mat karo",
+    "Link ko new tab mein kholo",
+    "Aap linked page ko vouch nahi karna chahte ya ranking credit pass nahi karna chahte",
+    "Linked page ek paid ad hai jise hataana zaroori hai"
+   ],
+   "mr": [
+    "linking page कधीही crawl किंवा index करू नका",
+    "link नवीन tab मध्ये उघडा",
+    "तुम्ही linked page ची हमी देऊ इच्छित नाही किंवा ranking credit देऊ इच्छित नाही",
+    "linked page ही paid ad आहे जी काढावी लागेल"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "nofollow says you don't endorse the linked page. Since 2019 Google treats nofollow, sponsored and ugc as hints. Paid links should use rel=sponsored; user comments can use rel=ugc.",
+   "hi": "nofollow batata hai ki aap linked page ko endorse nahi karte. 2019 se Google nofollow, sponsored aur ugc ko hints ki tarah treat karta hai. Paid links pe rel=sponsored aur user comments pe rel=ugc use karo.",
+   "mr": "nofollow सांगतो की तुम्ही linked page ला endorse करत नाही. 2019 पासून Google nofollow, sponsored आणि ugc यांना hints मानते. Paid links साठी rel=sponsored आणि user comments साठी rel=ugc वापरा."
+  }
+ },
+ {
+  "id": "seo-31",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C tea brand's product page for 'Assam Tea 250g' uses the same manufacturer description that 30 other sellers use. It barely ranks. Best improvement?",
+   "hi": "Ek D2C tea brand ke 'Assam Tea 250g' product page pe wahi manufacturer description hai jo 30 aur sellers use karte hain. Page mushkil se rank karta hai. Best improvement kya hai?",
+   "mr": "एका D2C tea brand च्या 'Assam Tea 250g' product page वर तेच manufacturer description आहे जे आणखी 30 sellers वापरतात. Page क्वचितच rank होते. सर्वोत्तम सुधारणा कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Add a canonical tag that points to the Amazon listing",
+    "Hide the copied description text from users using CSS",
+    "Copy a competitor's better-written description instead",
+    "Write a unique description with origin, brewing tips, photos, reviews"
+   ],
+   "hi": [
+    "Amazon listing ki taraf point karta canonical tag lagao",
+    "Copied description ko CSS se users se chhupa do",
+    "Competitor ka better likha hua description copy kar lo",
+    "Origin, brewing tips, photos, reviews ke saath unique description likho"
+   ],
+   "mr": [
+    "Amazon listing कडे निर्देश करणारा canonical tag लावा",
+    "copied description CSS ने users पासून लपवा",
+    "competitor चे अधिक चांगले लिहिलेले description copy करा",
+    "origin, brewing tips, photos, reviews सह unique description लिहा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Duplicate manufacturer copy gives Google no reason to prefer your page. Original, helpful details make it distinct. A canonical to Amazon would hand your ranking to Amazon; hidden text is against spam policies.",
+   "hi": "Duplicate manufacturer copy se Google ke paas aapke page ko prefer karne ki koi wajah nahi. Original, helpful details page ko alag banate hain. Amazon ki taraf canonical se ranking Amazon ko mil jaayegi; hidden text spam policy ke khilaf hai.",
+   "mr": "Duplicate manufacturer copy मुळे Google ला तुमचे page निवडण्याचे कारणच नसते. मूळ, उपयुक्त माहिती page ला वेगळे बनवते. Amazon कडे canonical लावल्यास ranking Amazon ला जाईल; hidden text spam policy विरुद्ध आहे."
+  }
+ },
+ {
+  "id": "seo-32",
+  "level": 4,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'keyword cannibalization'?",
+   "hi": "'Keyword cannibalization' kya hai?",
+   "mr": "'Keyword cannibalization' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Your own pages competing for the same query and intent",
+    "A competitor copying your keywords into their ads",
+    "Google stripping the keywords out of your meta tags",
+    "Using too few keywords across a page's content"
+   ],
+   "hi": [
+    "Aapke hi pages ka same query aur intent ke liye compete karna",
+    "Competitor ka aapke keywords apne ads mein copy karna",
+    "Google ka aapke meta tags se keywords hata dena",
+    "Page ke content mein bahut kam keywords use karna"
+   ],
+   "mr": [
+    "तुमच्याच pages ची एकाच query आणि intent साठी स्पर्धा",
+    "competitor ने तुमचे keywords आपल्या ads मध्ये copy करणे",
+    "Google ने तुमच्या meta tags मधून keywords काढून टाकणे",
+    "page च्या content मध्ये खूप कमी keywords वापरणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "When multiple pages target the same intent, signals get split and Google may swap between them, so none ranks strongly. The fix is usually to merge, differentiate or re-link the pages.",
+   "hi": "Jab kai pages same intent target karte hain, signals bat jaate hain aur Google unke beech swap karta rehta hai, isliye koi bhi strong rank nahi karta. Fix: pages merge karo, alag banao ya internal linking theek karo.",
+   "mr": "अनेक pages एकाच intent ला target करतात तेव्हा signals विभागले जातात आणि Google त्यांच्यात बदल करत राहते, त्यामुळे कोणतेच page मजबूत rank होत नाही. उपाय: pages merge करा, वेगळी करा किंवा internal linking सुधारा."
+  }
+ },
+ {
+  "id": "seo-33",
+  "level": 5,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which Core Web Vital measures how quickly the main content of a page loads?",
+   "hi": "Kaunsa Core Web Vital measure karta hai ki page ka main content kitni jaldi load hota hai?",
+   "mr": "Page चा मुख्य content किती लवकर load होतो हे कोणता Core Web Vital मोजतो?"
+  },
+  "opts": {
+   "en": [
+    "CLS (Cumulative Layout Shift)",
+    "LCP (Largest Contentful Paint)",
+    "INP (Interaction to Next Paint)",
+    "TTL (Time To Live)"
+   ],
+   "hi": [
+    "CLS (Cumulative Layout Shift)",
+    "LCP (Largest Contentful Paint)",
+    "INP (Interaction to Next Paint)",
+    "TTL (Time To Live)"
+   ],
+   "mr": [
+    "CLS (Cumulative Layout Shift)",
+    "LCP (Largest Contentful Paint)",
+    "INP (Interaction to Next Paint)",
+    "TTL (Time To Live)"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "LCP measures when the largest visible element (often a hero image or heading) finishes rendering. CLS measures visual stability and INP measures responsiveness. TTL is a DNS/cache setting, not a Web Vital.",
+   "hi": "LCP measure karta hai ki sabse bada visible element (aksar hero image ya heading) kab render hota hai. CLS visual stability aur INP responsiveness measure karta hai. TTL DNS/cache setting hai, Web Vital nahi.",
+   "mr": "LCP मोजतो की सर्वात मोठा दिसणारा element (बहुधा hero image किंवा heading) कधी render होतो. CLS visual stability आणि INP responsiveness मोजतो. TTL ही DNS/cache setting आहे, Web Vital नाही."
+  }
+ },
+ {
+  "id": "seo-34",
+  "level": 5,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "According to Google, what LCP value counts as 'good'?",
+   "hi": "Google ke hisaab se kaunsi LCP value 'good' maani jaati hai?",
+   "mr": "Google नुसार कोणती LCP value 'good' मानली जाते?"
+  },
+  "opts": {
+   "en": [
+    "Under 10 seconds",
+    "Under 5 seconds",
+    "2.5 seconds or less",
+    "200 milliseconds or less"
+   ],
+   "hi": [
+    "10 seconds se kam",
+    "5 seconds se kam",
+    "2.5 seconds ya usse kam",
+    "200 milliseconds ya usse kam"
+   ],
+   "mr": [
+    "10 seconds पेक्षा कमी",
+    "5 seconds पेक्षा कमी",
+    "2.5 seconds किंवा कमी",
+    "200 milliseconds किंवा कमी"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Google's 'good' thresholds: LCP 2.5 s or less, INP 200 ms or less, CLS 0.1 or less, measured at the 75th percentile of real visits. 200 ms is the INP threshold, not LCP.",
+   "hi": "Google ke 'good' thresholds: LCP 2.5 s ya kam, INP 200 ms ya kam, CLS 0.1 ya kam, real visits ke 75th percentile pe measure. 200 ms INP ka threshold hai, LCP ka nahi.",
+   "mr": "Google चे 'good' thresholds: LCP 2.5 s किंवा कमी, INP 200 ms किंवा कमी, CLS 0.1 किंवा कमी, खऱ्या visits च्या 75th percentile वर मोजलेले. 200 ms हा INP चा threshold आहे, LCP चा नाही."
+  }
+ },
+ {
+  "id": "seo-35",
+  "level": 5,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A Mumbai real-estate website is moving from http:// to https://. What is the correct way to do it for SEO?",
+   "hi": "Mumbai ki ek real-estate website http:// se https:// pe shift ho rahi hai. SEO ke liye sahi tareeka kya hai?",
+   "mr": "मुंबईतील एक real-estate website http:// वरून https:// वर जात आहे. SEO साठी योग्य पद्धत कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Keep both versions live with no redirects so no traffic is lost",
+    "302-redirect only the homepage and leave other pages unchanged",
+    "Block the old http version of every page in robots.txt",
+    "301 each http URL to https; update internal links, canonicals, sitemap"
+   ],
+   "hi": [
+    "Traffic na jaaye isliye dono versions bina redirect ke live rakho",
+    "Sirf homepage ko 302 redirect karo, baaki pages waise hi chhodo",
+    "Har page ka purana http version robots.txt mein block karo",
+    "Har http URL ko https pe 301 karo; internal links, canonicals, sitemap update karo"
+   ],
+   "mr": [
+    "traffic जाऊ नये म्हणून दोन्ही versions redirect शिवाय live ठेवा",
+    "फक्त homepage ला 302 redirect करा, बाकी pages तशीच ठेवा",
+    "प्रत्येक page चे जुने http version robots.txt मध्ये block करा",
+    "प्रत्येक http URL https कडे 301 करा; internal links, canonicals, sitemap update करा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Page-to-page 301 redirects pass signals to the https URLs, and updating internal links, canonicals and the sitemap avoids mixed signals. Blocking http in robots.txt would stop Google from seeing the redirects.",
+   "hi": "Page-to-page 301 redirects signals ko https URLs tak pahunchate hain, aur internal links, canonicals, sitemap update karne se mixed signals nahi jaate. robots.txt mein http block karne se Google redirects dekh hi nahi paayega.",
+   "mr": "Page-to-page 301 redirects मुळे signals https URLs कडे जातात, आणि internal links, canonicals, sitemap update केल्याने गोंधळ टळतो. robots.txt मध्ये http block केल्यास Google ला redirects दिसणारच नाहीत."
+  }
+ },
+ {
+  "id": "seo-36",
+  "level": 5,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "You want an old page removed from Google's index. Why is disallowing it in robots.txt NOT the right method?",
+   "hi": "Aap chahte ho ki ek purana page Google ke index se hat jaaye. robots.txt mein disallow karna sahi tareeka kyun NAHI hai?",
+   "mr": "एखादे जुने page Google च्या index मधून काढायचे आहे. robots.txt मध्ये disallow करणे योग्य पद्धत का नाही?"
+  },
+  "opts": {
+   "en": [
+    "Google can't crawl it to see noindex; links can still get it indexed",
+    "robots.txt rules only apply to images, not to HTML pages",
+    "robots.txt permanently deletes the page from your server",
+    "Google penalizes every website that has a robots.txt file"
+   ],
+   "hi": [
+    "Google crawl karke noindex nahi dekh paata; links se URL phir bhi index ho sakta hai",
+    "robots.txt rules sirf images pe lagte hain, HTML pages pe nahi",
+    "robots.txt page ko server se permanently delete kar deta hai",
+    "Jis website pe robots.txt file ho, Google use penalize karta hai"
+   ],
+   "mr": [
+    "Google crawl करून noindex पाहू शकत नाही; links मुळे URL तरीही index होऊ शकतो",
+    "robots.txt चे नियम फक्त images ना लागू होतात, HTML pages ना नाही",
+    "robots.txt page server वरून कायमचे delete करतो",
+    "robots.txt file असलेल्या प्रत्येक website ला Google penalize करते"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "robots.txt controls crawling, not indexing. A blocked URL can still appear (without a description) if other pages link to it. Use noindex (and allow crawling), or return 404/410 if the page is gone.",
+   "hi": "robots.txt crawling control karta hai, indexing nahi. Blocked URL bhi (bina description ke) dikh sakta hai agar doosre pages usse link karein. noindex use karo (crawling allow rakho), ya page hata diya ho toh 404/410 do.",
+   "mr": "robots.txt crawling नियंत्रित करतो, indexing नाही. Blocked URL इतर pages वरून link असल्यास (description शिवाय) दिसू शकतो. noindex वापरा (crawling allow ठेवा), किंवा page काढले असल्यास 404/410 द्या."
+  }
+ },
+ {
+  "id": "seo-37",
+  "level": 5,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Nashik clinic chain has three branches in different areas. How should it set up Google Business Profile?",
+   "hi": "Nashik ki ek clinic chain ke teen alag areas mein branches hain. Google Business Profile kaise set up karna chahiye?",
+   "mr": "नाशिकमधील एका clinic chain च्या तीन वेगवेगळ्या भागात branches आहेत. Google Business Profile कसे set up करावे?"
+  },
+  "opts": {
+   "en": [
+    "One profile for all branches using the head office address",
+    "A separate verified profile per branch, each with its own address and phone",
+    "Several profiles per branch to cover more keywords in Maps",
+    "No profile at all; rely only on the website's contact page"
+   ],
+   "hi": [
+    "Saari branches ke liye head office address wala ek profile",
+    "Har branch ka alag verified profile, apne address aur phone ke saath",
+    "Maps mein zyada keywords ke liye har branch ke kai profiles",
+    "Koi profile nahi; sirf website ke contact page pe depend karo"
+   ],
+   "mr": [
+    "सर्व branches साठी head office पत्त्याचा एकच profile",
+    "प्रत्येक branch चा स्वतःचा पत्ता आणि phone असलेला वेगळा verified profile",
+    "Maps मध्ये जास्त keywords साठी प्रत्येक branch चे अनेक profiles",
+    "profile नकोच; फक्त website च्या contact page वर अवलंबून राहा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Each real, staffed location can have its own profile, which lets every branch appear in nearby Maps searches. Multiple profiles for one location violate Google's guidelines and can get listings suspended.",
+   "hi": "Har real, staffed location ka apna profile ho sakta hai, jisse har branch nearby Maps searches mein dikhti hai. Ek location ke multiple profiles Google guidelines ke khilaf hain aur listing suspend ho sakti hai.",
+   "mr": "प्रत्येक खऱ्या, कर्मचारी असलेल्या location चा स्वतंत्र profile असू शकतो, त्यामुळे प्रत्येक branch जवळच्या Maps searches मध्ये दिसते. एका location चे अनेक profiles Google guidelines विरुद्ध आहेत आणि listing suspend होऊ शकते."
+  }
+ },
+ {
+  "id": "seo-38",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Google says local search results are mainly based on which three factors?",
+   "hi": "Google ke mutabik local search results mainly kin teen factors pe based hote hain?",
+   "mr": "Google नुसार local search results मुख्यतः कोणत्या तीन घटकांवर आधारित असतात?"
+  },
+  "opts": {
+   "en": [
+    "Domain age, backlinks and ad spend",
+    "Photos, posts and website speed",
+    "Relevance, distance and prominence",
+    "Number of reviews, opening hours and logo"
+   ],
+   "hi": [
+    "Domain age, backlinks aur ad spend",
+    "Photos, posts aur website speed",
+    "Relevance, distance aur prominence",
+    "Reviews ki sankhya, opening hours aur logo"
+   ],
+   "mr": [
+    "Domain age, backlinks आणि ad spend",
+    "Photos, posts आणि website speed",
+    "Relevance, distance आणि prominence",
+    "reviews ची संख्या, उघडण्याच्या वेळा आणि logo"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Google's help docs name relevance (match to the search), distance (from the searcher) and prominence (how well-known, including reviews and links). Ad spend has no effect on local organic rankings.",
+   "hi": "Google ke help docs teen factors batate hain: relevance (search se match), distance (searcher se doori) aur prominence (kitna jaana-maana, reviews aur links samet). Ad spend se local organic ranking pe koi asar nahi.",
+   "mr": "Google च्या help docs मध्ये तीन घटक आहेत: relevance (search शी जुळणे), distance (searcher पासूनचे अंतर) आणि prominence (किती प्रसिद्ध, reviews आणि links सह). Ad spend चा local organic ranking वर परिणाम होत नाही."
+  }
+ },
+ {
+  "id": "seo-39",
+  "level": 5,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune bakery owner is offered '500 high-DA backlinks for ₹2,000' by an online seller. What should you advise?",
+   "hi": "Pune ke ek bakery owner ko online seller '₹2,000 mein 500 high-DA backlinks' offer kar raha hai. Aap kya advice doge?",
+   "mr": "पुण्यातील एका bakery मालकाला online seller '₹2,000 मध्ये 500 high-DA backlinks' offer करत आहे. तुम्ही काय सल्ला द्याल?"
+  },
+  "opts": {
+   "en": [
+    "Buy them, because more links always means higher rankings",
+    "Buy them now and add rel=sponsored later if rankings drop",
+    "Buy only 100 of them so the link profile looks natural",
+    "Decline; paid link schemes break Google's spam policies. Earn local links"
+   ],
+   "hi": [
+    "Khareed lo, kyunki zyada links matlab hamesha zyada ranking",
+    "Abhi khareed lo, ranking gire toh baad mein rel=sponsored laga dena",
+    "Sirf 100 khareedo taaki link profile natural lage",
+    "Mana karo; paid link schemes Google spam policy todte hain. Local links kamao"
+   ],
+   "mr": [
+    "विकत घ्या, कारण जास्त links म्हणजे नेहमी जास्त ranking",
+    "आता विकत घ्या, ranking घसरले तर नंतर rel=sponsored लावा",
+    "link profile नैसर्गिक वाटावे म्हणून फक्त 100 घ्या",
+    "नकार द्या; paid link schemes Google spam policy मोडतात. Local links मिळवा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Cheap bulk links are usually spammy and are link schemes under Google's spam policies. At best Google ignores them; at worst you get a manual action. Real local mentions and partnerships are safer and more useful.",
+   "hi": "Saste bulk links aksar spammy hote hain aur Google spam policy mein link scheme maane jaate hain. Best case Google unhe ignore karega; worst case manual action. Real local mentions aur partnerships safe aur useful hain.",
+   "mr": "स्वस्त bulk links बहुधा spammy असतात आणि Google spam policy नुसार link scheme मानल्या जातात. चांगल्यात चांगले Google त्या दुर्लक्षित करेल; वाईटात वाईट manual action मिळेल. खरे local mentions आणि partnerships सुरक्षित आणि उपयुक्त आहेत."
+  }
+ },
+ {
+  "id": "seo-40",
+  "level": 5,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which Search Console tool lets you check whether a specific URL is indexed and request indexing after an update?",
+   "hi": "Search Console ka kaunsa tool check karne deta hai ki ek specific URL indexed hai ya nahi, aur update ke baad indexing request karne deta hai?",
+   "mr": "एखादा specific URL indexed आहे का ते तपासणे आणि update नंतर indexing request करणे हे Search Console च्या कोणत्या tool ने करता येते?"
+  },
+  "opts": {
+   "en": [
+    "URL Inspection tool",
+    "Disavow tool",
+    "Removals tool",
+    "Links report"
+   ],
+   "hi": [
+    "URL Inspection tool",
+    "Disavow tool",
+    "Removals tool",
+    "Links report"
+   ],
+   "mr": [
+    "URL Inspection tool",
+    "Disavow tool",
+    "Removals tool",
+    "Links report"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "URL Inspection shows a URL's index status, the canonical Google chose, and crawl details, and lets you request indexing. Removals temporarily hides URLs; it doesn't add them.",
+   "hi": "URL Inspection URL ka index status, Google ka chuna hua canonical aur crawl details dikhata hai, aur indexing request karne deta hai. Removals tool URLs ko temporarily hide karta hai, add nahi karta.",
+   "mr": "URL Inspection हे URL चा index status, Google ने निवडलेला canonical आणि crawl तपशील दाखवते, आणि indexing request करू देते. Removals tool URLs तात्पुरते लपवते, add करत नाही."
+  }
+ },
+ {
+  "id": "seo-41",
+  "level": 6,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "In hreflang annotations, what is the 'x-default' value used for?",
+   "hi": "hreflang annotations mein 'x-default' value kis liye use hoti hai?",
+   "mr": "hreflang annotations मध्ये 'x-default' value कशासाठी वापरतात?"
+  },
+  "opts": {
+   "en": [
+    "Marks whichever language version gets the most traffic",
+    "Fallback page when no listed language or region matches the user",
+    "Tells Google to ignore all the other hreflang tags",
+    "Sets English as the default language for all Google users"
+   ],
+   "hi": [
+    "Jis language version pe sabse zyada traffic ho use mark karta hai",
+    "Jab koi listed language ya region user se match na kare, tab ka fallback page",
+    "Google ko baaki saare hreflang tags ignore karne ko kehta hai",
+    "Saare Google users ke liye English ko default language banata hai"
+   ],
+   "mr": [
+    "सर्वाधिक traffic असलेले language version mark करतो",
+    "कोणतीही listed भाषा किंवा region user शी जुळत नसेल तेव्हाचे fallback page",
+    "Google ला इतर सर्व hreflang tags दुर्लक्ष करायला सांगतो",
+    "सर्व Google users साठी English default भाषा ठरवतो"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "x-default points to the page to show when no listed language/region matches, often a language selector or global page. It doesn't override other hreflang values.",
+   "hi": "x-default woh page batata hai jo tab dikhe jab koi listed language/region match na kare, aksar language selector ya global page. Yeh baaki hreflang values ko override nahi karta.",
+   "mr": "x-default ते page दाखवतो जे कोणतीही listed भाषा/region जुळत नसताना दिसावे, बहुधा language selector किंवा global page. हे इतर hreflang values override करत नाही."
+  }
+ },
+ {
+  "id": "seo-42",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Bengaluru SaaS startup wants to rank its product page for 'best CRM for small business India'. The top 10 results are all comparison articles. Why is it struggling, and what should it do?",
+   "hi": "Bengaluru ka ek SaaS startup apne product page ko 'best CRM for small business India' ke liye rank karwana chahta hai. Top 10 results saare comparison articles hain. Kyun struggle ho raha hai aur kya karna chahiye?",
+   "mr": "बेंगळुरूमधील एका SaaS startup ला आपले product page 'best CRM for small business India' साठी rank करायचे आहे. Top 10 results सर्व comparison articles आहेत. अडचण का येते आणि काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Keyword density is too low, so repeat the exact phrase more often",
+    "Google penalizes SaaS product pages, so move to a brand-new domain",
+    "Intent mismatch: searchers want comparisons, so publish a fair comparison guide",
+    "The page has too few images, so add a large screenshot gallery"
+   ],
+   "hi": [
+    "Keyword density kam hai, isliye exact phrase ko aur repeat karo",
+    "Google SaaS product pages ko penalize karta hai, isliye naya domain lo",
+    "Intent mismatch: log comparisons chahte hain, toh fair comparison guide banao",
+    "Page pe images kam hain, isliye badi screenshot gallery add karo"
+   ],
+   "mr": [
+    "keyword density कमी आहे, म्हणून exact phrase आणखी वेळा लिहा",
+    "Google SaaS product pages ना penalize करते, म्हणून नवीन domain घ्या",
+    "Intent mismatch: लोकांना comparisons हवी आहेत, म्हणून fair comparison guide बनवा",
+    "page वर images कमी आहेत, म्हणून मोठी screenshot gallery add करा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "The SERP shows what intent Google sees for a query. 'Best X' queries want comparisons, so a single product page rarely fits. A fair comparison guide matches intent and can still feature the product.",
+   "hi": "SERP dikhata hai ki Google query ka intent kya samajhta hai. 'Best X' queries mein log comparison chahte hain, isliye single product page fit nahi hota. Fair comparison guide intent match karti hai aur product bhi dikha sakti hai.",
+   "mr": "SERP दाखवते की Google query चा intent काय समजते. 'Best X' queries मध्ये लोकांना comparison हवे असते, म्हणून एकच product page बसत नाही. प्रामाणिक comparison guide intent जुळवते आणि product ही दाखवू शकते."
+  }
+ },
+ {
+  "id": "seo-43",
+  "level": 6,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is a 'soft 404'?",
+   "hi": "'Soft 404' kya hota hai?",
+   "mr": "'Soft 404' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A 404 page with a friendly design and a search box",
+    "A page that loads slowly and times out",
+    "A redirect from a deleted page to the homepage that uses a 302",
+    "A page that returns 200 OK but shows 'not found' or almost no content"
+   ],
+   "hi": [
+    "Friendly design aur search box wala 404 page",
+    "Ek page jo slow load hokar time out ho jaata hai",
+    "Deleted page se homepage pe 302 wala redirect",
+    "Ek page jo 200 OK return karta hai par 'not found' ya lagbhag khaali content dikhata hai"
+   ],
+   "mr": [
+    "friendly design आणि search box असलेले 404 page",
+    "हळू load होऊन time out होणारे page",
+    "deleted page वरून homepage कडे 302 redirect",
+    "200 OK देणारे पण 'not found' किंवा जवळजवळ रिकामा content दाखवणारे page"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "A soft 404 tells the server 'OK' while the page is really empty or missing, which confuses search engines and wastes crawling. Return a real 404/410, or add real content. Redirecting many deleted pages to the homepage is also often treated as soft 404.",
+   "hi": "Soft 404 mein server 'OK' bolta hai jabki page asal mein khaali ya missing hai, jisse search engines confuse hote hain aur crawling waste hoti hai. Asli 404/410 do ya real content daalo. Bahut saare deleted pages ko homepage pe redirect karna bhi aksar soft 404 maana jaata hai.",
+   "mr": "Soft 404 मध्ये server 'OK' म्हणतो पण page प्रत्यक्षात रिकामे किंवा नसते, त्यामुळे search engines गोंधळतात आणि crawling वाया जाते. खरा 404/410 द्या किंवा खरा content टाका. अनेक deleted pages homepage कडे redirect करणेही बहुधा soft 404 मानले जाते."
+  }
+ },
+ {
+  "id": "seo-44",
+  "level": 6,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "After a website redesign, every URL changed (e.g. /products/saree-123 became /shop/silk-saree). Organic traffic fell 50% within two weeks. Most likely cause and fix?",
+   "hi": "Website redesign ke baad har URL badal gaya (jaise /products/saree-123 ab /shop/silk-saree). Do hafte mein organic traffic 50% gir gaya. Sabse likely cause aur fix?",
+   "mr": "Website redesign नंतर प्रत्येक URL बदलला (उदा. /products/saree-123 आता /shop/silk-saree). दोन आठवड्यांत organic traffic 50% घसरले. सर्वात संभाव्य कारण आणि उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Old URLs weren't 301-redirected; map each to its closest new page",
+    "Google is penalizing the new design colours, so revert them",
+    "The XML sitemap is too large, so delete it completely",
+    "New URLs must be at least 100 characters long to rank"
+   ],
+   "hi": [
+    "Purane URLs ka 301 redirect nahi hua; har ek ko closest naye page pe map karo",
+    "Google naye design ke colours ko penalize kar raha hai, unhe wapas badlo",
+    "XML sitemap bahut bada hai, use poori tarah delete kar do",
+    "Rank karne ke liye naye URLs kam se kam 100 characters ke hone chahiye"
+   ],
+   "mr": [
+    "जुन्या URLs ना 301 redirect केले नाही; प्रत्येक जवळच्या नवीन page कडे map करा",
+    "Google नव्या design च्या रंगांना penalize करत आहे, ते परत बदला",
+    "XML sitemap खूप मोठा आहे, तो पूर्णपणे delete करा",
+    "rank होण्यासाठी नवीन URLs किमान 100 characters चे हवेत"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Without redirects, old ranking URLs become 404s and their links and signals are lost. A one-to-one 301 redirect map from old to new URLs is the core of any migration.",
+   "hi": "Redirects ke bina purane ranking URLs 404 ban jaate hain aur unke links aur signals kho jaate hain. Purane se naye URLs ka one-to-one 301 redirect map har migration ka core hai.",
+   "mr": "Redirects शिवाय जुने ranking URLs 404 होतात आणि त्यांच्या links व signals हरवतात. जुन्या ते नवीन URLs चा one-to-one 301 redirect map हा प्रत्येक migration चा गाभा आहे."
+  }
+ },
+ {
+  "id": "seo-45",
+  "level": 6,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is the key difference between a canonical tag and a 301 redirect?",
+   "hi": "Canonical tag aur 301 redirect mein main difference kya hai?",
+   "mr": "Canonical tag आणि 301 redirect मधील मुख्य फरक काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "Canonical deletes the duplicate page, while a 301 keeps both indexed",
+    "Canonical is a hint and the page stays reachable; a 301 moves users and bots",
+    "Canonical works only on mobile, while a 301 works only on desktop",
+    "There is no real difference; both send exactly the same signal"
+   ],
+   "hi": [
+    "Canonical duplicate page delete karta hai, jabki 301 dono ko index rakhta hai",
+    "Canonical hint hai aur page khulta rehta hai; 301 users aur bots ko shift karta hai",
+    "Canonical sirf mobile pe kaam karta hai, jabki 301 sirf desktop pe",
+    "Koi asli fark nahi; dono bilkul same signal bhejte hain"
+   ],
+   "mr": [
+    "Canonical duplicate page delete करतो, तर 301 दोन्ही index ठेवतो",
+    "Canonical हा hint असून page उघडता येते; 301 users आणि bots ना हलवतो",
+    "Canonical फक्त mobile वर काम करतो, तर 301 फक्त desktop वर",
+    "खरा फरक नाही; दोन्ही अगदी सारखाच signal पाठवतात"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Use canonical when duplicate versions must stay accessible (e.g. tracking or filter URLs); Google may still choose another canonical. Use a 301 when the old URL should no longer be visited at all.",
+   "hi": "Canonical tab use karo jab duplicate versions accessible rehne chahiye (jaise tracking ya filter URLs); Google phir bhi doosra canonical chun sakta hai. 301 tab use karo jab purana URL bilkul visit nahi hona chahiye.",
+   "mr": "Duplicate versions उपलब्ध राहणे गरजेचे असेल (उदा. tracking किंवा filter URLs) तेव्हा canonical वापरा; Google तरीही दुसरा canonical निवडू शकते. जुना URL अजिबात उघडू नये तेव्हा 301 वापरा."
+  }
+ },
+ {
+  "id": "seo-46",
+  "level": 6,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand's React single-page site shows product text only after client-side JavaScript runs, and many product pages are slow to get indexed. What reduces the SEO risk most?",
+   "hi": "Ek D2C brand ki React single-page site pe product text sirf client-side JavaScript chalne ke baad dikhta hai, aur kai product pages index hone mein late hote hain. SEO risk sabse zyada kya kam karega?",
+   "mr": "एका D2C brand च्या React single-page site वर product text फक्त client-side JavaScript चालल्यानंतर दिसतो, आणि अनेक product pages index व्हायला उशीर होतो. SEO risk सर्वात जास्त काय कमी करेल?"
+  },
+  "opts": {
+   "en": [
+    "Block the JavaScript files in robots.txt to speed up crawling",
+    "Move all product descriptions inside images to protect them",
+    "Server-side render or pre-render so content and links are in the HTML",
+    "Just add more product URLs to the XML sitemap and wait"
+   ],
+   "hi": [
+    "Crawling fast karne ke liye JavaScript files robots.txt mein block karo",
+    "Saare product descriptions images ke andar daal do",
+    "Server-side render ya pre-render karo taaki content aur links HTML mein hon",
+    "Bas XML sitemap mein aur product URLs daal ke wait karo"
+   ],
+   "mr": [
+    "crawling जलद करण्यासाठी JavaScript files robots.txt मध्ये block करा",
+    "सर्व product descriptions images मध्ये टाका",
+    "content आणि links HTML मध्ये असावेत म्हणून server-side render किंवा pre-render करा",
+    "फक्त XML sitemap मध्ये आणखी product URLs टाकून वाट पाहा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Google can render JavaScript, but rendering can be delayed and fails if resources are blocked. SSR/SSG puts content and crawlable <a href> links in the HTML immediately. Blocking JS files would make rendering worse.",
+   "hi": "Google JavaScript render kar sakta hai, par rendering delay ho sakti hai aur resources block hon toh fail hoti hai. SSR/SSG content aur crawlable <a href> links turant HTML mein de deta hai. JS files block karne se rendering aur kharab hogi.",
+   "mr": "Google JavaScript render करू शकते, पण rendering ला उशीर होऊ शकतो आणि resources block असल्यास ते अयशस्वी होते. SSR/SSG मुळे content आणि crawlable <a href> links लगेच HTML मध्ये मिळतात. JS files block केल्यास rendering आणखी बिघडेल."
+  }
+ },
+ {
+  "id": "seo-47",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune travel blog notices Google shows a different headline in search results than its title tag, which reads 'Best Trek | Treks | Pune Treks | Monsoon Treks 2025 | Sahyadri'. Why, and what fixes it?",
+   "hi": "Pune ke ek travel blog ne dekha ki Google search results mein title tag se alag headline dikhata hai. Title tag hai 'Best Trek | Treks | Pune Treks | Monsoon Treks 2025 | Sahyadri'. Kyun, aur fix kya hai?",
+   "mr": "पुण्यातील एका travel blog ला दिसले की Google search results मध्ये title tag पेक्षा वेगळी headline दाखवते. Title tag आहे 'Best Trek | Treks | Pune Treks | Monsoon Treks 2025 | Sahyadri'. का, आणि उपाय काय?"
+  },
+  "opts": {
+   "en": [
+    "Google shows ad headlines for blogs, so start running Google Ads",
+    "Titles must be written fully in capital letters to be used",
+    "The site has a manual action, so file a reconsideration request",
+    "Google may rewrite stuffed titles; write one concise, accurate title"
+   ],
+   "hi": [
+    "Google blogs ke liye ad headlines dikhata hai, toh Google Ads chalao",
+    "Title use hone ke liye poora capital letters mein hona chahiye",
+    "Site pe manual action hai, isliye reconsideration request bhejo",
+    "Google stuffed titles rewrite kar sakta hai; ek concise, accurate title likho"
+   ],
+   "mr": [
+    "Google blogs साठी ad headlines दाखवते, म्हणून Google Ads चालवा",
+    "title वापरला जाण्यासाठी तो पूर्ण capital letters मध्ये हवा",
+    "site वर manual action आहे, म्हणून reconsideration request पाठवा",
+    "Google stuffed titles rewrite करू शकते; एक छोटा, अचूक title लिहा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Google generates title links from several sources and may replace titles that are too long, repetitive or keyword-stuffed. A clear title like 'Monsoon Treks Near Pune: 12 Routes for Beginners' is more likely to be used.",
+   "hi": "Google title links kai sources se banata hai aur bahut lambe, repetitive ya keyword-stuffed titles ko replace kar sakta hai. 'Monsoon Treks Near Pune: 12 Routes for Beginners' jaisa clear title use hone ke chances zyada hain.",
+   "mr": "Google अनेक स्रोतांमधून title links तयार करते आणि खूप लांब, पुनरावृत्तीचे किंवा keyword-stuffed titles बदलू शकते. 'Monsoon Treks Near Pune: 12 Routes for Beginners' सारखा स्पष्ट title वापरला जाण्याची शक्यता जास्त असते."
+  }
+ },
+ {
+  "id": "seo-48",
+  "level": 7,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "An online fashion store's filter URLs (?color=red&size=m&sort=price) create lakhs of near-duplicate URLs, and Googlebot spends most of its crawling on them. Best approach?",
+   "hi": "Ek online fashion store ke filter URLs (?color=red&size=m&sort=price) lakhon near-duplicate URLs bana rahe hain, aur Googlebot ki zyada crawling unhi pe ho rahi hai. Best approach?",
+   "mr": "एका online fashion store चे filter URLs (?color=red&size=m&sort=price) लाखो near-duplicate URLs तयार करतात, आणि Googlebot चे बहुतेक crawling त्यावरच जाते. सर्वोत्तम पद्धत कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Keep useful filter pages indexable; block low-value combos like sort URLs",
+    "Add a noindex tag to every single category page on the site",
+    "Submit every possible filter combination in the XML sitemap",
+    "Redirect every filter URL on the site to the homepage"
+   ],
+   "hi": [
+    "Useful filter pages indexable rakho; sort jaise low-value combos block karo",
+    "Site ke har ek category page pe noindex tag laga do",
+    "Har possible filter combination XML sitemap mein submit karo",
+    "Site ke har filter URL ko homepage pe redirect kar do"
+   ],
+   "mr": [
+    "उपयुक्त filter pages indexable ठेवा; sort सारखे कमी-मूल्याचे combos block करा",
+    "site च्या प्रत्येक category page वर noindex tag लावा",
+    "प्रत्येक शक्य filter combination XML sitemap मध्ये submit करा",
+    "site चा प्रत्येक filter URL homepage कडे redirect करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Faceted navigation is a classic crawl-waste problem. Decide which filters have real search demand (e.g. 'red kurtis') and keep those; block or de-link endless low-value combinations. Noindexing all categories or redirecting to home would destroy useful pages.",
+   "hi": "Faceted navigation classic crawl-waste problem hai. Decide karo kaunse filters ki real search demand hai (jaise 'red kurtis') aur unhe rakho; endless low-value combinations ko block ya de-link karo. Saari categories noindex karna ya home pe redirect karna useful pages khatam kar dega.",
+   "mr": "Faceted navigation ही crawl-waste ची नेहमीची समस्या आहे. कोणत्या filters ना खरी search demand आहे (उदा. 'red kurtis') ते ठरवा आणि ती ठेवा; अंतहीन कमी-मूल्याचे combinations block किंवा de-link करा. सर्व categories noindex करणे किंवा home कडे redirect करणे उपयुक्त pages नष्ट करेल."
+  }
+ },
+ {
+  "id": "seo-49",
+  "level": 7,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "In August 2023 Google limited FAQ rich results in Search. Which sites did it say would still normally be eligible?",
+   "hi": "August 2023 mein Google ne Search mein FAQ rich results limit kar diye. Google ke mutabik ab aam taur pe kaunsi sites eligible rahengi?",
+   "mr": "August 2023 मध्ये Google ने Search मधील FAQ rich results मर्यादित केले. Google नुसार आता सहसा कोणत्या sites पात्र राहतील?"
+  },
+  "opts": {
+   "en": [
+    "Any website that has more than 1,000 backlinks",
+    "Well-known, authoritative government and health websites",
+    "Only e-commerce sites with product review pages",
+    "Websites that are also running Google Ads campaigns"
+   ],
+   "hi": [
+    "1,000 se zyada backlinks wali koi bhi website",
+    "Well-known, authoritative government aur health websites",
+    "Sirf product review pages wali e-commerce sites",
+    "Woh websites jo Google Ads campaigns bhi chala rahi hain"
+   ],
+   "mr": [
+    "1,000 पेक्षा जास्त backlinks असलेली कोणतीही website",
+    "प्रसिद्ध, अधिकृत government आणि health websites",
+    "फक्त product review pages असलेल्या e-commerce sites",
+    "ज्या websites Google Ads campaigns ही चालवतात"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "In August 2023 Google said FAQ rich results would be shown only for well-known, authoritative government and health sites, and it reduced HowTo rich results. Adding FAQ schema no longer earns FAQ snippets for most business sites.",
+   "hi": "August 2023 mein Google ne kaha ki FAQ rich results sirf well-known, authoritative government aur health sites ke liye dikhenge, aur HowTo rich results bhi kam kiye. Ab zyada tar business sites ko FAQ schema se FAQ snippets nahi milte.",
+   "mr": "August 2023 मध्ये Google ने सांगितले की FAQ rich results फक्त प्रसिद्ध, अधिकृत government आणि health sites साठीच दिसतील, आणि HowTo rich results ही कमी केले. आता बहुतेक business sites ना FAQ schema मुळे FAQ snippets मिळत नाहीत."
+  }
+ },
+ {
+  "id": "seo-50",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune coaching institute has two pages, 'MPSC Coaching in Pune' and 'Best MPSC Classes Pune', with near-identical content. Google keeps swapping them between positions 15 and 25. Best move?",
+   "hi": "Pune ke ek coaching institute ke do pages hain, 'MPSC Coaching in Pune' aur 'Best MPSC Classes Pune', dono ka content lagbhag same. Google dono ko position 15 se 25 ke beech swap karta rehta hai. Best move?",
+   "mr": "पुण्यातील एका coaching institute ची दोन pages आहेत, 'MPSC Coaching in Pune' आणि 'Best MPSC Classes Pune', दोन्हींचा content जवळजवळ सारखा. Google दोन्ही pages position 15 ते 25 दरम्यान बदलत राहते. सर्वोत्तम पाऊल कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Create a third page targeting the same MPSC keyword",
+    "Add a noindex tag to both pages until rankings settle",
+    "Merge into one stronger page and 301 the weaker URL to it",
+    "Change the publish date on both pages every single week"
+   ],
+   "hi": [
+    "Same MPSC keyword ke liye teesra page bana do",
+    "Ranking settle hone tak dono pages pe noindex tag laga do",
+    "Merge karke ek strong page banao aur weak URL ko us pe 301 karo",
+    "Dono pages ki publish date har hafte badalte raho"
+   ],
+   "mr": [
+    "त्याच MPSC keyword साठी तिसरे page तयार करा",
+    "ranking स्थिर होईपर्यंत दोन्ही pages वर noindex tag लावा",
+    "merge करून एक मजबूत page बनवा आणि कमकुवत URL त्याकडे 301 करा",
+    "दोन्ही pages ची publish date दर आठवड्याला बदलत राहा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "This is keyword cannibalization. Merging combines the best content and the link signals of both pages into one URL. A third page makes it worse; noindexing both removes you from results.",
+   "hi": "Yeh keyword cannibalization hai. Merge karne se dono pages ka best content aur link signals ek URL mein aa jaate hain. Teesra page problem badhayega; dono pe noindex se aap results se hi bahar ho jaoge.",
+   "mr": "हे keyword cannibalization आहे. Merge केल्याने दोन्ही pages चा सर्वोत्तम content आणि link signals एकाच URL मध्ये येतात. तिसरे page समस्या वाढवेल; दोन्हींवर noindex लावल्यास तुम्ही results मधूनच बाहेर पडाल."
+  }
+ },
+ {
+  "id": "seo-51",
+  "level": 7,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "In Search Console, many blog posts show 'Crawled – currently not indexed'. What does this usually mean?",
+   "hi": "Search Console mein kai blog posts 'Crawled – currently not indexed' dikha rahe hain. Iska aam taur pe matlab kya hai?",
+   "mr": "Search Console मध्ये अनेक blog posts 'Crawled – currently not indexed' दाखवतात. याचा सहसा अर्थ काय?"
+  },
+  "opts": {
+   "en": [
+    "The site has received a manual penalty for spammy content",
+    "robots.txt is blocking Googlebot from these blog pages",
+    "The server returned a 500 error every time Google visited",
+    "Google crawled them but chose not to index them, often for low value"
+   ],
+   "hi": [
+    "Site ko spammy content ke liye manual penalty mili hai",
+    "robots.txt Googlebot ko in blog pages se block kar raha hai",
+    "Google ke har visit pe server ne 500 error diya",
+    "Google ne crawl kiya par index nahi kiya, aksar low value ki wajah se"
+   ],
+   "mr": [
+    "site ला spammy content साठी manual penalty मिळाली आहे",
+    "robots.txt Googlebot ला या blog pages पासून block करत आहे",
+    "Google च्या प्रत्येक भेटीत server ने 500 error दिला",
+    "Google ने crawl केले पण index केले नाही, बहुधा कमी मूल्यामुळे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "This status means crawling worked but Google decided the page isn't worth indexing right now. Improve uniqueness and usefulness, consolidate thin or overlapping posts, and add internal links to the important ones.",
+   "hi": "Is status ka matlab crawling ho gayi par Google ne abhi page ko index karne layak nahi samjha. Uniqueness aur usefulness badhao, thin ya overlapping posts ko merge karo, aur important posts ko internal links do.",
+   "mr": "या status चा अर्थ crawling झाले पण Google ला सध्या page index करण्याजोगे वाटले नाही. Uniqueness आणि उपयुक्तता वाढवा, thin किंवा overlapping posts merge करा, आणि महत्त्वाच्या posts ना internal links द्या."
+  }
+ },
+ {
+  "id": "seo-52",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand finds a manual action for 'Unnatural links to your site' in Search Console, caused by links an old agency bought. What is the right sequence?",
+   "hi": "Ek D2C brand ko Search Console mein 'Unnatural links to your site' ka manual action mila, jo purani agency ke khareede links ki wajah se hai. Sahi sequence kya hai?",
+   "mr": "एका D2C brand ला Search Console मध्ये 'Unnatural links to your site' चा manual action दिसला, जुन्या agency ने विकत घेतलेल्या links मुळे. योग्य क्रम कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Remove bad links, disavow the rest, then request reconsideration",
+    "Move to a new domain immediately and skip all redirects",
+    "Buy more high-quality links to outweigh the bad ones",
+    "Just wait, because manual actions always expire in 7 days"
+   ],
+   "hi": [
+    "Bad links hatwao, baaki disavow karo, phir reconsideration request bhejo",
+    "Turant naye domain pe jao aur koi redirect mat lagao",
+    "Bad links ko balance karne ke liye aur quality links khareedo",
+    "Bas wait karo, manual actions hamesha 7 din mein expire hote hain"
+   ],
+   "mr": [
+    "bad links काढा, उरलेल्या disavow करा, मग reconsideration request पाठवा",
+    "लगेच नवीन domain वर जा आणि कोणतेही redirect लावू नका",
+    "bad links चा परिणाम कमी करण्यासाठी आणखी quality links विकत घ्या",
+    "फक्त थांबा, manual actions नेहमी 7 दिवसांत संपतात"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "A manual action needs a real clean-up: contact sites to remove links, disavow what you can't remove, and explain your efforts in a reconsideration request. Buying more links repeats the violation.",
+   "hi": "Manual action ke liye real clean-up chahiye: sites se links hatwane ko kaho, jo na hatein unhe disavow karo, aur reconsideration request mein apni efforts explain karo. Aur links khareedna wahi galti dohrana hai.",
+   "mr": "Manual action साठी खरी साफसफाई लागते: sites ना links काढायला सांगा, न निघणाऱ्या disavow करा, आणि reconsideration request मध्ये प्रयत्न स्पष्ट करा. आणखी links विकत घेणे म्हणजे तीच चूक पुन्हा."
+  }
+ },
+ {
+  "id": "seo-53",
+  "level": 7,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Your /en-in/ page lists hreflang to /en-gb/, but the /en-gb/ page has no hreflang pointing back. What happens?",
+   "hi": "Aapke /en-in/ page pe /en-gb/ ka hreflang hai, par /en-gb/ page pe wapas point karne wala hreflang nahi hai. Kya hoga?",
+   "mr": "तुमच्या /en-in/ page वर /en-gb/ चा hreflang आहे, पण /en-gb/ page वर परत निर्देश करणारा hreflang नाही. काय होईल?"
+  },
+  "opts": {
+   "en": [
+    "Google automatically adds the missing return tag for you",
+    "The pair may be ignored, since hreflang needs return links",
+    "Both pages receive a manual action for bad markup",
+    "The /en-gb/ page is removed from Google's index"
+   ],
+   "hi": [
+    "Google missing return tag aapke liye khud add kar deta hai",
+    "Pair ignore ho sakta hai, kyunki hreflang ko return links chahiye",
+    "Galat markup ke liye dono pages pe manual action lagta hai",
+    "/en-gb/ page Google ke index se hata diya jaata hai"
+   ],
+   "mr": [
+    "Google गहाळ return tag तुमच्यासाठी आपोआप add करते",
+    "जोडी दुर्लक्षित होऊ शकते, कारण hreflang ला return links लागतात",
+    "चुकीच्या markup साठी दोन्ही pages वर manual action लागतो",
+    "/en-gb/ page Google च्या index मधून काढले जाते"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "hreflang needs return links: if page A points to B, B must point back to A (and each page should list itself). Missing return tags make Google ignore the pair. It is not a penalty.",
+   "hi": "hreflang ko return links chahiye: agar page A, B ko point karta hai toh B ko bhi A ko point karna hoga (aur har page khud ko bhi list kare). Return tag na ho toh Google pair ignore karta hai. Yeh penalty nahi hai.",
+   "mr": "hreflang ला return links लागतात: page A जर B कडे निर्देश करत असेल तर B ने ही A कडे करायला हवे (आणि प्रत्येक page ने स्वतःलाही list करावे). Return tag नसल्यास Google जोडी दुर्लक्षित करते. ही penalty नाही."
+  }
+ },
+ {
+  "id": "seo-54",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune restaurant owner wants to give a 10% discount to customers who post a 5-star Google review. What do you advise?",
+   "hi": "Pune ke ek restaurant owner 5-star Google review dene wale customers ko 10% discount dena chahte hain. Aap kya advice doge?",
+   "mr": "पुण्यातील एका restaurant मालकाला 5-star Google review देणाऱ्या ग्राहकांना 10% discount द्यायचा आहे. तुम्ही काय सल्ला द्याल?"
+  },
+  "opts": {
+   "en": [
+    "Go ahead, but offer the discount only on weekday evenings",
+    "Offer it for any review, positive or negative, to keep it fair",
+    "Don't; Google bans incentivized reviews. Ask all customers for honest ones",
+    "Ask staff and relatives to post five-star reviews instead"
+   ],
+   "hi": [
+    "Theek hai, par discount sirf weekday evenings pe do",
+    "Koi bhi review ho, positive ya negative, sabko do taaki fair rahe",
+    "Mat karo; Google incentivized reviews ban karta hai. Sabse honest review maango",
+    "Iske bajaye staff aur rishtedaaron se five-star reviews likhwao"
+   ],
+   "mr": [
+    "ठीक आहे, पण discount फक्त weekday संध्याकाळी द्या",
+    "positive असो वा negative, प्रत्येक review ला द्या म्हणजे न्याय्य राहील",
+    "करू नका; Google incentivized reviews वर बंदी घालते. सर्वांकडे प्रामाणिक review मागा",
+    "त्याऐवजी staff आणि नातेवाईकांकडून five-star reviews टाकून घ्या"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Google's review policies forbid offering money, discounts or gifts for reviews, and reviews from staff or relatives count as conflicts of interest. Violations can lead to removed reviews or profile restrictions.",
+   "hi": "Google ki review policies reviews ke badle paise, discount ya gifts dene ko mana karti hain, aur staff ya rishtedaaron ke reviews conflict of interest maane jaate hain. Violation pe reviews hat sakte hain ya profile pe restriction lag sakta hai.",
+   "mr": "Google च्या review policies नुसार reviews साठी पैसे, discount किंवा gifts देणे निषिद्ध आहे, आणि staff किंवा नातेवाईकांचे reviews हितसंबंधांचा संघर्ष मानले जातात. उल्लंघन केल्यास reviews काढले जाऊ शकतात किंवा profile वर निर्बंध येऊ शकतात."
+  }
+ },
+ {
+  "id": "seo-55",
+  "level": 8,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Google's 'site reputation abuse' spam policy (announced 2024) targets which practice?",
+   "hi": "Google ki 'site reputation abuse' spam policy (2024 mein announce hui) kis practice ko target karti hai?",
+   "mr": "Google ची 'site reputation abuse' spam policy (2024 मध्ये जाहीर) कोणत्या प्रथेला लक्ष्य करते?"
+  },
+  "opts": {
+   "en": [
+    "Brands replying rudely or aggressively to negative reviews",
+    "Competitors posting fake one-star reviews on your listing",
+    "Buying expired domains to host a brand-new business site",
+    "Hosting third-party pages on a trusted site to exploit its ranking"
+   ],
+   "hi": [
+    "Brands ka negative reviews ka rude ya aggressive reply dena",
+    "Competitors ka aapki listing pe fake one-star reviews daalna",
+    "Naya business site chalane ke liye expired domains khareedna",
+    "Trusted site pe third-party pages host karke uski ranking ka fayda uthana"
+   ],
+   "mr": [
+    "brands नी negative reviews ना उद्धट किंवा आक्रमक उत्तर देणे",
+    "competitors नी तुमच्या listing वर खोटे one-star reviews टाकणे",
+    "नवीन business site साठी expired domains विकत घेणे",
+    "विश्वासार्ह site वर third-party pages host करून तिच्या ranking चा फायदा घेणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Site reputation abuse (sometimes called 'parasite SEO') is when a trusted site hosts third-party content, like coupon or payday-loan pages, mainly to borrow its ranking strength. Expired-domain abuse is a separate policy.",
+   "hi": "Site reputation abuse (jise 'parasite SEO' bhi kehte hain) tab hota hai jab trusted site third-party content, jaise coupon ya payday-loan pages, mainly uski ranking strength udhaar lene ke liye host karti hai. Expired-domain abuse alag policy hai.",
+   "mr": "Site reputation abuse (ज्याला 'parasite SEO' ही म्हणतात) म्हणजे विश्वासार्ह site ने third-party content, जसे coupon किंवा payday-loan pages, मुख्यतः तिची ranking ताकद उसनी घेण्यासाठी host करणे. Expired-domain abuse ही वेगळी policy आहे."
+  }
+ },
+ {
+  "id": "seo-56",
+  "level": 8,
+  "cat": "ai",
+  "type": "mcq",
+  "q": {
+   "en": "Under Google's 'scaled content abuse' policy (2024), what makes mass-produced content a violation?",
+   "hi": "Google ki 'scaled content abuse' policy (2024) ke hisaab se mass-produced content kab violation banta hai?",
+   "mr": "Google च्या 'scaled content abuse' policy (2024) नुसार mass-produced content केव्हा उल्लंघन ठरते?"
+  },
+  "opts": {
+   "en": [
+    "Mass pages made mainly to rank with little value, by AI or humans",
+    "Any content that was written with the help of an AI tool",
+    "Publishing more than 100 new pages on a single day",
+    "Using one shared template to build all product pages on a site"
+   ],
+   "hi": [
+    "Mainly rank karne ke liye bane low-value mass pages, AI ya insaan kisi ne bhi banaye",
+    "Koi bhi content jo AI tool ki madad se likha gaya ho",
+    "Ek hi din mein 100 se zyada naye pages publish karna",
+    "Site ke saare product pages ek shared template se banana"
+   ],
+   "mr": [
+    "मुख्यतः rank होण्यासाठी बनवलेली कमी-मूल्याची mass pages, AI किंवा माणसांनी",
+    "AI tool च्या मदतीने लिहिलेला कोणताही content",
+    "एकाच दिवसात 100 पेक्षा जास्त नवीन pages प्रकाशित करणे",
+    "site ची सर्व product pages एकाच shared template ने बनवणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Google judges purpose and value, not the tool. Scaled content abuse covers mass pages created mainly to rank, however they're made. Helpful AI-assisted content is allowed; templates are fine if pages add real value.",
+   "hi": "Google purpose aur value dekhta hai, tool nahi. Scaled content abuse mein woh mass pages aate hain jo mainly rank karne ke liye bane hain, chahe kaise bhi bane hon. Helpful AI-assisted content allowed hai; templates bhi theek hain agar pages real value dein.",
+   "mr": "Google हेतू आणि मूल्य पाहते, tool नाही. Scaled content abuse मध्ये मुख्यतः rank होण्यासाठी बनवलेली mass pages येतात, ती कशीही बनवलेली असोत. उपयुक्त AI-assisted content ला परवानगी आहे; pages खरे मूल्य देत असतील तर templates ही चालतात."
+  }
+ },
+ {
+  "id": "seo-57",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An AC repair company in Pune creates 300 pages titled 'Best AC Repair in [City]' for cities across India, with identical text except the city name. It only serves Pune. What's the problem?",
+   "hi": "Pune ki ek AC repair company ne poore India ke cities ke liye 'Best AC Repair in [City]' naam ke 300 pages banaye, sirf city ka naam alag, baaki text same. Company sirf Pune mein service deti hai. Problem kya hai?",
+   "mr": "पुण्यातील एका AC repair कंपनीने भारतभरातील शहरांसाठी 'Best AC Repair in [City]' नावाची 300 pages तयार केली, फक्त शहराचे नाव वेगळे, बाकी text सारखा. कंपनी फक्त पुण्यात service देते. समस्या काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "Nothing, because more pages always bring more traffic",
+    "They're doorway pages; keep real pages only for areas actually served",
+    "The URLs are too short and need the state name added",
+    "The pages should be moved to a separate Google Ads account"
+   ],
+   "hi": [
+    "Kuch nahi, kyunki zyada pages hamesha zyada traffic laate hain",
+    "Yeh doorway pages hain; sirf served areas ke real pages rakho",
+    "URLs chhote hain, unme state ka naam bhi jodna chahiye",
+    "Pages ko alag Google Ads account mein shift karna chahiye"
+   ],
+   "mr": [
+    "काहीच नाही, कारण जास्त pages नेहमी जास्त traffic आणतात",
+    "ही doorway pages आहेत; फक्त service देत असलेल्या भागांची खरी pages ठेवा",
+    "URLs लहान आहेत, त्यात राज्याचे नावही जोडायला हवे",
+    "pages वेगळ्या Google Ads account मध्ये हलवावीत"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Near-identical city pages built to catch searches, especially for places you don't serve, are doorway pages. Location pages are fine when they're real and unique: local address, team, projects and service details.",
+   "hi": "Searches pakadne ke liye bane near-identical city pages, khaaskar un jagahon ke jahan service nahi dete, doorway pages hain. Location pages tab theek hain jab woh real aur unique hon: local address, team, projects aur service details.",
+   "mr": "Searches पकडण्यासाठी बनवलेली जवळजवळ सारखी city pages, विशेषतः जिथे service देत नाही त्या ठिकाणांसाठी, म्हणजे doorway pages. Location pages खरी आणि unique असतील तर ठीक: local पत्ता, team, projects आणि service तपशील."
+  }
+ },
+ {
+  "id": "seo-58",
+  "level": 8,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "Search Console shows 'Duplicate, Google chose different canonical than user' for your product pages. Your canonical points to /product-a, but Google picked /product-a?ref=home. What should you do?",
+   "hi": "Search Console aapke product pages ke liye 'Duplicate, Google chose different canonical than user' dikha raha hai. Aapka canonical /product-a pe hai, par Google ne /product-a?ref=home chuna. Kya karna chahiye?",
+   "mr": "Search Console तुमच्या product pages साठी 'Duplicate, Google chose different canonical than user' दाखवते. तुमचा canonical /product-a वर आहे, पण Google ने /product-a?ref=home निवडले. काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Remove the canonical tags from all product pages",
+    "Add a noindex tag to /product-a to force a choice",
+    "Make internal links, sitemap and redirects all use /product-a",
+    "Submit a reconsideration request in Search Console"
+   ],
+   "hi": [
+    "Saare product pages se canonical tags hata do",
+    "Choice force karne ke liye /product-a pe noindex laga do",
+    "Internal links, sitemap aur redirects sab mein /product-a use karo",
+    "Search Console mein reconsideration request bhejo"
+   ],
+   "mr": [
+    "सर्व product pages वरून canonical tags काढा",
+    "निवड भाग पाडण्यासाठी /product-a वर noindex लावा",
+    "internal links, sitemap आणि redirects सर्वांत /product-a वापरा",
+    "Search Console मध्ये reconsideration request पाठवा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "rel=canonical is one signal among several. If internal links (e.g. homepage links with ?ref=home) point to the parameter URL, Google may prefer it. Make all signals consistent. This isn't a manual action, so reconsideration doesn't apply.",
+   "hi": "rel=canonical kai signals mein se ek hai. Agar internal links (jaise homepage ke ?ref=home wale links) parameter URL ko point karte hain, toh Google use prefer kar sakta hai. Saare signals consistent karo. Yeh manual action nahi hai, isliye reconsideration lagu nahi hota.",
+   "mr": "rel=canonical हा अनेक signals पैकी एक आहे. Internal links (उदा. homepage वरील ?ref=home links) parameter URL कडे जात असतील तर Google तोच निवडू शकते. सर्व signals एकसारखे करा. हा manual action नाही, त्यामुळे reconsideration लागू होत नाही."
+  }
+ },
+ {
+  "id": "seo-59",
+  "level": 8,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "An Indian e-commerce site's mobile LCP is 5.8 s. The LCP element is a 2 MB hero banner that is lazy-loaded. Which fix helps most?",
+   "hi": "Ek Indian e-commerce site ka mobile LCP 5.8 s hai. LCP element ek 2 MB ka hero banner hai jo lazy-load hota hai. Sabse zyada kaunsa fix help karega?",
+   "mr": "एका Indian e-commerce site चा mobile LCP 5.8 s आहे. LCP element हा 2 MB चा hero banner आहे जो lazy-load होतो. सर्वात जास्त कोणता उपाय मदत करेल?"
+  },
+  "opts": {
+   "en": [
+    "Lazy-load every other image on the page as well, including icons",
+    "Add a JavaScript fade-in animation so the banner feels quicker",
+    "Turn the banner into an auto-playing carousel of 5 slides",
+    "Don't lazy-load the banner; compress it and give it high fetch priority"
+   ],
+   "hi": [
+    "Page ki baaki saari images, icons samet, lazy-load kar do",
+    "JavaScript fade-in animation daalo taaki banner fast lage",
+    "Banner ko 5 slides wale auto-play carousel mein badlo",
+    "Banner ka lazy-load hatao, compress karo aur high fetch priority do"
+   ],
+   "mr": [
+    "page वरील इतर सर्व images, icons सह, lazy-load करा",
+    "banner जलद वाटावा म्हणून JavaScript fade-in animation टाका",
+    "banner ला 5 slides च्या auto-play carousel मध्ये बदला",
+    "banner चे lazy-load काढा, compress करा आणि high fetch priority द्या"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Lazy-loading the LCP image delays it on purpose. Load it eagerly, shrink it and use fetchpriority=high (or preload). Lazy-loading below-the-fold images is fine, but it won't fix this LCP.",
+   "hi": "LCP image ko lazy-load karna use jaan-boojh ke late karta hai. Use turant load karo, size chhota karo aur fetchpriority=high (ya preload) use karo. Neeche wali images lazy-load karna theek hai, par isse yeh LCP fix nahi hoga.",
+   "mr": "LCP image lazy-load केल्याने ती मुद्दाम उशिरा येते. ती लगेच load करा, size कमी करा आणि fetchpriority=high (किंवा preload) वापरा. खालच्या images lazy-load करणे ठीक आहे, पण त्याने हा LCP सुधारणार नाही."
+  }
+ },
+ {
+  "id": "seo-60",
+  "level": 8,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "A news site has a poor CLS score because content jumps as ads and images load. What is the main fix?",
+   "hi": "Ek news site ka CLS score kharab hai kyunki ads aur images load hote waqt content jump karta hai. Main fix kya hai?",
+   "mr": "एका news site चा CLS score खराब आहे कारण ads आणि images load होताना content उडी मारतो. मुख्य उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Set width/height or aspect-ratio for images, ads and embeds",
+    "Upgrade the server's RAM and CPU to handle more traffic",
+    "Add more internal links inside every news article",
+    "Switch the site's images from JPEG to PNG format"
+   ],
+   "hi": [
+    "Images, ads aur embeds ke liye width/height ya aspect-ratio set karo",
+    "Zyada traffic ke liye server ki RAM aur CPU upgrade karo",
+    "Har news article ke andar aur internal links daalo",
+    "Site ki images JPEG se PNG format mein badlo"
+   ],
+   "mr": [
+    "images, ads आणि embeds साठी width/height किंवा aspect-ratio set करा",
+    "जास्त traffic साठी server ची RAM आणि CPU upgrade करा",
+    "प्रत्येक news article मध्ये आणखी internal links टाका",
+    "site च्या images JPEG वरून PNG format मध्ये बदला"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "CLS measures unexpected layout shifts. Giving images, ad slots and embeds fixed dimensions reserves space before they load, so the text doesn't jump. Server power mostly affects loading, not layout stability.",
+   "hi": "CLS unexpected layout shifts measure karta hai. Images, ad slots aur embeds ko fixed dimensions dene se load hone se pehle jagah reserve ho jaati hai, isliye text jump nahi karta. Server power loading ko affect karti hai, layout stability ko nahi.",
+   "mr": "CLS अनपेक्षित layout shifts मोजतो. Images, ad slots आणि embeds ना निश्चित dimensions दिल्याने load होण्याआधीच जागा राखली जाते, त्यामुळे text उडी मारत नाही. Server ची ताकद loading वर परिणाम करते, layout stability वर नाही."
+  }
+ },
+ {
+  "id": "seo-61",
+  "level": 8,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "An online bookstore has category pages split into ?page=2, ?page=3 and so on. The developer sets the canonical of every paginated page to page 1. What's the better approach per Google's guidance?",
+   "hi": "Ek online bookstore ke category pages ?page=2, ?page=3 waghera mein bante hain. Developer ne har paginated page ka canonical page 1 pe set kar diya. Google guidance ke hisaab se better approach kya hai?",
+   "mr": "एका online bookstore ची category pages ?page=2, ?page=3 अशी विभागलेली आहेत. Developer ने प्रत्येक paginated page चा canonical page 1 वर set केला. Google guidance नुसार अधिक चांगली पद्धत कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Keep the canonical to page 1 and add rel=next/prev, which Google relies on",
+    "Give each page its own self-referencing canonical and link pages with normal crawlable links",
+    "Noindex and nofollow all pages after page 1",
+    "Put all 5,000 books on a single page"
+   ],
+   "hi": [
+    "Canonical page 1 pe hi rakho aur rel=next/prev lagao, Google usi pe depend karta hai",
+    "Har page ka apna self-referencing canonical rakho aur pages ko normal crawlable links se jodo",
+    "Page 1 ke baad ke saare pages noindex aur nofollow karo",
+    "Saari 5,000 books ek hi page pe daal do"
+   ],
+   "mr": [
+    "canonical page 1 वरच ठेवा आणि rel=next/prev लावा, Google त्यावरच अवलंबून असते",
+    "प्रत्येक page ला स्वतःचा self-referencing canonical द्या आणि pages सामान्य crawlable links ने जोडा",
+    "page 1 नंतरची सर्व pages noindex आणि nofollow करा",
+    "सर्व 5,000 पुस्तके एकाच page वर टाका"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Pointing every page's canonical to page 1 can hide products on deeper pages. Google advises self-canonical paginated URLs linked with regular <a href> links. Google said in 2019 it no longer uses rel=next/prev as an indexing signal.",
+   "hi": "Har page ka canonical page 1 pe karne se deeper pages ke products chhup sakte hain. Google self-canonical paginated URLs recommend karta hai jo normal <a href> links se jude hon. Google ne 2019 mein kaha tha ki woh rel=next/prev ko indexing signal ki tarah use nahi karta.",
+   "mr": "प्रत्येक page चा canonical page 1 वर केल्यास पुढील pages वरील products लपू शकतात. Google self-canonical paginated URLs सुचवते जे साध्या <a href> links ने जोडलेले असतात. Google ने 2019 मध्ये सांगितले की ते rel=next/prev indexing signal म्हणून वापरत नाही."
+  }
+ },
+ {
+  "id": "seo-62",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An Indian D2C brand on brand.in is expanding to the UAE and US with English sites, different prices and currencies. Small team, strong domain authority. Which setup is the most sensible start?",
+   "hi": "brand.in wala ek Indian D2C brand UAE aur US mein English sites ke saath expand ho raha hai, alag prices aur currencies ke saath. Team chhoti hai, domain authority strong hai. Sabse sensible start kya hai?",
+   "mr": "brand.in वरील एक Indian D2C brand UAE आणि US मध्ये English sites सह विस्तार करत आहे, वेगळ्या किमती आणि चलनांसह. Team लहान आहे, domain authority मजबूत आहे. सर्वात योग्य सुरुवात कोणती?"
+  },
+  "opts": {
+   "en": [
+    "One page for all countries that auto-switches currency by IP, with no separate URLs",
+    "Copy the whole site to three new unrelated domains with no hreflang",
+    "Subfolders on one generic domain (e.g. /en-ae/, /en-us/) with hreflang and localized prices",
+    "Only change the currency symbol with JavaScript on the same URLs"
+   ],
+   "hi": [
+    "Sab countries ke liye ek page jo IP se currency auto-switch kare, alag URLs nahi",
+    "Poori site ko teen naye unrelated domains pe copy karo bina hreflang ke",
+    "Ek generic domain pe subfolders (jaise /en-ae/, /en-us/) hreflang aur localized prices ke saath",
+    "Same URLs pe sirf JavaScript se currency symbol badlo"
+   ],
+   "mr": [
+    "सर्व देशांसाठी एकच page जे IP नुसार चलन आपोआप बदलते, वेगळे URLs नाहीत",
+    "संपूर्ण site तीन नवीन असंबंधित domains वर hreflang शिवाय copy करा",
+    "एका generic domain वर subfolders (उदा. /en-ae/, /en-us/) hreflang आणि localized किमतींसह",
+    "त्याच URLs वर फक्त JavaScript ने चलन चिन्ह बदला"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Subfolders keep authority on one domain and are cheaper to run than separate ccTLDs, while hreflang maps each market. A .in ccTLD signals India, so a generic domain (like .com) is usually better for subfolders. Each version needs its own crawlable URL.",
+   "hi": "Subfolders authority ek domain pe rakhte hain aur alag ccTLDs se sasta padte hain, aur hreflang har market ko map karta hai. .in ccTLD India ka signal deta hai, isliye subfolders ke liye generic domain (jaise .com) aam taur pe better hai. Har version ka apna crawlable URL chahiye.",
+   "mr": "Subfolders मुळे authority एका domain वर राहते आणि वेगळ्या ccTLDs पेक्षा खर्च कमी येतो, तर hreflang प्रत्येक market जोडतो. .in ccTLD भारताचा signal देतो, म्हणून subfolders साठी generic domain (उदा. .com) सहसा चांगला. प्रत्येक version ला स्वतःचा crawlable URL हवा."
+  }
+ },
+ {
+  "id": "seo-63",
+  "level": 9,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What can server log file analysis show that Search Console reports don't show in full detail?",
+   "hi": "Server log file analysis kya dikha sakta hai jo Search Console reports poori detail mein nahi dikhate?",
+   "mr": "Server log file analysis काय दाखवू शकते जे Search Console reports पूर्ण तपशीलात दाखवत नाहीत?"
+  },
+  "opts": {
+   "en": [
+    "The complete list of backlinks pointing to competitors' sites",
+    "Your exact daily keyword ranking positions on Google Search",
+    "Each visitor's name, email address and phone number",
+    "Which URLs Googlebot requested, how often, and status codes"
+   ],
+   "hi": [
+    "Competitors ki sites pe aane wale backlinks ki poori list",
+    "Google Search pe aapki exact daily keyword ranking positions",
+    "Har visitor ka naam, email address aur phone number",
+    "Googlebot ne kaunse URLs, kitni baar request kiye aur kya status codes mile"
+   ],
+   "mr": [
+    "competitors च्या sites कडे येणाऱ्या backlinks ची संपूर्ण यादी",
+    "Google Search वरील तुमच्या exact daily keyword ranking positions",
+    "प्रत्येक visitor चे नाव, email address आणि phone number",
+    "Googlebot ने कोणते URLs, किती वेळा request केले आणि कोणते status codes मिळाले"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Logs record every bot request, so you can see crawl waste on parameters, orphan pages, redirect chains and errors. Verify Googlebot by reverse DNS, since user agents can be faked. Logs don't show rankings or competitor links.",
+   "hi": "Logs har bot request record karte hain, isliye parameters pe crawl waste, orphan pages, redirect chains aur errors dikhte hain. Googlebot ko reverse DNS se verify karo, kyunki user agent fake ho sakta hai. Logs rankings ya competitor links nahi dikhate.",
+   "mr": "Logs प्रत्येक bot request नोंदवतात, त्यामुळे parameters वरील crawl waste, orphan pages, redirect chains आणि errors दिसतात. User agent खोटा असू शकतो म्हणून Googlebot reverse DNS ने verify करा. Logs rankings किंवा competitor links दाखवत नाहीत."
+  }
+ },
+ {
+  "id": "seo-64",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A news site auto-translates every English article into Marathi with a machine tool and publishes without review. The Marathi pages get little traffic and some read awkwardly. Best plan?",
+   "hi": "Ek news site har English article ko machine tool se Marathi mein auto-translate karke bina review ke publish karti hai. Marathi pages pe traffic kam hai aur kuch ajeeb padhte hain. Best plan?",
+   "mr": "एक news site प्रत्येक English article machine tool ने मराठीत auto-translate करून review न करता प्रकाशित करते. मराठी pages ला traffic कमी आहे आणि काही वाचायला विचित्र वाटतात. सर्वोत्तम योजना?"
+  },
+  "opts": {
+   "en": [
+    "Human-review key translations; separate URLs per language with hreflang",
+    "Serve Marathi or English on the same URL based on a cookie",
+    "Canonicalize every Marathi page to its English original",
+    "Machine-translate even more articles to increase volume"
+   ],
+   "hi": [
+    "Important translations human review karo; har language ka alag URL + hreflang",
+    "Cookie ke basis pe same URL pe Marathi ya English dikhao",
+    "Har Marathi page ka canonical uske English original pe karo",
+    "Volume badhane ke liye aur zyada articles machine-translate karo"
+   ],
+   "mr": [
+    "महत्त्वाची भाषांतरे माणसांकडून review करा; प्रत्येक भाषेसाठी वेगळा URL + hreflang",
+    "cookie नुसार त्याच URL वर मराठी किंवा English दाखवा",
+    "प्रत्येक मराठी page चा canonical त्याच्या English original वर करा",
+    "volume वाढवण्यासाठी आणखी articles machine-translate करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Unreviewed machine translation at scale can be low-value or even count as scaled content. Human-reviewed versions on separate URLs with hreflang serve Marathi readers properly. Canonicalizing to English would drop the Marathi pages from results.",
+   "hi": "Bina review ka bulk machine translation low-value ho sakta hai, ya scaled content bhi maana ja sakta hai. Alag URLs pe human-reviewed versions hreflang ke saath Marathi readers ko sahi serve karte hain. English pe canonical karne se Marathi pages results se hat jaayenge.",
+   "mr": "Review न केलेले मोठ्या प्रमाणातील machine translation कमी मूल्याचे ठरू शकते, किंवा scaled content ही मानले जाऊ शकते. वेगळ्या URLs वरील human-reviewed versions hreflang सह मराठी वाचकांना योग्य सेवा देतात. English वर canonical केल्यास मराठी pages results मधून जातील."
+  }
+ },
+ {
+  "id": "seo-65",
+  "level": 9,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A brand has /en-in/ and /en-us/ versions with near-identical content and correct hreflang. But the /en-us/ page's canonical points to /en-in/. US users keep landing on the Indian page. Why?",
+   "hi": "Ek brand ke /en-in/ aur /en-us/ versions hain, content lagbhag same hai aur hreflang sahi hai. Par /en-us/ page ka canonical /en-in/ pe point karta hai. US users Indian page pe hi pahunch rahe hain. Kyun?",
+   "mr": "एका brand चे /en-in/ आणि /en-us/ versions आहेत, content जवळजवळ सारखा आणि hreflang योग्य आहे. पण /en-us/ page चा canonical /en-in/ कडे निर्देश करतो. US users भारतीय page वरच येत आहेत. का?"
+  },
+  "opts": {
+   "en": [
+    "hreflang only works between languages, never between regions",
+    "The cross-canonical marks /en-us/ as a duplicate; use self-canonicals",
+    "US users must add a country code to their search queries",
+    "The /en-us/ page needs its own XML sitemap to override it"
+   ],
+   "hi": [
+    "hreflang sirf languages ke beech kaam karta hai, regions ke beech kabhi nahi",
+    "Cross-canonical /en-us/ ko duplicate bana deta hai; self-canonical use karo",
+    "US users ko apni search queries mein country code daalna hoga",
+    "Override ke liye /en-us/ page ka apna XML sitemap chahiye"
+   ],
+   "mr": [
+    "hreflang फक्त भाषांमध्ये काम करतो, regions मध्ये कधीच नाही",
+    "cross-canonical मुळे /en-us/ duplicate ठरते; self-canonical वापरा",
+    "US users ना आपल्या search queries मध्ये country code टाकावा लागेल",
+    "override करण्यासाठी /en-us/ page चा स्वतःचा XML sitemap हवा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "hreflang only swaps between indexable canonical URLs. Canonicalizing /en-us/ to /en-in/ removes it from the index, so there's nothing to swap in. Use self-referencing canonicals on every language or region version.",
+   "hi": "hreflang sirf indexable canonical URLs ke beech swap karta hai. /en-us/ ka canonical /en-in/ pe karne se woh index se hat jaata hai, toh swap karne ke liye kuch bachta hi nahi. Har language ya region version pe self-referencing canonical rakho.",
+   "mr": "hreflang फक्त indexable canonical URLs मध्ये बदल करतो. /en-us/ चा canonical /en-in/ वर केल्याने ते index मधून जाते, त्यामुळे बदलण्यासाठी काहीच उरत नाही. प्रत्येक भाषा किंवा region version वर self-referencing canonical ठेवा."
+  }
+ },
+ {
+  "id": "seo-66",
+  "level": 9,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A furniture store's category page loads products only through infinite scroll. There are no paginated URLs, and only the first 24 of 600 products get indexed. What's the fix?",
+   "hi": "Ek furniture store ke category page pe products sirf infinite scroll se load hote hain. Koi paginated URLs nahi hain, aur 600 mein se sirf pehle 24 products index hote hain. Fix kya hai?",
+   "mr": "एका furniture store च्या category page वर products फक्त infinite scroll ने load होतात. Paginated URLs नाहीत, आणि 600 पैकी फक्त पहिले 24 products index होतात. उपाय काय?"
+  },
+  "opts": {
+   "en": [
+    "Ask Google Support to crawl the page by scrolling it manually",
+    "Load 100 products per scroll instead of 24 so more are seen",
+    "Add paginated URLs with crawlable links, keeping infinite scroll for users",
+    "List all 600 product names inside the meta keywords tag"
+   ],
+   "hi": [
+    "Google Support se kaho ki page ko manually scroll karke crawl kare",
+    "24 ki jagah har scroll pe 100 products load karo taaki zyada dikhein",
+    "Crawlable links wale paginated URLs bhi do, users ke liye infinite scroll rakho",
+    "Saare 600 product names meta keywords tag ke andar daal do"
+   ],
+   "mr": [
+    "Google Support ला page manually scroll करून crawl करायला सांगा",
+    "जास्त दिसावेत म्हणून 24 ऐवजी प्रत्येक scroll वर 100 products load करा",
+    "crawlable links सह paginated URLs ही द्या, users साठी infinite scroll ठेवा",
+    "सर्व 600 product names meta keywords tag मध्ये टाका"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Googlebot generally doesn't scroll or click to trigger loading, so products loaded only on scroll may never be found. Paginated URLs linked with <a href> make every product reachable. Google ignores the meta keywords tag.",
+   "hi": "Googlebot aam taur pe loading trigger karne ke liye scroll ya click nahi karta, isliye sirf scroll pe load hone wale products mil hi nahi paate. <a href> se jude paginated URLs har product tak pahunch dete hain. Google meta keywords tag ignore karta hai.",
+   "mr": "Googlebot सहसा loading सुरू करण्यासाठी scroll किंवा click करत नाही, त्यामुळे फक्त scroll वर load होणारे products सापडतच नाहीत. <a href> ने जोडलेले paginated URLs प्रत्येक product पर्यंत पोहोचवतात. Google meta keywords tag दुर्लक्षित करते."
+  }
+ },
+ {
+  "id": "seo-67",
+  "level": 9,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A large classifieds site with 1 million URLs sees Googlebot's crawl requests drop sharply. Crawl Stats show rising 5xx errors and slow response times. What's the most likely explanation?",
+   "hi": "1 million URLs wali ek badi classifieds site pe Googlebot ki crawl requests achanak bahut gir gayi. Crawl Stats mein 5xx errors aur slow response time badh rahe hain. Sabse likely explanation kya hai?",
+   "mr": "1 million URLs असलेल्या एका मोठ्या classifieds site वर Googlebot च्या crawl requests अचानक खूप कमी झाल्या. Crawl Stats मध्ये 5xx errors आणि मंद response time वाढत आहेत. सर्वात संभाव्य स्पष्टीकरण कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Google has applied a manual action to the site for thin content",
+    "The XML sitemap lists too many URLs for Google to read",
+    "Competitors are pointing spam links at the site to hurt it",
+    "Google slows crawling when a server is slow or erroring; fix the server"
+   ],
+   "hi": [
+    "Google ne thin content ke liye site pe manual action lagaya hai",
+    "XML sitemap mein Google ke padhne ke liye bahut zyada URLs hain",
+    "Competitors nuksaan pahunchane ke liye site pe spam links bhej rahe hain",
+    "Server slow ho ya errors de toh Google crawling ghatata hai; server theek karo"
+   ],
+   "mr": [
+    "Google ने thin content साठी site वर manual action लावला आहे",
+    "XML sitemap मध्ये Google ला वाचण्यासाठी खूप जास्त URLs आहेत",
+    "नुकसान करण्यासाठी competitors site कडे spam links पाठवत आहेत",
+    "server मंद असेल किंवा errors देत असेल तर Google crawling कमी करते; server दुरुस्त करा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Google's crawl capacity limit adapts to server health: slow responses and 5xx errors make Googlebot back off to avoid overloading the site. Once the server is stable and fast, crawling recovers. Manual actions appear in their own report.",
+   "hi": "Google ki crawl capacity limit server health ke hisaab se badalti hai: slow responses aur 5xx errors pe Googlebot peeche hat jaata hai taaki site overload na ho. Server stable aur fast hote hi crawling wapas badhti hai. Manual actions ki alag report hoti hai.",
+   "mr": "Google ची crawl capacity limit server च्या आरोग्यानुसार बदलते: मंद responses आणि 5xx errors आल्यावर site overload होऊ नये म्हणून Googlebot मागे हटतो. Server स्थिर आणि जलद झाल्यावर crawling पुन्हा वाढते. Manual actions चा वेगळा report असतो."
+  }
+ },
+ {
+  "id": "seo-68",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A new Pune interior design firm has a fresh website, zero rankings and ₹30,000/month for SEO. 'Interior designer Pune' is dominated by big players. Which plan gives the best early results?",
+   "hi": "Pune ki ek nayi interior design firm ki fresh website hai, zero rankings aur SEO ke liye ₹30,000/month. 'Interior designer Pune' pe bade players chhaaye hue hain. Kaunsa plan sabse achhe early results dega?",
+   "mr": "पुण्यातील एका नवीन interior design firm ची नवी website आहे, rankings शून्य आणि SEO साठी ₹30,000/महिना. 'Interior designer Pune' वर मोठ्या players चे वर्चस्व आहे. कोणती योजना सुरुवातीला सर्वोत्तम परिणाम देईल?"
+  },
+  "opts": {
+   "en": [
+    "Local first: GBP and reviews, project pages, long-tail like '2BHK interior cost Pune'",
+    "Spend the full budget on buying links for 'interior designer Pune'",
+    "Publish 100 short AI posts on general home décor in month one",
+    "Wait until the domain is a year old before starting any SEO"
+   ],
+   "hi": [
+    "Local pehle: GBP aur reviews, project pages, '2BHK interior cost Pune' jaisi long-tail",
+    "Poora budget 'interior designer Pune' ke links khareedne pe lagao",
+    "Pehle mahine general home décor pe 100 chhote AI posts daalo",
+    "Koi bhi SEO shuru karne se pehle domain ke ek saal ka hone ka wait karo"
+   ],
+   "mr": [
+    "आधी local: GBP आणि reviews, project pages, '2BHK interior cost Pune' सारख्या long-tail",
+    "संपूर्ण budget 'interior designer Pune' च्या links विकत घेण्यावर खर्च करा",
+    "पहिल्या महिन्यात सामान्य home décor वर 100 छोटे AI posts टाका",
+    "कोणतेही SEO सुरू करण्याआधी domain एक वर्ष जुना होण्याची वाट पाहा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "New sites win faster in the local pack and on specific, high-intent long-tail queries. Real project pages show experience and convert well. Chasing one head term with bought links is risky; mass generic posts rarely help.",
+   "hi": "Nayi sites local pack aur specific, high-intent long-tail queries pe jaldi jeet-ti hain. Real project pages experience dikhate hain aur achha convert karte hain. Ek head term ke peeche khareede links se bhaagna risky hai; bulk generic posts se shayad hi fayda ho.",
+   "mr": "नवीन sites local pack आणि specific, high-intent long-tail queries वर लवकर यश मिळवतात. खरी project pages अनुभव दाखवतात आणि चांगले convert करतात. एका head term मागे विकत घेतलेल्या links घेऊन धावणे धोकादायक आहे; मोठ्या प्रमाणात generic posts क्वचितच मदत करतात."
+  }
+ },
+ {
+  "id": "seo-69",
+  "level": 10,
+  "cat": "ai",
+  "type": "situation",
+  "q": {
+   "en": "A finance blog's impressions are stable but clicks on 'what is SIP'-type queries have fallen sharply since AI Overviews began appearing for them. What's the smartest strategy?",
+   "hi": "Ek finance blog ke impressions stable hain par 'what is SIP' jaisi queries pe clicks tezi se gire hain, jab se unpe AI Overviews dikhne lage. Sabse smart strategy kya hai?",
+   "mr": "एका finance blog चे impressions स्थिर आहेत पण 'what is SIP' सारख्या queries वरील clicks, त्यांच्यावर AI Overviews दिसू लागल्यापासून, झपाट्याने घसरले आहेत. सर्वात हुशार रणनीती कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Block Googlebot in robots.txt so Google can't summarize your content",
+    "Add unique value (data, calculators, expert views) and track leads, not just clicks",
+    "Publish ten times more short definition posts to win back clicks",
+    "Add the phrase 'AI Overview' as a keyword in every page title"
+   ],
+   "hi": [
+    "robots.txt mein Googlebot block karo taaki Google content summarize na kare",
+    "Unique value do (data, calculators, expert views) aur sirf clicks nahi, leads track karo",
+    "Clicks wapas laane ke liye das guna zyada chhote definition posts daalo",
+    "Har page title mein 'AI Overview' phrase keyword ki tarah daalo"
+   ],
+   "mr": [
+    "Google content summarize करू नये म्हणून robots.txt मध्ये Googlebot block करा",
+    "unique मूल्य द्या (data, calculators, expert views) आणि फक्त clicks नव्हे, leads track करा",
+    "clicks परत मिळवण्यासाठी दहापट जास्त छोटे definition posts टाका",
+    "प्रत्येक page title मध्ये 'AI Overview' phrase keyword म्हणून टाका"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Simple definitions are easily answered on the results page. Content with original data, tools and expertise earns citations and clicks for deeper needs. Blocking Googlebot would remove you from Search entirely.",
+   "hi": "Simple definitions ka jawab results page pe hi mil jaata hai. Original data, tools aur expertise wala content deeper needs ke liye citations aur clicks kamata hai. Googlebot block karne se aap Search se hi poori tarah gayab ho jaoge.",
+   "mr": "साध्या व्याख्यांचे उत्तर results page वरच मिळते. Original data, tools आणि expertise असलेला content सखोल गरजांसाठी citations आणि clicks मिळवतो. Googlebot block केल्यास तुम्ही Search मधूनच पूर्णपणे गायब व्हाल."
+  }
+ },
+ {
+  "id": "seo-70",
+  "level": 10,
+  "cat": "ai",
+  "type": "mcq",
+  "q": {
+   "en": "A publisher adds 'User-agent: Google-Extended' with 'Disallow: /' to robots.txt. What effect does this have on Google Search, including AI Overviews?",
+   "hi": "Ek publisher robots.txt mein 'User-agent: Google-Extended' ke saath 'Disallow: /' daalta hai. Iska Google Search, AI Overviews samet, pe kya asar hoga?",
+   "mr": "एक publisher robots.txt मध्ये 'User-agent: Google-Extended' सह 'Disallow: /' टाकतो. याचा Google Search वर, AI Overviews सह, काय परिणाम होईल?"
+  },
+  "opts": {
+   "en": [
+    "The whole site is removed from Google Search results completely",
+    "The site stays in Search but is removed from AI Overviews only",
+    "No Search effect; it limits Gemini use. nosnippet etc. govern AI Overviews",
+    "Googlebot stops crawling every page of the site for Search"
+   ],
+   "hi": [
+    "Poori site Google Search results se completely hat jaati hai",
+    "Site Search mein rehti hai par sirf AI Overviews se hat jaati hai",
+    "Search pe asar nahi; Gemini use limit hota hai. AI Overviews pe nosnippet jaise controls",
+    "Googlebot Search ke liye site ka har page crawl karna band kar deta hai"
+   ],
+   "mr": [
+    "संपूर्ण site Google Search results मधून पूर्णपणे काढली जाते",
+    "site Search मध्ये राहते पण फक्त AI Overviews मधून काढली जाते",
+    "Search वर परिणाम नाही; Gemini वापर मर्यादित होतो. AI Overviews साठी nosnippet सारखे controls",
+    "Googlebot Search साठी site चे प्रत्येक page crawl करणे थांबवतो"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Google-Extended is a control token for use in Gemini models; Google states it doesn't affect inclusion or ranking in Search. AI Overviews are part of Search, so they follow Search controls such as nosnippet, max-snippet or noindex.",
+   "hi": "Google-Extended Gemini models mein use ke liye control token hai; Google kehta hai ki isse Search mein inclusion ya ranking pe asar nahi padta. AI Overviews Search ka hissa hain, isliye woh nosnippet, max-snippet ya noindex jaise Search controls follow karte hain.",
+   "mr": "Google-Extended हा Gemini models मधील वापरासाठी control token आहे; Google सांगते की याचा Search मधील समावेश किंवा ranking वर परिणाम होत नाही. AI Overviews हे Search चा भाग आहेत, त्यामुळे ते nosnippet, max-snippet किंवा noindex सारखे Search controls पाळतात."
+  }
+ },
+ {
+  "id": "seo-71",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A Pune startup is rebranding from oldname.in to newname.com. The old domain has strong links and rankings. Which migration plan is safest?",
+   "hi": "Pune ka ek startup oldname.in se newname.com pe rebrand kar raha hai. Purane domain ke strong links aur rankings hain. Sabse safe migration plan kaunsa hai?",
+   "mr": "पुण्यातील एक startup oldname.in वरून newname.com वर rebrand करत आहे. जुन्या domain च्या मजबूत links आणि rankings आहेत. सर्वात सुरक्षित migration योजना कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Redirect all old URLs to the new homepage; let old domain lapse in a month",
+    "Launch the new domain with copied content and keep the old site live too",
+    "Use 302 redirects everywhere in case the rebrand is ever reversed",
+    "1:1 301 redirects, Change of Address tool, keep redirects at least a year"
+   ],
+   "hi": [
+    "Saare purane URLs naye homepage pe redirect karo; ek mahine mein purana domain chhod do",
+    "Naya domain copied content ke saath launch karo aur purani site bhi live rakho",
+    "Rebrand kabhi wapas lena pade isliye har jagah 302 redirects lagao",
+    "1:1 301 redirects, Change of Address tool, aur redirects kam se kam ek saal"
+   ],
+   "mr": [
+    "सर्व जुने URLs नवीन homepage कडे redirect करा; महिनाभरात जुना domain सोडा",
+    "copied content सह नवीन domain launch करा आणि जुनी site ही live ठेवा",
+    "rebrand कधी मागे घ्यावे लागले तर म्हणून सगळीकडे 302 redirects लावा",
+    "1:1 301 redirects, Change of Address tool, आणि redirects किमान एक वर्ष"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Page-level 301s transfer signals to matching pages; redirecting everything to the homepage is often treated as soft 404. Google advises keeping redirects for at least a year, and letting the old domain lapse risks losing links or someone else buying it.",
+   "hi": "Page-level 301s signals ko matching pages tak pahunchate hain; sab kuch homepage pe redirect karna aksar soft 404 maana jaata hai. Google kam se kam ek saal redirects rakhne ki salah deta hai, aur purana domain expire karne se links khone ya kisi aur ke khareed lene ka risk hai.",
+   "mr": "Page-level 301s signals जुळणाऱ्या pages कडे पोहोचवतात; सगळे homepage कडे redirect करणे बहुधा soft 404 मानले जाते. Google किमान एक वर्ष redirects ठेवण्याचा सल्ला देते, आणि जुना domain expire होऊ दिल्यास links गमावण्याचा किंवा दुसऱ्याने तो विकत घेण्याचा धोका असतो."
+  }
+ },
+ {
+  "id": "seo-72",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A multi-speciality clinic's health articles lost traffic after a core update. There's no manual action. Articles are written by anonymous content writers, with no medical review or sources. Best recovery approach?",
+   "hi": "Ek multi-speciality clinic ke health articles ka traffic core update ke baad gir gaya. Koi manual action nahi hai. Articles anonymous content writers ne likhe hain, na medical review, na sources. Best recovery approach?",
+   "mr": "एका multi-speciality clinic च्या health articles चे traffic core update नंतर घसरले. Manual action नाही. Articles अनामिक content writers नी लिहिले आहेत, medical review किंवा sources नाहीत. सर्वोत्तम recovery पद्धत कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Have doctors write or review, add credentials, cite sources, update advice",
+    "Submit a reconsideration request to Google through Search Console",
+    "Change every article's publish date to today to look fresh",
+    "Add more keywords like 'best doctor near me' to every article"
+   ],
+   "hi": [
+    "Doctors se likhwao ya review karwao, credentials daalo, sources cite karo, advice update karo",
+    "Search Console se Google ko reconsideration request bhejo",
+    "Fresh dikhne ke liye har article ki publish date aaj ki kar do",
+    "Har article mein 'best doctor near me' jaise aur keywords daalo"
+   ],
+   "mr": [
+    "doctors कडून लिहून/review करून घ्या, credentials टाका, sources द्या, सल्ला update करा",
+    "Search Console मधून Google ला reconsideration request पाठवा",
+    "ताजे दिसावे म्हणून प्रत्येक article ची publish date आजची करा",
+    "प्रत्येक article मध्ये 'best doctor near me' सारखे आणखी keywords टाका"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Health content is 'Your Money or Your Life' (YMYL), where Google weighs E-E-A-T heavily. Real expert authorship, review and sourcing improve quality. Reconsideration requests are only for manual actions, and fake date changes don't add value.",
+   "hi": "Health content 'Your Money or Your Life' (YMYL) hai, jahan Google E-E-A-T ko bahut weight deta hai. Real expert authorship, review aur sourcing se quality badhti hai. Reconsideration request sirf manual actions ke liye hota hai, aur fake date badalne se value nahi badhti.",
+   "mr": "Health content हा 'Your Money or Your Life' (YMYL) आहे, जिथे Google E-E-A-T ला जास्त महत्त्व देते. खरे expert लेखक, review आणि sources मुळे quality वाढते. Reconsideration request फक्त manual actions साठी असते, आणि खोट्या तारखा बदलल्याने मूल्य वाढत नाही."
+  }
+ },
+ {
+  "id": "seo-73",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A dental clinic adds LocalBusiness schema with AggregateRating on its own homepage, using its Google reviews, hoping to get star ratings in organic results. What will most likely happen?",
+   "hi": "Ek dental clinic apne hi homepage pe LocalBusiness schema ke saath AggregateRating daalta hai, apne Google reviews use karke, taaki organic results mein star ratings dikhein. Sabse likely kya hoga?",
+   "mr": "एक dental clinic आपल्याच homepage वर LocalBusiness schema सह AggregateRating टाकतो, आपले Google reviews वापरून, जेणेकरून organic results मध्ये star ratings दिसतील. बहुधा काय होईल?"
+  },
+  "opts": {
+   "en": [
+    "Star ratings will appear in organic results within 24 hours",
+    "No stars; self-serving LocalBusiness reviews aren't eligible for snippets",
+    "The clinic will jump to the first position in the local pack",
+    "Google will copy the star rating into the Business Profile"
+   ],
+   "hi": [
+    "24 ghante mein organic results mein star ratings dikhne lagengi",
+    "Stars nahi; self-serving LocalBusiness reviews snippets ke liye eligible nahi",
+    "Clinic local pack mein seedha pehli position pe aa jaayega",
+    "Google star rating ko Business Profile mein copy kar dega"
+   ],
+   "mr": [
+    "24 तासांत organic results मध्ये star ratings दिसू लागतील",
+    "Stars नाहीत; self-serving LocalBusiness reviews snippets साठी पात्र नाहीत",
+    "clinic local pack मध्ये थेट पहिल्या स्थानावर येईल",
+    "Google star rating Business Profile मध्ये copy करेल"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Since 2019 Google has not shown review rich results when a LocalBusiness or Organization marks up reviews about itself on its own site. Also, marking up reviews copied from other platforms goes against review snippet guidelines.",
+   "hi": "2019 se Google tab review rich results nahi dikhata jab LocalBusiness ya Organization apni hi site pe apne baare mein reviews markup kare. Saath hi, doosre platforms se copy kiye reviews ko markup karna review snippet guidelines ke khilaf hai.",
+   "mr": "2019 पासून LocalBusiness किंवा Organization ने आपल्याच site वर स्वतःबद्दलचे reviews markup केल्यास Google review rich results दाखवत नाही. तसेच, इतर platforms वरून copy केलेले reviews markup करणे review snippet guidelines विरुद्ध आहे."
+  }
+ },
+ {
+  "id": "seo-74",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A property portal with 2 lakh listing URLs shows most new listings as 'Discovered – currently not indexed' for weeks. Many listings are near-duplicates and expired ones return 200. Server is fast. Best plan?",
+   "hi": "2 lakh listing URLs wale ek property portal pe zyada tar nayi listings hafton se 'Discovered – currently not indexed' dikha rahi hain. Kai listings near-duplicate hain aur expired listings 200 return karti hain. Server fast hai. Best plan?",
+   "mr": "2 लाख listing URLs असलेल्या एका property portal वर बहुतेक नवीन listings आठवडोंन आठवडे 'Discovered – currently not indexed' दाखवतात. अनेक listings near-duplicate आहेत आणि expired listings 200 देतात. Server जलद आहे. सर्वोत्तम योजना?"
+  },
+  "opts": {
+   "en": [
+    "Request indexing for all 2 lakh URLs one by one in URL Inspection",
+    "Add noindex to every new listing until it is one month old",
+    "Prune low-value URLs (410 expired, merge duplicates), boost internal links",
+    "Buy a bigger server even though responses are already fast"
+   ],
+   "hi": [
+    "URL Inspection mein saare 2 lakh URLs ki ek-ek karke indexing request karo",
+    "Har nayi listing pe ek mahine tak noindex lagao",
+    "Low-value URLs hatao (expired pe 410, duplicates merge), internal links badhao",
+    "Server already fast hai phir bhi bada server khareedo"
+   ],
+   "mr": [
+    "URL Inspection मध्ये सर्व 2 लाख URLs साठी एकेक करून indexing request करा",
+    "प्रत्येक नवीन listing वर एक महिना noindex लावा",
+    "कमी-मूल्याचे URLs काढा (expired वर 410, duplicates merge), internal links वाढवा",
+    "responses आधीच जलद असूनही मोठा server विकत घ्या"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "'Discovered' means Google knows the URL but hasn't crawled it yet. With a healthy server, the issue is usually crawl demand: too many low-value URLs dilute it. Pruning, proper status codes and strong internal links focus Googlebot on URLs that matter. URL Inspection has daily limits.",
+   "hi": "'Discovered' matlab Google URL jaanta hai par abhi crawl nahi kiya. Server healthy ho toh issue aam taur pe crawl demand hota hai: bahut saare low-value URLs use dilute kar dete hain. Pruning, sahi status codes aur strong internal links Googlebot ko important URLs pe focus karate hain. URL Inspection ki daily limits hoti hain.",
+   "mr": "'Discovered' म्हणजे Google ला URL माहीत आहे पण अजून crawl केले नाही. Server निरोगी असल्यास समस्या बहुधा crawl demand ची असते: अनेक कमी-मूल्याचे URLs ती विभागतात. Pruning, योग्य status codes आणि मजबूत internal links मुळे Googlebot महत्त्वाच्या URLs वर लक्ष देतो. URL Inspection ला दैनिक मर्यादा असतात."
+  }
+ },
+ {
+  "id": "seo-75",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A travel site auto-redirects visitors by IP: Indian IPs go to /in/, US IPs to /us/. Google rarely indexes the /in/ pages. Why, and what's the best fix?",
+   "hi": "Ek travel site visitors ko IP ke hisaab se auto-redirect karti hai: Indian IPs /in/ pe, US IPs /us/ pe. Google /in/ pages ko kam hi index karta hai. Kyun, aur best fix kya hai?",
+   "mr": "एक travel site visitors ना IP नुसार auto-redirect करते: Indian IPs /in/ वर, US IPs /us/ वर. Google /in/ pages क्वचितच index करते. का, आणि सर्वोत्तम उपाय काय?"
+  },
+  "opts": {
+   "en": [
+    "Google doesn't index country subfolders, so move /in/ to a subdomain",
+    "The /in/ URLs need more keywords added to rank and get indexed",
+    "Indian pages load slower, so Googlebot skips crawling them",
+    "Googlebot crawls mostly from US IPs; drop forced redirects, use hreflang"
+   ],
+   "hi": [
+    "Google country subfolders index nahi karta, isliye /in/ ko subdomain pe le jao",
+    "/in/ URLs mein index hone ke liye aur keywords chahiye",
+    "Indian pages slow load hote hain, isliye Googlebot unhe skip karta hai",
+    "Googlebot zyada tar US IPs se crawl karta hai; forced redirects hatao, hreflang lagao"
+   ],
+   "mr": [
+    "Google country subfolders index करत नाही, म्हणून /in/ subdomain वर न्या",
+    "/in/ URLs index होण्यासाठी त्यात आणखी keywords हवेत",
+    "Indian pages हळू load होतात, म्हणून Googlebot ती वगळतो",
+    "Googlebot बहुतेक US IPs वरून crawl करतो; सक्तीचे redirects काढा, hreflang लावा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Googlebot's crawling mostly originates from US IPs, so IP-based forced redirects can hide other versions from it. Let every version be reachable by its own URL, connect them with hreflang, and suggest (not force) the local version to users.",
+   "hi": "Googlebot ki crawling zyada tar US IPs se hoti hai, isliye IP-based forced redirects doosre versions ko usse chhupa dete hain. Har version apne URL se reachable ho, unhe hreflang se jodo, aur users ko local version suggest karo, force nahi.",
+   "mr": "Googlebot चे crawling बहुतेक US IPs वरून होते, त्यामुळे IP-based सक्तीचे redirects इतर versions त्याच्यापासून लपवू शकतात. प्रत्येक version त्याच्या स्वतःच्या URL वरून उपलब्ध ठेवा, hreflang ने जोडा, आणि users ना local version सुचवा, सक्ती करू नका."
+  }
+ }
+]

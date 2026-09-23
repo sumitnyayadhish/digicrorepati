@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "g-keyword",
+    "term": "Keyword",
+    "cat": "seo",
+    "level": 1,
+    "def": {
+      "en": "A word or phrase people type into a search engine, which web pages try to rank for.",
+      "hi": "Woh word ya phrase jo log search engine mein type karte hain aur jiske liye pages rank karna chahte hain.",
+      "mr": "लोक search engine मध्ये टाइप करतात तो शब्द किंवा वाक्यांश, ज्यासाठी वेबपेजेस rank होण्याचा प्रयत्न करतात."
+    }
+  },
+  {
+    "id": "g-organic-traffic",
+    "term": "Organic Traffic",
+    "cat": "seo",
+    "level": 1,
+    "def": {
+      "en": "Website visitors who arrive by clicking unpaid search engine results rather than paid ads.",
+      "hi": "Website visitors jo paid ads ke bajaye search engine ke free (unpaid) results par click karke aate hain.",
+      "mr": "Paid ads ऐवजी search engine च्या मोफत (unpaid) results वर क्लिक करून वेबसाइटवर येणारे visitors."
+    }
+  },
+  {
+    "id": "g-backlink",
+    "term": "Backlink",
+    "cat": "seo",
+    "level": 2,
+    "def": {
+      "en": "A hyperlink on another website pointing to your site, often treated by search engines as a vote of trust.",
+      "hi": "Kisi dusri website par diya gaya hyperlink jo aapki site ki taraf point karta hai; search engines ise trust ka vote maante hain.",
+      "mr": "दुसऱ्या वेबसाइटवरील तुमच्या साइटकडे निर्देश करणारी hyperlink, जिला search engines विश्वासाचे मत मानतात."
+    }
+  },
+  {
+    "id": "g-serp",
+    "term": "SERP",
+    "cat": "seo",
+    "level": 2,
+    "def": {
+      "en": "The page a search engine displays after a query, listing organic results, ads and other features.",
+      "hi": "Query karne ke baad search engine jo page dikhata hai, jisme organic results, ads aur dusre features hote hain.",
+      "mr": "Query केल्यानंतर search engine दाखवतो ते पान, ज्यात organic results, ads आणि इतर features असतात."
+    }
+  },
+  {
+    "id": "g-indexing",
+    "term": "Indexing",
+    "cat": "seo",
+    "level": 2,
+    "def": {
+      "en": "The process where a search engine stores and organizes discovered pages so they become eligible to appear in results.",
+      "hi": "Woh process jisme search engine mile hue pages ko apne database mein store aur organize karta hai taaki woh results mein dikh sakein.",
+      "mr": "Search engine सापडलेली पाने आपल्या database मध्ये साठवून व्यवस्थित ठेवतो, जेणेकरून ती results मध्ये दिसू शकतील, ती प्रक्रिया."
+    }
+  },
+  {
+    "id": "g-meta-description",
+    "term": "Meta Description",
+    "cat": "seo",
+    "level": 3,
+    "def": {
+      "en": "A short HTML summary of a page that often appears beneath its clickable headline in search results.",
+      "hi": "Page ka chhota HTML summary jo aksar search results mein clickable headline ke neeche dikhta hai.",
+      "mr": "पेजचा छोटा HTML सारांश, जो search results मध्ये clickable headline च्या खाली अनेकदा दिसतो."
+    }
+  },
+  {
+    "id": "g-title-tag",
+    "term": "Title Tag",
+    "cat": "seo",
+    "level": 3,
+    "def": {
+      "en": "HTML element in a page's head that sets the clickable headline in search results and the browser tab name.",
+      "hi": "Page ke head section ka HTML element jo search results ki clickable headline aur browser tab ka naam set karta hai.",
+      "mr": "पेजच्या head मधील HTML element, जो search results मधील clickable headline आणि browser tab चे नाव ठरवतो."
+    }
+  },
+  {
+    "id": "g-google-business-profile",
+    "term": "Google Business Profile",
+    "cat": "seo",
+    "level": 3,
+    "def": {
+      "en": "Free listing that shows a local business's address, hours, reviews and map pin directly in search and map results.",
+      "hi": "Free listing jo local dukaan ya company ka address, timing, reviews aur map pin seedha search aur map results mein dikhati hai.",
+      "mr": "स्थानिक व्यवसायाचा पत्ता, वेळा, reviews आणि map pin थेट search आणि map results मध्ये दाखवणारी मोफत listing."
+    }
+  },
+  {
+    "id": "g-anchor-text",
+    "term": "Anchor Text",
+    "cat": "seo",
+    "level": 4,
+    "def": {
+      "en": "The visible, clickable words of a hyperlink, which help search engines understand what the linked page is about.",
+      "hi": "Hyperlink ke visible, clickable words jo search engines ko samjhate hain ki linked page kis baare mein hai.",
+      "mr": "Hyperlink मधील दिसणारे, clickable शब्द, जे linked पेज कशाबद्दल आहे हे search engines ना समजावतात."
+    }
+  },
+  {
+    "id": "g-alt-text",
+    "term": "Alt Text",
+    "cat": "seo",
+    "level": 4,
+    "def": {
+      "en": "A written description added to an image so screen readers and search engines can understand what it shows.",
+      "hi": "Image ke saath jodi gayi likhit description taaki screen readers aur search engines samajh sakein ki usme kya hai.",
+      "mr": "Image मध्ये काय आहे हे screen readers आणि search engines ना समजावे म्हणून जोडलेले लिखित वर्णन."
+    }
+  },
+  {
+    "id": "g-search-intent",
+    "term": "Search Intent",
+    "cat": "seo",
+    "level": 4,
+    "def": {
+      "en": "The underlying goal behind a query, such as learning something, finding a site, comparing options or buying.",
+      "hi": "Query ke peeche ka asli maksad, jaise kuch seekhna, koi site dhoondhna, options compare karna ya kharidna.",
+      "mr": "Query मागचा खरा उद्देश, जसे काही शिकणे, एखादी साइट शोधणे, पर्यायांची तुलना करणे किंवा खरेदी करणे."
+    }
+  },
+  {
+    "id": "g-long-tail-keyword",
+    "term": "Long-tail Keyword",
+    "cat": "seo",
+    "level": 5,
+    "def": {
+      "en": "A longer, highly specific search phrase with low volume but usually clearer intent and better conversion chances.",
+      "hi": "Lamba aur bahut specific search phrase jiska volume kam hota hai par intent clear aur conversion chance zyada hota hai.",
+      "mr": "कमी volume पण स्पष्ट intent आणि जास्त conversion शक्यता असलेला लांब, अतिशय specific search वाक्यांश."
+    }
+  },
+  {
+    "id": "g-featured-snippet",
+    "term": "Featured Snippet",
+    "cat": "seo",
+    "level": 5,
+    "def": {
+      "en": "A highlighted answer box shown above regular organic results, with text extracted directly from a webpage.",
+      "hi": "Normal organic results ke upar dikhne wala highlighted answer box, jisme kisi webpage se seedha text liya jata hai.",
+      "mr": "नेहमीच्या organic results च्या वर दिसणारा highlighted उत्तर box, ज्यातील मजकूर थेट एखाद्या webpage मधून घेतलेला असतो."
+    }
+  },
+  {
+    "id": "g-xml-sitemap",
+    "term": "XML Sitemap",
+    "cat": "seo",
+    "level": 6,
+    "def": {
+      "en": "A file listing a website's important URLs so search engine crawlers can discover and crawl them efficiently.",
+      "hi": "Ek file jisme website ke important URLs ki list hoti hai taaki search engine crawlers unhe aasani se dhoondh aur crawl kar sakein.",
+      "mr": "वेबसाइटच्या महत्त्वाच्या URLs ची यादी असलेली file, जेणेकरून search engine crawlers त्यांना सहज शोधू आणि crawl करू शकतील."
+    }
+  },
+  {
+    "id": "g-robots-txt",
+    "term": "Robots.txt",
+    "cat": "seo",
+    "level": 6,
+    "def": {
+      "en": "A plain text file at a site's root telling crawlers which sections they may or may not access.",
+      "hi": "Site ke root par rakhi plain text file jo crawlers ko batati hai ki kaunse sections access kar sakte hain aur kaunse nahi.",
+      "mr": "साइटच्या root वर ठेवलेली साधी text file, जी crawlers ना कोणते भाग access करता येतील आणि कोणते नाही हे सांगते."
+    }
+  },
+  {
+    "id": "g-schema-markup",
+    "term": "Schema Markup",
+    "cat": "seo",
+    "level": 6,
+    "def": {
+      "en": "Structured data code added to pages so search engines can show rich results like star ratings, prices or FAQs.",
+      "hi": "Pages mein joda gaya structured data code taaki search engines star ratings, price ya FAQs jaise rich results dikha sakein.",
+      "mr": "पेजेसमध्ये जोडलेला structured data code, ज्यामुळे search engines star ratings, किंमत किंवा FAQs सारखे rich results दाखवू शकतात."
+    }
+  },
+  {
+    "id": "g-canonical-tag",
+    "term": "Canonical Tag",
+    "cat": "seo",
+    "level": 7,
+    "def": {
+      "en": "An HTML hint telling search engines which URL is the preferred master version when several pages have duplicate content.",
+      "hi": "HTML hint jo search engines ko batata hai ki duplicate content wale kai pages mein se kaunsa URL main (preferred) version hai.",
+      "mr": "अनेक पेजेसवर duplicate content असताना कोणती URL मुख्य (preferred) आवृत्ती आहे हे search engines ना सांगणारा HTML hint."
+    }
+  },
+  {
+    "id": "g-core-web-vitals",
+    "term": "Core Web Vitals",
+    "cat": "seo",
+    "level": 7,
+    "def": {
+      "en": "Google's set of page experience metrics measuring loading speed, responsiveness to input and visual stability.",
+      "hi": "Google ke page experience metrics ka set jo loading speed, input par response aur visual stability ko measure karta hai.",
+      "mr": "Loading speed, input ला प्रतिसाद आणि visual stability मोजणारा Google चा page experience metrics चा संच."
+    }
+  },
+  {
+    "id": "g-nap-consistency",
+    "term": "NAP Consistency",
+    "cat": "seo",
+    "level": 8,
+    "def": {
+      "en": "Keeping a business's name, address and phone number exactly identical across all online directories and listings.",
+      "hi": "Business ka naam, address aur phone number sabhi online directories aur listings mein bilkul ek jaisa rakhna.",
+      "mr": "व्यवसायाचे नाव, पत्ता आणि फोन नंबर सर्व online directories आणि listings मध्ये अगदी एकसारखे ठेवणे."
+    }
+  },
+  {
+    "id": "g-crawl-budget",
+    "term": "Crawl Budget",
+    "cat": "seo",
+    "level": 8,
+    "def": {
+      "en": "The number of pages a search engine bot is willing and able to fetch from a site within a given time.",
+      "hi": "Kisi site se ek tay samay mein search engine bot jitne pages fetch karne ko taiyaar aur saksham hai, woh sankhya.",
+      "mr": "ठराविक वेळेत search engine bot एखाद्या साइटवरून जितकी पाने fetch करण्यास तयार आणि सक्षम असतो, ती संख्या."
+    }
+  },
+  {
+    "id": "g-keyword-cannibalization",
+    "term": "Keyword Cannibalization",
+    "cat": "seo",
+    "level": 8,
+    "def": {
+      "en": "When several pages on the same site target one query and end up competing against each other in rankings.",
+      "hi": "Jab ek hi site ke kai pages ek hi query ko target karte hain aur rankings mein aapas mein compete karne lagte hain.",
+      "mr": "एकाच साइटवरील अनेक पाने एकाच query ला target करतात आणि rankings मध्ये एकमेकांशीच स्पर्धा करतात, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-hreflang",
+    "term": "Hreflang",
+    "cat": "seo",
+    "level": 9,
+    "def": {
+      "en": "An HTML attribute telling search engines which language or regional version of a page to show each user.",
+      "hi": "HTML attribute jo search engines ko batata hai ki har user ko page ka kaunsa language ya regional version dikhana hai.",
+      "mr": "प्रत्येक user ला पेजची कोणती भाषा किंवा प्रादेशिक आवृत्ती दाखवायची हे search engines ना सांगणारा HTML attribute."
+    }
+  },
+  {
+    "id": "g-e-e-a-t",
+    "term": "E-E-A-T",
+    "cat": "seo",
+    "level": 9,
+    "def": {
+      "en": "Google's quality rater framework judging content on the creator's experience, expertise, authoritativeness and trustworthiness.",
+      "hi": "Google ke quality raters ka framework jo content ko creator ke experience, expertise, authoritativeness aur trustworthiness par judge karta hai.",
+      "mr": "Creator चा experience, expertise, authoritativeness आणि trustworthiness यावर content तपासणारी Google च्या quality raters ची चौकट."
+    }
+  },
+  {
+    "id": "g-log-file-analysis",
+    "term": "Log File Analysis",
+    "cat": "seo",
+    "level": 10,
+    "def": {
+      "en": "Studying raw server access records to see exactly which URLs search engine bots requested and how often.",
+      "hi": "Raw server access records ko study karna taaki pata chale ki search engine bots ne kaunse URLs kitni baar request kiye.",
+      "mr": "Search engine bots नी कोणत्या URLs किती वेळा मागितल्या हे अचूक पाहण्यासाठी raw server access records चा अभ्यास करणे."
+    }
+  },
+  {
+    "id": "g-disavow-tool",
+    "term": "Disavow Tool",
+    "cat": "seo",
+    "level": 10,
+    "def": {
+      "en": "Search Console feature for asking Google to ignore specific spammy or unnatural links pointing to your site.",
+      "hi": "Search Console ka feature jisse aap Google ko kehte hain ki aapki site ki taraf aane wale spammy ya unnatural links ko ignore kare.",
+      "mr": "तुमच्या साइटकडे येणाऱ्या spammy किंवा अनैसर्गिक links दुर्लक्षित करण्यास Google ला सांगणारे Search Console मधील feature."
+    }
+  },
+  {
+    "id": "g-impression",
+    "term": "Impression",
+    "cat": "ads",
+    "level": 1,
+    "def": {
+      "en": "A single instance of an ad being displayed on someone's screen, whether or not it gets clicked.",
+      "hi": "Ad ka ek baar kisi ki screen par display hona, chahe us par click ho ya na ho.",
+      "mr": "जाहिरात एखाद्याच्या screen वर एकदा दाखवली जाणे, त्यावर click झाला असो वा नसो."
+    }
+  },
+  {
+    "id": "g-cost-per-click",
+    "term": "Cost Per Click (CPC)",
+    "cat": "ads",
+    "level": 1,
+    "def": {
+      "en": "The amount an advertiser pays each time someone clicks on their ad.",
+      "hi": "Woh amount jo advertiser har baar deta hai jab koi uske ad par click karta hai.",
+      "mr": "कोणी जाहिरातीवर प्रत्येक वेळी click केल्यावर advertiser देतो ती रक्कम."
+    }
+  },
+  {
+    "id": "g-click-through-rate",
+    "term": "Click-Through Rate (CTR)",
+    "cat": "ads",
+    "level": 2,
+    "def": {
+      "en": "Percentage of people who clicked an ad after seeing it, calculated as clicks divided by impressions.",
+      "hi": "Ad dekhne walon mein se kitne percent logon ne us par click kiya; clicks ko impressions se divide karke nikalta hai.",
+      "mr": "जाहिरात पाहणाऱ्यांपैकी किती टक्के लोकांनी click केले; clicks ला impressions ने भागून काढले जाते."
+    }
+  },
+  {
+    "id": "g-cost-per-mille",
+    "term": "Cost Per Mille (CPM)",
+    "cat": "ads",
+    "level": 2,
+    "def": {
+      "en": "The price an advertiser pays for one thousand displays of an ad.",
+      "hi": "Ad ke har ek hazaar (1,000) displays ke liye advertiser jo price deta hai.",
+      "mr": "जाहिरातीच्या प्रत्येक एक हजार (1,000) displays साठी advertiser देतो ती किंमत."
+    }
+  },
+  {
+    "id": "g-cost-per-acquisition",
+    "term": "Cost Per Acquisition (CPA)",
+    "cat": "ads",
+    "level": 2,
+    "def": {
+      "en": "Average ad spend needed to win one desired action, such as a purchase, sign-up or lead.",
+      "hi": "Ek desired action, jaise purchase, sign-up ya lead, paane ke liye average kitna ad spend laga.",
+      "mr": "एक अपेक्षित action (खरेदी, sign-up किंवा lead) मिळवण्यासाठी सरासरी लागलेला ad खर्च."
+    }
+  },
+  {
+    "id": "g-retargeting",
+    "term": "Retargeting",
+    "cat": "ads",
+    "level": 3,
+    "def": {
+      "en": "Showing ads to people who previously visited your website or app but left without converting.",
+      "hi": "Un logon ko ads dikhana jo pehle aapki website ya app par aaye the par bina convert kiye chale gaye.",
+      "mr": "आधी तुमच्या वेबसाइट किंवा app ला भेट देऊन convert न होता निघून गेलेल्या लोकांना पुन्हा जाहिराती दाखवणे."
+    }
+  },
+  {
+    "id": "g-frequency",
+    "term": "Frequency",
+    "cat": "ads",
+    "level": 3,
+    "def": {
+      "en": "The average number of times one person has seen the same ad during a given period.",
+      "hi": "Ek tay samay mein ek hi vyakti ne same ad average kitni baar dekha.",
+      "mr": "ठराविक कालावधीत एका व्यक्तीने तीच जाहिरात सरासरी किती वेळा पाहिली, ती संख्या."
+    }
+  },
+  {
+    "id": "g-return-on-ad-spend",
+    "term": "Return on Ad Spend (ROAS)",
+    "cat": "ads",
+    "level": 3,
+    "def": {
+      "en": "Revenue earned for every rupee spent on advertising, calculated as ad revenue divided by ad cost.",
+      "hi": "Advertising par kharch kiye har ek rupaye par kitna revenue aaya; ad revenue ko ad cost se divide karke.",
+      "mr": "जाहिरातीवर खर्च केलेल्या प्रत्येक रुपयामागे मिळालेले revenue; ad revenue ला ad खर्चाने भागून काढतात."
+    }
+  },
+  {
+    "id": "g-negative-keyword",
+    "term": "Negative Keyword",
+    "cat": "ads",
+    "level": 4,
+    "def": {
+      "en": "A search term you exclude so your ads don't show for irrelevant queries.",
+      "hi": "Aisa search term jise aap exclude karte hain taaki irrelevant queries par aapke ads na dikhein.",
+      "mr": "असंबंधित queries वर जाहिराती दिसू नयेत म्हणून तुम्ही वगळता (exclude) तो search term."
+    }
+  },
+  {
+    "id": "g-lookalike-audience",
+    "term": "Lookalike Audience",
+    "cat": "ads",
+    "level": 4,
+    "def": {
+      "en": "A new group of people the ad platform finds who share traits with an advertiser's existing customers.",
+      "hi": "Logon ka naya group jise ad platform dhoondhta hai, jinki khoobiyan advertiser ke maujooda customers jaisi hoti hain.",
+      "mr": "Advertiser च्या सध्याच्या ग्राहकांसारखी वैशिष्ट्ये असलेल्या नवीन लोकांचा गट, जो ad platform शोधतो."
+    }
+  },
+  {
+    "id": "g-quality-score",
+    "term": "Quality Score",
+    "cat": "ads",
+    "level": 5,
+    "def": {
+      "en": "Google Ads' 1-10 rating of a keyword based on expected CTR, ad relevance and landing page experience.",
+      "hi": "Google Ads ki 1-10 rating jo keyword ko expected CTR, ad relevance aur landing page experience ke basis par milti hai.",
+      "mr": "Expected CTR, ad relevance आणि landing page experience यावर आधारित keyword ला Google Ads देत असलेले 1-10 rating."
+    }
+  },
+  {
+    "id": "g-ad-rank",
+    "term": "Ad Rank",
+    "cat": "ads",
+    "level": 5,
+    "def": {
+      "en": "Value that decides whether and where an ad appears in a search auction, using bid, ad quality and context.",
+      "hi": "Woh value jo tay karti hai ki search auction mein ad dikhega ya nahi aur kis position par; bid, ad quality aur context se banti hai.",
+      "mr": "Search auction मध्ये जाहिरात दिसेल का आणि कोणत्या स्थानावर हे ठरवणारे मूल्य; bid, ad quality आणि context वरून ठरते."
+    }
+  },
+  {
+    "id": "g-performance-max",
+    "term": "Performance Max",
+    "cat": "ads",
+    "level": 6,
+    "def": {
+      "en": "Google campaign type that uses automation to run one campaign across Search, YouTube, Display, Gmail, Maps and Discover.",
+      "hi": "Google ka campaign type jo automation se ek hi campaign ko Search, YouTube, Display, Gmail, Maps aur Discover par chalata hai.",
+      "mr": "Automation वापरून एकच campaign Search, YouTube, Display, Gmail, Maps आणि Discover वर चालवणारा Google चा campaign प्रकार."
+    }
+  },
+  {
+    "id": "g-ad-fatigue",
+    "term": "Ad Fatigue",
+    "cat": "ads",
+    "level": 6,
+    "def": {
+      "en": "Declining results when an audience sees the same creative too often and stops responding to it.",
+      "hi": "Jab audience ek hi creative ko baar-baar dekhkar respond karna band kar deti hai aur results girne lagte hain.",
+      "mr": "प्रेक्षक तेच creative पुन्हा पुन्हा पाहून प्रतिसाद देणे थांबवतात आणि results घसरू लागतात, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-target-cpa-bidding",
+    "term": "Target CPA Bidding",
+    "cat": "ads",
+    "level": 6,
+    "def": {
+      "en": "Automated bid strategy that aims to get as many conversions as possible at an average cost per action you set.",
+      "hi": "Automated bid strategy jo aapke set kiye average cost per action par zyada se zyada conversions laane ki koshish karti hai.",
+      "mr": "तुम्ही ठरवलेल्या सरासरी cost per action वर जास्तीत जास्त conversions मिळवण्याचा प्रयत्न करणारी automated bid strategy."
+    }
+  },
+  {
+    "id": "g-viewability",
+    "term": "Viewability",
+    "cat": "ads",
+    "level": 7,
+    "def": {
+      "en": "Whether an ad actually had a chance to be seen, such as at least 50% of pixels on screen for one second.",
+      "hi": "Kya ad ko sach mein dekhe jaane ka mauka mila, jaise kam se kam 50% pixels ek second tak screen par rahe.",
+      "mr": "जाहिरात खरोखर दिसण्याची संधी मिळाली का, उदा. किमान 50% pixels एक सेकंद screen वर राहिले का, याचे मोजमाप."
+    }
+  },
+  {
+    "id": "g-impression-share",
+    "term": "Impression Share",
+    "cat": "ads",
+    "level": 7,
+    "def": {
+      "en": "Percentage of eligible ad auctions in which your ad was actually shown to searchers.",
+      "hi": "Jin auctions ke liye aapka ad eligible tha, unme se kitne percent mein woh sach mein logon ko dikha.",
+      "mr": "तुमची जाहिरात ज्या auctions साठी पात्र होती, त्यापैकी किती टक्क्यांमध्ये ती प्रत्यक्ष लोकांना दिसली."
+    }
+  },
+  {
+    "id": "g-programmatic-advertising",
+    "term": "Programmatic Advertising",
+    "cat": "ads",
+    "level": 7,
+    "def": {
+      "en": "Automated buying and selling of digital ad space using software, data and algorithms instead of manual negotiation.",
+      "hi": "Software, data aur algorithms se digital ad space ki automated kharid-bikri, manual negotiation ke bina.",
+      "mr": "Manual वाटाघाटीऐवजी software, data आणि algorithms वापरून digital ad जागेची automated खरेदी-विक्री."
+    }
+  },
+  {
+    "id": "g-demand-side-platform",
+    "term": "Demand-Side Platform (DSP)",
+    "cat": "ads",
+    "level": 8,
+    "def": {
+      "en": "Software advertisers use to buy ad inventory automatically across many exchanges from a single interface.",
+      "hi": "Software jise advertisers ek hi interface se kai exchanges par ad inventory automatically kharidne ke liye use karte hain.",
+      "mr": "एकाच interface मधून अनेक exchanges वर ad inventory आपोआप खरेदी करण्यासाठी advertisers वापरतात ते software."
+    }
+  },
+  {
+    "id": "g-supply-side-platform",
+    "term": "Supply-Side Platform (SSP)",
+    "cat": "ads",
+    "level": 8,
+    "def": {
+      "en": "Software publishers use to offer their ad inventory to many buyers at once and maximize its yield.",
+      "hi": "Software jise publishers apni ad inventory ek saath kai buyers ko bechne aur revenue maximize karne ke liye use karte hain.",
+      "mr": "आपली ad inventory एकाच वेळी अनेक खरेदीदारांना विकून उत्पन्न वाढवण्यासाठी publishers वापरतात ते software."
+    }
+  },
+  {
+    "id": "g-real-time-bidding",
+    "term": "Real-Time Bidding (RTB)",
+    "cat": "ads",
+    "level": 8,
+    "def": {
+      "en": "Auction process where each individual ad impression is bought and sold in milliseconds while a page loads.",
+      "hi": "Auction process jisme har ek ad impression page load hote waqt milliseconds mein kharida-becha jata hai.",
+      "mr": "पेज load होत असताना प्रत्येक ad impression काही milliseconds मध्ये खरेदी-विक्री होणारी auction प्रक्रिया."
+    }
+  },
+  {
+    "id": "g-view-through-conversion",
+    "term": "View-Through Conversion",
+    "cat": "ads",
+    "level": 9,
+    "def": {
+      "en": "A conversion credited to an ad the user saw but did not click before later converting.",
+      "hi": "Aisa conversion jiska credit us ad ko milta hai jise user ne dekha tha par click nahi kiya, aur baad mein convert hua.",
+      "mr": "User ने पाहिलेल्या पण click न केलेल्या जाहिरातीला, नंतर झालेल्या conversion चे श्रेय देणे."
+    }
+  },
+  {
+    "id": "g-brand-lift-study",
+    "term": "Brand Lift Study",
+    "cat": "ads",
+    "level": 9,
+    "def": {
+      "en": "Experiment comparing people exposed and not exposed to ads to measure changes in awareness, recall or consideration.",
+      "hi": "Experiment jo ads dekhne wale aur na dekhne wale logon ko compare karke awareness, recall ya consideration mein badlav measure karta hai.",
+      "mr": "जाहिराती पाहिलेल्या आणि न पाहिलेल्या लोकांची तुलना करून awareness, recall किंवा consideration मधील बदल मोजणारा प्रयोग."
+    }
+  },
+  {
+    "id": "g-invalid-traffic",
+    "term": "Invalid Traffic (IVT)",
+    "cat": "ads",
+    "level": 9,
+    "def": {
+      "en": "Ad clicks or impressions generated by bots, fraud or accidental activity that should not be billed.",
+      "hi": "Bots, fraud ya galti se hui activity se aaye ad clicks ya impressions jinka paisa nahi lagna chahiye.",
+      "mr": "Bots, फसवणूक किंवा चुकून झालेल्या activity मुळे आलेले ad clicks किंवा impressions, ज्यांचे पैसे आकारले जाऊ नयेत."
+    }
+  },
+  {
+    "id": "g-header-bidding",
+    "term": "Header Bidding",
+    "cat": "ads",
+    "level": 10,
+    "def": {
+      "en": "Publisher technique letting multiple ad exchanges bid on inventory simultaneously before the ad server is called.",
+      "hi": "Publisher technique jisme ad server ko call karne se pehle kai ad exchanges ek saath inventory par bid karte hain.",
+      "mr": "Ad server ला call करण्यापूर्वी अनेक ad exchanges ना एकाच वेळी inventory वर bid करू देणारी publisher technique."
+    }
+  },
+  {
+    "id": "g-hashtag",
+    "term": "Hashtag",
+    "cat": "social",
+    "level": 1,
+    "def": {
+      "en": "A word or phrase prefixed with the # symbol that groups related posts and makes them discoverable.",
+      "hi": "# symbol ke saath likha word ya phrase jo related posts ko group karta hai aur unhe dhoondhne mein madad karta hai.",
+      "mr": "# चिन्हाने सुरू होणारा शब्द किंवा वाक्यांश, जो संबंधित posts एकत्र करतो आणि त्यांना शोधणे सोपे करतो."
+    }
+  },
+  {
+    "id": "g-follower",
+    "term": "Follower",
+    "cat": "social",
+    "level": 1,
+    "def": {
+      "en": "A user who subscribes to an account so its new posts appear in their feed.",
+      "hi": "Woh user jo kisi account ko subscribe karta hai taaki uske naye posts uski feed mein dikhein.",
+      "mr": "एखाद्या account ला subscribe करणारा user, ज्यामुळे त्या account च्या नवीन posts त्याच्या feed मध्ये दिसतात."
+    }
+  },
+  {
+    "id": "g-stories",
+    "term": "Stories",
+    "cat": "social",
+    "level": 2,
+    "def": {
+      "en": "Temporary photo or video posts that disappear after 24 hours, shown at the top of apps like Instagram.",
+      "hi": "Temporary photo ya video posts jo 24 ghante baad gayab ho jaate hain, Instagram jaise apps mein upar dikhte hain.",
+      "mr": "24 तासांनंतर नाहीसे होणारे तात्पुरते photo किंवा video posts, जे Instagram सारख्या apps मध्ये वर दिसतात."
+    }
+  },
+  {
+    "id": "g-influencer",
+    "term": "Influencer",
+    "cat": "social",
+    "level": 2,
+    "def": {
+      "en": "A creator whose audience trusts them enough that their recommendations can sway followers' buying decisions.",
+      "hi": "Aisa creator jiski audience us par itna bharosa karti hai ki uski recommendations followers ke kharidne ke faisle badal sakti hain.",
+      "mr": "असा creator ज्याच्यावर प्रेक्षक इतका विश्वास ठेवतात की त्याच्या शिफारसी followers च्या खरेदी निर्णयांवर प्रभाव टाकतात."
+    }
+  },
+  {
+    "id": "g-going-viral",
+    "term": "Going Viral",
+    "cat": "social",
+    "level": 2,
+    "def": {
+      "en": "When a piece of content spreads extremely fast because huge numbers of people share it.",
+      "hi": "Jab koi content bahut tezi se phailta hai kyunki bahut saare log use share karte hain.",
+      "mr": "खूप लोक share करत असल्यामुळे एखादा content अतिशय वेगाने पसरतो, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-engagement-rate",
+    "term": "Engagement Rate",
+    "cat": "social",
+    "level": 3,
+    "def": {
+      "en": "Share of likes, comments, shares and saves a post gets relative to its reach or follower count.",
+      "hi": "Post ko mile likes, comments, shares aur saves ka hissa, uski reach ya followers ki sankhya ke mukable.",
+      "mr": "Post च्या reach किंवा followers संख्येच्या तुलनेत मिळालेल्या likes, comments, shares आणि saves चे प्रमाण."
+    }
+  },
+  {
+    "id": "g-reach",
+    "term": "Reach",
+    "cat": "social",
+    "level": 3,
+    "def": {
+      "en": "The number of unique people who saw a piece of content at least once.",
+      "hi": "Kitne alag-alag (unique) logon ne koi content kam se kam ek baar dekha, woh sankhya.",
+      "mr": "एखादा content किमान एकदा पाहणाऱ्या वेगवेगळ्या (unique) लोकांची संख्या."
+    }
+  },
+  {
+    "id": "g-carousel-post",
+    "term": "Carousel Post",
+    "cat": "social",
+    "level": 3,
+    "def": {
+      "en": "A single post containing multiple images or videos that viewers swipe through.",
+      "hi": "Ek hi post jisme kai images ya videos hote hain jinhe viewers swipe karke dekhte hain.",
+      "mr": "अनेक images किंवा videos असलेली एकच post, जी पाहणारे swipe करून पाहतात."
+    }
+  },
+  {
+    "id": "g-user-generated-content",
+    "term": "User-Generated Content (UGC)",
+    "cat": "social",
+    "level": 4,
+    "def": {
+      "en": "Photos, videos, reviews or posts about a brand created by its customers rather than by the brand itself.",
+      "hi": "Brand ke baare mein photos, videos, reviews ya posts jo brand ne nahi, balki uske customers ne banaye hain.",
+      "mr": "ब्रँडने नव्हे तर त्याच्या ग्राहकांनी ब्रँडबद्दल तयार केलेले photos, videos, reviews किंवा posts."
+    }
+  },
+  {
+    "id": "g-feed-algorithm",
+    "term": "Feed Algorithm",
+    "cat": "social",
+    "level": 4,
+    "def": {
+      "en": "The system that decides which posts each user sees and in what order, based on predicted interest.",
+      "hi": "Woh system jo tay karta hai ki har user ko kaunse posts aur kis order mein dikhenge, uski sambhavit ruchi ke hisaab se.",
+      "mr": "प्रत्येक user ला कोणत्या posts कोणत्या क्रमाने दिसतील हे त्याच्या संभाव्य आवडीनुसार ठरवणारी प्रणाली."
+    }
+  },
+  {
+    "id": "g-community-management",
+    "term": "Community Management",
+    "cat": "social",
+    "level": 4,
+    "def": {
+      "en": "Actively replying to comments and messages and moderating discussions to build relationships with an audience.",
+      "hi": "Comments aur messages ka jawab dena aur discussions ko moderate karna taaki audience ke saath rishta bane.",
+      "mr": "प्रेक्षकांशी नाते जोडण्यासाठी comments आणि messages ना उत्तर देणे व चर्चांचे moderation करणे."
+    }
+  },
+  {
+    "id": "g-social-listening",
+    "term": "Social Listening",
+    "cat": "social",
+    "level": 5,
+    "def": {
+      "en": "Monitoring online conversations about a brand, competitors or topics to spot trends, sentiment and issues.",
+      "hi": "Brand, competitors ya topics ke baare mein online baatcheet ko monitor karna taaki trends, sentiment aur problems pakde ja sakein.",
+      "mr": "Trends, sentiment आणि समस्या ओळखण्यासाठी ब्रँड, स्पर्धक किंवा विषयांबद्दलच्या online चर्चांवर लक्ष ठेवणे."
+    }
+  },
+  {
+    "id": "g-nano-influencer",
+    "term": "Nano-influencer",
+    "cat": "social",
+    "level": 5,
+    "def": {
+      "en": "A creator with a small but highly engaged audience, usually around 1,000 to 10,000 followers.",
+      "hi": "Chhoti par bahut engaged audience wala creator, aam taur par lagbhag 1,000 se 10,000 followers.",
+      "mr": "लहान पण अतिशय engaged प्रेक्षक असलेला creator, साधारणपणे 1,000 ते 10,000 followers."
+    }
+  },
+  {
+    "id": "g-social-proof",
+    "term": "Social Proof",
+    "cat": "social",
+    "level": 5,
+    "def": {
+      "en": "The psychological tendency to trust something because many other people use, like or recommend it.",
+      "hi": "Woh manovaigyanik aadat jisme hum kisi cheez par bharosa karte hain kyunki bahut log use use, like ya recommend karte hain.",
+      "mr": "अनेक लोक एखादी गोष्ट वापरतात, आवडतात किंवा शिफारस करतात म्हणून तिच्यावर विश्वास ठेवण्याची मानसिक प्रवृत्ती."
+    }
+  },
+  {
+    "id": "g-social-commerce",
+    "term": "Social Commerce",
+    "cat": "social",
+    "level": 6,
+    "def": {
+      "en": "Selling products directly inside social media apps so users can buy without leaving the platform.",
+      "hi": "Social media apps ke andar hi products bechna taaki users platform chhode bina kharid sakein.",
+      "mr": "Social media apps मध्येच products विकणे, ज्यामुळे users platform न सोडता खरेदी करू शकतात."
+    }
+  },
+  {
+    "id": "g-vanity-metrics",
+    "term": "Vanity Metrics",
+    "cat": "social",
+    "level": 6,
+    "def": {
+      "en": "Numbers like likes or follower counts that look impressive but don't reflect real business results.",
+      "hi": "Likes ya followers jaise numbers jo dekhne mein impressive lagte hain par asli business results nahi dikhate.",
+      "mr": "Likes किंवा followers सारखे आकडे जे प्रभावी दिसतात पण खरे business results दाखवत नाहीत."
+    }
+  },
+  {
+    "id": "g-share-of-voice",
+    "term": "Share of Voice",
+    "cat": "social",
+    "level": 6,
+    "def": {
+      "en": "A brand's portion of total online conversation or visibility in its category compared with competitors.",
+      "hi": "Apni category mein competitors ke mukable online baatcheet ya visibility mein brand ka hissa.",
+      "mr": "आपल्या category मध्ये स्पर्धकांच्या तुलनेत online चर्चा किंवा visibility मधील ब्रँडचा वाटा."
+    }
+  },
+  {
+    "id": "g-dark-social",
+    "term": "Dark Social",
+    "cat": "social",
+    "level": 7,
+    "def": {
+      "en": "Content sharing through private channels like WhatsApp or direct messages that analytics tools can't attribute to a source.",
+      "hi": "WhatsApp ya direct messages jaise private channels se hone wali sharing jise analytics tools kisi source se jod nahi paate.",
+      "mr": "WhatsApp किंवा direct messages सारख्या खाजगी माध्यमांतून होणारे sharing, ज्याचा source analytics tools ओळखू शकत नाहीत."
+    }
+  },
+  {
+    "id": "g-engagement-pod",
+    "term": "Engagement Pod",
+    "cat": "social",
+    "level": 7,
+    "def": {
+      "en": "A group of users who agree to like and comment on each other's posts to game the platform's ranking system.",
+      "hi": "Users ka group jo platform ke ranking system ko chakma dene ke liye ek-dusre ke posts par like aur comment karta hai.",
+      "mr": "Platform च्या ranking system ला फसवण्यासाठी एकमेकांच्या posts वर like आणि comment करण्याचे ठरवणारा users चा गट."
+    }
+  },
+  {
+    "id": "g-shadowban",
+    "term": "Shadowban",
+    "cat": "social",
+    "level": 7,
+    "def": {
+      "en": "When a platform quietly limits the visibility of a user's content without notifying them.",
+      "hi": "Jab platform bina bataye chupchaap kisi user ke content ki visibility kam kar deta hai.",
+      "mr": "Platform user ला न कळवता त्याच्या content ची visibility गुपचूप कमी करतो, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-influencer-whitelisting",
+    "term": "Influencer Whitelisting",
+    "cat": "social",
+    "level": 8,
+    "def": {
+      "en": "Arrangement where a brand runs paid ads through a creator's own account handle with their permission.",
+      "hi": "Aisa arrangement jisme brand creator ki permission se uske account handle ke through paid ads chalata hai.",
+      "mr": "Creator च्या परवानगीने त्याच्या account handle मधून ब्रँड paid ads चालवतो, अशी व्यवस्था."
+    }
+  },
+  {
+    "id": "g-earned-media-value",
+    "term": "Earned Media Value",
+    "cat": "social",
+    "level": 8,
+    "def": {
+      "en": "Estimated monetary worth of unpaid exposure a brand gains from shares, mentions and creator posts.",
+      "hi": "Shares, mentions aur creator posts se brand ko mili unpaid exposure ki anumanit paisa value.",
+      "mr": "Shares, mentions आणि creator posts मधून ब्रँडला मिळालेल्या unpaid प्रसिद्धीचे अंदाजे आर्थिक मूल्य."
+    }
+  },
+  {
+    "id": "g-social-graph",
+    "term": "Social Graph",
+    "cat": "social",
+    "level": 9,
+    "def": {
+      "en": "A map of connections between users that platforms use to recommend people and content.",
+      "hi": "Users ke beech connections ka naksha jise platforms log aur content recommend karne ke liye use karte hain.",
+      "mr": "Users मधील connections चा नकाशा, ज्याचा वापर platforms लोक आणि content सुचवण्यासाठी करतात."
+    }
+  },
+  {
+    "id": "g-parasocial-relationship",
+    "term": "Parasocial Relationship",
+    "cat": "social",
+    "level": 9,
+    "def": {
+      "en": "A one-sided emotional bond a follower feels toward a creator who doesn't know them personally.",
+      "hi": "Ektarfa emotional rishta jo follower ek aise creator se mehsoos karta hai jo use personally nahi jaanta.",
+      "mr": "Follower ला वैयक्तिक ओळख नसलेल्या creator बद्दल वाटणारे एकतर्फी भावनिक नाते."
+    }
+  },
+  {
+    "id": "g-astroturfing",
+    "term": "Astroturfing",
+    "cat": "social",
+    "level": 10,
+    "def": {
+      "en": "Faking grassroots public support using fake accounts or paid posters so a campaign looks organic.",
+      "hi": "Fake accounts ya paid posters se nakli janta-samarthan dikhana taaki campaign organic lage.",
+      "mr": "बनावट accounts किंवा पैसे देऊन पोस्ट करणारे वापरून खोटा लोकपाठिंबा दाखवणे, जेणेकरून campaign नैसर्गिक वाटेल."
+    }
+  },
+  {
+    "id": "g-page-view",
+    "term": "Page View",
+    "cat": "analytics",
+    "level": 1,
+    "def": {
+      "en": "Each time a web page is loaded or reloaded in a visitor's browser and recorded by analytics.",
+      "hi": "Har baar jab visitor ke browser mein koi web page load ya reload hota hai aur analytics use record karta hai.",
+      "mr": "Visitor च्या browser मध्ये एखादे web page प्रत्येक वेळी load किंवा reload होऊन analytics मध्ये नोंदवले जाणे."
+    }
+  },
+  {
+    "id": "g-traffic-source",
+    "term": "Traffic Source",
+    "cat": "analytics",
+    "level": 1,
+    "def": {
+      "en": "Where a website visitor came from, such as a search engine, social media, email or typing the address directly.",
+      "hi": "Website visitor kahan se aaya, jaise search engine, social media, email ya seedha address type karke.",
+      "mr": "वेबसाइट visitor कुठून आला, उदा. search engine, social media, email किंवा थेट address टाइप करून."
+    }
+  },
+  {
+    "id": "g-bounce-rate",
+    "term": "Bounce Rate",
+    "cat": "analytics",
+    "level": 2,
+    "def": {
+      "en": "Percentage of visits in which the person left without meaningful interaction, such as briefly viewing just one page.",
+      "hi": "Un visits ka percentage jisme visitor bina kisi meaningful interaction ke chala gaya, jaise sirf ek page thodi der dekhkar.",
+      "mr": "Visitor कोणताही अर्थपूर्ण interaction न करता निघून गेला (उदा. फक्त एक पान थोडा वेळ पाहून) अशा भेटींची टक्केवारी."
+    }
+  },
+  {
+    "id": "g-conversion-rate",
+    "term": "Conversion Rate",
+    "cat": "analytics",
+    "level": 2,
+    "def": {
+      "en": "Percentage of visitors or sessions that complete a desired goal, such as a purchase or sign-up.",
+      "hi": "Visitors ya sessions ka woh percentage jo koi desired goal, jaise purchase ya sign-up, poora karta hai.",
+      "mr": "खरेदी किंवा sign-up सारखे अपेक्षित ध्येय पूर्ण करणाऱ्या visitors किंवा sessions ची टक्केवारी."
+    }
+  },
+  {
+    "id": "g-session",
+    "term": "Session",
+    "cat": "analytics",
+    "level": 2,
+    "def": {
+      "en": "A group of interactions by one user on a site within a time frame, ending after a period of inactivity.",
+      "hi": "Ek user ke site par ek time frame mein kiye gaye interactions ka group, jo kuch der inactive rehne par khatam hota hai.",
+      "mr": "एका user ने ठराविक कालावधीत साइटवर केलेल्या interactions चा गट, जो काही वेळ निष्क्रिय राहिल्यावर संपतो."
+    }
+  },
+  {
+    "id": "g-dashboard",
+    "term": "Dashboard",
+    "cat": "analytics",
+    "level": 3,
+    "def": {
+      "en": "A visual screen that summarizes key metrics in charts and tables for quick monitoring.",
+      "hi": "Ek visual screen jo important metrics ko charts aur tables mein summarize karti hai taaki jaldi monitor ho sake.",
+      "mr": "महत्त्वाचे metrics charts आणि tables मध्ये सारांशित करून पटकन देखरेख करू देणारी visual screen."
+    }
+  },
+  {
+    "id": "g-key-performance-indicator",
+    "term": "Key Performance Indicator (KPI)",
+    "cat": "analytics",
+    "level": 3,
+    "def": {
+      "en": "A measurable value chosen to track progress toward an important business objective.",
+      "hi": "Ek measurable value jo kisi important business objective ki taraf progress track karne ke liye chuni jaati hai.",
+      "mr": "महत्त्वाच्या business उद्दिष्टाकडील प्रगती मोजण्यासाठी निवडलेले मोजता येणारे मूल्य."
+    }
+  },
+  {
+    "id": "g-a-b-testing",
+    "term": "A/B Testing",
+    "cat": "analytics",
+    "level": 3,
+    "def": {
+      "en": "Splitting traffic between two versions of a page or element to see which performs better.",
+      "hi": "Traffic ko ek page ya element ke do versions mein baantna taaki pata chale kaunsa behtar perform karta hai.",
+      "mr": "कोणती आवृत्ती चांगली चालते हे पाहण्यासाठी पेज किंवा element च्या दोन आवृत्त्यांमध्ये traffic विभागणे."
+    }
+  },
+  {
+    "id": "g-utm-parameters",
+    "term": "UTM Parameters",
+    "cat": "analytics",
+    "level": 4,
+    "def": {
+      "en": "Tags added to the end of a URL to identify the source, medium and campaign that sent a visitor.",
+      "hi": "URL ke end mein jode gaye tags jo batate hain ki visitor ko kis source, medium aur campaign ne bheja.",
+      "mr": "Visitor ला कोणत्या source, medium आणि campaign ने पाठवले हे ओळखण्यासाठी URL च्या शेवटी जोडलेले tags."
+    }
+  },
+  {
+    "id": "g-event",
+    "term": "Event",
+    "cat": "analytics",
+    "level": 4,
+    "def": {
+      "en": "In GA4, any tracked user interaction such as a page load, click, scroll or purchase, the basic unit of data.",
+      "hi": "GA4 mein koi bhi track kiya gaya user interaction, jaise page load, click, scroll ya purchase; data ki basic unit.",
+      "mr": "GA4 मध्ये track केलेला कोणताही user interaction, उदा. page load, click, scroll किंवा खरेदी; data चे मूलभूत एकक."
+    }
+  },
+  {
+    "id": "g-heatmap",
+    "term": "Heatmap",
+    "cat": "analytics",
+    "level": 4,
+    "def": {
+      "en": "A color-coded visual showing where visitors click, move or scroll most on a page.",
+      "hi": "Color-coded visual jo dikhata hai ki visitors page par sabse zyada kahan click, move ya scroll karte hain.",
+      "mr": "Visitors पेजवर सर्वाधिक कुठे click, move किंवा scroll करतात हे रंगांनी दाखवणारे visual."
+    }
+  },
+  {
+    "id": "g-google-tag-manager",
+    "term": "Google Tag Manager",
+    "cat": "analytics",
+    "level": 5,
+    "def": {
+      "en": "Free Google tool for adding and managing tracking codes on a site without editing its source code each time.",
+      "hi": "Google ka free tool jisse website par tracking codes add aur manage kiye jaate hain, har baar source code edit kiye bina.",
+      "mr": "प्रत्येक वेळी source code न बदलता वेबसाइटवर tracking codes जोडण्यासाठी व सांभाळण्यासाठी Google चे मोफत tool."
+    }
+  },
+  {
+    "id": "g-attribution-model",
+    "term": "Attribution Model",
+    "cat": "analytics",
+    "level": 5,
+    "def": {
+      "en": "A rule set deciding how credit for a conversion is shared among the marketing touchpoints that led to it.",
+      "hi": "Rules ka set jo tay karta hai ki conversion ka credit usse pehle ke marketing touchpoints mein kaise baanta jaye.",
+      "mr": "Conversion पर्यंत नेणाऱ्या marketing touchpoints मध्ये त्याचे श्रेय कसे वाटायचे हे ठरवणारे नियम."
+    }
+  },
+  {
+    "id": "g-last-click-attribution",
+    "term": "Last-Click Attribution",
+    "cat": "analytics",
+    "level": 5,
+    "def": {
+      "en": "Giving 100% of the credit for a conversion to the final channel or ad clicked before it.",
+      "hi": "Conversion ka 100% credit usse theek pehle click kiye gaye aakhri channel ya ad ko dena.",
+      "mr": "Conversion चे 100% श्रेय त्याच्या आधी click केलेल्या शेवटच्या channel किंवा ad ला देणे."
+    }
+  },
+  {
+    "id": "g-cohort-analysis",
+    "term": "Cohort Analysis",
+    "cat": "analytics",
+    "level": 6,
+    "def": {
+      "en": "Studying groups of users who share a start date or trait to compare how their behavior changes over time.",
+      "hi": "Ek jaisi start date ya khoobi wale users ke groups ko study karna taaki samay ke saath unka behavior compare ho sake.",
+      "mr": "एकच सुरुवात तारीख किंवा वैशिष्ट्य असलेल्या users च्या गटांचा अभ्यास करून कालांतराने त्यांच्या वर्तनाची तुलना करणे."
+    }
+  },
+  {
+    "id": "g-engaged-session",
+    "term": "Engaged Session",
+    "cat": "analytics",
+    "level": 6,
+    "def": {
+      "en": "In GA4, a visit lasting over 10 seconds, including a key event, or having two or more page views.",
+      "hi": "GA4 mein aisi visit jo 10 second se lambi ho, jisme key event ho, ya jisme do ya zyada page views hon.",
+      "mr": "GA4 मध्ये 10 सेकंदांपेक्षा जास्त चाललेली, key event असलेली किंवा दोन किंवा अधिक page views असलेली भेट."
+    }
+  },
+  {
+    "id": "g-statistical-significance",
+    "term": "Statistical Significance",
+    "cat": "analytics",
+    "level": 7,
+    "def": {
+      "en": "Confidence that a test result reflects a real difference rather than random chance, often judged by a p-value.",
+      "hi": "Yeh bharosa ki test ka result asli fark dikhata hai, random chance nahi; aksar p-value se judge hota hai.",
+      "mr": "चाचणीचा निकाल योगायोग नसून खरा फरक दाखवतो याचा विश्वास; अनेकदा p-value वरून ठरवला जातो."
+    }
+  },
+  {
+    "id": "g-multivariate-testing",
+    "term": "Multivariate Testing",
+    "cat": "analytics",
+    "level": 7,
+    "def": {
+      "en": "Experiment testing several page elements and their combinations at once to find the best-performing mix.",
+      "hi": "Experiment jo ek saath kai page elements aur unke combinations test karta hai taaki best-performing mix mile.",
+      "mr": "सर्वोत्तम mix शोधण्यासाठी एकाच वेळी पेजवरील अनेक elements आणि त्यांचे combinations तपासणारा प्रयोग."
+    }
+  },
+  {
+    "id": "g-data-layer",
+    "term": "Data Layer",
+    "cat": "analytics",
+    "level": 7,
+    "def": {
+      "en": "A JavaScript object on a page holding structured information for tag managers to read and send to tools.",
+      "hi": "Page par ek JavaScript object jisme structured information hoti hai jise tag managers padhkar tools ko bhejte hain.",
+      "mr": "पेजवरील JavaScript object ज्यात structured माहिती असते, जी tag managers वाचून tools कडे पाठवतात."
+    }
+  },
+  {
+    "id": "g-server-side-tagging",
+    "term": "Server-side Tagging",
+    "cat": "analytics",
+    "level": 8,
+    "def": {
+      "en": "Sending tracking data first to your own cloud server, which then forwards it to analytics and ad platforms.",
+      "hi": "Tracking data pehle apne cloud server par bhejna, jo phir use analytics aur ad platforms ko forward karta hai.",
+      "mr": "Tracking data आधी स्वतःच्या cloud server वर पाठवणे, जो ते पुढे analytics आणि ad platforms कडे पाठवतो."
+    }
+  },
+  {
+    "id": "g-consent-mode",
+    "term": "Consent Mode",
+    "cat": "analytics",
+    "level": 8,
+    "def": {
+      "en": "Google feature that adjusts how tags behave based on users' cookie choices and models the data lost.",
+      "hi": "Google feature jo users ki cookie choices ke hisaab se tags ka behavior badalta hai aur khoye data ko model karta hai.",
+      "mr": "Users च्या cookie निवडीनुसार tags चे वर्तन बदलणारे आणि गमावलेला data model करणारे Google चे feature."
+    }
+  },
+  {
+    "id": "g-marketing-mix-modeling",
+    "term": "Marketing Mix Modeling (MMM)",
+    "cat": "analytics",
+    "level": 9,
+    "def": {
+      "en": "Statistical regression on aggregate historical data to estimate each channel's contribution to sales.",
+      "hi": "Aggregate historical data par statistical regression jisse har channel ka sales mein yogdaan estimate kiya jata hai.",
+      "mr": "प्रत्येक channel चा sales मधील वाटा अंदाजण्यासाठी एकत्रित ऐतिहासिक data वर केलेले statistical regression."
+    }
+  },
+  {
+    "id": "g-incrementality-testing",
+    "term": "Incrementality Testing",
+    "cat": "analytics",
+    "level": 9,
+    "def": {
+      "en": "Experiment comparing an exposed group with a holdout group to measure conversions caused only by marketing.",
+      "hi": "Experiment jo exposed group ko holdout group se compare karke sirf marketing ki wajah se hue conversions measure karta hai.",
+      "mr": "फक्त marketing मुळे झालेले conversions मोजण्यासाठी exposed गट आणि holdout गटाची तुलना करणारा प्रयोग."
+    }
+  },
+  {
+    "id": "g-sample-ratio-mismatch",
+    "term": "Sample Ratio Mismatch",
+    "cat": "analytics",
+    "level": 10,
+    "def": {
+      "en": "Warning in an experiment when the traffic split between variants differs significantly from the planned allocation.",
+      "hi": "Experiment ki warning jab variants ke beech traffic ka split planned allocation se kaafi alag hota hai.",
+      "mr": "Variants मधील traffic विभागणी नियोजित वाटपापेक्षा लक्षणीय वेगळी असल्यास प्रयोगात मिळणारा इशारा."
+    }
+  },
+  {
+    "id": "g-simpson-s-paradox",
+    "term": "Simpson's Paradox",
+    "cat": "analytics",
+    "level": 10,
+    "def": {
+      "en": "When a trend seen within several data groups reverses or disappears once the groups are combined.",
+      "hi": "Jab kai data groups mein dikhne wala trend groups ko jodne par ulat jata hai ya gayab ho jata hai.",
+      "mr": "अनेक data गटांमध्ये दिसणारा trend गट एकत्र केल्यावर उलटतो किंवा नाहीसा होतो, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-blog",
+    "term": "Blog",
+    "cat": "content",
+    "level": 1,
+    "def": {
+      "en": "A regularly updated website section of articles, often written in an informal or conversational style.",
+      "hi": "Website ka regularly update hone wala section jisme articles hote hain, aksar informal ya baatcheet wale style mein.",
+      "mr": "वेबसाइटचा नियमित update होणारा लेखांचा विभाग, अनेकदा अनौपचारिक किंवा संवादात्मक शैलीत लिहिलेला."
+    }
+  },
+  {
+    "id": "g-call-to-action",
+    "term": "Call to Action (CTA)",
+    "cat": "content",
+    "level": 1,
+    "def": {
+      "en": "A prompt telling the reader what to do next, such as 'Buy Now' or 'Sign Up'.",
+      "hi": "Aisa prompt jo reader ko batata hai ki aage kya karna hai, jaise 'Buy Now' ya 'Sign Up'.",
+      "mr": "वाचकाने पुढे काय करावे हे सांगणारा संदेश, उदा. 'Buy Now' किंवा 'Sign Up'."
+    }
+  },
+  {
+    "id": "g-newsletter",
+    "term": "Newsletter",
+    "cat": "content",
+    "level": 2,
+    "def": {
+      "en": "A regular email sent to subscribers with updates, tips or curated content.",
+      "hi": "Subscribers ko bheja jaane wala regular email jisme updates, tips ya curated content hota hai.",
+      "mr": "Subscribers ना नियमितपणे पाठवला जाणारा email, ज्यात updates, tips किंवा निवडक content असतो."
+    }
+  },
+  {
+    "id": "g-landing-page",
+    "term": "Landing Page",
+    "cat": "content",
+    "level": 2,
+    "def": {
+      "en": "A standalone web page built for one campaign goal, where visitors arrive after clicking an ad or link.",
+      "hi": "Ek campaign goal ke liye bana alag web page, jahan visitors ad ya link par click karke pahunchte hain.",
+      "mr": "एका campaign उद्दिष्टासाठी बनवलेले स्वतंत्र web page, जिथे visitors ad किंवा link वर click करून पोहोचतात."
+    }
+  },
+  {
+    "id": "g-customer-relationship-management",
+    "term": "Customer Relationship Management (CRM)",
+    "cat": "content",
+    "level": 2,
+    "def": {
+      "en": "Software that stores customer contacts, interactions and deals to manage sales and relationships.",
+      "hi": "Software jo customer contacts, interactions aur deals store karta hai taaki sales aur rishte manage ho sakein.",
+      "mr": "Sales आणि ग्राहकांशी नाते सांभाळण्यासाठी customer contacts, interactions आणि deals साठवणारे software."
+    }
+  },
+  {
+    "id": "g-brand-voice",
+    "term": "Brand Voice",
+    "cat": "content",
+    "level": 3,
+    "def": {
+      "en": "The consistent personality and tone a company uses across all its written and spoken communication.",
+      "hi": "Woh consistent personality aur tone jo company apne saare likhit aur bole gaye communication mein use karti hai.",
+      "mr": "कंपनी आपल्या सर्व लिखित आणि बोलीतील संवादात वापरते ते सातत्यपूर्ण व्यक्तिमत्त्व आणि tone."
+    }
+  },
+  {
+    "id": "g-lead-magnet",
+    "term": "Lead Magnet",
+    "cat": "content",
+    "level": 3,
+    "def": {
+      "en": "A free resource like an e-book or checklist offered in exchange for someone's contact details.",
+      "hi": "Free resource jaise e-book ya checklist jo kisi ke contact details ke badle mein diya jata hai.",
+      "mr": "एखाद्याच्या contact details च्या बदल्यात दिले जाणारे e-book किंवा checklist सारखे मोफत resource."
+    }
+  },
+  {
+    "id": "g-open-rate",
+    "term": "Open Rate",
+    "cat": "content",
+    "level": 3,
+    "def": {
+      "en": "Percentage of delivered emails in a campaign that recipients actually opened.",
+      "hi": "Campaign ke deliver hue emails mein se kitne percent recipients ne sach mein khole.",
+      "mr": "Campaign मधील deliver झालेल्या emails पैकी किती टक्के recipients नी प्रत्यक्ष उघडले."
+    }
+  },
+  {
+    "id": "g-marketing-funnel",
+    "term": "Marketing Funnel",
+    "cat": "content",
+    "level": 4,
+    "def": {
+      "en": "A model of the stages a customer moves through, from first awareness to purchase and beyond.",
+      "hi": "Un stages ka model jinse customer guzarta hai, pehli awareness se lekar purchase aur uske baad tak.",
+      "mr": "ग्राहक पहिल्या awareness पासून खरेदी आणि त्यानंतरपर्यंत ज्या टप्प्यांतून जातो त्यांचे model."
+    }
+  },
+  {
+    "id": "g-buyer-persona",
+    "term": "Buyer Persona",
+    "cat": "content",
+    "level": 4,
+    "def": {
+      "en": "A semi-fictional profile of an ideal customer, built from research on their needs, goals and behavior.",
+      "hi": "Ideal customer ki semi-fictional profile, jo unki needs, goals aur behavior par research se banti hai.",
+      "mr": "आदर्श ग्राहकाची अर्ध-काल्पनिक profile, जी त्याच्या गरजा, ध्येये आणि वर्तनावरील संशोधनातून बनते."
+    }
+  },
+  {
+    "id": "g-unique-selling-proposition",
+    "term": "Unique Selling Proposition (USP)",
+    "cat": "content",
+    "level": 4,
+    "def": {
+      "en": "The one distinctive benefit that makes a product stand out from its competitors.",
+      "hi": "Woh ek khaas benefit jo product ko uske competitors se alag aur behtar dikhata hai.",
+      "mr": "Product ला स्पर्धकांपेक्षा वेगळे ठरवणारा एक खास फायदा."
+    }
+  },
+  {
+    "id": "g-drip-campaign",
+    "term": "Drip Campaign",
+    "cat": "content",
+    "level": 5,
+    "def": {
+      "en": "A series of automated emails sent on a schedule or triggered by user actions.",
+      "hi": "Automated emails ki series jo schedule par ya user ke actions se trigger hokar bheji jaati hai.",
+      "mr": "ठरलेल्या वेळापत्रकानुसार किंवा user च्या actions मुळे trigger होऊन पाठवल्या जाणाऱ्या automated emails ची मालिका."
+    }
+  },
+  {
+    "id": "g-aida-model",
+    "term": "AIDA Model",
+    "cat": "content",
+    "level": 5,
+    "def": {
+      "en": "Copywriting framework guiding readers through attention, interest, desire and then action.",
+      "hi": "Copywriting framework jo reader ko attention, interest, desire aur phir action tak le jata hai.",
+      "mr": "वाचकाला attention, interest, desire आणि मग action पर्यंत नेणारी copywriting चौकट."
+    }
+  },
+  {
+    "id": "g-evergreen-content",
+    "term": "Evergreen Content",
+    "cat": "content",
+    "level": 5,
+    "def": {
+      "en": "Material that stays relevant and useful for a long time instead of quickly becoming outdated.",
+      "hi": "Aisa material jo jaldi purana hone ke bajaye lambe samay tak relevant aur useful rehta hai.",
+      "mr": "लवकर जुने होण्याऐवजी दीर्घकाळ उपयुक्त आणि relevant राहणारे साहित्य."
+    }
+  },
+  {
+    "id": "g-lead-scoring",
+    "term": "Lead Scoring",
+    "cat": "content",
+    "level": 6,
+    "def": {
+      "en": "Assigning points to prospects based on behavior and profile to judge how ready they are for sales.",
+      "hi": "Prospects ko unke behavior aur profile ke hisaab se points dena taaki pata chale woh sales ke liye kitne ready hain.",
+      "mr": "Prospects sales साठी किती तयार आहेत हे ठरवण्यासाठी त्यांच्या वर्तन आणि profile नुसार गुण देणे."
+    }
+  },
+  {
+    "id": "g-pillar-page",
+    "term": "Pillar Page",
+    "cat": "content",
+    "level": 6,
+    "def": {
+      "en": "A comprehensive page covering a broad topic that links out to detailed related articles on subtopics.",
+      "hi": "Broad topic ko cover karne wala comprehensive page jo subtopics ke detailed related articles se link karta hai.",
+      "mr": "व्यापक विषय सविस्तर मांडणारे पान, जे उपविषयांवरील सविस्तर संबंधित लेखांना link करते."
+    }
+  },
+  {
+    "id": "g-double-opt-in",
+    "term": "Double Opt-in",
+    "cat": "content",
+    "level": 7,
+    "def": {
+      "en": "Sign-up process where a subscriber must confirm their email address by clicking a verification link.",
+      "hi": "Sign-up process jisme subscriber ko verification link par click karke apna email address confirm karna padta hai.",
+      "mr": "Subscriber ला verification link वर click करून आपला email address निश्चित करावा लागतो अशी sign-up प्रक्रिया."
+    }
+  },
+  {
+    "id": "g-marketing-qualified-lead",
+    "term": "Marketing Qualified Lead (MQL)",
+    "cat": "content",
+    "level": 7,
+    "def": {
+      "en": "A prospect whose engagement shows real interest but who isn't yet ready for a sales conversation.",
+      "hi": "Aisa prospect jiska engagement asli interest dikhata hai par jo abhi sales baatcheet ke liye ready nahi hai.",
+      "mr": "ज्याचा engagement खरी आवड दाखवतो पण जो अजून sales संवादासाठी तयार नाही असा prospect."
+    }
+  },
+  {
+    "id": "g-email-deliverability",
+    "term": "Email Deliverability",
+    "cat": "content",
+    "level": 7,
+    "def": {
+      "en": "The ability of sent emails to land in recipients' inboxes rather than spam folders or being blocked.",
+      "hi": "Bheje gaye emails ki inbox tak pahunchne ki kshamata, spam folder mein jaane ya block hone ke bajaye.",
+      "mr": "पाठवलेले emails spam folder मध्ये न जाता किंवा block न होता inbox पर्यंत पोहोचण्याची क्षमता."
+    }
+  },
+  {
+    "id": "g-content-decay",
+    "term": "Content Decay",
+    "cat": "content",
+    "level": 8,
+    "def": {
+      "en": "The gradual drop in traffic and rankings an older article suffers as it becomes outdated.",
+      "hi": "Purane article ke outdated hone par uske traffic aur rankings mein dheere-dheere girawat.",
+      "mr": "जुना लेख कालबाह्य होत गेल्याने त्याच्या traffic आणि rankings मध्ये हळूहळू होणारी घसरण."
+    }
+  },
+  {
+    "id": "g-pas-framework",
+    "term": "PAS Framework",
+    "cat": "content",
+    "level": 8,
+    "def": {
+      "en": "Copywriting formula that names a pain point, intensifies it, then presents the product as the fix.",
+      "hi": "Copywriting formula jo pehle pain point batata hai, use aur gehra karta hai, phir product ko hal ke roop mein dikhata hai.",
+      "mr": "आधी अडचण मांडणारा, ती अधिक तीव्र करणारा आणि मग product ला उपाय म्हणून सादर करणारा copywriting formula."
+    }
+  },
+  {
+    "id": "g-customer-data-platform",
+    "term": "Customer Data Platform (CDP)",
+    "cat": "content",
+    "level": 8,
+    "def": {
+      "en": "System that unifies customer data from all sources into single persistent profiles for marketing use.",
+      "hi": "System jo sabhi sources ka customer data jodkar marketing ke liye har customer ki ek persistent profile banata hai.",
+      "mr": "सर्व sources मधील customer data एकत्र करून marketing साठी प्रत्येक ग्राहकाची एकच कायमस्वरूपी profile बनवणारी प्रणाली."
+    }
+  },
+  {
+    "id": "g-dmarc",
+    "term": "DMARC",
+    "cat": "content",
+    "level": 9,
+    "def": {
+      "en": "Email authentication policy telling receiving servers how to handle messages that fail SPF or DKIM checks.",
+      "hi": "Email authentication policy jo receiving servers ko batati hai ki SPF ya DKIM check fail hone wale messages ka kya karein.",
+      "mr": "SPF किंवा DKIM तपासणीत अपयशी ठरणाऱ्या messages चे काय करायचे हे receiving servers ना सांगणारी email authentication policy."
+    }
+  },
+  {
+    "id": "g-jobs-to-be-done",
+    "term": "Jobs to Be Done (JTBD)",
+    "cat": "content",
+    "level": 9,
+    "def": {
+      "en": "Framework viewing customers as 'hiring' a product to make progress on a specific goal in their life.",
+      "hi": "Framework jo maanta hai ki customer apni life ke kisi khaas goal mein aage badhne ke liye product ko 'hire' karta hai.",
+      "mr": "ग्राहक आयुष्यातील विशिष्ट ध्येयाकडे प्रगती करण्यासाठी product ला 'hire' करतो, असे मानणारी चौकट."
+    }
+  },
+  {
+    "id": "g-mere-exposure-effect",
+    "term": "Mere-Exposure Effect",
+    "cat": "content",
+    "level": 10,
+    "def": {
+      "en": "The psychological tendency to prefer things simply because we have encountered them repeatedly.",
+      "hi": "Woh manovaigyanik aadat jisme hum cheezon ko sirf isliye pasand karte hain kyunki humne unhe baar-baar dekha hai.",
+      "mr": "एखादी गोष्ट वारंवार समोर आल्यामुळेच ती आवडू लागण्याची मानसिक प्रवृत्ती."
+    }
+  },
+  {
+    "id": "g-cash-on-delivery",
+    "term": "Cash on Delivery (COD)",
+    "cat": "ecom",
+    "level": 1,
+    "def": {
+      "en": "Payment option where the buyer pays in cash or UPI only when the order reaches their doorstep.",
+      "hi": "Payment option jisme buyer order ghar par pahunchne par hi cash ya UPI se payment karta hai.",
+      "mr": "Order घरी पोहोचल्यावरच ग्राहक cash किंवा UPI ने पैसे देतो असा payment पर्याय."
+    }
+  },
+  {
+    "id": "g-checkout",
+    "term": "Checkout",
+    "cat": "ecom",
+    "level": 1,
+    "def": {
+      "en": "The final steps of an online purchase where the buyer enters address and payment details.",
+      "hi": "Online purchase ke aakhri steps jahan buyer address aur payment details bharta hai.",
+      "mr": "Online खरेदीचे शेवटचे टप्पे, जिथे ग्राहक पत्ता आणि payment तपशील भरतो."
+    }
+  },
+  {
+    "id": "g-cart-abandonment",
+    "term": "Cart Abandonment",
+    "cat": "ecom",
+    "level": 2,
+    "def": {
+      "en": "When shoppers add items to their basket but leave the site without completing the purchase.",
+      "hi": "Jab shoppers basket mein items daalte hain par purchase poori kiye bina site chhod dete hain.",
+      "mr": "ग्राहक basket मध्ये वस्तू टाकतात पण खरेदी पूर्ण न करता साइट सोडून जातात, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-direct-to-consumer",
+    "term": "Direct-to-Consumer (D2C)",
+    "cat": "ecom",
+    "level": 2,
+    "def": {
+      "en": "Brands selling straight to shoppers through their own website or app, skipping distributors and retailers.",
+      "hi": "Brands jo distributors aur retailers ko chhodkar apni website ya app se seedhe shoppers ko bechte hain.",
+      "mr": "Distributors आणि retailers ना वगळून स्वतःच्या वेबसाइट किंवा app द्वारे थेट ग्राहकांना विक्री करणारे brands."
+    }
+  },
+  {
+    "id": "g-average-order-value",
+    "term": "Average Order Value (AOV)",
+    "cat": "ecom",
+    "level": 3,
+    "def": {
+      "en": "Total revenue divided by the number of orders placed over the same period.",
+      "hi": "Ek period ka total revenue, usi period ke orders ki sankhya se divide kiya hua.",
+      "mr": "एका कालावधीतील एकूण revenue भागिले त्याच कालावधीतील orders ची संख्या."
+    }
+  },
+  {
+    "id": "g-stock-keeping-unit",
+    "term": "Stock Keeping Unit (SKU)",
+    "cat": "ecom",
+    "level": 3,
+    "def": {
+      "en": "A unique code identifying each distinct product variant, such as size or color, for inventory tracking.",
+      "hi": "Unique code jo har alag product variant, jaise size ya color, ko inventory tracking ke liye pehchanta hai.",
+      "mr": "Inventory tracking साठी प्रत्येक वेगळ्या product variant (उदा. size किंवा रंग) ला ओळखणारा unique code."
+    }
+  },
+  {
+    "id": "g-upselling",
+    "term": "Upselling",
+    "cat": "ecom",
+    "level": 3,
+    "def": {
+      "en": "Encouraging a buyer to purchase a pricier or upgraded version of the item they're considering.",
+      "hi": "Buyer ko us item ka mehenga ya upgraded version kharidne ke liye encourage karna jo woh le raha hai.",
+      "mr": "ग्राहक विचार करत असलेल्या वस्तूची महाग किंवा upgraded आवृत्ती घेण्यास प्रोत्साहित करणे."
+    }
+  },
+  {
+    "id": "g-cross-selling",
+    "term": "Cross-selling",
+    "cat": "ecom",
+    "level": 4,
+    "def": {
+      "en": "Recommending complementary items, like a case with a phone, to increase the basket size.",
+      "hi": "Complementary items recommend karna, jaise phone ke saath case, taaki basket size badhe.",
+      "mr": "Basket size वाढवण्यासाठी पूरक वस्तू सुचवणे, उदा. phone सोबत case."
+    }
+  },
+  {
+    "id": "g-return-to-origin",
+    "term": "Return to Origin (RTO)",
+    "cat": "ecom",
+    "level": 4,
+    "def": {
+      "en": "An undelivered order shipped back to the seller, often after COD refusal, costing shipping both ways.",
+      "hi": "Deliver na hua order jo seller ko wapas bheja jata hai, aksar COD refuse hone par, jisme dono taraf ka shipping kharch lagta hai.",
+      "mr": "Deliver न झालेला order विक्रेत्याकडे परत पाठवला जाणे, अनेकदा COD नाकारल्यावर, ज्यात दोन्ही बाजूंचा shipping खर्च लागतो."
+    }
+  },
+  {
+    "id": "g-dropshipping",
+    "term": "Dropshipping",
+    "cat": "ecom",
+    "level": 4,
+    "def": {
+      "en": "Model where a seller lists products but a supplier ships them directly to customers, so no inventory is held.",
+      "hi": "Model jisme seller products list karta hai par supplier seedha customers ko ship karta hai, isliye inventory nahi rakhni padti.",
+      "mr": "विक्रेता products list करतो पण supplier थेट ग्राहकांना पाठवतो, त्यामुळे inventory ठेवावी लागत नाही असे model."
+    }
+  },
+  {
+    "id": "g-customer-acquisition-cost",
+    "term": "Customer Acquisition Cost (CAC)",
+    "cat": "ecom",
+    "level": 5,
+    "def": {
+      "en": "Total sales and marketing spend divided by the number of new customers gained in that period.",
+      "hi": "Total sales aur marketing kharch, us period mein mile naye customers ki sankhya se divide kiya hua.",
+      "mr": "एकूण sales आणि marketing खर्च भागिले त्या कालावधीत मिळालेल्या नवीन ग्राहकांची संख्या."
+    }
+  },
+  {
+    "id": "g-customer-lifetime-value",
+    "term": "Customer Lifetime Value (CLV)",
+    "cat": "ecom",
+    "level": 5,
+    "def": {
+      "en": "Total revenue or profit a business expects from one customer over the whole relationship.",
+      "hi": "Poore rishte ke dauraan ek customer se business ko kitna total revenue ya profit milne ki ummeed hai.",
+      "mr": "संपूर्ण नात्यादरम्यान एका ग्राहकाकडून व्यवसायाला अपेक्षित एकूण revenue किंवा नफा."
+    }
+  },
+  {
+    "id": "g-churn-rate",
+    "term": "Churn Rate",
+    "cat": "ecom",
+    "level": 5,
+    "def": {
+      "en": "Percentage of customers who stop buying or cancel their subscription during a period.",
+      "hi": "Customers ka woh percentage jo ek period mein kharidna band kar dete hain ya subscription cancel kar dete hain.",
+      "mr": "एका कालावधीत खरेदी थांबवणाऱ्या किंवा subscription रद्द करणाऱ्या ग्राहकांची टक्केवारी."
+    }
+  },
+  {
+    "id": "g-net-promoter-score",
+    "term": "Net Promoter Score (NPS)",
+    "cat": "ecom",
+    "level": 6,
+    "def": {
+      "en": "Loyalty metric from asking how likely customers are to recommend you on 0-10, promoters minus detractors.",
+      "hi": "Loyalty metric jo customers se 0-10 par poochkar banta hai ki woh aapko recommend karenge ya nahi; promoters minus detractors.",
+      "mr": "ग्राहक तुमची शिफारस करण्याची शक्यता 0-10 वर विचारून मिळणारा loyalty metric; promoters वजा detractors."
+    }
+  },
+  {
+    "id": "g-contribution-margin",
+    "term": "Contribution Margin",
+    "cat": "ecom",
+    "level": 6,
+    "def": {
+      "en": "Revenue left per order after subtracting variable costs like product cost, shipping and marketing.",
+      "hi": "Har order se product cost, shipping aur marketing jaise variable kharch ghataane ke baad bacha revenue.",
+      "mr": "Product खर्च, shipping आणि marketing सारखे variable खर्च वजा केल्यानंतर प्रत्येक order मधून उरलेले revenue."
+    }
+  },
+  {
+    "id": "g-gross-merchandise-value",
+    "term": "Gross Merchandise Value (GMV)",
+    "cat": "ecom",
+    "level": 6,
+    "def": {
+      "en": "Total sales value of goods sold through a platform before deducting returns, fees or discounts.",
+      "hi": "Platform par beche gaye saamaan ki total sales value, returns, fees ya discounts ghataane se pehle.",
+      "mr": "Returns, fees किंवा discounts वजा करण्यापूर्वी platform वरून विकलेल्या मालाचे एकूण विक्री मूल्य."
+    }
+  },
+  {
+    "id": "g-cac-payback-period",
+    "term": "CAC Payback Period",
+    "cat": "ecom",
+    "level": 7,
+    "def": {
+      "en": "Number of months needed for a customer's gross profit to recover the cost of acquiring them.",
+      "hi": "Kitne mahine lagte hain jab tak customer se mila gross profit use laane ka kharch wapas cover kar de.",
+      "mr": "ग्राहक मिळवण्याचा खर्च त्याच्याकडून मिळणाऱ्या gross profit मधून भरून निघण्यास लागणारे महिने."
+    }
+  },
+  {
+    "id": "g-unit-economics",
+    "term": "Unit Economics",
+    "cat": "ecom",
+    "level": 7,
+    "def": {
+      "en": "Revenue and costs measured per single order or customer to check whether the business model is profitable.",
+      "hi": "Har ek order ya customer ke hisaab se revenue aur kharch naapna taaki pata chale business model profitable hai ya nahi.",
+      "mr": "Business model फायदेशीर आहे का हे तपासण्यासाठी प्रत्येक order किंवा ग्राहकामागे revenue आणि खर्च मोजणे."
+    }
+  },
+  {
+    "id": "g-dark-store",
+    "term": "Dark Store",
+    "cat": "ecom",
+    "level": 7,
+    "def": {
+      "en": "A small warehouse closed to walk-in shoppers, used only to fulfil quick online deliveries.",
+      "hi": "Chhota warehouse jo walk-in customers ke liye band hota hai aur sirf quick online deliveries ke liye use hota hai.",
+      "mr": "थेट येणाऱ्या ग्राहकांसाठी बंद असलेले, फक्त जलद online deliveries साठी वापरले जाणारे छोटे गोदाम."
+    }
+  },
+  {
+    "id": "g-ltv-cac-ratio",
+    "term": "LTV:CAC Ratio",
+    "cat": "ecom",
+    "level": 8,
+    "def": {
+      "en": "Comparison of a customer's lifetime value with the cost of acquiring them; about 3:1 is often considered healthy.",
+      "hi": "Customer ki lifetime value aur use laane ke kharch ki tulna; lagbhag 3:1 ko aksar healthy maana jata hai.",
+      "mr": "ग्राहकाचे lifetime value आणि त्याला मिळवण्याचा खर्च यांची तुलना; साधारण 3:1 हे अनेकदा निरोगी मानले जाते."
+    }
+  },
+  {
+    "id": "g-product-market-fit",
+    "term": "Product-Market Fit",
+    "cat": "ecom",
+    "level": 8,
+    "def": {
+      "en": "Stage where a product clearly satisfies strong demand in a well-defined market, driving organic growth and retention.",
+      "hi": "Woh stage jab product ek clear market ki strong demand ko poora karta hai aur organic growth aur retention aata hai.",
+      "mr": "Product एका स्पष्ट market मधील मोठी मागणी पूर्ण करतो आणि organic growth व retention मिळू लागते, तो टप्पा."
+    }
+  },
+  {
+    "id": "g-rfm-analysis",
+    "term": "RFM Analysis",
+    "cat": "ecom",
+    "level": 8,
+    "def": {
+      "en": "Grouping customers by how recently, how often and how much they buy to target them better.",
+      "hi": "Customers ko is basis par group karna ki unhone kitni haal mein, kitni baar aur kitna kharida, taaki behtar target ho sake.",
+      "mr": "ग्राहकांनी किती अलीकडे, किती वेळा आणि किती खरेदी केली यावर त्यांचे गट करून अधिक चांगले target करणे."
+    }
+  },
+  {
+    "id": "g-net-revenue-retention",
+    "term": "Net Revenue Retention (NRR)",
+    "cat": "ecom",
+    "level": 9,
+    "def": {
+      "en": "Percentage of recurring revenue kept from existing customers after upgrades, downgrades and cancellations.",
+      "hi": "Upgrades, downgrades aur cancellations ke baad maujooda customers se bacha recurring revenue ka percentage.",
+      "mr": "Upgrades, downgrades आणि cancellations नंतर सध्याच्या ग्राहकांकडून टिकून राहिलेल्या recurring revenue ची टक्केवारी."
+    }
+  },
+  {
+    "id": "g-cash-conversion-cycle",
+    "term": "Cash Conversion Cycle",
+    "cat": "ecom",
+    "level": 9,
+    "def": {
+      "en": "Days between paying suppliers for inventory and collecting cash from customers who buy it.",
+      "hi": "Inventory ke liye suppliers ko payment karne aur use kharidne wale customers se paisa milne ke beech ke din.",
+      "mr": "Inventory साठी suppliers ना पैसे देणे आणि ती विकत घेणाऱ्या ग्राहकांकडून पैसे मिळणे यांमधील दिवस."
+    }
+  },
+  {
+    "id": "g-viral-coefficient",
+    "term": "Viral Coefficient",
+    "cat": "ecom",
+    "level": 10,
+    "def": {
+      "en": "Average number of new users each existing user brings in; above 1 means self-sustaining growth.",
+      "hi": "Har maujooda user average kitne naye users laata hai; 1 se zyada ka matlab growth khud chalti rehti hai.",
+      "mr": "प्रत्येक सध्याचा user सरासरी किती नवीन users आणतो; 1 पेक्षा जास्त म्हणजे स्वतःहून चालणारी वाढ."
+    }
+  },
+  {
+    "id": "g-browser",
+    "term": "Browser",
+    "cat": "web",
+    "level": 1,
+    "def": {
+      "en": "Software such as Chrome or Firefox used to open and view pages on the internet.",
+      "hi": "Chrome ya Firefox jaisa software jisse internet ke pages khole aur dekhe jaate hain.",
+      "mr": "Internet वरील पाने उघडण्यासाठी व पाहण्यासाठी वापरले जाणारे Chrome किंवा Firefox सारखे software."
+    }
+  },
+  {
+    "id": "g-url",
+    "term": "URL",
+    "cat": "web",
+    "level": 1,
+    "def": {
+      "en": "The complete web address used to locate a specific page or file on the internet.",
+      "hi": "Poora web address jisse internet par kisi khaas page ya file ko dhoondha jata hai.",
+      "mr": "Internet वरील विशिष्ट पेज किंवा file शोधण्यासाठी वापरला जाणारा पूर्ण web address."
+    }
+  },
+  {
+    "id": "g-domain-name",
+    "term": "Domain Name",
+    "cat": "web",
+    "level": 2,
+    "def": {
+      "en": "Human-readable website name like example.com that is registered and typed to reach a site.",
+      "hi": "Insaan ke padhne layak website naam jaise example.com jo register kiya jata hai aur site tak pahunchne ke liye type hota hai.",
+      "mr": "example.com सारखे माणसांना वाचता येणारे वेबसाइट नाव, जे register करून साइटवर पोहोचण्यासाठी टाइप केले जाते."
+    }
+  },
+  {
+    "id": "g-web-hosting",
+    "term": "Web Hosting",
+    "cat": "web",
+    "level": 2,
+    "def": {
+      "en": "Service that stores a website's files on servers and makes them accessible on the internet.",
+      "hi": "Service jo website ki files servers par store karti hai aur unhe internet par accessible banati hai.",
+      "mr": "वेबसाइटच्या files servers वर साठवून त्या internet वर उपलब्ध करून देणारी सेवा."
+    }
+  },
+  {
+    "id": "g-cookie",
+    "term": "Cookie",
+    "cat": "web",
+    "level": 2,
+    "def": {
+      "en": "Small data file a website saves in the browser to remember logins, preferences or tracking information.",
+      "hi": "Chhoti data file jo website browser mein save karti hai taaki logins, preferences ya tracking info yaad rahe.",
+      "mr": "Logins, आवडीनिवडी किंवा tracking माहिती लक्षात ठेवण्यासाठी वेबसाइट browser मध्ये साठवते ती छोटी data file."
+    }
+  },
+  {
+    "id": "g-ssl-certificate",
+    "term": "SSL Certificate",
+    "cat": "web",
+    "level": 3,
+    "def": {
+      "en": "Digital file that enables encrypted HTTPS connections and proves a website's identity to browsers.",
+      "hi": "Digital file jo encrypted HTTPS connection enable karti hai aur browsers ko website ki pehchaan saabit karti hai.",
+      "mr": "Encrypted HTTPS connection शक्य करणारी आणि browsers ना वेबसाइटची ओळख सिद्ध करणारी digital file."
+    }
+  },
+  {
+    "id": "g-content-management-system",
+    "term": "Content Management System (CMS)",
+    "cat": "web",
+    "level": 3,
+    "def": {
+      "en": "Software like WordPress that lets people create and edit website content without writing code.",
+      "hi": "WordPress jaisa software jisse log bina code likhe website content bana aur edit kar sakte hain.",
+      "mr": "Code न लिहिता वेबसाइटचा content तयार व संपादित करू देणारे WordPress सारखे software."
+    }
+  },
+  {
+    "id": "g-responsive-design",
+    "term": "Responsive Design",
+    "cat": "web",
+    "level": 3,
+    "def": {
+      "en": "Approach where a site's layout automatically adapts to different screen sizes and devices.",
+      "hi": "Approach jisme site ka layout alag-alag screen sizes aur devices ke hisaab se apne aap adjust hota hai.",
+      "mr": "साइटचा layout वेगवेगळ्या screen sizes आणि devices नुसार आपोआप जुळवून घेतो असा दृष्टिकोन."
+    }
+  },
+  {
+    "id": "g-cache",
+    "term": "Cache",
+    "cat": "web",
+    "level": 4,
+    "def": {
+      "en": "A stored copy of data kept close at hand so it loads faster on repeat requests.",
+      "hi": "Data ki stored copy jo paas mein rakhi jaati hai taaki dobara request par jaldi load ho.",
+      "mr": "पुन्हा मागणी झाल्यावर पटकन load व्हावे म्हणून जवळ ठेवलेली data ची साठवलेली प्रत."
+    }
+  },
+  {
+    "id": "g-301-redirect",
+    "term": "301 Redirect",
+    "cat": "web",
+    "level": 4,
+    "def": {
+      "en": "Permanent forwarding of one URL to another, passing visitors and most ranking signals to the new address.",
+      "hi": "Ek URL ko permanently dusre URL par forward karna, jisse visitors aur zyada tar ranking signals naye address par chale jaate hain.",
+      "mr": "एका URL ला कायमस्वरूपी दुसऱ्या URL कडे पाठवणे, ज्यामुळे visitors आणि बहुतेक ranking signals नवीन पत्त्यावर जातात."
+    }
+  },
+  {
+    "id": "g-ip-address",
+    "term": "IP Address",
+    "cat": "web",
+    "level": 4,
+    "def": {
+      "en": "A unique numeric label identifying each device connected to a network such as the internet.",
+      "hi": "Unique numeric label jo internet jaise network se jude har device ko pehchanta hai.",
+      "mr": "Internet सारख्या network ला जोडलेल्या प्रत्येक device ला ओळखणारे unique numeric label."
+    }
+  },
+  {
+    "id": "g-domain-name-system",
+    "term": "Domain Name System (DNS)",
+    "cat": "web",
+    "level": 5,
+    "def": {
+      "en": "The internet's directory that translates human-friendly website names into numeric addresses computers use.",
+      "hi": "Internet ki directory jo insaan ke samajhne layak website names ko computers ke numeric addresses mein badalti hai.",
+      "mr": "माणसांना समजणारी वेबसाइट नावे computers वापरतात त्या numeric पत्त्यांमध्ये रूपांतरित करणारी internet ची directory."
+    }
+  },
+  {
+    "id": "g-content-delivery-network",
+    "term": "Content Delivery Network (CDN)",
+    "cat": "web",
+    "level": 5,
+    "def": {
+      "en": "Globally distributed group of servers that serve website files from the location nearest each visitor.",
+      "hi": "Duniya bhar mein faile servers ka group jo har visitor ko sabse nazdeeki location se website files serve karta hai.",
+      "mr": "प्रत्येक visitor ला सर्वात जवळच्या ठिकाणाहून वेबसाइटच्या files पुरवणारा जगभर पसरलेला servers चा गट."
+    }
+  },
+  {
+    "id": "g-application-programming-interface",
+    "term": "Application Programming Interface (API)",
+    "cat": "web",
+    "level": 5,
+    "def": {
+      "en": "Set of rules letting different software programs request data and services from each other.",
+      "hi": "Rules ka set jisse alag-alag software programs ek-dusre se data aur services maang sakte hain.",
+      "mr": "वेगवेगळ्या software programs ना एकमेकांकडून data आणि services मागू देणारा नियमांचा संच."
+    }
+  },
+  {
+    "id": "g-lazy-loading",
+    "term": "Lazy Loading",
+    "cat": "web",
+    "level": 6,
+    "def": {
+      "en": "Technique that delays loading images or content until they are about to scroll into view.",
+      "hi": "Technique jo images ya content ko tab tak load nahi karti jab tak woh scroll hokar screen par aane wale na hon.",
+      "mr": "Images किंवा content screen वर scroll होऊन दिसणार असतील तेव्हाच load करणारी technique."
+    }
+  },
+  {
+    "id": "g-webhook",
+    "term": "Webhook",
+    "cat": "web",
+    "level": 6,
+    "def": {
+      "en": "Automatic HTTP message one app sends to another the moment a specific event happens.",
+      "hi": "Automatic HTTP message jo ek app dusre app ko bhejta hai jaise hi koi khaas event hota hai.",
+      "mr": "एखादी विशिष्ट घटना घडताच एक app दुसऱ्या app ला पाठवतो तो automatic HTTP message."
+    }
+  },
+  {
+    "id": "g-server-side-rendering",
+    "term": "Server-Side Rendering (SSR)",
+    "cat": "web",
+    "level": 7,
+    "def": {
+      "en": "Generating a page's full HTML on the server before sending it to the browser.",
+      "hi": "Page ka poora HTML browser ko bhejne se pehle server par hi generate karna.",
+      "mr": "Browser ला पाठवण्यापूर्वी पेजचे पूर्ण HTML server वरच तयार करणे."
+    }
+  },
+  {
+    "id": "g-progressive-web-app",
+    "term": "Progressive Web App (PWA)",
+    "cat": "web",
+    "level": 7,
+    "def": {
+      "en": "Website built with modern features so it can be installed and work offline like a mobile app.",
+      "hi": "Modern features wali website jise install kiya ja sakta hai aur jo mobile app ki tarah offline bhi chal sakti hai.",
+      "mr": "Install करता येणारी आणि mobile app प्रमाणे offline देखील चालू शकणारी modern features असलेली वेबसाइट."
+    }
+  },
+  {
+    "id": "g-headless-cms",
+    "term": "Headless CMS",
+    "cat": "web",
+    "level": 8,
+    "def": {
+      "en": "Content backend that stores content and delivers it through an API, leaving the front-end presentation fully separate.",
+      "hi": "Content backend jo content store karke API se deliver karta hai, aur front-end presentation poori tarah alag rehti hai.",
+      "mr": "Content साठवून API द्वारे पुरवणारा content backend, ज्यात front-end presentation पूर्णपणे वेगळे असते."
+    }
+  },
+  {
+    "id": "g-cross-origin-resource-sharing",
+    "term": "Cross-Origin Resource Sharing (CORS)",
+    "cat": "web",
+    "level": 8,
+    "def": {
+      "en": "Browser security mechanism controlling whether a web page may request resources from a different domain.",
+      "hi": "Browser security mechanism jo control karta hai ki web page kisi dusre domain se resources request kar sakta hai ya nahi.",
+      "mr": "Web page दुसऱ्या domain कडून resources मागू शकते का हे नियंत्रित करणारी browser security यंत्रणा."
+    }
+  },
+  {
+    "id": "g-time-to-first-byte",
+    "term": "Time to First Byte (TTFB)",
+    "cat": "web",
+    "level": 8,
+    "def": {
+      "en": "Delay between a browser requesting a page and receiving the first piece of the server's response.",
+      "hi": "Browser ke page request karne aur server ke response ka pehla hissa milne ke beech ki deri.",
+      "mr": "Browser ने पेज मागणे आणि server च्या response चा पहिला भाग मिळणे यामधील विलंब."
+    }
+  },
+  {
+    "id": "g-http-strict-transport-security",
+    "term": "HTTP Strict Transport Security (HSTS)",
+    "cat": "web",
+    "level": 9,
+    "def": {
+      "en": "Security header instructing browsers to connect to a site only over encrypted HTTPS, never plain HTTP.",
+      "hi": "Security header jo browsers ko kehta hai ki site se sirf encrypted HTTPS par hi connect karein, kabhi plain HTTP par nahi.",
+      "mr": "Browsers नी साइटशी फक्त encrypted HTTPS वरच जोडणी करावी, साध्या HTTP वर कधीच नाही, असे सांगणारा security header."
+    }
+  },
+  {
+    "id": "g-content-security-policy",
+    "term": "Content Security Policy (CSP)",
+    "cat": "web",
+    "level": 9,
+    "def": {
+      "en": "HTTP header restricting which sources of scripts, styles and other resources a page may load, reducing XSS attacks.",
+      "hi": "HTTP header jo tay karta hai ki page kin sources se scripts, styles aur dusre resources load kar sakta hai, jisse XSS attacks kam hote hain.",
+      "mr": "पेज कोणत्या sources वरून scripts, styles आणि इतर resources load करू शकते हे मर्यादित करून XSS हल्ले कमी करणारा HTTP header."
+    }
+  },
+  {
+    "id": "g-hydration",
+    "term": "Hydration",
+    "cat": "web",
+    "level": 10,
+    "def": {
+      "en": "Process where client-side JavaScript attaches interactivity to HTML that was already rendered on the server.",
+      "hi": "Process jisme client-side JavaScript server par pehle se render hue HTML mein interactivity jodta hai.",
+      "mr": "Server वर आधीच render झालेल्या HTML ला client-side JavaScript interactivity जोडते ती प्रक्रिया."
+    }
+  },
+  {
+    "id": "g-tls-handshake",
+    "term": "TLS Handshake",
+    "cat": "web",
+    "level": 10,
+    "def": {
+      "en": "Initial exchange in which a browser and server verify identity and agree on encryption keys before secure data flows.",
+      "hi": "Shuruaati exchange jisme browser aur server pehchaan verify karte hain aur secure data bhejne se pehle encryption keys tay karte hain.",
+      "mr": "सुरक्षित data पाठवण्यापूर्वी browser आणि server ओळख पडताळतात व encryption keys ठरवतात ती सुरुवातीची देवाणघेवाण."
+    }
+  },
+  {
+    "id": "g-artificial-intelligence",
+    "term": "Artificial Intelligence (AI)",
+    "cat": "ai",
+    "level": 1,
+    "def": {
+      "en": "Computer systems performing tasks that normally need human thinking, like understanding language or recognizing images.",
+      "hi": "Computer systems jo aise kaam karte hain jinke liye aam taur par insaani soch chahiye, jaise bhasha samajhna ya images pehchanna.",
+      "mr": "भाषा समजणे किंवा images ओळखणे यांसारखी सामान्यतः मानवी विचारशक्ती लागणारी कामे करणाऱ्या computer प्रणाली."
+    }
+  },
+  {
+    "id": "g-chatbot",
+    "term": "Chatbot",
+    "cat": "ai",
+    "level": 1,
+    "def": {
+      "en": "Software that holds text or voice conversations with users and answers their questions automatically.",
+      "hi": "Software jo users ke saath text ya voice mein baat karta hai aur unke sawaalon ke jawab apne aap deta hai.",
+      "mr": "Users शी text किंवा voice मध्ये संवाद साधून त्यांच्या प्रश्नांची उत्तरे आपोआप देणारे software."
+    }
+  },
+  {
+    "id": "g-prompt",
+    "term": "Prompt",
+    "cat": "ai",
+    "level": 2,
+    "def": {
+      "en": "The instruction or question a user gives an AI model in order to get a response.",
+      "hi": "Woh instruction ya sawaal jo user jawab paane ke liye AI model ko deta hai.",
+      "mr": "उत्तर मिळवण्यासाठी user AI model ला देतो ती सूचना किंवा प्रश्न."
+    }
+  },
+  {
+    "id": "g-generative-ai",
+    "term": "Generative AI",
+    "cat": "ai",
+    "level": 2,
+    "def": {
+      "en": "AI models that create new text, images, audio or video based on patterns learned from data.",
+      "hi": "AI models jo data se seekhe patterns ke basis par naya text, images, audio ya video banate hain.",
+      "mr": "Data मधून शिकलेल्या patterns वर आधारित नवीन text, images, audio किंवा video तयार करणारे AI models."
+    }
+  },
+  {
+    "id": "g-machine-learning",
+    "term": "Machine Learning",
+    "cat": "ai",
+    "level": 2,
+    "def": {
+      "en": "Approach where computers learn patterns from data to make predictions instead of following hand-written rules.",
+      "hi": "Approach jisme computers haath se likhe rules follow karne ke bajaye data se patterns seekhkar predictions karte hain.",
+      "mr": "हाताने लिहिलेले नियम पाळण्याऐवजी computers data मधून patterns शिकून predictions करतात असा दृष्टिकोन."
+    }
+  },
+  {
+    "id": "g-large-language-model",
+    "term": "Large Language Model (LLM)",
+    "cat": "ai",
+    "level": 3,
+    "def": {
+      "en": "AI model trained on massive amounts of text to understand and generate human-like writing.",
+      "hi": "Bahut bade text data par train kiya gaya AI model jo insaan jaisa likhna samajhta aur generate karta hai.",
+      "mr": "प्रचंड text data वर train केलेले, मानवासारखे लेखन समजणारे आणि तयार करणारे AI model."
+    }
+  },
+  {
+    "id": "g-hallucination",
+    "term": "Hallucination",
+    "cat": "ai",
+    "level": 3,
+    "def": {
+      "en": "When an AI model confidently produces false or made-up information that sounds plausible.",
+      "hi": "Jab AI model poore confidence se galat ya mangadhant jaankari deta hai jo sach jaisi lagti hai.",
+      "mr": "AI model आत्मविश्वासाने चुकीची किंवा रचलेली, पण खरी वाटणारी माहिती देतो, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-token",
+    "term": "Token",
+    "cat": "ai",
+    "level": 4,
+    "def": {
+      "en": "Small chunk of text, like a word or part of a word, that language models read, generate and bill by.",
+      "hi": "Text ka chhota tukda, jaise ek word ya word ka hissa, jise language models padhte, generate karte aur jiske hisaab se billing hoti hai.",
+      "mr": "Text चा छोटा तुकडा, उदा. शब्द किंवा शब्दाचा भाग, जो language models वाचतात, तयार करतात आणि ज्यानुसार billing होते."
+    }
+  },
+  {
+    "id": "g-context-window",
+    "term": "Context Window",
+    "cat": "ai",
+    "level": 4,
+    "def": {
+      "en": "Maximum amount of text a model can consider at once, covering both the input and its response.",
+      "hi": "Text ki woh maximum matra jise model ek baar mein dhyan mein le sakta hai, input aur response dono milakar.",
+      "mr": "Model एका वेळी विचारात घेऊ शकतो तेवढा जास्तीत जास्त text, input आणि response दोन्ही मिळून."
+    }
+  },
+  {
+    "id": "g-prompt-engineering",
+    "term": "Prompt Engineering",
+    "cat": "ai",
+    "level": 4,
+    "def": {
+      "en": "Crafting and refining instructions to get more accurate and useful outputs from AI models.",
+      "hi": "AI models se zyada sahi aur useful output paane ke liye instructions ko design aur refine karna.",
+      "mr": "AI models कडून अधिक अचूक आणि उपयुक्त output मिळवण्यासाठी सूचना तयार करणे आणि सुधारत राहणे."
+    }
+  },
+  {
+    "id": "g-neural-network",
+    "term": "Neural Network",
+    "cat": "ai",
+    "level": 5,
+    "def": {
+      "en": "Computing system of interconnected layers of nodes, loosely inspired by the brain, that learns from data.",
+      "hi": "Nodes ki aapas mein judi layers wala computing system, jo dimaag se prerit hai aur data se seekhta hai.",
+      "mr": "मेंदूपासून प्रेरित, एकमेकांशी जोडलेल्या nodes च्या layers असलेली आणि data मधून शिकणारी computing प्रणाली."
+    }
+  },
+  {
+    "id": "g-fine-tuning",
+    "term": "Fine-tuning",
+    "cat": "ai",
+    "level": 5,
+    "def": {
+      "en": "Further training a pre-trained model on a smaller specialized dataset to adapt it to a specific task.",
+      "hi": "Pehle se trained model ko chhote specialized dataset par aur train karna taaki woh kisi khaas task ke liye adapt ho jaye.",
+      "mr": "आधीच train केलेल्या model ला विशिष्ट कामासाठी जुळवून घेण्यासाठी लहान, विशेष dataset वर पुन्हा train करणे."
+    }
+  },
+  {
+    "id": "g-embedding",
+    "term": "Embedding",
+    "cat": "ai",
+    "level": 6,
+    "def": {
+      "en": "A list of numbers representing the meaning of text or images, so similar items sit close together.",
+      "hi": "Numbers ki list jo text ya images ka matlab darshati hai, taaki milte-julte items paas-paas rahein.",
+      "mr": "Text किंवा images चा अर्थ दर्शवणारी संख्यांची यादी, ज्यामुळे समान items एकमेकांजवळ राहतात."
+    }
+  },
+  {
+    "id": "g-retrieval-augmented-generation",
+    "term": "Retrieval-Augmented Generation (RAG)",
+    "cat": "ai",
+    "level": 6,
+    "def": {
+      "en": "Technique where a model first fetches relevant documents from a knowledge source and uses them to ground its answer.",
+      "hi": "Technique jisme model pehle knowledge source se relevant documents laata hai aur unke basis par apna jawab deta hai.",
+      "mr": "Model आधी knowledge source मधून संबंधित documents आणतो आणि त्यांच्या आधारे उत्तर देतो अशी technique."
+    }
+  },
+  {
+    "id": "g-ai-agent",
+    "term": "AI Agent",
+    "cat": "ai",
+    "level": 6,
+    "def": {
+      "en": "System where a model plans steps and uses tools on its own to complete multi-step goals.",
+      "hi": "System jisme model khud steps plan karta hai aur tools use karke multi-step goals poore karta hai.",
+      "mr": "Model स्वतः पायऱ्या ठरवतो आणि tools वापरून अनेक टप्प्यांची उद्दिष्टे पूर्ण करतो अशी प्रणाली."
+    }
+  },
+  {
+    "id": "g-temperature",
+    "term": "Temperature",
+    "cat": "ai",
+    "level": 7,
+    "def": {
+      "en": "Setting that controls randomness in a model's output; lower is more predictable, higher is more creative.",
+      "hi": "Setting jo model ke output ki randomness control karti hai; kam value zyada predictable, zyada value zyada creative.",
+      "mr": "Model च्या output मधील randomness नियंत्रित करणारी setting; कमी value अधिक अंदाजयोग्य, जास्त value अधिक सर्जनशील."
+    }
+  },
+  {
+    "id": "g-transformer",
+    "term": "Transformer",
+    "cat": "ai",
+    "level": 7,
+    "def": {
+      "en": "Deep learning architecture that uses attention to process sequences in parallel, the basis of modern language models.",
+      "hi": "Deep learning architecture jo attention se sequences ko parallel process karta hai; modern language models ka aadhaar.",
+      "mr": "Attention वापरून sequences समांतरपणे process करणारी deep learning architecture; आधुनिक language models चा पाया."
+    }
+  },
+  {
+    "id": "g-overfitting",
+    "term": "Overfitting",
+    "cat": "ai",
+    "level": 7,
+    "def": {
+      "en": "When a model memorizes its training examples so closely that it performs poorly on new, unseen data.",
+      "hi": "Jab model training examples ko itna ratt leta hai ki naye, anjaan data par kharab perform karta hai.",
+      "mr": "Model training उदाहरणे इतकी पाठ करतो की नवीन, न पाहिलेल्या data वर खराब कामगिरी करतो, ती स्थिती."
+    }
+  },
+  {
+    "id": "g-reinforcement-learning-from-human-feedback",
+    "term": "Reinforcement Learning from Human Feedback (RLHF)",
+    "cat": "ai",
+    "level": 8,
+    "def": {
+      "en": "Training method where people rank model outputs and those preferences are used to reward better responses.",
+      "hi": "Training method jisme log model ke outputs ko rank karte hain aur un preferences se behtar responses ko reward kiya jata hai.",
+      "mr": "लोक model च्या outputs ना क्रम देतात आणि त्या पसंतीचा वापर चांगल्या उत्तरांना reward देण्यासाठी होतो अशी training पद्धत."
+    }
+  },
+  {
+    "id": "g-vector-database",
+    "term": "Vector Database",
+    "cat": "ai",
+    "level": 8,
+    "def": {
+      "en": "Storage system optimized to save embeddings and quickly find the most similar items to a query.",
+      "hi": "Storage system jo embeddings save karne aur query se sabse milte-julte items jaldi dhoondhne ke liye optimized hai.",
+      "mr": "Embeddings साठवण्यासाठी आणि query शी सर्वाधिक साम्य असलेले items पटकन शोधण्यासाठी optimize केलेली storage प्रणाली."
+    }
+  },
+  {
+    "id": "g-knowledge-distillation",
+    "term": "Knowledge Distillation",
+    "cat": "ai",
+    "level": 9,
+    "def": {
+      "en": "Training a smaller model to imitate a larger model's outputs, keeping much of its ability at lower cost.",
+      "hi": "Chhote model ko bade model ke outputs ki nakal karna sikhana, taaki kam kharch mein zyada tar kshamata bani rahe.",
+      "mr": "कमी खर्चात बहुतेक क्षमता टिकवण्यासाठी लहान model ला मोठ्या model च्या outputs ची नक्कल करायला शिकवणे."
+    }
+  },
+  {
+    "id": "g-quantization",
+    "term": "Quantization",
+    "cat": "ai",
+    "level": 9,
+    "def": {
+      "en": "Reducing the numeric precision of a model's weights, such as from 16-bit to 4-bit, to shrink and speed it up.",
+      "hi": "Model ke weights ki numeric precision kam karna, jaise 16-bit se 4-bit, taaki model chhota aur tez ho.",
+      "mr": "Model लहान आणि वेगवान करण्यासाठी त्याच्या weights ची numeric precision कमी करणे, उदा. 16-bit वरून 4-bit."
+    }
+  },
+  {
+    "id": "g-low-rank-adaptation",
+    "term": "Low-Rank Adaptation (LoRA)",
+    "cat": "ai",
+    "level": 9,
+    "def": {
+      "en": "Efficient method that trains small add-on weight matrices instead of updating all of a model's parameters.",
+      "hi": "Efficient method jo model ke saare parameters update karne ke bajaye chhote add-on weight matrices train karta hai.",
+      "mr": "Model चे सर्व parameters update करण्याऐवजी छोटे add-on weight matrices train करणारी कार्यक्षम पद्धत."
+    }
+  },
+  {
+    "id": "g-mixture-of-experts",
+    "term": "Mixture of Experts (MoE)",
+    "cat": "ai",
+    "level": 10,
+    "def": {
+      "en": "Architecture where a router activates only a few specialized sub-networks for each input, saving compute.",
+      "hi": "Architecture jisme router har input ke liye sirf kuch specialized sub-networks ko activate karta hai, jisse compute bachta hai.",
+      "mr": "प्रत्येक input साठी router फक्त काही specialized sub-networks सक्रिय करतो, ज्यामुळे compute वाचतो अशी architecture."
+    }
+  },
+  {
+    "id": "g-catastrophic-forgetting",
+    "term": "Catastrophic Forgetting",
+    "cat": "ai",
+    "level": 10,
+    "def": {
+      "en": "When further training on new tasks makes a neural network lose abilities it had learned earlier.",
+      "hi": "Jab naye tasks par aur training se neural network pehle seekhi hui kshamataein kho deta hai.",
+      "mr": "नवीन कामांवर पुढील training मुळे neural network आधी शिकलेल्या क्षमता गमावतो, ती स्थिती."
+    }
+  }
+]

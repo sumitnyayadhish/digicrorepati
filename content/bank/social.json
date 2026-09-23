@@ -1,0 +1,2777 @@
+[
+ {
+  "id": "soc-1",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In social media marketing, what does UGC stand for?",
+   "hi": "Social media marketing mein UGC ka full form kya hai?",
+   "mr": "Social media marketing मध्ये UGC चे पूर्ण रूप काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "User-Generated Content",
+    "Unique Growth Campaign",
+    "Unified Group Chat",
+    "Unpaid Guest Collaboration"
+   ],
+   "hi": [
+    "User-Generated Content",
+    "Unique Growth Campaign",
+    "Unified Group Chat",
+    "Unpaid Guest Collaboration"
+   ],
+   "mr": [
+    "User-Generated Content",
+    "Unique Growth Campaign",
+    "Unified Group Chat",
+    "Unpaid Guest Collaboration"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "UGC = User-Generated Content: photos, videos, reviews or posts made by real customers, not the brand. It builds trust because it feels authentic.",
+   "hi": "UGC = User-Generated Content: real customers ke banaye photos, videos, reviews ya posts, brand ke nahi. Yeh authentic lagta hai isliye trust build karta hai.",
+   "mr": "UGC = User-Generated Content: ब्रँडने नव्हे तर खऱ्या ग्राहकांनी बनवलेले फोटो, व्हिडिओ, reviews किंवा posts. ते authentic वाटते म्हणून विश्वास वाढवते."
+  }
+ },
+ {
+  "id": "soc-2",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is Instagram's main short, vertical, full-screen video format called?",
+   "hi": "Instagram ke short, vertical, full-screen video format ko kya kehte hain?",
+   "mr": "Instagram च्या छोट्या, vertical, full-screen व्हिडिओ format ला काय म्हणतात?"
+  },
+  "opts": {
+   "en": [
+    "Story Highlights",
+    "Reels",
+    "Guides",
+    "Broadcast channels"
+   ],
+   "hi": [
+    "Story Highlights",
+    "Reels",
+    "Guides",
+    "Broadcast channels"
+   ],
+   "mr": [
+    "Story Highlights",
+    "Reels",
+    "Guides",
+    "Broadcast channels"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Reels are Instagram's short vertical videos and can reach non-followers through the Reels feed and Explore. Highlights just save old Stories on your profile.",
+   "hi": "Reels Instagram ke short vertical videos hain jo Reels feed aur Explore se non-followers tak bhi pahunchte hain. Highlights sirf purani Stories ko profile pe save karte hain.",
+   "mr": "Reels हे Instagram चे छोटे vertical व्हिडिओ आहेत, जे Reels feed आणि Explore मधून non-followers पर्यंतही पोहोचतात. Highlights फक्त जुन्या Stories profile वर जतन करतात."
+  }
+ },
+ {
+  "id": "soc-3",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is YouTube's short-form vertical video format called?",
+   "hi": "YouTube ke short-form vertical video format ka naam kya hai?",
+   "mr": "YouTube च्या short-form vertical व्हिडिओ format चे नाव काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "Premieres",
+    "Community posts",
+    "Shorts",
+    "Playlists"
+   ],
+   "hi": [
+    "Premieres",
+    "Community posts",
+    "Shorts",
+    "Playlists"
+   ],
+   "mr": [
+    "Premieres",
+    "Community posts",
+    "Shorts",
+    "Playlists"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "YouTube Shorts are short vertical videos shown in the Shorts feed. Premieres are scheduled launches of regular videos, not a short-form format.",
+   "hi": "YouTube Shorts short vertical videos hain jo Shorts feed mein dikhte hain. Premieres normal videos ka scheduled launch hota hai, short format nahi.",
+   "mr": "YouTube Shorts हे Shorts feed मध्ये दिसणारे छोटे vertical व्हिडिओ आहेत. Premieres म्हणजे नेहमीच्या व्हिडिओचे scheduled launch, short format नाही."
+  }
+ },
+ {
+  "id": "soc-4",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which social platform is best known for professional networking and B2B marketing?",
+   "hi": "Professional networking aur B2B marketing ke liye sabse zyada kaunsa platform jaana jaata hai?",
+   "mr": "Professional networking आणि B2B marketing साठी कोणता platform सर्वात जास्त ओळखला जातो?"
+  },
+  "opts": {
+   "en": [
+    "Snapchat",
+    "Pinterest",
+    "Instagram",
+    "LinkedIn"
+   ],
+   "hi": [
+    "Snapchat",
+    "Pinterest",
+    "Instagram",
+    "LinkedIn"
+   ],
+   "mr": [
+    "Snapchat",
+    "Pinterest",
+    "Instagram",
+    "LinkedIn"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "LinkedIn is built around professional profiles (job title, company, industry), which makes it the go-to platform for B2B marketing and hiring.",
+   "hi": "LinkedIn professional profiles (job title, company, industry) pe based hai, isliye B2B marketing aur hiring ke liye sabse useful platform hai.",
+   "mr": "LinkedIn हे professional profiles (job title, company, industry) वर आधारित आहे, म्हणून B2B marketing आणि hiring साठी ते मुख्य platform आहे."
+  }
+ },
+ {
+  "id": "soc-5",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is the main purpose of a hashtag (#) on social media?",
+   "hi": "Social media pe hashtag (#) ka main purpose kya hai?",
+   "mr": "Social media वर hashtag (#) चा मुख्य उद्देश काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "To label a post with a topic so people can discover related content",
+    "To send a private message to a follower",
+    "To make a post disappear after 24 hours",
+    "To block spam comments automatically"
+   ],
+   "hi": [
+    "Post ko ek topic se label karna taaki log related content dhoondh sakein",
+    "Follower ko private message bhejna",
+    "Post ko 24 ghante baad gayab karna",
+    "Spam comments ko automatically block karna"
+   ],
+   "mr": [
+    "Post ला topic चे label देणे, जेणेकरून लोकांना संबंधित content सापडेल",
+    "Follower ला private message पाठवणे",
+    "Post 24 तासांनी गायब करणे",
+    "Spam comments आपोआप block करणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "A hashtag groups posts under a topic (e.g. #PuneFood) so they can be found by people browsing or searching that topic.",
+   "hi": "Hashtag posts ko ek topic ke under group karta hai (jaise #PuneFood) taaki us topic ko search ya browse karne wale log unhe dekh sakein.",
+   "mr": "Hashtag posts ना एका topic खाली group करतो (उदा. #PuneFood), जेणेकरून तो topic शोधणाऱ्या लोकांना ते सापडतील."
+  }
+ },
+ {
+  "id": "soc-6",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is influencer marketing?",
+   "hi": "Influencer marketing kya hota hai?",
+   "mr": "Influencer marketing म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Buying fake followers to look popular",
+    "Partnering with creators whose audience trusts them to promote a brand",
+    "Running TV ads during cricket matches",
+    "Sending bulk SMS to a customer list"
+   ],
+   "hi": [
+    "Popular dikhne ke liye fake followers khareedna",
+    "Aise creators ke saath partner karna jinki audience unpe trust karti hai, brand promote karne ke liye",
+    "Cricket match ke dauraan TV ads chalana",
+    "Customer list ko bulk SMS bhejna"
+   ],
+   "mr": [
+    "Popular दिसण्यासाठी fake followers विकत घेणे",
+    "ज्यांच्यावर audience विश्वास ठेवते अशा creators सोबत brand promote करण्यासाठी partnership करणे",
+    "Cricket match दरम्यान TV ads चालवणे",
+    "Customer list ला bulk SMS पाठवणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Influencer marketing uses creators with engaged, trusting audiences to recommend a brand. Buying fake followers is fraud and hurts reach.",
+   "hi": "Influencer marketing mein aise creators use hote hain jinki engaged audience unpe trust karti hai. Fake followers khareedna fraud hai aur reach bhi kharab karta hai.",
+   "mr": "Influencer marketing मध्ये engaged आणि विश्वास ठेवणारी audience असलेले creators ब्रँडची शिफारस करतात. Fake followers विकत घेणे fraud आहे आणि reach कमी करते."
+  }
+ },
+ {
+  "id": "soc-7",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which of these counts as 'engagement' on a social media post?",
+   "hi": "Social media post pe inmein se kya 'engagement' maana jaata hai?",
+   "mr": "Social media post वर यापैकी कशाला 'engagement' म्हणतात?"
+  },
+  "opts": {
+   "en": [
+    "The number of followers you have",
+    "The number of posts you publish",
+    "Likes, comments, shares and saves",
+    "Your page's monthly ad budget"
+   ],
+   "hi": [
+    "Aapke followers ki sankhya",
+    "Aap kitne posts publish karte ho",
+    "Likes, comments, shares aur saves",
+    "Page ka monthly ad budget"
+   ],
+   "mr": [
+    "तुमच्या followers ची संख्या",
+    "तुम्ही किती posts publish करता",
+    "Likes, comments, shares आणि saves",
+    "Page चे monthly ad budget"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Engagement means people interacting with the content: likes, comments, shares, saves, clicks. Follower count is audience size, not engagement.",
+   "hi": "Engagement matlab log content ke saath interact karein: likes, comments, shares, saves, clicks. Follower count audience size hai, engagement nahi.",
+   "mr": "Engagement म्हणजे लोकांनी content सोबत केलेला संवाद: likes, comments, shares, saves, clicks. Followers ची संख्या म्हणजे audience size, engagement नाही."
+  }
+ },
+ {
+  "id": "soc-8",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is Meta Ads Manager used for?",
+   "hi": "Meta Ads Manager kis kaam aata hai?",
+   "mr": "Meta Ads Manager कशासाठी वापरतात?"
+  },
+  "opts": {
+   "en": [
+    "Editing photos with filters",
+    "Scheduling WhatsApp status updates",
+    "Checking personal Instagram notifications",
+    "Creating and managing ads on Facebook, Instagram and other Meta placements"
+   ],
+   "hi": [
+    "Photos pe filters lagana",
+    "WhatsApp status schedule karna",
+    "Personal Instagram notifications check karna",
+    "Facebook, Instagram aur baaki Meta placements pe ads banana aur manage karna"
+   ],
+   "mr": [
+    "फोटोंवर filters लावणे",
+    "WhatsApp status schedule करणे",
+    "Personal Instagram notifications पाहणे",
+    "Facebook, Instagram आणि इतर Meta placements वर ads तयार करणे आणि manage करणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Ads Manager is Meta's tool to build campaigns, set budgets and audiences, and read results for ads across Facebook, Instagram, Messenger and Audience Network.",
+   "hi": "Ads Manager Meta ka tool hai jismein campaigns banate hain, budget aur audience set karte hain, aur Facebook, Instagram, Messenger, Audience Network ke results dekhte hain.",
+   "mr": "Ads Manager हे Meta चे tool आहे: campaigns बनवणे, budget व audience ठरवणे आणि Facebook, Instagram, Messenger, Audience Network वरील ads चे results पाहणे."
+  }
+ },
+ {
+  "id": "soc-9",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is the difference between Reach and Impressions?",
+   "hi": "Reach aur Impressions mein kya farak hai?",
+   "mr": "Reach आणि Impressions मध्ये काय फरक आहे?"
+  },
+  "opts": {
+   "en": [
+    "Reach = unique people who saw it; Impressions = total times it was shown",
+    "Reach = total times shown; Impressions = unique people who saw it",
+    "They mean exactly the same thing",
+    "Reach counts clicks; Impressions count likes"
+   ],
+   "hi": [
+    "Reach = kitne unique logon ne dekha; Impressions = total kitni baar dikha",
+    "Reach = total kitni baar dikha; Impressions = unique log",
+    "Dono ka matlab bilkul same hai",
+    "Reach clicks ginta hai; Impressions likes ginta hai"
+   ],
+   "mr": [
+    "Reach = किती unique लोकांनी पाहिले; Impressions = एकूण किती वेळा दाखवले",
+    "Reach = एकूण किती वेळा दाखवले; Impressions = unique लोक",
+    "दोन्हीचा अर्थ अगदी सारखाच",
+    "Reach clicks मोजते; Impressions likes मोजते"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Reach counts unique people; impressions count every time the content was displayed. One person seeing an ad 3 times = reach 1, impressions 3.",
+   "hi": "Reach unique log ginta hai; impressions har baar dikhne ko ginta hai. Ek insaan ne ad 3 baar dekha = reach 1, impressions 3.",
+   "mr": "Reach unique लोक मोजते; impressions प्रत्येक वेळा दाखवणे मोजते. एका व्यक्तीने ad 3 वेळा पाहिली = reach 1, impressions 3."
+  }
+ },
+ {
+  "id": "soc-10",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "How is ad Frequency calculated on Meta?",
+   "hi": "Meta pe ad Frequency kaise calculate hoti hai?",
+   "mr": "Meta वर ad Frequency कशी काढतात?"
+  },
+  "opts": {
+   "en": [
+    "Reach ÷ Impressions",
+    "Impressions ÷ Reach",
+    "Clicks ÷ Impressions",
+    "Spend ÷ Reach"
+   ],
+   "hi": [
+    "Reach ÷ Impressions",
+    "Impressions ÷ Reach",
+    "Clicks ÷ Impressions",
+    "Spend ÷ Reach"
+   ],
+   "mr": [
+    "Reach ÷ Impressions",
+    "Impressions ÷ Reach",
+    "Clicks ÷ Impressions",
+    "Spend ÷ Reach"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Frequency = Impressions ÷ Reach, the average number of times each person saw your ad. Clicks ÷ Impressions is CTR.",
+   "hi": "Frequency = Impressions ÷ Reach, yaani har insaan ne average kitni baar ad dekha. Clicks ÷ Impressions toh CTR hota hai.",
+   "mr": "Frequency = Impressions ÷ Reach, म्हणजे प्रत्येक व्यक्तीने सरासरी किती वेळा ad पाहिली. Clicks ÷ Impressions म्हणजे CTR."
+  }
+ },
+ {
+  "id": "soc-11",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In social ads, what does CPM mean?",
+   "hi": "Social ads mein CPM ka matlab kya hai?",
+   "mr": "Social ads मध्ये CPM म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Cost per message",
+    "Clicks per minute",
+    "Cost per 1,000 impressions",
+    "Conversions per month"
+   ],
+   "hi": [
+    "Cost per message",
+    "Clicks per minute",
+    "Cost per 1,000 impressions",
+    "Conversions per month"
+   ],
+   "mr": [
+    "Cost per message",
+    "Clicks per minute",
+    "Cost per 1,000 impressions",
+    "Conversions per month"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "CPM = cost per mille = what you pay for 1,000 impressions. ₹3,000 spend for 20,000 impressions = ₹150 CPM.",
+   "hi": "CPM = cost per mille = 1,000 impressions ka kharcha. ₹3,000 spend pe 20,000 impressions = ₹150 CPM.",
+   "mr": "CPM = cost per mille = 1,000 impressions साठीचा खर्च. ₹3,000 खर्चात 20,000 impressions = ₹150 CPM."
+  }
+ },
+ {
+  "id": "soc-12",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is the Meta Pixel?",
+   "hi": "Meta Pixel kya hai?",
+   "mr": "Meta Pixel म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A tool for designing ad images",
+    "A paid badge for verified pages",
+    "A setting that automatically raises your bid",
+    "A code snippet on your website that records visitor actions for ads"
+   ],
+   "hi": [
+    "Ad images design karne ka tool",
+    "Verified pages ka paid badge",
+    "Bid ko automatically badhane wali setting",
+    "Website pe lagne wala code jo visitors ke actions ads ke liye record karta hai"
+   ],
+   "mr": [
+    "Ad images design करण्याचे tool",
+    "Verified pages साठी paid badge",
+    "Bid आपोआप वाढवणारी setting",
+    "Website वर लावलेला code जो visitors च्या actions ads साठी record करतो"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "The Pixel is JavaScript on your site that sends events (page view, add to cart, purchase) to Meta for measurement, retargeting and optimization.",
+   "hi": "Pixel website pe laga JavaScript code hai jo events (page view, add to cart, purchase) Meta ko bhejta hai measurement, retargeting aur optimization ke liye.",
+   "mr": "Pixel हा website वरील JavaScript code आहे जो events (page view, add to cart, purchase) Meta ला पाठवतो, measurement, retargeting आणि optimization साठी."
+  }
+ },
+ {
+  "id": "soc-13",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which description fits Pinterest best?",
+   "hi": "Pinterest ke liye sabse sahi description kaunsa hai?",
+   "mr": "Pinterest चे सर्वात योग्य वर्णन कोणते?"
+  },
+  "opts": {
+   "en": [
+    "A visual discovery engine where people search and save ideas",
+    "A messaging app mainly for disappearing photos",
+    "A professional job-hunting network",
+    "A live-streaming platform mainly for gamers"
+   ],
+   "hi": [
+    "Visual discovery engine jahan log ideas search aur save karte hain",
+    "Disappearing photos wala messaging app",
+    "Professional job-hunting network",
+    "Gamers ke liye live-streaming platform"
+   ],
+   "mr": [
+    "Visual discovery engine जिथे लोक ideas शोधतात आणि save करतात",
+    "Disappearing photos साठीचे messaging app",
+    "Professional job-hunting network",
+    "Gamers साठी live-streaming platform"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Pinterest works like a visual search engine: people search for and save Pins to plan things (recipes, weddings, decor), so Pins can keep getting traffic for months.",
+   "hi": "Pinterest visual search engine jaisa hai: log recipes, wedding, decor plan karne ke liye Pins search aur save karte hain, isliye Pins mahino tak traffic laa sakte hain.",
+   "mr": "Pinterest हे visual search engine सारखे आहे: लोक recipes, लग्न, decor यांचे plan करण्यासाठी Pins शोधतात आणि save करतात, म्हणून Pins महिनोंमहिने traffic आणू शकतात."
+  }
+ },
+ {
+  "id": "soc-14",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'social listening'?",
+   "hi": "'Social listening' kya hota hai?",
+   "mr": "'Social listening' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Replying to every DM within 5 minutes",
+    "Tracking online conversations about your brand, competitors and industry for insights",
+    "Listening to trending audio to use in Reels",
+    "Buying ad slots on podcasts"
+   ],
+   "hi": [
+    "Har DM ka 5 minute mein reply karna",
+    "Brand, competitors aur industry ke baare mein online baatein track karke insights nikalna",
+    "Reels ke liye trending audio sunna",
+    "Podcasts pe ad slots khareedna"
+   ],
+   "mr": [
+    "प्रत्येक DM ला 5 मिनिटांत उत्तर देणे",
+    "Brand, competitors आणि industry बद्दलच्या online चर्चा track करून insights मिळवणे",
+    "Reels साठी trending audio ऐकणे",
+    "Podcasts वर ad slots विकत घेणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Social listening tracks mentions, keywords and sentiment across platforms to spot trends, complaints and opportunities that shape strategy.",
+   "hi": "Social listening platforms pe mentions, keywords aur sentiment track karta hai taaki trends, complaints aur opportunities samajh ke strategy bana sakein.",
+   "mr": "Social listening मध्ये platforms वरील mentions, keywords आणि sentiment track करून trends, तक्रारी आणि संधी ओळखल्या जातात, ज्यावरून strategy ठरते."
+  }
+ },
+ {
+  "id": "soc-15",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is an Instagram 'Collab' post?",
+   "hi": "Instagram 'Collab' post kya hota hai?",
+   "mr": "Instagram 'Collab' post म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A post only Close Friends can see",
+    "A paid ad placed in the Explore tab",
+    "One post co-authored by two accounts that appears on both profiles",
+    "A Story that tags another brand's product"
+   ],
+   "hi": [
+    "Aisi post jo sirf Close Friends dekh sakte hain",
+    "Explore tab mein lagi paid ad",
+    "Do accounts ki co-authored ek post jo dono profiles pe dikhti hai",
+    "Aisi Story jismein doosre brand ka product tag ho"
+   ],
+   "mr": [
+    "फक्त Close Friends पाहू शकतात अशी post",
+    "Explore tab मधील paid ad",
+    "दोन accounts ची co-authored एक post जी दोन्ही profiles वर दिसते",
+    "दुसऱ्या brand चे product tag केलेली Story"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "With Collab, one post is shared by both accounts, shown to both audiences, and likes and comments are combined. Great for brand-creator or brand-brand partnerships.",
+   "hi": "Collab mein ek hi post dono accounts pe jaati hai, dono ki audience ko dikhti hai aur likes-comments combine hote hain. Brand-creator partnerships ke liye badhiya.",
+   "mr": "Collab मध्ये एकच post दोन्ही accounts वर जाते, दोन्ही audiences ना दिसते आणि likes-comments एकत्र मोजले जातात. Brand-creator partnerships साठी उत्तम."
+  }
+ },
+ {
+  "id": "soc-16",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Snapchat is especially known for which interactive ad format?",
+   "hi": "Snapchat khaas taur pe kis interactive ad format ke liye jaana jaata hai?",
+   "mr": "Snapchat विशेषतः कोणत्या interactive ad format साठी ओळखले जाते?"
+  },
+  "opts": {
+   "en": [
+    "Document (PDF) carousel ads",
+    "Sponsored InMail messages",
+    "Promoted Pins",
+    "Sponsored AR Lenses"
+   ],
+   "hi": [
+    "Document (PDF) carousel ads",
+    "Sponsored InMail messages",
+    "Promoted Pins",
+    "Sponsored AR Lenses"
+   ],
+   "mr": [
+    "Document (PDF) carousel ads",
+    "Sponsored InMail messages",
+    "Promoted Pins",
+    "Sponsored AR Lenses"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Snapchat's AR Lenses let users try on products or play with branded effects. Sponsored InMail is LinkedIn, and Promoted Pins are Pinterest.",
+   "hi": "Snapchat ke AR Lenses se users products try-on kar sakte hain ya branded effects ke saath khel sakte hain. Sponsored InMail LinkedIn ka hai aur Promoted Pins Pinterest ke.",
+   "mr": "Snapchat च्या AR Lenses मुळे users products try-on करू शकतात किंवा branded effects वापरू शकतात. Sponsored InMail हे LinkedIn चे आणि Promoted Pins हे Pinterest चे आहेत."
+  }
+ },
+ {
+  "id": "soc-17",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In Meta's simplified campaign objectives, which one fits collecting enquiries through an instant form inside Facebook/Instagram?",
+   "hi": "Meta ke simplified campaign objectives mein Facebook/Instagram ke andar instant form se enquiries collect karne ke liye kaunsa objective sahi hai?",
+   "mr": "Meta च्या simplified campaign objectives पैकी Facebook/Instagram मध्येच instant form ने enquiries गोळा करण्यासाठी कोणता objective योग्य आहे?"
+  },
+  "opts": {
+   "en": [
+    "Leads",
+    "Awareness",
+    "Traffic",
+    "App promotion"
+   ],
+   "hi": [
+    "Leads",
+    "Awareness",
+    "Traffic",
+    "App promotion"
+   ],
+   "mr": [
+    "Leads",
+    "Awareness",
+    "Traffic",
+    "App promotion"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "The Leads objective supports instant forms, Messenger/WhatsApp and calls. Traffic only optimizes for clicks to a destination, not for form submissions.",
+   "hi": "Leads objective instant forms, Messenger/WhatsApp aur calls support karta hai. Traffic sirf clicks ke liye optimize karta hai, form submit ke liye nahi.",
+   "mr": "Leads objective instant forms, Messenger/WhatsApp आणि calls ला support करतो. Traffic फक्त clicks साठी optimize करतो, form submissions साठी नाही."
+  }
+ },
+ {
+  "id": "soc-18",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is a Lookalike Audience on Meta?",
+   "hi": "Meta pe Lookalike Audience kya hoti hai?",
+   "mr": "Meta वर Lookalike Audience म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "People who already follow your page",
+    "New people who share traits with a source audience you provide",
+    "People who visited your website recently",
+    "People who live near your shop"
+   ],
+   "hi": [
+    "Jo log pehle se aapka page follow karte hain",
+    "Naye log jo aapki di hui source audience jaise traits rakhte hain",
+    "Jo log haal hi mein website pe aaye",
+    "Jo log aapki shop ke paas rehte hain"
+   ],
+   "mr": [
+    "जे लोक आधीच तुमचे page follow करतात",
+    "तुम्ही दिलेल्या source audience सारखे गुणधर्म असलेले नवे लोक",
+    "ज्यांनी अलीकडे website ला भेट दिली",
+    "जे लोक तुमच्या दुकानाजवळ राहतात"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A Lookalike uses a source (customers, purchasers, engagers) to find new people similar to them. Website visitors or followers are Custom Audiences, not Lookalikes.",
+   "hi": "Lookalike ek source (customers, purchasers, engagers) leke unke jaise naye log dhoondhta hai. Website visitors ya followers Custom Audience hote hain, Lookalike nahi.",
+   "mr": "Lookalike एक source (customers, purchasers, engagers) घेऊन त्यांच्यासारखे नवे लोक शोधते. Website visitors किंवा followers या Custom Audiences आहेत, Lookalike नाहीत."
+  }
+ },
+ {
+  "id": "soc-19",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "On Instagram, which action is a strong sign people found a post valuable enough to return to later?",
+   "hi": "Instagram pe kaunsa action strong sign hai ki logon ko post itni valuable lagi ki baad mein dobara dekhenge?",
+   "mr": "Instagram वर कोणती action हे दाखवते की लोकांना post इतकी उपयोगी वाटली की ते नंतर पुन्हा पाहतील?"
+  },
+  "opts": {
+   "en": [
+    "Viewing your profile picture",
+    "Scrolling past quickly",
+    "Saving the post",
+    "Muting your account"
+   ],
+   "hi": [
+    "Profile picture dekhna",
+    "Jaldi se scroll kar dena",
+    "Post ko save karna",
+    "Account ko mute karna"
+   ],
+   "mr": [
+    "Profile picture पाहणे",
+    "पटकन scroll करून पुढे जाणे",
+    "Post save करणे",
+    "Account mute करणे"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Saves show intent to revisit, which is why useful formats like tips, checklists and carousels earn saves and signal quality to the algorithm.",
+   "hi": "Save matlab user dobara dekhna chahta hai, isliye tips, checklists, carousels jaise useful content ko saves milte hain aur algorithm ko quality signal jaata hai.",
+   "mr": "Save म्हणजे user ला पुन्हा पाहायचे आहे, म्हणून tips, checklists, carousels सारख्या उपयोगी content ला saves मिळतात आणि algorithm ला quality signal जातो."
+  }
+ },
+ {
+  "id": "soc-20",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In YouTube Analytics, what does the 'audience retention' report show?",
+   "hi": "YouTube Analytics mein 'audience retention' report kya dikhati hai?",
+   "mr": "YouTube Analytics मधील 'audience retention' report काय दाखवतो?"
+  },
+  "opts": {
+   "en": [
+    "How many subscribers you gained this month",
+    "How many comments were removed",
+    "How many people clicked your thumbnail",
+    "How much of the video viewers watched and where they dropped off"
+   ],
+   "hi": [
+    "Is mahine kitne subscribers mile",
+    "Kitne comments remove hue",
+    "Kitne logon ne thumbnail click kiya",
+    "Viewers ne video ka kitna hissa dekha aur kahan chhod diya"
+   ],
+   "mr": [
+    "या महिन्यात किती subscribers मिळाले",
+    "किती comments काढले गेले",
+    "किती लोकांनी thumbnail click केला",
+    "Viewers नी व्हिडिओचा किती भाग पाहिला आणि कुठे सोडला"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Audience retention plots the percentage of viewers still watching at each moment, so you can see weak intros and drop-off points. Thumbnail clicks are impressions CTR.",
+   "hi": "Audience retention har moment pe kitne % viewers abhi bhi dekh rahe hain woh dikhata hai, jisse weak intro aur drop-off points pata chalte hain. Thumbnail clicks impressions CTR hai.",
+   "mr": "Audience retention प्रत्येक क्षणी किती % viewers अजून पाहत आहेत ते दाखवते, त्यामुळे कमजोर intro आणि drop-off points कळतात. Thumbnail clicks म्हणजे impressions CTR."
+  }
+ },
+ {
+  "id": "soc-21",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In short-form video (Reels/Shorts), what is the 'hook'?",
+   "hi": "Short-form video (Reels/Shorts) mein 'hook' kya hota hai?",
+   "mr": "Short-form video (Reels/Shorts) मध्ये 'hook' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "The first 1-3 seconds designed to stop the scroll",
+    "The link placed in your bio",
+    "The licence for background music",
+    "The end-screen subscribe button"
+   ],
+   "hi": [
+    "Pehle 1-3 seconds jo scroll rokne ke liye banaye jaate hain",
+    "Bio mein diya link",
+    "Background music ka licence",
+    "End-screen ka subscribe button"
+   ],
+   "mr": [
+    "Scroll थांबवण्यासाठी बनवलेले पहिले 1-3 सेकंद",
+    "Bio मधील link",
+    "Background music चे licence",
+    "End-screen वरील subscribe button"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "The hook is the opening line, visual or text overlay that makes viewers stop scrolling. If the hook fails, watch time and reach suffer no matter how good the rest is.",
+   "hi": "Hook opening line, visual ya text overlay hai jo viewers ka scroll rokta hai. Hook fail hua toh baaki video kitna bhi achha ho, watch time aur reach girte hain.",
+   "mr": "Hook म्हणजे सुरुवातीची line, visual किंवा text overlay जो viewers चा scroll थांबवतो. Hook fail झाला तर बाकी व्हिडिओ कितीही चांगला असला तरी watch time आणि reach कमी होतात."
+  }
+ },
+ {
+  "id": "soc-22",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which Meta audience type lets you show ads to people who visited your website in the last 30 days?",
+   "hi": "Pichhle 30 din mein website visit karne walon ko ads dikhane ke liye Meta ki kaunsi audience type use karte hain?",
+   "mr": "गेल्या 30 दिवसांत website ला भेट दिलेल्या लोकांना ads दाखवण्यासाठी Meta ची कोणती audience type वापरतात?"
+  },
+  "opts": {
+   "en": [
+    "Lookalike Audience",
+    "Website Custom Audience (built from Pixel data)",
+    "Detailed targeting by interests",
+    "Broad audience with no inputs"
+   ],
+   "hi": [
+    "Lookalike Audience",
+    "Website Custom Audience (Pixel data se bani)",
+    "Interests wali detailed targeting",
+    "Bina inputs wali broad audience"
+   ],
+   "mr": [
+    "Lookalike Audience",
+    "Website Custom Audience (Pixel data वरून बनवलेली)",
+    "Interests नुसार detailed targeting",
+    "कोणतेही inputs नसलेली broad audience"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A Website Custom Audience uses Pixel/CAPI events to retarget past visitors for a chosen time window. A Lookalike finds new people similar to them instead.",
+   "hi": "Website Custom Audience Pixel/CAPI events se past visitors ko chune hue time window ke liye retarget karti hai. Lookalike unke jaise naye log dhoondhti hai.",
+   "mr": "Website Custom Audience Pixel/CAPI events वापरून निवडलेल्या कालावधीतील visitors ना retarget करते. Lookalike त्यांच्यासारखे नवे लोक शोधते."
+  }
+ },
+ {
+  "id": "soc-23",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is a key advantage of LinkedIn Lead Gen Forms?",
+   "hi": "LinkedIn Lead Gen Forms ka ek bada fayda kya hai?",
+   "mr": "LinkedIn Lead Gen Forms चा एक मोठा फायदा कोणता?"
+  },
+  "opts": {
+   "en": [
+    "They only work for job postings",
+    "They guarantee a sale for every lead",
+    "They pre-fill profile data, so users submit without leaving LinkedIn",
+    "They send leads straight into WhatsApp groups"
+   ],
+   "hi": [
+    "Yeh sirf job postings ke liye kaam karte hain",
+    "Har lead se sale ki guarantee dete hain",
+    "Profile data pre-fill hota hai, user LinkedIn chhode bina submit karta hai",
+    "Leads seedha WhatsApp groups mein bhejte hain"
+   ],
+   "mr": [
+    "हे फक्त job postings साठी चालतात",
+    "प्रत्येक lead मधून sale ची guarantee देतात",
+    "Profile data आधीच भरलेला असतो, user LinkedIn न सोडता submit करतो",
+    "Leads थेट WhatsApp groups मध्ये पाठवतात"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Lead Gen Forms auto-fill details like name, email, company and job title from the profile, which reduces friction, especially on mobile.",
+   "hi": "Lead Gen Forms profile se naam, email, company, job title auto-fill kar dete hain, jisse friction kam hota hai, khaaskar mobile pe.",
+   "mr": "Lead Gen Forms profile वरून नाव, email, company, job title आपोआप भरतात, त्यामुळे friction कमी होते, विशेषतः mobile वर."
+  }
+ },
+ {
+  "id": "soc-24",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In India, influencer ad disclosure guidelines are issued by ASCI. What does ASCI stand for?",
+   "hi": "India mein influencer ad disclosure guidelines ASCI deta hai. ASCI ka full form kya hai?",
+   "mr": "भारतात influencer ad disclosure guidelines ASCI देते. ASCI चे पूर्ण रूप काय?"
+  },
+  "opts": {
+   "en": [
+    "All-India Social Content Institute",
+    "Association of Social Creators of India",
+    "Advertising Standards Committee of Instagram",
+    "Advertising Standards Council of India"
+   ],
+   "hi": [
+    "All-India Social Content Institute",
+    "Association of Social Creators of India",
+    "Advertising Standards Committee of Instagram",
+    "Advertising Standards Council of India"
+   ],
+   "mr": [
+    "All-India Social Content Institute",
+    "Association of Social Creators of India",
+    "Advertising Standards Committee of Instagram",
+    "Advertising Standards Council of India"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "ASCI (Advertising Standards Council of India) is the self-regulatory body for advertising. Its influencer guidelines (2021) require clear disclosure of paid or sponsored content.",
+   "hi": "ASCI (Advertising Standards Council of India) advertising ki self-regulatory body hai. Iske influencer guidelines (2021) paid/sponsored content ka clear disclosure maangte hain.",
+   "mr": "ASCI (Advertising Standards Council of India) ही advertising ची self-regulatory संस्था आहे. तिच्या influencer guidelines (2021) नुसार paid/sponsored content स्पष्टपणे disclose करणे आवश्यक आहे."
+  }
+ },
+ {
+  "id": "soc-25",
+  "level": 4,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Meta says an ad set usually exits the learning phase after roughly how many optimization events?",
+   "hi": "Meta ke hisaab se ad set roughly kitne optimization events ke baad learning phase se bahar aata hai?",
+   "mr": "Meta नुसार ad set साधारण किती optimization events नंतर learning phase मधून बाहेर पडतो?"
+  },
+  "opts": {
+   "en": [
+    "About 50 within 7 days of the last significant edit",
+    "About 5 within 24 hours of launch",
+    "About 500 within 30 days",
+    "After exactly ₹10,000 of spend"
+   ],
+   "hi": [
+    "Last significant edit ke 7 din ke andar lagbhag 50",
+    "Launch ke 24 ghante mein lagbhag 5",
+    "30 din mein lagbhag 500",
+    "Theek ₹10,000 spend hone ke baad"
+   ],
+   "mr": [
+    "शेवटच्या significant edit नंतर 7 दिवसांत सुमारे 50",
+    "Launch नंतर 24 तासांत सुमारे 5",
+    "30 दिवसांत सुमारे 500",
+    "बरोबर ₹10,000 खर्च झाल्यावर"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Meta's guidance is around 50 optimization events in a 7-day window. Too few events leaves the ad set 'Learning limited', with less stable delivery and cost.",
+   "hi": "Meta ki guidance hai 7 din mein lagbhag 50 optimization events. Events kam hon toh ad set 'Learning limited' mein rehta hai aur delivery-cost unstable rehte hain.",
+   "mr": "Meta च्या guidance नुसार 7 दिवसांत सुमारे 50 optimization events हवेत. Events कमी असतील तर ad set 'Learning limited' मध्ये राहतो आणि delivery व cost अस्थिर राहतात."
+  }
+ },
+ {
+  "id": "soc-26",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune bakery with a ₹8,000/month budget wants more walk-in customers from nearby areas. Which Meta ad setup makes the most sense?",
+   "hi": "Pune ki ek bakery ka budget ₹8,000/month hai aur use aas-paas se zyada walk-in customers chahiye. Kaunsa Meta ad setup sabse sahi hai?",
+   "mr": "Pune मधील एका bakery चे budget ₹8,000/महिना आहे आणि त्यांना जवळपासच्या भागातून जास्त walk-in customers हवे आहेत. कोणता Meta ad setup सर्वात योग्य?"
+  },
+  "opts": {
+   "en": [
+    "Target all of India to get maximum reach",
+    "Target a few km around the shop with product Reels and an address/WhatsApp CTA",
+    "Target people interested in 'baking' worldwide",
+    "Randomly boost old posts whenever sales are slow"
+   ],
+   "hi": [
+    "Maximum reach ke liye poore India ko target karna",
+    "Shop ke aas-paas kuch km target karke product Reels aur address/WhatsApp CTA",
+    "Duniya bhar mein 'baking' interest walon ko target karna",
+    "Sales slow hone pe random purane posts boost karna"
+   ],
+   "mr": [
+    "जास्तीत जास्त reach साठी संपूर्ण भारत target करणे",
+    "दुकानाभोवती काही km target करून product Reels आणि address/WhatsApp CTA",
+    "जगभरातील 'baking' interest असलेल्यांना target करणे",
+    "Sales कमी झाल्यावर जुन्या posts random boost करणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A local business only earns from people who can actually visit, so a tight radius plus appetising creative and an easy way to find or message the shop spends the small budget well. National or global targeting wastes it.",
+   "hi": "Local business ko sirf un logon se kamaai hoti hai jo shop tak aa sakein, isliye chhota radius, tempting creative aur shop tak pahunchne ya message karne ka aasaan tareeka chhote budget ka sahi use hai. National/global targeting paisa waste karti hai.",
+   "mr": "Local business ला फक्त दुकानापर्यंत येऊ शकणाऱ्या लोकांकडून कमाई होते, म्हणून लहान radius, आकर्षक creative आणि दुकान शोधण्याचा/message करण्याचा सोपा मार्ग हा लहान budget चा योग्य वापर आहे. National/global targeting पैसा वाया घालवते."
+  }
+ },
+ {
+  "id": "soc-27",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An influencer's paid Reel caption ends with 25 hashtags, with '#sp' hidden in the middle. What do ASCI's influencer guidelines require instead?",
+   "hi": "Ek influencer ke paid Reel caption ke end mein 25 hashtags hain aur '#sp' beech mein chhupa hai. ASCI influencer guidelines iski jagah kya maangti hain?",
+   "mr": "एका influencer च्या paid Reel caption च्या शेवटी 25 hashtags आहेत आणि '#sp' मध्ये लपलेला आहे. ASCI influencer guidelines याऐवजी काय सांगतात?"
+  },
+  "opts": {
+   "en": [
+    "Nothing more; any hashtag counts as disclosure",
+    "Only a thank-you to the brand in the comments",
+    "A clear label like #ad or 'Sponsored', placed upfront and prominently",
+    "Disclosure only once in the influencer's bio"
+   ],
+   "hi": [
+    "Kuch nahi; koi bhi hashtag disclosure maana jaata hai",
+    "Sirf comments mein brand ko thank-you",
+    "#ad ya 'Sponsored' jaisa clear label, shuru mein aur prominently",
+    "Sirf influencer ke bio mein ek baar disclosure"
+   ],
+   "mr": [
+    "काही नाही; कोणताही hashtag disclosure मानला जातो",
+    "फक्त comments मध्ये brand ला thank-you",
+    "#ad किंवा 'Sponsored' सारखे स्पष्ट label, सुरुवातीला आणि ठळकपणे",
+    "फक्त influencer च्या bio मध्ये एकदा disclosure"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "ASCI requires clear labels such as Ad, Advertisement, Sponsored, Collaboration or Partnership, placed where users can't miss them, not buried among hashtags. For videos the label should also appear on the video itself.",
+   "hi": "ASCI Ad, Advertisement, Sponsored, Collaboration ya Partnership jaise clear labels maangta hai jo miss na hon, hashtags ke dher mein chhupe na hon. Video mein label video pe bhi dikhna chahiye.",
+   "mr": "ASCI नुसार Ad, Advertisement, Sponsored, Collaboration किंवा Partnership सारखे स्पष्ट labels हवेत जे चुकणार नाहीत, hashtags मध्ये लपलेले नकोत. व्हिडिओमध्ये label व्हिडिओवरही दिसले पाहिजे."
+  }
+ },
+ {
+  "id": "soc-28",
+  "level": 4,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In YouTube Studio, which metric best shows whether your thumbnail and title are earning the click?",
+   "hi": "YouTube Studio mein kaunsa metric sabse achhe se batata hai ki thumbnail aur title click la rahe hain ya nahi?",
+   "mr": "YouTube Studio मध्ये thumbnail आणि title click मिळवत आहेत का हे कोणता metric सर्वात चांगले दाखवतो?"
+  },
+  "opts": {
+   "en": [
+    "Average view duration",
+    "Total subscriber count",
+    "Watch time (hours)",
+    "Impressions click-through rate"
+   ],
+   "hi": [
+    "Average view duration",
+    "Total subscriber count",
+    "Watch time (hours)",
+    "Impressions click-through rate"
+   ],
+   "mr": [
+    "Average view duration",
+    "Total subscriber count",
+    "Watch time (hours)",
+    "Impressions click-through rate"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Impressions CTR is the share of thumbnail impressions that turned into views, so it directly reflects thumbnail + title appeal. View duration measures what happens after the click.",
+   "hi": "Impressions CTR batata hai thumbnail impressions mein se kitne views bane, yaani seedha thumbnail + title ki appeal. View duration click ke baad ka haal batata hai.",
+   "mr": "Impressions CTR म्हणजे thumbnail impressions पैकी किती views झाले, म्हणजे थेट thumbnail + title चे आकर्षण. View duration click नंतर काय होते ते मोजते."
+  }
+ },
+ {
+  "id": "soc-29",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A coaching institute adds 30 generic hashtags (#love #instagood #viral) to every post, but reach stays tiny. What is the best fix?",
+   "hi": "Ek coaching institute har post mein 30 generic hashtags (#love #instagood #viral) daalta hai, par reach bahut kam hai. Best fix kya hai?",
+   "mr": "एक coaching institute प्रत्येक post मध्ये 30 generic hashtags (#love #instagood #viral) टाकते, पण reach खूपच कमी आहे. सर्वोत्तम उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Use a few specific, relevant hashtags and focus on content and keyword-rich captions",
+    "Increase to 60 hashtags so the post appears in more places",
+    "Repeat the same hashtags in the comments too",
+    "Stop posting and only run Stories"
+   ],
+   "hi": [
+    "Kuch specific, relevant hashtags use karo aur content va keyword-rich captions pe focus karo",
+    "60 hashtags kar do taaki post zyada jagah dikhe",
+    "Wahi hashtags comments mein bhi repeat karo",
+    "Posting band karke sirf Stories chalao"
+   ],
+   "mr": [
+    "थोडे specific, relevant hashtags वापरा आणि content व keyword-rich captions वर लक्ष द्या",
+    "Post जास्त ठिकाणी दिसावी म्हणून 60 hashtags करा",
+    "तेच hashtags comments मध्येही टाका",
+    "Posting बंद करून फक्त Stories चालवा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Hashtags only help categorise content; generic ones like #love are flooded and irrelevant to students. A few niche tags (e.g. #MPSCpreparation) plus strong content and clear captions help Instagram understand and show the post to the right people.",
+   "hi": "Hashtags sirf content categorise karte hain; #love jaise generic tags bhare pade hain aur students ke liye irrelevant hain. Kuch niche tags (jaise #MPSCpreparation) plus strong content aur clear captions se Instagram post ko sahi logon tak dikhata hai.",
+   "mr": "Hashtags फक्त content categorise करतात; #love सारखे generic tags गर्दीचे आणि विद्यार्थ्यांसाठी अप्रस्तुत आहेत. थोडे niche tags (उदा. #MPSCpreparation), दमदार content आणि स्पष्ट captions मुळे Instagram post योग्य लोकांना दाखवते."
+  }
+ },
+ {
+  "id": "soc-30",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand gets an angry public comment on Instagram about a delivery that is 10 days late. What should the social team do?",
+   "hi": "Ek D2C brand ko Instagram pe 10 din late delivery ko lekar gussa bhara public comment mila. Social team ko kya karna chahiye?",
+   "mr": "एका D2C brand ला Instagram वर 10 दिवस उशिरा आलेल्या delivery बद्दल रागावलेली public comment आली. Social team ने काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Delete the comment quickly so others don't see it",
+    "Reply publicly with empathy, move order details to DM, fix it and follow up",
+    "Ignore it; replying only draws more attention",
+    "Reply with a copy-paste 'Check our FAQ' message"
+   ],
+   "hi": [
+    "Comment turant delete karo taaki koi na dekhe",
+    "Public mein empathy ke saath reply karo, order details DM mein lo, solve karo aur follow up karo",
+    "Ignore karo; reply karne se aur attention milega",
+    "Copy-paste 'Hamara FAQ dekhein' reply karo"
+   ],
+   "mr": [
+    "इतरांनी पाहू नये म्हणून comment लगेच delete करा",
+    "Public मध्ये सहानुभूतीने reply करा, order details DM मध्ये घ्या, प्रश्न सोडवा आणि follow up करा",
+    "दुर्लक्ष करा; reply केल्याने जास्त लक्ष जाईल",
+    "Copy-paste 'आमचे FAQ पाहा' reply करा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A fast, human public reply shows other customers you care, while DMs protect private order data. Deleting or ignoring genuine complaints usually makes people angrier and can escalate publicly.",
+   "hi": "Fast aur human public reply baaki customers ko dikhata hai ki brand care karta hai, aur DM mein private order data safe rehta hai. Genuine complaint delete ya ignore karne se gussa aur badhta hai.",
+   "mr": "जलद आणि माणुसकीचा public reply इतर ग्राहकांना दाखवतो की brand काळजी घेतो, आणि DM मध्ये private order data सुरक्षित राहतो. खरी तक्रार delete किंवा दुर्लक्ष केल्यास राग वाढतो."
+  }
+ },
+ {
+  "id": "soc-31",
+  "level": 4,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What does choosing Advantage+ placements do in a Meta campaign?",
+   "hi": "Meta campaign mein Advantage+ placements choose karne se kya hota hai?",
+   "mr": "Meta campaign मध्ये Advantage+ placements निवडल्यावर काय होते?"
+  },
+  "opts": {
+   "en": [
+    "Shows ads only in the Facebook Feed",
+    "Doubles your daily budget automatically",
+    "Lets Meta spread delivery across placements where results are likely best",
+    "Restricts ads to Instagram Stories only"
+   ],
+   "hi": [
+    "Ads sirf Facebook Feed mein dikhte hain",
+    "Daily budget automatically double ho jaata hai",
+    "Meta un placements pe delivery phailata hai jahan results best hone ki sambhavna ho",
+    "Ads sirf Instagram Stories tak limited ho jaate hain"
+   ],
+   "mr": [
+    "Ads फक्त Facebook Feed मध्ये दिसतात",
+    "Daily budget आपोआप दुप्पट होते",
+    "ज्या placements वर results चांगले येण्याची शक्यता आहे तिथे Meta delivery पसरवते",
+    "Ads फक्त Instagram Stories पुरत्या मर्यादित होतात"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Advantage+ placements (formerly automatic placements) give the system more inventory (Feeds, Stories, Reels, etc.) to find cheaper results. It does not change your budget.",
+   "hi": "Advantage+ placements (pehle automatic placements) system ko zyada inventory (Feeds, Stories, Reels, etc.) dete hain taaki sasta result mile. Isse budget change nahi hota.",
+   "mr": "Advantage+ placements (पूर्वीचे automatic placements) system ला जास्त inventory (Feeds, Stories, Reels इ.) देतात म्हणजे स्वस्त results मिळतात. यामुळे budget बदलत नाही."
+  }
+ },
+ {
+  "id": "soc-32",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "When creating a Meta Lookalike Audience, what does choosing 1% instead of 10% mean?",
+   "hi": "Meta Lookalike banate waqt 10% ki jagah 1% choose karne ka matlab kya hai?",
+   "mr": "Meta Lookalike बनवताना 10% ऐवजी 1% निवडण्याचा अर्थ काय?"
+  },
+  "opts": {
+   "en": [
+    "1% is broader and less similar to the source",
+    "1% costs exactly 10 times less",
+    "1% only includes your existing customers",
+    "1% is smaller and most similar to the source"
+   ],
+   "hi": [
+    "1% zyada broad hai aur source se kam milta-julta hai",
+    "1% theek 10 guna sasta hota hai",
+    "1% mein sirf existing customers hote hain",
+    "1% chhota hai aur source se sabse zyada milta-julta hai"
+   ],
+   "mr": [
+    "1% जास्त broad आणि source शी कमी साम्य असलेले",
+    "1% बरोबर 10 पट स्वस्त असते",
+    "1% मध्ये फक्त existing customers असतात",
+    "1% लहान आणि source शी सर्वात जास्त साम्य असलेले"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "The percentage is the share of the country's population included: 1% is the closest match to your source, 10% is larger but less similar. Existing customers themselves are a Custom Audience.",
+   "hi": "Percentage country ki population ka hissa hai: 1% source se sabse close match, 10% bada par kam similar. Existing customers khud Custom Audience hote hain.",
+   "mr": "Percentage म्हणजे देशातील लोकसंख्येचा हिस्सा: 1% source शी सर्वात जवळचे, 10% मोठे पण कमी साम्य असलेले. Existing customers स्वतः Custom Audience असतात."
+  }
+ },
+ {
+  "id": "soc-33",
+  "level": 5,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A new D2C store gets about 5 purchases a week. Its Meta ad sets optimizing for Purchase show 'Learning limited'. What is the most sensible fix?",
+   "hi": "Ek naye D2C store ko hafte mein lagbhag 5 purchases milte hain. Purchase ke liye optimize ho rahe Meta ad sets 'Learning limited' dikha rahe hain. Sabse samajhdaar fix kya hai?",
+   "mr": "एका नव्या D2C store ला आठवड्याला सुमारे 5 purchases मिळतात. Purchase साठी optimize होणारे Meta ad sets 'Learning limited' दाखवत आहेत. सर्वात योग्य उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Consolidate ad sets and/or optimize for a more frequent event like Add to Cart",
+    "Split into even more ad sets with smaller budgets",
+    "Edit targeting every day until learning ends",
+    "Switch the objective to Awareness permanently"
+   ],
+   "hi": [
+    "Ad sets consolidate karo aur/ya Add to Cart jaise zyada frequent event pe optimize karo",
+    "Aur zyada ad sets banao chhote budgets ke saath",
+    "Learning khatam hone tak roz targeting edit karo",
+    "Objective ko hamesha ke liye Awareness kar do"
+   ],
+   "mr": [
+    "Ad sets एकत्र करा आणि/किंवा Add to Cart सारख्या जास्त वेळा होणाऱ्या event साठी optimize करा",
+    "लहान budgets सह आणखी ad sets बनवा",
+    "Learning संपेपर्यंत रोज targeting edit करा",
+    "Objective कायमचा Awareness करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Learning needs enough optimization events (around 50/week). Fewer, bigger ad sets or a higher-volume event gives the algorithm that data. Splitting further or editing daily resets and starves learning.",
+   "hi": "Learning ko kaafi optimization events chahiye (lagbhag 50/week). Kam aur bade ad sets ya zyada volume wala event algorithm ko data deta hai. Aur split karna ya roz edit karna learning ko reset aur bhookha rakhta hai.",
+   "mr": "Learning साठी पुरेसे optimization events (सुमारे 50/आठवडा) लागतात. कमी पण मोठे ad sets किंवा जास्त volume चा event algorithm ला data देतो. आणखी split करणे किंवा रोज edit करणे learning reset करते."
+  }
+ },
+ {
+  "id": "soc-34",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "You send the same Purchase event from both the Meta Pixel and the Conversions API. How does Meta avoid counting it twice?",
+   "hi": "Aap same Purchase event Meta Pixel aur Conversions API dono se bhejte ho. Meta ise do baar count hone se kaise bachata hai?",
+   "mr": "तुम्ही एकच Purchase event Meta Pixel आणि Conversions API दोन्हीकडून पाठवता. Meta ते दोनदा मोजणे कसे टाळते?"
+  },
+  "opts": {
+   "en": [
+    "It always ignores server events if a pixel exists",
+    "By matching the same event name and event_id from both sources",
+    "By counting only events that happen before midnight",
+    "It can't; you must turn off the pixel"
+   ],
+   "hi": [
+    "Pixel ho toh server events hamesha ignore karta hai",
+    "Dono sources se same event name aur event_id match karke",
+    "Sirf midnight se pehle ke events count karke",
+    "Nahi kar sakta; pixel band karna padega"
+   ],
+   "mr": [
+    "Pixel असेल तर server events नेहमी ignore करतो",
+    "दोन्ही sources कडून आलेले same event name आणि event_id जुळवून",
+    "फक्त मध्यरात्रीपूर्वीचे events मोजून",
+    "शक्य नाही; pixel बंद करावा लागतो"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Deduplication works when browser and server events share the same event name and a matching event_id. Running both with dedup gives better coverage than either alone.",
+   "hi": "Deduplication tab hota hai jab browser aur server events ka event name same ho aur event_id match kare. Dedup ke saath dono chalana akele kisi ek se better coverage deta hai.",
+   "mr": "Browser आणि server events चे event name सारखे आणि event_id जुळणारे असल्यास deduplication होते. Dedup सह दोन्ही वापरल्याने एकट्यापेक्षा चांगले coverage मिळते."
+  }
+ },
+ {
+  "id": "soc-35",
+  "level": 5,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Mumbai dental clinic's Meta instant-form leads are cheap, but many give wrong numbers or don't remember signing up. What change will most likely improve lead quality?",
+   "hi": "Mumbai ke ek dental clinic ke Meta instant-form leads saste hain, par kaafi log galat number dete hain ya bhool jaate hain ki sign up kiya tha. Lead quality sudharne ke liye sabse achha change kya hai?",
+   "mr": "Mumbai मधील एका dental clinic चे Meta instant-form leads स्वस्त आहेत, पण बरेच जण चुकीचा नंबर देतात किंवा sign up केल्याचे विसरतात. Lead quality सुधारण्यासाठी सर्वात चांगला बदल कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Remove all form questions to get more leads",
+    "Switch the objective to Traffic",
+    "Use the 'Higher intent' form type and add a qualifying question",
+    "Target a wider age range with the same form"
+   ],
+   "hi": [
+    "Zyada leads ke liye form ke saare questions hata do",
+    "Objective Traffic kar do",
+    "'Higher intent' form type use karo aur ek qualifying question jodo",
+    "Same form ke saath wider age range target karo"
+   ],
+   "mr": [
+    "जास्त leads साठी form मधले सर्व प्रश्न काढा",
+    "Objective Traffic करा",
+    "'Higher intent' form type वापरा आणि एक qualifying प्रश्न जोडा",
+    "त्याच form सह wider age range target करा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "The Higher intent form adds a review step before submitting, and a qualifying question (e.g. which treatment, preferred area) filters casual clicks. Fewer questions raise volume but usually lower quality.",
+   "hi": "Higher intent form submit se pehle review step jodta hai, aur qualifying question (jaise kaunsa treatment, kaunsa area) casual clicks ko filter karta hai. Kam questions se volume badhta hai par quality aam taur pe girti hai.",
+   "mr": "Higher intent form submit करण्यापूर्वी review step जोडतो, आणि qualifying प्रश्न (उदा. कोणती treatment, कोणता भाग) casual clicks गाळतो. कमी प्रश्नांनी volume वाढतो पण quality सहसा घटते."
+  }
+ },
+ {
+  "id": "soc-36",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "On X (formerly Twitter), what are Community Notes?",
+   "hi": "X (pehle Twitter) pe Community Notes kya hote hain?",
+   "mr": "X (पूर्वीचे Twitter) वर Community Notes म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Paid badges for verified brands",
+    "Private notes only the poster can see",
+    "Scheduled posts for community pages",
+    "Crowd-sourced context added to posts that may be misleading"
+   ],
+   "hi": [
+    "Verified brands ke paid badges",
+    "Private notes jo sirf poster dekh sakta hai",
+    "Community pages ke scheduled posts",
+    "Misleading ho sakne wale posts pe crowd-sourced context"
+   ],
+   "mr": [
+    "Verified brands साठी paid badges",
+    "फक्त poster ला दिसणाऱ्या private notes",
+    "Community pages साठी scheduled posts",
+    "दिशाभूल करू शकणाऱ्या posts वर crowd-sourced context"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Community Notes let contributors add context to posts, shown when raters from different viewpoints agree it is helpful. Brands and ads can get notes too, so exaggerated claims can backfire publicly.",
+   "hi": "Community Notes mein contributors posts pe context jodte hain, jo tab dikhta hai jab alag-alag viewpoint ke raters maanein ki helpful hai. Brands aur ads pe bhi notes lag sakte hain, isliye exaggerated claims public mein ulte pad sakte hain.",
+   "mr": "Community Notes मध्ये contributors posts वर context जोडतात, जे वेगवेगळ्या मतांचे raters उपयोगी म्हणतात तेव्हा दिसते. Brands आणि ads वरही notes येऊ शकतात, त्यामुळे अतिशयोक्त दावे उलटू शकतात."
+  }
+ },
+ {
+  "id": "soc-37",
+  "level": 5,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A customer posts a great unboxing video of your skincare product. Your team wants to use it in paid ads. What must you do first?",
+   "hi": "Ek customer ne aapke skincare product ka shaandaar unboxing video post kiya. Team use paid ads mein use karna chahti hai. Pehle kya karna zaroori hai?",
+   "mr": "एका ग्राहकाने तुमच्या skincare product चा उत्तम unboxing video post केला. Team ला तो paid ads मध्ये वापरायचा आहे. आधी काय करणे आवश्यक आहे?"
+  },
+  "opts": {
+   "en": [
+    "Get the creator's explicit permission (usage rights) and agree on credit",
+    "Download it and run it; public posts are free to use",
+    "Re-upload it after adding your logo to make it yours",
+    "Use it only if it has more than 10,000 views"
+   ],
+   "hi": [
+    "Creator se explicit permission (usage rights) lo aur credit tay karo",
+    "Download karke chala do; public posts free hote hain",
+    "Apna logo lagakar re-upload karo, toh apna ho gaya",
+    "Sirf 10,000 se zyada views ho tabhi use karo"
+   ],
+   "mr": [
+    "Creator ची स्पष्ट परवानगी (usage rights) घ्या आणि credit ठरवा",
+    "Download करून चालवा; public posts free असतात",
+    "आपला logo लावून re-upload करा, म्हणजे तो आपला झाला",
+    "10,000 पेक्षा जास्त views असतील तरच वापरा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Public doesn't mean free to use: the customer owns the content, so you need written permission for ad use (and ideally agree on duration and credit). Adding a logo doesn't transfer ownership.",
+   "hi": "Public ka matlab free nahi: content customer ka hai, isliye ad use ke liye written permission chahiye (duration aur credit bhi tay karo). Logo lagane se ownership nahi badalti.",
+   "mr": "Public म्हणजे free नाही: content ग्राहकाचे आहे, म्हणून ad मध्ये वापरण्यासाठी लेखी परवानगी हवी (कालावधी आणि credit ही ठरवा). Logo लावल्याने ownership बदलत नाही."
+  }
+ },
+ {
+  "id": "soc-38",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In 2025, Instagram's head named a few key signals for Reels reach. Which one is especially tied to reaching non-followers?",
+   "hi": "2025 mein Instagram ke head ne Reels reach ke kuch key signals bataye. Inmein se kaunsa non-followers tak pahunchne se khaas juda hai?",
+   "mr": "2025 मध्ये Instagram च्या प्रमुखांनी Reels reach चे काही key signals सांगितले. त्यापैकी कोणता non-followers पर्यंत पोहोचण्याशी विशेष जोडलेला आहे?"
+  },
+  "opts": {
+   "en": [
+    "The number of hashtags in the caption",
+    "Sends: how often people share it by DM, relative to reach",
+    "How long the caption text is",
+    "Whether the account has a Verified badge"
+   ],
+   "hi": [
+    "Caption mein kitne hashtags hain",
+    "Sends: reach ke hisaab se log kitni baar DM mein share karte hain",
+    "Caption text kitna lamba hai",
+    "Account pe Verified badge hai ya nahi"
+   ],
+   "mr": [
+    "Caption मध्ये किती hashtags आहेत",
+    "Sends: reach च्या तुलनेत लोक किती वेळा DM मध्ये share करतात",
+    "Caption text किती लांब आहे",
+    "Account ला Verified badge आहे की नाही"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Adam Mosseri highlighted watch time, likes per reach and sends per reach, with sends being especially strong for reaching new, unconnected audiences. Hashtag count and caption length are not key ranking signals.",
+   "hi": "Adam Mosseri ne watch time, likes per reach aur sends per reach highlight kiye, aur sends naye, unconnected audience tak pahunchne ke liye khaas strong hain. Hashtag count aur caption length key signals nahi hain.",
+   "mr": "Adam Mosseri यांनी watch time, likes per reach आणि sends per reach सांगितले; नव्या, न जोडलेल्या audience पर्यंत पोहोचण्यासाठी sends विशेष महत्त्वाचे आहेत. Hashtags ची संख्या किंवा caption ची लांबी हे मुख्य signals नाहीत."
+  }
+ },
+ {
+  "id": "soc-39",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which Meta setup lets you directly set a frequency cap, e.g. 'no more than 2 impressions per person every 7 days'?",
+   "hi": "Kaunse Meta setup mein aap seedha frequency cap set kar sakte ho, jaise '7 din mein ek insaan ko 2 se zyada impressions nahi'?",
+   "mr": "कोणत्या Meta setup मध्ये थेट frequency cap लावता येतो, उदा. '7 दिवसांत एका व्यक्तीला 2 पेक्षा जास्त impressions नाहीत'?"
+  },
+  "opts": {
+   "en": [
+    "Sales objective optimizing for Purchase",
+    "Leads objective with instant forms",
+    "Awareness objective with the Reach performance goal",
+    "Traffic objective optimizing for link clicks"
+   ],
+   "hi": [
+    "Purchase ke liye optimize hota Sales objective",
+    "Instant forms wala Leads objective",
+    "Reach performance goal ke saath Awareness objective",
+    "Link clicks ke liye optimize hota Traffic objective"
+   ],
+   "mr": [
+    "Purchase साठी optimize होणारा Sales objective",
+    "Instant forms असलेला Leads objective",
+    "Reach performance goal सह Awareness objective",
+    "Link clicks साठी optimize होणारा Traffic objective"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Frequency controls are available when optimizing for Reach under Awareness, because the goal is spreading impressions across people. Conversion-focused goals let the system decide frequency.",
+   "hi": "Frequency control Awareness ke andar Reach optimize karte waqt milta hai, kyunki goal impressions ko zyada logon mein baantna hai. Conversion goals mein frequency system khud decide karta hai.",
+   "mr": "Awareness अंतर्गत Reach साठी optimize करताना frequency control मिळतो, कारण उद्देश impressions जास्त लोकांमध्ये वाटणे हा आहे. Conversion goals मध्ये frequency system स्वतः ठरवते."
+  }
+ },
+ {
+  "id": "soc-40",
+  "level": 6,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What do LinkedIn 'Thought Leader Ads' let a company do?",
+   "hi": "LinkedIn 'Thought Leader Ads' se company kya kar sakti hai?",
+   "mr": "LinkedIn 'Thought Leader Ads' मुळे company काय करू शकते?"
+  },
+  "opts": {
+   "en": [
+    "Send InMail to anyone without a connection",
+    "Buy a blue verification tick for the page",
+    "Boost job posts to the top of search",
+    "Promote posts from people's personal profiles (e.g. founders, employees), with their approval"
+   ],
+   "hi": [
+    "Bina connection kisi ko bhi InMail bhejna",
+    "Page ke liye blue verification tick khareedna",
+    "Job posts ko search mein top pe boost karna",
+    "Logon ke personal profiles (jaise founders, employees) ke posts unki approval se promote karna"
+   ],
+   "mr": [
+    "Connection नसतानाही कोणालाही InMail पाठवणे",
+    "Page साठी blue verification tick विकत घेणे",
+    "Job posts search मध्ये वर boost करणे",
+    "लोकांच्या personal profiles (उदा. founders, employees) वरील posts त्यांच्या मंजुरीने promote करणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Thought Leader Ads sponsor posts from individual members' profiles, which often feel more human and get better engagement than company-page ads. The member must approve the promotion.",
+   "hi": "Thought Leader Ads individual members ke profile posts ko sponsor karte hain, jo company-page ads se zyada human lagte hain aur achha engagement laate hain. Member ki approval zaroori hai.",
+   "mr": "Thought Leader Ads व्यक्तींच्या profile वरील posts sponsor करतात, जे company-page ads पेक्षा जास्त मानवी वाटतात आणि चांगले engagement मिळवतात. त्या व्यक्तीची मंजुरी आवश्यक असते."
+  }
+ },
+ {
+  "id": "soc-41",
+  "level": 6,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is Meta's standard default attribution setting for conversion-optimized ad sets?",
+   "hi": "Conversion-optimized ad sets ke liye Meta ki standard default attribution setting kya hai?",
+   "mr": "Conversion-optimized ad sets साठी Meta ची standard default attribution setting कोणती?"
+  },
+  "opts": {
+   "en": [
+    "7-day click and 1-day view",
+    "28-day click and 28-day view",
+    "1-day click only",
+    "Last non-direct click, like GA4"
+   ],
+   "hi": [
+    "7-day click aur 1-day view",
+    "28-day click aur 28-day view",
+    "Sirf 1-day click",
+    "GA4 jaisa last non-direct click"
+   ],
+   "mr": [
+    "7-day click आणि 1-day view",
+    "28-day click आणि 28-day view",
+    "फक्त 1-day click",
+    "GA4 सारखे last non-direct click"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "By default Meta credits conversions within 7 days of a click or 1 day of viewing an ad. This is one reason Meta's numbers differ from GA4 or your store's reports.",
+   "hi": "Default mein Meta click ke 7 din ya ad view ke 1 din ke andar hui conversions ko credit deta hai. Isliye Meta ke numbers GA4 ya store reports se alag aate hain.",
+   "mr": "Default नुसार Meta click नंतर 7 दिवसांत किंवा ad पाहिल्यावर 1 दिवसात झालेल्या conversions ला credit देतो. म्हणूनच Meta चे आकडे GA4 किंवा store reports पेक्षा वेगळे येतात."
+  }
+ },
+ {
+  "id": "soc-42",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "You want to know which of 5 opening hooks works best for the same Reel ad. What's the cleanest way to test?",
+   "hi": "Aapko jaanna hai ki same Reel ad ke 5 opening hooks mein se kaunsa best hai. Test karne ka sabse clean tareeka kya hai?",
+   "mr": "एकाच Reel ad च्या 5 opening hooks पैकी कोणता सर्वोत्तम आहे हे जाणून घ्यायचे आहे. Test करण्याचा सर्वात स्वच्छ मार्ग कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Change the hook, audience and offer together each day",
+    "Keep everything else the same, vary only the hook, and compare hook rate and CPA",
+    "Run each hook to a different country",
+    "Post all 5 organically and pick the one with most likes"
+   ],
+   "hi": [
+    "Har din hook, audience aur offer sab ek saath badlo",
+    "Baaki sab same rakho, sirf hook badlo, aur hook rate va CPA compare karo",
+    "Har hook ko alag country mein chalao",
+    "Paanchon organic post karke sabse zyada likes wala chuno"
+   ],
+   "mr": [
+    "दररोज hook, audience आणि offer सगळे एकत्र बदला",
+    "बाकी सर्व सारखे ठेवा, फक्त hook बदला, आणि hook rate व CPA compare करा",
+    "प्रत्येक hook वेगळ्या देशात चालवा",
+    "पाचही organic post करा आणि सर्वात जास्त likes असलेला निवडा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A fair test changes one variable. Hook rate shows which opening stops the scroll, and CPA confirms it also drives results. Changing several things at once makes the winner impossible to explain.",
+   "hi": "Fair test mein ek hi variable badalta hai. Hook rate batata hai kaunsi opening scroll rokti hai, aur CPA confirm karta hai ki result bhi laati hai. Ek saath kai cheezein badlo toh winner samajh nahi aata.",
+   "mr": "Fair test मध्ये एकच variable बदलतो. Hook rate दाखवतो कोणती opening scroll थांबवते, आणि CPA खात्री करतो की ती results ही आणते. अनेक गोष्टी एकत्र बदलल्या तर winner का जिंकला ते कळत नाही."
+  }
+ },
+ {
+  "id": "soc-43",
+  "level": 6,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Performance marketers often track 'hook rate' (thumb-stop ratio) for video ads. How is it commonly calculated?",
+   "hi": "Performance marketers video ads ke liye 'hook rate' (thumb-stop ratio) track karte hain. Ise aam taur pe kaise calculate karte hain?",
+   "mr": "Performance marketers video ads साठी 'hook rate' (thumb-stop ratio) track करतात. तो साधारण कसा काढतात?"
+  },
+  "opts": {
+   "en": [
+    "Link clicks ÷ impressions",
+    "Purchases ÷ link clicks",
+    "3-second video plays ÷ impressions",
+    "ThruPlays ÷ amount spent"
+   ],
+   "hi": [
+    "Link clicks ÷ impressions",
+    "Purchases ÷ link clicks",
+    "3-second video plays ÷ impressions",
+    "ThruPlays ÷ amount spent"
+   ],
+   "mr": [
+    "Link clicks ÷ impressions",
+    "Purchases ÷ link clicks",
+    "3-second video plays ÷ impressions",
+    "ThruPlays ÷ amount spent"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Hook rate = 3-second plays ÷ impressions, showing how many people stopped scrolling. Link clicks ÷ impressions is link CTR, and purchases ÷ clicks is conversion rate.",
+   "hi": "Hook rate = 3-second plays ÷ impressions, yaani kitne log scroll rok ke ruke. Link clicks ÷ impressions link CTR hai, aur purchases ÷ clicks conversion rate.",
+   "mr": "Hook rate = 3-second plays ÷ impressions, म्हणजे किती लोक scroll थांबवून थांबले. Link clicks ÷ impressions म्हणजे link CTR, आणि purchases ÷ clicks म्हणजे conversion rate."
+  }
+ },
+ {
+  "id": "soc-44",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Nagpur snack brand sells mainly in Vidarbha. Option A: a celebrity with 5M followers, mostly outside Maharashtra. Option B: 15 local micro-creators with real engagement. For sales, which is smarter?",
+   "hi": "Nagpur ka ek snack brand zyada tar Vidarbha mein bechta hai. Option A: 5M followers wala celebrity, jiske followers zyada tar Maharashtra ke bahar. Option B: 15 local micro-creators jinka engagement real hai. Sales ke liye kya smart hai?",
+   "mr": "Nagpur चा एक snack brand मुख्यतः विदर्भात विकतो. Option A: 5M followers असलेला celebrity, ज्याचे बहुतेक followers महाराष्ट्राबाहेर. Option B: खरे engagement असलेले 15 local micro-creators. Sales साठी कोणता पर्याय हुशार?"
+  },
+  "opts": {
+   "en": [
+    "Option A, because follower count decides sales",
+    "Split the budget equally without checking any data",
+    "Neither; influencer marketing never works for food",
+    "Option B, after checking each creator's audience location and engagement quality"
+   ],
+   "hi": [
+    "Option A, kyunki followers count se hi sales hoti hai",
+    "Bina data dekhe budget barabar baant do",
+    "Dono nahi; food ke liye influencer marketing kaam nahi karti",
+    "Option B, har creator ki audience location aur engagement quality check karke"
+   ],
+   "mr": [
+    "Option A, कारण followers च्या संख्येवरून sales ठरते",
+    "कोणताही data न पाहता budget समान वाटा",
+    "दोन्ही नाही; food साठी influencer marketing चालत नाही",
+    "Option B, प्रत्येक creator ची audience location आणि engagement quality तपासून"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Reach only matters if it's the right audience. Local micro-creators whose followers actually live in Vidarbha usually bring more relevant trust and sales per rupee than a big celebrity with mostly out-of-market followers.",
+   "hi": "Reach tabhi kaam ki hai jab audience sahi ho. Local micro-creators jinke followers sach mein Vidarbha mein rehte hain, bade celebrity (jiske followers market ke bahar) se har rupaye pe zyada relevant trust aur sales laate hain.",
+   "mr": "Reach तेव्हाच उपयोगी जेव्हा audience योग्य असते. ज्यांचे followers खरोखर विदर्भात राहतात असे local micro-creators, market बाहेरचे followers असलेल्या मोठ्या celebrity पेक्षा प्रत्येक रुपयामागे जास्त विश्वास आणि sales आणतात."
+  }
+ },
+ {
+  "id": "soc-45",
+  "level": 6,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What best describes the difference between social monitoring and social listening?",
+   "hi": "Social monitoring aur social listening mein farak sabse achhe se kaunsa option batata hai?",
+   "mr": "Social monitoring आणि social listening मधला फरक कोणता पर्याय सर्वात योग्य सांगतो?"
+  },
+  "opts": {
+   "en": [
+    "Monitoring reacts to individual mentions; listening analyses patterns to guide strategy",
+    "Monitoring is only for paid ads; listening is only for organic posts",
+    "They are the same; the names differ by tool",
+    "Listening means replying to DMs; monitoring means posting content"
+   ],
+   "hi": [
+    "Monitoring individual mentions pe react karta hai; listening patterns analyse karke strategy guide karta hai",
+    "Monitoring sirf paid ads ke liye, listening sirf organic posts ke liye",
+    "Dono same hain; bas tool ke hisaab se naam alag",
+    "Listening matlab DMs reply karna; monitoring matlab content post karna"
+   ],
+   "mr": [
+    "Monitoring वैयक्तिक mentions ला प्रतिसाद देते; listening patterns analyse करून strategy ठरवते",
+    "Monitoring फक्त paid ads साठी; listening फक्त organic posts साठी",
+    "दोन्ही सारखेच; फक्त tool नुसार नावे वेगळी",
+    "Listening म्हणजे DMs ला reply; monitoring म्हणजे content post करणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Monitoring is tactical: spotting and responding to specific mentions or complaints. Listening zooms out to sentiment and trends over time, feeding product, content and campaign decisions.",
+   "hi": "Monitoring tactical hai: specific mentions ya complaints dekh ke respond karna. Listening zoom out karke time ke saath sentiment aur trends dekhta hai, jo product, content aur campaign decisions mein kaam aata hai.",
+   "mr": "Monitoring tactical आहे: विशिष्ट mentions किंवा तक्रारी पाहून प्रतिसाद देणे. Listening मोठे चित्र पाहते, काळानुसार sentiment आणि trends, जे product, content आणि campaign निर्णयांना मदत करतात."
+  }
+ },
+ {
+  "id": "soc-46",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "With Advantage campaign budget (campaign-level budget), Meta puts 90% of spend into one of your 4 ad sets. Your client insists each ad set must get some spend. What's the right move?",
+   "hi": "Advantage campaign budget (campaign-level budget) mein Meta 4 mein se ek ad set ko 90% spend de raha hai. Client chahta hai har ad set ko kuch spend mile. Sahi move kya hai?",
+   "mr": "Advantage campaign budget (campaign-level budget) मध्ये Meta 4 पैकी एका ad set ला 90% खर्च देत आहे. Client ला प्रत्येक ad set ला काही खर्च हवा आहे. योग्य पाऊल कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Report a bug; budget should always split equally",
+    "Understand Meta is chasing the best predicted results, and use ad set spend limits if minimums are truly needed",
+    "Pause the winning ad set so others get budget",
+    "Duplicate the campaign 4 times with the same settings"
+   ],
+   "hi": [
+    "Bug report karo; budget hamesha barabar bantna chahiye",
+    "Samjho ki Meta best predicted results ke peeche ja raha hai, aur minimum sach mein zaroori ho toh ad set spend limits lagao",
+    "Winning ad set pause kar do taaki baakiyon ko budget mile",
+    "Same settings ke saath campaign 4 baar duplicate karo"
+   ],
+   "mr": [
+    "Bug report करा; budget नेहमी समान वाटले पाहिजे",
+    "Meta सर्वोत्तम अपेक्षित results कडे जात आहे हे समजून घ्या, आणि minimum खरोखर गरजेचे असल्यास ad set spend limits वापरा",
+    "इतरांना budget मिळावे म्हणून जिंकणारा ad set pause करा",
+    "त्याच settings सह campaign 4 वेळा duplicate करा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Campaign-level budget is designed to move money to where it expects the best results, so uneven spend is normal. Ad set spend limits exist for cases where you genuinely need minimums; pausing the winner usually raises overall CPA.",
+   "hi": "Campaign-level budget ka design hi hai ki paisa wahan jaaye jahan best results expected hain, toh uneven spend normal hai. Jahan minimum sach mein chahiye wahan ad set spend limits hain; winner pause karne se overall CPA badhta hai.",
+   "mr": "Campaign-level budget चा उद्देशच पैसा सर्वोत्तम अपेक्षित results कडे वळवणे आहे, त्यामुळे असमान खर्च सामान्य आहे. Minimum खरोखर हवा असल्यास ad set spend limits आहेत; winner pause केल्यास एकूण CPA वाढतो."
+  }
+ },
+ {
+  "id": "soc-47",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "In a placement breakdown, Reels shows the lowest average CPA but gets only 15% of spend. Your junior wants to move all budget to Reels only. What's the expert view?",
+   "hi": "Placement breakdown mein Reels ka average CPA sabse kam hai par use sirf 15% spend mila. Junior saara budget sirf Reels pe daalna chahta hai. Expert view kya hai?",
+   "mr": "Placement breakdown मध्ये Reels चा average CPA सर्वात कमी आहे पण त्याला फक्त 15% खर्च मिळाला. Junior ला सगळे budget फक्त Reels वर टाकायचे आहे. Expert मत काय?"
+  },
+  "opts": {
+   "en": [
+    "Do it; the lowest average CPA placement always scales the same",
+    "Turn off Reels, since it got less spend",
+    "Be careful: the 'breakdown effect' means more Reels spend may cost more at the margin",
+    "Split budget equally across all placements manually"
+   ],
+   "hi": [
+    "Kar do; sabse kam average CPA wala placement hamesha same scale hota hai",
+    "Reels band karo, kyunki use kam spend mila",
+    "Dhyaan do: 'breakdown effect' ka matlab Reels pe zyada spend margin pe mehenga ho sakta hai",
+    "Saare placements mein manually barabar budget baanto"
+   ],
+   "mr": [
+    "करा; सर्वात कमी average CPA असलेला placement नेहमी तसाच scale होतो",
+    "Reels बंद करा, कारण त्याला कमी खर्च मिळाला",
+    "सावध राहा: 'breakdown effect' मुळे Reels वर जास्त खर्च margin वर महाग पडू शकतो",
+    "सर्व placements मध्ये manually समान budget वाटा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Meta's system optimizes for the lowest marginal cost across the whole ad set. A segment's low average CPA often came from its cheapest few results; pushing more money there can raise its CPA and the overall CPA.",
+   "hi": "Meta ka system poore ad set ke liye lowest marginal cost optimize karta hai. Kisi segment ka kam average CPA aksar uske sabse saste kuch results se aata hai; wahan zyada paisa daalne se uska aur overall CPA badh sakta hai.",
+   "mr": "Meta ची system संपूर्ण ad set साठी lowest marginal cost optimize करते. एखाद्या segment चा कमी average CPA अनेकदा त्याच्या सर्वात स्वस्त काही results मुळे असतो; तिथे जास्त पैसा टाकल्यास त्याचा आणि एकूण CPA वाढू शकतो."
+  }
+ },
+ {
+  "id": "soc-48",
+  "level": 7,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Under ASCI's influencer guidelines, what extra disclosure does a virtual (CGI/AI-generated) influencer need?",
+   "hi": "ASCI influencer guidelines ke hisaab se virtual (CGI/AI-generated) influencer ko kya extra disclosure dena hota hai?",
+   "mr": "ASCI influencer guidelines नुसार virtual (CGI/AI-generated) influencer ला कोणते अतिरिक्त disclosure द्यावे लागते?"
+  },
+  "opts": {
+   "en": [
+    "None, virtual influencers are exempt from ASCI rules",
+    "Only the name of the software used to create it",
+    "The brand's GST number in every post",
+    "That consumers are not interacting with a real human, plus the usual ad label"
+   ],
+   "hi": [
+    "Kuch nahi, virtual influencers ASCI rules se bahar hain",
+    "Sirf use banane wale software ka naam",
+    "Har post mein brand ka GST number",
+    "Ki consumers kisi real insaan se interact nahi kar rahe, saath mein normal ad label"
+   ],
+   "mr": [
+    "काही नाही, virtual influencers ना ASCI नियम लागू नाहीत",
+    "फक्त ते बनवण्यासाठी वापरलेल्या software चे नाव",
+    "प्रत्येक post मध्ये brand चा GST number",
+    "Consumers खऱ्या माणसाशी संवाद साधत नाहीत हे, तसेच नेहमीचे ad label"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "ASCI's guidelines say virtual influencers must also disclose that they are not real humans, on top of labelling paid content as ads. They are not exempt just because they aren't people.",
+   "hi": "ASCI guidelines kehti hain ki virtual influencers ko paid content pe ad label ke alawa yeh bhi batana hoga ki woh real insaan nahi hain. Insaan na hone se woh exempt nahi ho jaate.",
+   "mr": "ASCI guidelines नुसार virtual influencers नी paid content ला ad label लावण्याबरोबरच ते खरे माणूस नाहीत हेही सांगणे आवश्यक आहे. माणूस नसल्याने ते सूट मिळवत नाहीत."
+  }
+ },
+ {
+  "id": "soc-49",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "Events Manager shows a low Event Match Quality score for your Purchase event sent via Conversions API. What will most directly improve it?",
+   "hi": "Events Manager mein Conversions API se bheje Purchase event ka Event Match Quality score kam hai. Ise sabse seedha kya improve karega?",
+   "mr": "Events Manager मध्ये Conversions API ने पाठवलेल्या Purchase event चा Event Match Quality score कमी आहे. तो सर्वात थेट कशाने सुधारेल?"
+  },
+  "opts": {
+   "en": [
+    "Sending more customer information parameters, e.g. hashed email, phone, fbp/fbc, external_id",
+    "Increasing the daily budget",
+    "Adding more interests to the targeting",
+    "Changing the ad creative to video"
+   ],
+   "hi": [
+    "Zyada customer information parameters bhejna, jaise hashed email, phone, fbp/fbc, external_id",
+    "Daily budget badhana",
+    "Targeting mein aur interests jodna",
+    "Ad creative ko video mein badalna"
+   ],
+   "mr": [
+    "जास्त customer information parameters पाठवणे, उदा. hashed email, phone, fbp/fbc, external_id",
+    "Daily budget वाढवणे",
+    "Targeting मध्ये आणखी interests जोडणे",
+    "Ad creative video मध्ये बदलणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Event Match Quality rates how well your events can be matched to Meta accounts, which depends on the customer identifiers you send. Budget, targeting and creative don't change matching.",
+   "hi": "Event Match Quality batata hai ki aapke events Meta accounts se kitne achhe se match ho rahe hain, jo aapke bheje customer identifiers pe depend karta hai. Budget, targeting, creative se matching nahi badalti.",
+   "mr": "Event Match Quality म्हणजे तुमचे events Meta accounts शी किती चांगले जुळतात, जे तुम्ही पाठवलेल्या customer identifiers वर अवलंबून असते. Budget, targeting किंवा creative ने matching बदलत नाही."
+  }
+ },
+ {
+  "id": "soc-50",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An ad set was profitable at ₹5,000/day. You raised it straight to ₹20,000/day and CPA jumped for several days. What most likely happened, and what's better next time?",
+   "hi": "Ek ad set ₹5,000/day pe profitable tha. Aapne seedha ₹20,000/day kar diya aur kuch din CPA badh gaya. Kya hua hoga, aur agli baar kya better hai?",
+   "mr": "एक ad set ₹5,000/दिवस वर profitable होता. तुम्ही तो थेट ₹20,000/दिवस केला आणि काही दिवस CPA वाढला. बहुधा काय झाले, आणि पुढच्या वेळी काय चांगले?"
+  },
+  "opts": {
+   "en": [
+    "Meta penalises accounts that spend more; never raise budgets",
+    "A big edit pushed it back into learning and into costlier audiences; scale in steps or add new ad sets",
+    "The pixel stopped working because of the budget",
+    "Competitors copied the ad; change the page name"
+   ],
+   "hi": [
+    "Meta zyada spend karne walon ko penalise karta hai; budget kabhi mat badhao",
+    "Bade edit ne use wapas learning mein aur mehngi audience mein daal diya; step-by-step scale karo ya naye ad sets jodo",
+    "Budget ki wajah se pixel band ho gaya",
+    "Competitors ne ad copy kar liya; page ka naam badlo"
+   ],
+   "mr": [
+    "Meta जास्त खर्च करणाऱ्यांना शिक्षा करतो; budget कधीच वाढवू नका",
+    "मोठ्या edit मुळे ad set पुन्हा learning मध्ये आणि महाग audience मध्ये गेला; टप्प्याटप्प्याने scale करा किंवा नवे ad sets जोडा",
+    "Budget मुळे pixel बंद पडला",
+    "Competitors नी ad copy केली; page चे नाव बदला"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A large budget change counts as a significant edit and can restart learning, and more spend also has to reach less-responsive people. Gradual increases or new ad sets usually protect CPA better.",
+   "hi": "Bada budget change significant edit maana jaata hai aur learning restart kar sakta hai, aur zyada spend ko kam-responsive logon tak bhi jaana padta hai. Dheere-dheere badhana ya naye ad sets banana CPA ko better bachata hai.",
+   "mr": "मोठा budget बदल significant edit मानला जातो आणि learning पुन्हा सुरू करू शकतो, तसेच जास्त खर्च कमी प्रतिसाद देणाऱ्या लोकांपर्यंतही जातो. हळूहळू वाढ किंवा नवे ad sets CPA चांगले टिकवतात."
+  }
+ },
+ {
+  "id": "soc-51",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Jaipur wedding-decor studio wants content that keeps bringing leads for months, from couples planning 6-12 months ahead. Which platform should it prioritise alongside Instagram?",
+   "hi": "Jaipur ka ek wedding-decor studio aisa content chahta hai jo mahino tak leads laaye, un couples se jo 6-12 mahine pehle plan karte hain. Instagram ke saath kaunsa platform prioritise kare?",
+   "mr": "Jaipur मधील एका wedding-decor studio ला असे content हवे जे महिनोंमहिने leads आणेल, 6-12 महिने आधी plan करणाऱ्या couples कडून. Instagram सोबत कोणत्या platform ला प्राधान्य द्यावे?"
+  },
+  "opts": {
+   "en": [
+    "X, because posts trend quickly",
+    "Snapchat, because snaps disappear",
+    "Pinterest, because people search and save ideas while planning",
+    "LinkedIn, because couples look for decorators there"
+   ],
+   "hi": [
+    "X, kyunki posts jaldi trend hote hain",
+    "Snapchat, kyunki snaps gayab ho jaate hain",
+    "Pinterest, kyunki log planning ke waqt ideas search aur save karte hain",
+    "LinkedIn, kyunki couples wahan decorators dhoondhte hain"
+   ],
+   "mr": [
+    "X, कारण posts पटकन trend होतात",
+    "Snapchat, कारण snaps गायब होतात",
+    "Pinterest, कारण लोक planning करताना ideas शोधतात आणि save करतात",
+    "LinkedIn, कारण couples तिथे decorators शोधतात"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Pinterest is search- and planning-driven, and Pins linking to your site can surface for months, which fits long wedding planning cycles. X content is fast-moving and short-lived.",
+   "hi": "Pinterest search aur planning pe chalta hai, aur website link wale Pins mahino tak dikh sakte hain, jo lambi wedding planning ke liye perfect hai. X ka content tez aur short-lived hota hai.",
+   "mr": "Pinterest search आणि planning वर चालते, आणि website link असलेले Pins महिनोंमहिने दिसू शकतात, जे लग्नाच्या दीर्घ planning ला जुळते. X वरील content वेगवान आणि अल्पायुषी असते."
+  }
+ },
+ {
+  "id": "soc-52",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A viral video on X claims a foreign object was found in your packaged food. Mentions are exploding. What should the brand do first?",
+   "hi": "X pe ek viral video claim karta hai ki aapke packaged food mein koi cheez mili. Mentions tezi se badh rahe hain. Brand ko pehle kya karna chahiye?",
+   "mr": "X वर एका viral video मध्ये दावा आहे की तुमच्या packaged food मध्ये परकी वस्तू सापडली. Mentions झपाट्याने वाढत आहेत. Brand ने आधी काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Stay silent until the trend dies down",
+    "Reply that the video is fake before checking anything",
+    "Keep the scheduled festive offer posts running as normal",
+    "Acknowledge quickly, pause promo posts, contact the customer, investigate and share factual updates"
+   ],
+   "hi": [
+    "Trend thanda hone tak chup raho",
+    "Kuch check kiye bina reply karo ki video fake hai",
+    "Scheduled festive offer posts normal chalne do",
+    "Jaldi acknowledge karo, promo posts pause karo, customer se contact karo, investigate karo aur factual updates do"
+   ],
+   "mr": [
+    "Trend थंड होईपर्यंत गप्प राहा",
+    "काहीही न तपासता video fake आहे असे reply करा",
+    "Scheduled festive offer posts नेहमीप्रमाणे चालू ठेवा",
+    "लवकर दखल घ्या, promo posts थांबवा, ग्राहकाशी संपर्क करा, चौकशी करा आणि तथ्यपूर्ण updates द्या"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "In a crisis, speed and honesty matter: acknowledge, pause tone-deaf promotions, investigate and update with facts. Calling it fake without evidence or staying silent usually makes the story bigger.",
+   "hi": "Crisis mein speed aur honesty zaroori hai: acknowledge karo, galat time pe promotions roko, investigate karke facts ke saath update do. Bina saboot fake bolna ya chup rehna story ko aur bada kar deta hai.",
+   "mr": "संकटात वेग आणि प्रामाणिकपणा महत्त्वाचा: दखल घ्या, अयोग्य वेळचे promotions थांबवा, चौकशी करून तथ्यांसह update द्या. पुराव्याशिवाय fake म्हणणे किंवा गप्प राहणे प्रकरण अधिक मोठे करते."
+  }
+ },
+ {
+  "id": "soc-53",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune B2B SaaS startup's LinkedIn company page posts get 200-300 impressions each, with almost no engagement. What is the best organic fix?",
+   "hi": "Pune ke ek B2B SaaS startup ke LinkedIn company page posts ko 200-300 impressions hi milte hain, engagement lagbhag zero. Best organic fix kya hai?",
+   "mr": "Pune मधील एका B2B SaaS startup च्या LinkedIn company page posts ना फक्त 200-300 impressions मिळतात, engagement जवळपास शून्य. सर्वोत्तम organic उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Have the founder and team post useful insights from their own profiles, and reshare selectively",
+    "Post the same product brochure daily from the company page",
+    "Add 30 hashtags and tag 50 random people per post",
+    "Only post job openings on the page"
+   ],
+   "hi": [
+    "Founder aur team apne profiles se useful insights post karein, aur page selectively reshare kare",
+    "Company page se roz wahi product brochure post karo",
+    "Har post mein 30 hashtags aur 50 random logon ko tag karo",
+    "Page pe sirf job openings post karo"
+   ],
+   "mr": [
+    "Founder आणि team ने स्वतःच्या profiles वरून उपयोगी insights post करावेत, आणि page ने निवडकपणे reshare करावे",
+    "Company page वरून रोज तेच product brochure post करा",
+    "प्रत्येक post मध्ये 30 hashtags आणि 50 random लोकांना tag करा",
+    "Page वर फक्त job openings post करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "On LinkedIn, people engage more with people than with logos, so founder and employee posts usually reach and engage far more than company-page posts. Mass tagging strangers looks spammy and can hurt reach.",
+   "hi": "LinkedIn pe log logos se zyada insaano se engage karte hain, isliye founder aur employee posts company page se kaafi zyada reach aur engagement laate hain. Anjaan logon ko mass tag karna spammy lagta hai aur reach bigaad sakta hai.",
+   "mr": "LinkedIn वर लोक logos पेक्षा माणसांशी जास्त engage होतात, म्हणून founder आणि employee posts company page पेक्षा खूप जास्त reach आणि engagement मिळवतात. अनोळखी लोकांना mass tag करणे spammy दिसते आणि reach कमी करू शकते."
+  }
+ },
+ {
+  "id": "soc-54",
+  "level": 8,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In Meta's Advantage+ audience, you enter an age range of 25-35 and some interests. How are these treated?",
+   "hi": "Meta ke Advantage+ audience mein aapne 25-35 age range aur kuch interests daale. Inhe kaise treat kiya jaata hai?",
+   "mr": "Meta च्या Advantage+ audience मध्ये तुम्ही 25-35 age range आणि काही interests टाकले. यांना कसे वागवले जाते?"
+  },
+  "opts": {
+   "en": [
+    "As strict limits the system can never go beyond",
+    "As suggestions; hard limits only apply through audience controls like location, minimum age and exclusions",
+    "They are ignored completely, with no effect on delivery",
+    "They switch the campaign to manual bidding"
+   ],
+   "hi": [
+    "Strict limits ki tarah, system kabhi bahar nahi jaata",
+    "Suggestions ki tarah; hard limits sirf audience controls (location, minimum age, exclusions) se lagte hain",
+    "Poori tarah ignore hote hain, delivery pe koi asar nahi",
+    "Campaign manual bidding pe chala jaata hai"
+   ],
+   "mr": [
+    "कडक मर्यादा म्हणून, system कधीच बाहेर जात नाही",
+    "सूचना (suggestions) म्हणून; कडक मर्यादा फक्त audience controls (location, minimum age, exclusions) ने लागतात",
+    "पूर्णपणे ignore होतात, delivery वर काही परिणाम नाही",
+    "Campaign manual bidding वर जातो"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Advantage+ audience uses your inputs as a starting signal and may expand beyond them if it predicts better results. If something must be a hard rule (e.g. 18+ only, excluding customers), set it in audience controls.",
+   "hi": "Advantage+ audience aapke inputs ko starting signal maanta hai aur better results dikhne pe unse aage badh sakta hai. Jo cheez hard rule honi chahiye (jaise sirf 18+, customers exclude), use audience controls mein set karo.",
+   "mr": "Advantage+ audience तुमचे inputs सुरुवातीचा signal म्हणून वापरते आणि चांगले results अपेक्षित असल्यास त्यापलीकडे जाऊ शकते. जे कडक नियम असायला हवे (उदा. फक्त 18+, customers वगळणे) ते audience controls मध्ये ठेवा."
+  }
+ },
+ {
+  "id": "soc-55",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A jewellery D2C brand's Lookalike built from 'all website visitors' brings cheap clicks but few buyers. Which seed will most likely give better Lookalike results?",
+   "hi": "Ek jewellery D2C brand ka 'all website visitors' se bana Lookalike saste clicks laata hai par buyers kam. Kaunsa seed better Lookalike results dega?",
+   "mr": "एका jewellery D2C brand चा 'all website visitors' वरून बनवलेला Lookalike स्वस्त clicks आणतो पण buyers कमी. कोणता seed चांगले Lookalike results देईल?"
+  },
+  "opts": {
+   "en": [
+    "People who liked any post in the last 2 years",
+    "A list of Instagram followers of competitor brands",
+    "High-value repeat purchasers from the customer list",
+    "Everyone who watched 3 seconds of any video"
+   ],
+   "hi": [
+    "Pichhle 2 saal mein kisi bhi post ko like karne wale",
+    "Competitor brands ke Instagram followers ki list",
+    "Customer list se high-value repeat purchasers",
+    "Kisi bhi video ke 3 second dekhne wale sab log"
+   ],
+   "mr": [
+    "गेल्या 2 वर्षांत कोणतीही post like करणारे",
+    "Competitor brands च्या Instagram followers ची list",
+    "Customer list मधील high-value repeat purchasers",
+    "कोणत्याही video चे 3 सेकंद पाहणारे सर्वजण"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "A Lookalike copies the traits of its seed. Seeding with your best customers teaches Meta what a valuable buyer looks like, while broad seeds like all visitors or 3-second viewers find people who browse but don't buy. You also can't upload competitors' followers.",
+   "hi": "Lookalike apne seed ke traits copy karta hai. Best customers ka seed Meta ko sikhata hai ki valuable buyer kaisa dikhta hai, jabki all visitors ya 3-second viewers jaise broad seeds sirf browse karne walon ko laate hain. Competitors ke followers upload bhi nahi kar sakte.",
+   "mr": "Lookalike आपल्या seed चे गुणधर्म copy करतो. सर्वोत्तम customers चा seed Meta ला मौल्यवान buyer कसा असतो हे शिकवतो, तर all visitors किंवा 3-second viewers सारखे broad seeds फक्त browse करणारे आणतात. Competitors चे followers upload करताही येत नाहीत."
+  }
+ },
+ {
+  "id": "soc-56",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An account runs 12 ad sets with similar interest audiences in the same city, each at ₹500/day. CPMs are high and most are stuck in learning. What's the best fix?",
+   "hi": "Ek account same city mein milti-julti interest audiences ke 12 ad sets chala raha hai, har ek ₹500/day pe. CPM high hain aur zyada tar learning mein atke hain. Best fix kya hai?",
+   "mr": "एक account एकाच शहरात सारख्या interest audiences चे 12 ad sets चालवत आहे, प्रत्येकी ₹500/दिवस. CPM जास्त आहेत आणि बहुतेक learning मध्ये अडकले आहेत. सर्वोत्तम उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Add 12 more ad sets to find new winners",
+    "Lower each ad set to ₹250/day to save money",
+    "Add even narrower interests to each ad set",
+    "Consolidate into fewer ad sets with broader audiences so each exits learning"
+   ],
+   "hi": [
+    "Naye winners dhoondhne ke liye 12 aur ad sets jodo",
+    "Paise bachane ke liye har ad set ₹250/day kar do",
+    "Har ad set mein aur narrow interests jodo",
+    "Kam ad sets mein consolidate karo broader audiences ke saath taaki har ek learning se nikle"
+   ],
+   "mr": [
+    "नवे winners शोधण्यासाठी आणखी 12 ad sets जोडा",
+    "पैसे वाचवण्यासाठी प्रत्येक ad set ₹250/दिवस करा",
+    "प्रत्येक ad set मध्ये आणखी narrow interests जोडा",
+    "कमी ad sets मध्ये broader audiences सह एकत्र करा म्हणजे प्रत्येक learning मधून बाहेर पडेल"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Overlapping ad sets compete for the same people and split data, so none gets enough conversions to learn. Fewer, larger ad sets pool the signal and usually lower costs.",
+   "hi": "Overlapping ad sets same logon ke liye aapas mein compete karte hain aur data baant dete hain, isliye kisi ko bhi seekhne laayak conversions nahi milte. Kam aur bade ad sets signal ek jagah laate hain aur cost aksar kam karte hain.",
+   "mr": "Overlap होणारे ad sets त्याच लोकांसाठी आपसात स्पर्धा करतात आणि data विभागतात, त्यामुळे कुणालाच शिकण्याइतके conversions मिळत नाहीत. कमी, मोठे ad sets signal एकत्र करतात आणि खर्च सहसा कमी करतात."
+  }
+ },
+ {
+  "id": "soc-57",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "Your 12-minute YouTube tutorial loses about half its viewers in the first 30 seconds, during a long channel intro and sponsor mention. What's the best fix?",
+   "hi": "Aapka 12-minute YouTube tutorial pehle 30 second mein, lambe channel intro aur sponsor mention ke dauraan, lagbhag aadhe viewers kho deta hai. Best fix kya hai?",
+   "mr": "तुमचा 12 मिनिटांचा YouTube tutorial पहिल्या 30 सेकंदांत, लांब channel intro आणि sponsor mention दरम्यान, सुमारे अर्धे viewers गमावतो. सर्वोत्तम उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Open by confirming the promise of the title, show the payoff early, and move the intro/sponsor later",
+    "Make the video 30 minutes long to raise watch time",
+    "Add more tags in the description",
+    "Post the video at midnight when there is less competition"
+   ],
+   "hi": [
+    "Shuru mein title ka promise confirm karo, payoff jaldi dikhao, aur intro/sponsor baad mein le jao",
+    "Watch time badhane ke liye video 30 minute ka kar do",
+    "Description mein aur tags jodo",
+    "Kam competition ke liye video midnight ko post karo"
+   ],
+   "mr": [
+    "सुरुवातीलाच title चे वचन पक्के करा, payoff लवकर दाखवा, आणि intro/sponsor नंतर हलवा",
+    "Watch time वाढवण्यासाठी video 30 मिनिटांचा करा",
+    "Description मध्ये आणखी tags जोडा",
+    "कमी स्पर्धेसाठी video मध्यरात्री post करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Viewers clicked for what the title and thumbnail promised; a long intro makes them leave. Delivering value quickly improves retention, which helps YouTube recommend the video. More tags or odd timing won't fix an early drop-off.",
+   "hi": "Viewers title-thumbnail ke promise ke liye aaye the; lamba intro unhe bhaga deta hai. Jaldi value dene se retention sudharta hai, jisse YouTube video recommend karta hai. Zyada tags ya ajeeb timing early drop-off theek nahi karte.",
+   "mr": "Viewers title-thumbnail च्या वचनासाठी आले होते; लांब intro त्यांना घालवतो. लवकर value दिल्यास retention सुधारतो, ज्यामुळे YouTube video recommend करते. जास्त tags किंवा वेगळी वेळ early drop-off सुधारत नाहीत."
+  }
+ },
+ {
+  "id": "soc-58",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "Your Meta retargeting campaign (cart abandoners + past buyers) reports 12x ROAS. The CFO wants to triple its budget. What should you check first?",
+   "hi": "Aapka Meta retargeting campaign (cart abandoners + past buyers) 12x ROAS report karta hai. CFO iska budget teen guna karna chahte hain. Pehle kya check karna chahiye?",
+   "mr": "तुमचा Meta retargeting campaign (cart abandoners + past buyers) 12x ROAS दाखवतो. CFO ला त्याचे budget तिप्पट करायचे आहे. आधी काय तपासावे?"
+  },
+  "opts": {
+   "en": [
+    "Nothing; 12x ROAS proves it deserves more budget",
+    "How many sales are truly incremental, e.g. with a holdout or conversion lift test",
+    "Whether the ad has enough emojis",
+    "Whether competitors also run retargeting"
+   ],
+   "hi": [
+    "Kuch nahi; 12x ROAS saabit karta hai ki budget milna chahiye",
+    "Kitni sales sach mein incremental hain, jaise holdout ya conversion lift test se",
+    "Ad mein kaafi emojis hain ya nahi",
+    "Competitors bhi retargeting chalate hain ya nahi"
+   ],
+   "mr": [
+    "काही नाही; 12x ROAS सिद्ध करतो की जास्त budget द्यावे",
+    "किती sales खरोखर incremental आहेत, उदा. holdout किंवा conversion lift test ने",
+    "Ad मध्ये पुरेसे emojis आहेत का",
+    "Competitors ही retargeting चालवतात का"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Retargeting audiences are already close to buying, so attribution often credits ads for sales that would have happened anyway. A lift or holdout test shows the real extra sales, and the audience is small, so tripling spend mostly raises frequency.",
+   "hi": "Retargeting audience pehle se khareedne ke kareeb hoti hai, isliye attribution un sales ka credit bhi ads ko de deta hai jo waise bhi hoti. Lift/holdout test asli extra sales dikhata hai, aur audience chhoti hai toh teen guna spend zyada tar frequency hi badhata hai.",
+   "mr": "Retargeting audience आधीच खरेदीच्या जवळ असते, त्यामुळे attribution अशा sales चे credit ही ads ना देते ज्या तशाही झाल्या असत्या. Lift/holdout test खरी अतिरिक्त sales दाखवतो, आणि audience लहान असल्याने तिप्पट खर्च मुख्यतः frequency वाढवतो."
+  }
+ },
+ {
+  "id": "soc-59",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An Indian fashion influencer has 200K followers but 0.3% engagement, sudden follower spikes, and generic comments ('Nice pic') from foreign accounts. What does this most likely indicate?",
+   "hi": "Ek Indian fashion influencer ke 200K followers hain par engagement 0.3%, achanak follower spikes, aur foreign accounts se generic comments ('Nice pic'). Iska sabse sambhavit matlab kya hai?",
+   "mr": "एका Indian fashion influencer चे 200K followers आहेत पण engagement 0.3%, अचानक follower spikes, आणि परदेशी accounts कडून generic comments ('Nice pic'). याचा बहुधा अर्थ काय?"
+  },
+  "opts": {
+   "en": [
+    "A highly loyal audience that prefers not to comment",
+    "A creator who is great for local Indian campaigns",
+    "Likely inflated or fake followers; ask for audience insights before paying",
+    "Normal behaviour for any account above 100K"
+   ],
+   "hi": [
+    "Bahut loyal audience jo comment karna pasand nahi karti",
+    "Local Indian campaigns ke liye perfect creator",
+    "Shayad inflated ya fake followers; pay karne se pehle audience insights maango",
+    "100K se upar ke har account ka normal behaviour"
+   ],
+   "mr": [
+    "खूप निष्ठावान audience जी comment करणे टाळते",
+    "Local Indian campaigns साठी उत्तम creator",
+    "बहुधा फुगवलेले किंवा fake followers; पैसे देण्यापूर्वी audience insights मागा",
+    "100K वरील प्रत्येक account चे नेहमीचे वर्तन"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Very low engagement, sudden follower jumps and generic comments from out-of-market accounts are classic signs of bought followers or engagement pods. Ask for screenshots of audience location and engagement data before signing.",
+   "hi": "Bahut kam engagement, achanak follower jumps aur market ke bahar ke accounts se generic comments khareede gaye followers ya engagement pods ke classic signs hain. Sign karne se pehle audience location aur engagement data ke screenshots maango.",
+   "mr": "खूप कमी engagement, अचानक follower वाढ आणि market बाहेरील accounts कडून generic comments ही विकत घेतलेल्या followers किंवा engagement pods ची ठळक लक्षणे आहेत. करार करण्यापूर्वी audience location आणि engagement data चे screenshots मागा."
+  }
+ },
+ {
+  "id": "soc-60",
+  "level": 8,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What are Meta 'partnership ads' (formerly branded content ads)?",
+   "hi": "Meta 'partnership ads' (pehle branded content ads) kya hote hain?",
+   "mr": "Meta 'partnership ads' (पूर्वीचे branded content ads) म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Ads that two brands must fund 50-50",
+    "Free ads Meta gives to verified creators",
+    "Ads that can only run on Facebook Marketplace",
+    "Ads that run with the creator's handle alongside the brand, with the creator's permission"
+   ],
+   "hi": [
+    "Aise ads jinhe do brands ko 50-50 fund karna padta hai",
+    "Verified creators ko Meta ke free ads",
+    "Aise ads jo sirf Facebook Marketplace pe chal sakte hain",
+    "Aise ads jo creator ke handle ke saath brand ke saath chalte hain, creator ki permission se"
+   ],
+   "mr": [
+    "असे ads ज्यांना दोन brands नी 50-50 पैसे द्यावे लागतात",
+    "Verified creators ना Meta ने दिलेले free ads",
+    "फक्त Facebook Marketplace वर चालणारे ads",
+    "Creator च्या परवानगीने brand सोबत creator चा handle दाखवत चालणारे ads"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Partnership ads show the creator's identity together with the brand, so the ad keeps the creator's credibility while the brand controls targeting and budget. The creator must grant permission.",
+   "hi": "Partnership ads mein creator ki identity brand ke saath dikhti hai, toh ad ko creator ki credibility milti hai aur targeting-budget brand control karta hai. Creator ki permission zaroori hai.",
+   "mr": "Partnership ads मध्ये creator ची ओळख brand सोबत दिसते, त्यामुळे ad ला creator ची विश्वासार्हता मिळते आणि targeting-budget brand नियंत्रित करतो. Creator ची परवानगी आवश्यक असते."
+  }
+ },
+ {
+  "id": "soc-61",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C apparel brand spends ₹3L/month across 25 interest-based ad sets at about ₹400/day each, all 'Learning limited', with 3 creatives total. Which restructure is most likely to improve results?",
+   "hi": "Ek D2C apparel brand ₹3L/month 25 interest-based ad sets mein kharch karta hai, har ek lagbhag ₹400/day, sab 'Learning limited', aur total sirf 3 creatives. Kaunsa restructure results sudharega?",
+   "mr": "एक D2C apparel brand ₹3L/महिना 25 interest-based ad sets मध्ये खर्च करतो, प्रत्येकी सुमारे ₹400/दिवस, सगळे 'Learning limited', आणि एकूण फक्त 3 creatives. कोणता restructure results सुधारण्याची सर्वात जास्त शक्यता?"
+  },
+  "opts": {
+   "en": [
+    "Consolidate into 1-2 broad or Advantage+ sales campaigns and invest in many more creative variations",
+    "Split into 50 ad sets so each interest is tested separately",
+    "Keep the structure but cut budget to ₹1L/month",
+    "Switch every ad set to Traffic to get cheaper clicks"
+   ],
+   "hi": [
+    "1-2 broad ya Advantage+ sales campaigns mein consolidate karo aur kaafi zyada creative variations banao",
+    "50 ad sets mein split karo taaki har interest alag test ho",
+    "Structure same rakho par budget ₹1L/month kar do",
+    "Saste clicks ke liye har ad set Traffic pe daal do"
+   ],
+   "mr": [
+    "1-2 broad किंवा Advantage+ sales campaigns मध्ये एकत्र करा आणि खूप जास्त creative variations बनवा",
+    "50 ad sets मध्ये विभागा म्हणजे प्रत्येक interest वेगळा test होईल",
+    "Structure तसेच ठेवा पण budget ₹1L/महिना करा",
+    "स्वस्त clicks साठी प्रत्येक ad set Traffic वर टाका"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Fragmented budgets starve learning, and with broad delivery the creative does most of the targeting. Consolidating gives the algorithm enough conversions, and more creative variety gives it more angles to find buyers. Traffic optimizes for clicks, not purchases.",
+   "hi": "Bikhra budget learning ko bhookha rakhta hai, aur broad delivery mein creative hi zyada tar targeting karta hai. Consolidate karne se algorithm ko kaafi conversions milte hain, aur zyada creatives se buyers dhoondhne ke zyada angles. Traffic clicks ke liye optimize karta hai, purchases ke liye nahi.",
+   "mr": "विखुरलेले budget learning ला उपाशी ठेवते, आणि broad delivery मध्ये creative च बहुतेक targeting करते. एकत्र केल्याने algorithm ला पुरेसे conversions मिळतात, आणि जास्त creatives मुळे buyers शोधण्याचे जास्त मार्ग. Traffic clicks साठी optimize करतो, purchases साठी नाही."
+  }
+ },
+ {
+  "id": "soc-62",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "During Diwali week, a gifting brand's Meta CPA rises 40%. CPMs are up sharply, while CTR and conversion rate are stable. What's the smartest response?",
+   "hi": "Diwali week mein ek gifting brand ka Meta CPA 40% badh gaya. CPM tezi se upar hain, jabki CTR aur conversion rate stable hain. Sabse smart response kya hai?",
+   "mr": "दिवाळी आठवड्यात एका gifting brand चा Meta CPA 40% वाढला. CPM झपाट्याने वाढले आहेत, तर CTR आणि conversion rate स्थिर आहेत. सर्वात हुशार प्रतिसाद कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Kill all campaigns; the creative has clearly stopped working",
+    "Accept festive auction costs; judge on margin and total sales, and prepare creatives earlier next year",
+    "Change all audiences and creatives immediately",
+    "Move the whole budget to organic posting for the week"
+   ],
+   "hi": [
+    "Saare campaigns band karo; creative saaf taur pe fail ho gaya",
+    "Festive auction cost samjho; margin aur total sales pe judge karo, agle saal creatives pehle taiyaar karo",
+    "Turant saari audiences aur creatives badal do",
+    "Hafte bhar ka poora budget organic posting pe laga do"
+   ],
+   "mr": [
+    "सगळे campaigns बंद करा; creative स्पष्टपणे चालेनासे झाले",
+    "सणासुदीचा auction खर्च स्वीकारा; margin आणि एकूण sales वर मूल्यांकन करा, पुढच्या वर्षी creatives आधी तयार करा",
+    "लगेच सगळ्या audiences आणि creatives बदला",
+    "आठवडाभराचे पूर्ण budget organic posting वर लावा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Stable CTR and conversion rate mean the ads still work; higher CPMs from festive competition explain the CPA rise. Panic changes would reset learning during peak demand. Judge on profit and total sales, and prepare earlier next time.",
+   "hi": "Stable CTR aur conversion rate ka matlab ads abhi bhi kaam kar rahe hain; festive competition se badhe CPM hi CPA badhne ki wajah hain. Panic changes peak demand mein learning reset kar denge. Profit aur total sales pe judge karo, aur agli baar pehle tayari karo.",
+   "mr": "स्थिर CTR आणि conversion rate म्हणजे ads अजूनही चालत आहेत; सणासुदीच्या स्पर्धेमुळे वाढलेले CPM हेच CPA वाढीचे कारण. घाबरून केलेले बदल peak demand च्या वेळी learning reset करतील. नफा आणि एकूण sales वर मूल्यांकन करा, आणि पुढच्या वेळी आधी तयारी करा."
+  }
+ },
+ {
+  "id": "soc-63",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "Meta Ads Manager shows 120 purchases this week, but Shopify recorded 80 orders from all sources. Which explanation and action are most sensible?",
+   "hi": "Meta Ads Manager is hafte 120 purchases dikha raha hai, par Shopify ne saare sources se 80 orders record kiye. Kaunsa explanation aur action sabse sahi hai?",
+   "mr": "Meta Ads Manager या आठवड्यात 120 purchases दाखवतो, पण Shopify ने सर्व sources मिळून 80 orders नोंदवल्या. कोणते स्पष्टीकरण आणि पाऊल सर्वात योग्य?"
+  },
+  "opts": {
+   "en": [
+    "Shopify is wrong; always trust the ad platform",
+    "Meta is committing fraud; stop all ads",
+    "Check for duplicate events first (e.g. purchase firing on thank-you page reloads), then compare using the same windows",
+    "Ignore it; tracking differences don't matter"
+   ],
+   "hi": [
+    "Shopify galat hai; hamesha ad platform pe bharosa karo",
+    "Meta fraud kar raha hai; saare ads band karo",
+    "Pehle duplicate events check karo (jaise thank-you page reload pe purchase fire hona), phir same windows se compare karo",
+    "Ignore karo; tracking ke farak se kuch nahi hota"
+   ],
+   "mr": [
+    "Shopify चुकीचे आहे; नेहमी ad platform वर विश्वास ठेवा",
+    "Meta fraud करत आहे; सगळे ads बंद करा",
+    "आधी duplicate events तपासा (उदा. thank-you page reload वर purchase fire होणे), मग समान windows वापरून compare करा",
+    "दुर्लक्ष करा; tracking मधील फरकाने काही होत नाही"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Ads cannot drive more purchases than your store actually received, so 120 attributed vs 80 total orders strongly suggests double-firing or missing deduplication. Fix tracking first, then compare using matching attribution windows and dates.",
+   "hi": "Ads store ke asli orders se zyada purchases nahi la sakte, isliye 120 attributed vs 80 total orders double-firing ya missing deduplication ki taraf strong ishaara hai. Pehle tracking theek karo, phir matching attribution windows aur dates se compare karo.",
+   "mr": "Ads मुळे store ला प्रत्यक्ष मिळालेल्या orders पेक्षा जास्त purchases होऊ शकत नाहीत, त्यामुळे 120 attributed विरुद्ध एकूण 80 orders हे double-firing किंवा deduplication नसल्याचे ठळक लक्षण आहे. आधी tracking दुरुस्त करा, मग जुळणाऱ्या attribution windows आणि dates ने compare करा."
+  }
+ },
+ {
+  "id": "soc-64",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune coaching institute gets Meta leads at ₹40 each, but only 1% become admissions. The CRM tracks which leads were qualified and which enrolled. What's the best next step?",
+   "hi": "Pune ke ek coaching institute ko Meta leads ₹40 each pe milte hain, par sirf 1% admission lete hain. CRM track karta hai kaunse leads qualified the aur kaunse enroll hue. Best next step kya hai?",
+   "mr": "Pune मधील एका coaching institute ला Meta leads प्रत्येकी ₹40 ला मिळतात, पण फक्त 1% admission घेतात. CRM मध्ये कोणते leads qualified होते आणि कोणी enroll केले ते नोंदवले जाते. पुढचे सर्वोत्तम पाऊल कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Cut the form to only name and phone to lower cost further",
+    "Pause Meta and rely only on walk-ins",
+    "Target a wider age range to get more leads",
+    "Send CRM stages back to Meta (via Conversions API) and optimize for qualified or converted leads"
+   ],
+   "hi": [
+    "Cost aur kam karne ke liye form mein sirf naam aur phone rakho",
+    "Meta pause karke sirf walk-ins pe depend raho",
+    "Zyada leads ke liye wider age range target karo",
+    "CRM stages Meta ko (Conversions API se) wapas bhejo aur qualified ya converted leads ke liye optimize karo"
+   ],
+   "mr": [
+    "खर्च आणखी कमी करण्यासाठी form मध्ये फक्त नाव आणि phone ठेवा",
+    "Meta थांबवा आणि फक्त walk-ins वर अवलंबून राहा",
+    "जास्त leads साठी wider age range target करा",
+    "CRM stages Meta ला (Conversions API ने) परत पाठवा आणि qualified किंवा converted leads साठी optimize करा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "If Meta only sees form fills, it finds more cheap form-fillers. Feeding back CRM outcomes lets it learn which leads actually enrol (e.g. Meta's conversion leads optimization), usually raising cost per lead but lowering cost per admission.",
+   "hi": "Agar Meta ko sirf form fills dikhte hain toh woh aur saste form-fillers dhoondhta hai. CRM outcomes wapas bhejne se woh seekhta hai kaunse leads sach mein enroll karte hain (jaise Meta ka conversion leads optimization), jisse cost per lead badh sakta hai par cost per admission ghat-ta hai.",
+   "mr": "Meta ला फक्त form fills दिसत असतील तर तो आणखी स्वस्त form-fillers शोधतो. CRM outcomes परत पाठवल्याने तो शिकतो कोणते leads खरोखर enroll करतात (उदा. Meta चे conversion leads optimization), त्यामुळे cost per lead वाढू शकतो पण cost per admission कमी होतो."
+  }
+ },
+ {
+  "id": "soc-65",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Pune café's Reels using trending audio get 200K views, but insights show most viewers are outside Maharashtra and footfall hasn't changed. What's the best content strategy shift?",
+   "hi": "Pune ke ek café ke trending audio wale Reels ko 200K views milte hain, par insights dikhate hain ki zyada viewers Maharashtra ke bahar hain aur footfall nahi badha. Best content strategy shift kya hai?",
+   "mr": "Pune मधील एका café च्या trending audio वाल्या Reels ना 200K views मिळतात, पण insights दाखवतात की बहुतेक viewers महाराष्ट्राबाहेर आहेत आणि footfall बदलला नाही. सर्वोत्तम content strategy बदल कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Make local content (area names, local creators, Marathi/Hindi hooks) and track DMs, saves and visits",
+    "Chase even bigger national trends to reach 1M views",
+    "Stop Reels and post only static menu images",
+    "Buy views from a panel to boost the algorithm"
+   ],
+   "hi": [
+    "Local content banao (area names, local creators, Marathi/Hindi hooks, location tags) aur saves, DMs va visits track karo",
+    "1M views ke liye aur bade national trends ke peeche jao",
+    "Reels band karke sirf static menu images post karo",
+    "Algorithm boost karne ke liye panel se views khareedo"
+   ],
+   "mr": [
+    "स्थानिक content बनवा (भागांची नावे, local creators, मराठी/हिंदी hooks, location tags) आणि saves, DMs व visits track करा",
+    "1M views साठी आणखी मोठ्या national trends मागे जा",
+    "Reels बंद करून फक्त static menu images post करा",
+    "Algorithm boost करण्यासाठी panel कडून views विकत घ्या"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Views from people who can't visit are vanity. Local signals (places, language, local collabs) help reach nearby people, and business metrics like DMs, saves and visits show real impact. Bought views damage account quality.",
+   "hi": "Jo log aa hi nahi sakte unke views vanity hain. Local signals (jagah, bhaasha, local collabs) aas-paas ke logon tak pahunchate hain, aur DMs, saves, visits jaise business metrics asli impact dikhate hain. Khareede views account quality kharab karte hain.",
+   "mr": "जे लोक येऊच शकत नाहीत त्यांचे views म्हणजे vanity. स्थानिक signals (ठिकाणे, भाषा, local collabs) जवळच्या लोकांपर्यंत पोहोचवतात, आणि DMs, saves, visits सारखे business metrics खरा परिणाम दाखवतात. विकत घेतलेले views account quality बिघडवतात."
+  }
+ },
+ {
+  "id": "soc-66",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A brand sends free products (no cash) to 50 micro-influencers, who post glowing reviews without any disclosure. Under ASCI guidelines, what is the position?",
+   "hi": "Ek brand 50 micro-influencers ko free products (bina cash) bhejta hai, aur woh bina disclosure ke tareefon bhare reviews post karte hain. ASCI guidelines ke hisaab se kya position hai?",
+   "mr": "एक brand 50 micro-influencers ना free products (रोख नाही) पाठवतो, आणि ते कोणतेही disclosure न देता कौतुकाचे reviews post करतात. ASCI guidelines नुसार स्थिती काय?"
+  },
+  "opts": {
+   "en": [
+    "No disclosure needed because no money was paid",
+    "Disclosure is needed: free products are a material connection, and the brand should ensure it happens",
+    "Only influencers above 1 lakh followers must disclose",
+    "Disclosure is needed only if the review is negative"
+   ],
+   "hi": [
+    "Disclosure ki zaroorat nahi kyunki paisa nahi diya",
+    "Disclosure zaroori hai: free products material connection hain, aur brand ko ensure karna chahiye ki disclosure ho",
+    "Sirf 1 lakh se zyada followers wale influencers ko disclose karna hai",
+    "Disclosure sirf tab chahiye jab review negative ho"
+   ],
+   "mr": [
+    "पैसे दिले नाहीत म्हणून disclosure ची गरज नाही",
+    "Disclosure आवश्यक आहे: free products हे material connection आहे, आणि brand ने disclosure होईल याची खात्री करावी",
+    "फक्त 1 लाखांपेक्षा जास्त followers असलेल्या influencers नी disclose करावे",
+    "Review negative असेल तरच disclosure लागते"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "ASCI treats any material connection, including free products, gifts or trips, as requiring disclosure, whatever the follower count. Brands are also expected to make sure the influencers they work with disclose properly.",
+   "hi": "ASCI kisi bhi material connection, jaise free products, gifts ya trips, pe disclosure maangta hai, followers kitne bhi hon. Brands se bhi ummeed hai ki woh ensure karein ki unke influencers theek se disclose karein.",
+   "mr": "ASCI नुसार कोणतेही material connection, जसे free products, gifts किंवा trips, असल्यास followers कितीही असले तरी disclosure आवश्यक आहे. Brands नीही त्यांच्या influencers नी योग्य disclosure दिल्याची खात्री करणे अपेक्षित आहे."
+  }
+ },
+ {
+  "id": "soc-67",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "After a 20% price hike, social listening shows negative sentiment jumping from 8% to 35%, mostly about 'same pack, higher price'. Sales dipped slightly. What's the best response?",
+   "hi": "20% price hike ke baad social listening dikhata hai ki negative sentiment 8% se 35% ho gaya, zyada tar 'same pack, zyada price' ko lekar. Sales thodi giri. Best response kya hai?",
+   "mr": "20% किंमत वाढीनंतर social listening दाखवते की negative sentiment 8% वरून 35% झाले, बहुतेक 'तोच pack, जास्त किंमत' याबद्दल. Sales थोडी घटली. सर्वोत्तम प्रतिसाद कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Delete negative comments and restrict replies",
+    "Immediately reverse the price without analysis",
+    "Explain the reason openly, share insights with pricing teams, and consider a smaller value pack",
+    "Run more ads with the same message to drown out complaints"
+   ],
+   "hi": [
+    "Negative comments delete karo aur replies restrict karo",
+    "Bina analysis turant price wapas le lo",
+    "Transparently wajah samjhao, insight product/pricing teams ko do, aur chhote pack jaise value options socho",
+    "Complaints dabane ke liye same message ke saath aur ads chalao"
+   ],
+   "mr": [
+    "Negative comments delete करा आणि replies बंद करा",
+    "कोणतेही analysis न करता लगेच किंमत मागे घ्या",
+    "कारण पारदर्शकपणे सांगा, insight product/pricing teams ला द्या, आणि लहान pack सारखे value पर्याय विचारात घ्या",
+    "तक्रारी दाबण्यासाठी त्याच message सह आणखी ads चालवा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Listening is useful only if insights reach decision-makers. Honest communication plus a product response (e.g. a lower-priced pack) addresses the real complaint. Deleting comments or out-shouting critics usually backfires.",
+   "hi": "Listening tabhi kaam ka hai jab insights decision-makers tak pahunchein. Imaandaar communication aur product response (jaise sasta pack) asli complaint ko address karta hai. Comments delete karna ya critics ko dabana aksar ulta padta hai.",
+   "mr": "Listening तेव्हाच उपयोगी जेव्हा insights निर्णय घेणाऱ्यांपर्यंत पोहोचतात. प्रामाणिक संवाद आणि product प्रतिसाद (उदा. स्वस्त pack) खरी तक्रार सोडवतो. Comments delete करणे किंवा टीकाकारांना दाबणे सहसा उलटते."
+  }
+ },
+ {
+  "id": "soc-68",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Hyderabad IT services firm wants to reach decision-makers at 200 named enterprise accounts via LinkedIn Ads with ₹2L/month. Which approach fits best?",
+   "hi": "Hyderabad ki ek IT services firm LinkedIn Ads se ₹2L/month mein 200 named enterprise accounts ke decision-makers tak pahunchna chahti hai. Kaunsa approach best hai?",
+   "mr": "Hyderabad मधील एक IT services firm ₹2L/महिना मध्ये LinkedIn Ads ने 200 ठराविक enterprise accounts च्या decision-makers पर्यंत पोहोचू इच्छिते. कोणता approach सर्वात योग्य?"
+  },
+  "opts": {
+   "en": [
+    "Target all LinkedIn users in India to keep CPC low",
+    "Use Audience Network only for cheap impressions",
+    "Target people interested in 'technology' with no company filter",
+    "Upload the company list, layer job function and seniority, and measure account engagement and pipeline with sales"
+   ],
+   "hi": [
+    "CPC kam rakhne ke liye India ke saare LinkedIn users target karo",
+    "Saste impressions ke liye sirf Audience Network use karo",
+    "Bina company filter ke 'technology' interest walon ko target karo",
+    "Company list upload karo, job function va seniority layer karo, sales ke saath engagement aur pipeline measure karo"
+   ],
+   "mr": [
+    "CPC कमी ठेवण्यासाठी भारतातील सर्व LinkedIn users target करा",
+    "स्वस्त impressions साठी फक्त Audience Network वापरा",
+    "Company filter न लावता 'technology' interest असलेल्यांना target करा",
+    "Company list upload करा, job function आणि seniority जोडा, आणि sales सोबत account engagement व pipeline मोजा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "This is account-based marketing: a matched company list plus role filters puts spend on the right buying committees. Success is measured in account engagement and pipeline, not cheap clicks from people who can't buy.",
+   "hi": "Yeh account-based marketing hai: matched company list plus role filters se spend sahi buying committees pe jaata hai. Success account engagement aur pipeline se measure hoti hai, un logon ke saste clicks se nahi jo khareed hi nahi sakte.",
+   "mr": "हे account-based marketing आहे: matched company list आणि role filters मुळे खर्च योग्य buying committees वर जातो. यश account engagement आणि pipeline ने मोजले जाते, खरेदी करू न शकणाऱ्या लोकांच्या स्वस्त clicks ने नाही."
+  }
+ },
+ {
+  "id": "soc-69",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A skincare brand spends ₹50K/day on Meta at a ₹600 target CPA and wants ₹2L/day during a 5-day sale without CPA blowing up. Which plan is most robust?",
+   "hi": "Ek skincare brand Meta pe ₹50K/day kharch karta hai ₹600 target CPA pe, aur 5-day sale mein ₹2L/day chahta hai bina CPA bigde. Sabse robust plan kya hai?",
+   "mr": "एक skincare brand Meta वर ₹600 target CPA वर ₹50K/दिवस खर्च करतो, आणि 5 दिवसांच्या sale मध्ये CPA न बिघडता ₹2L/दिवस खर्च करू इच्छितो. सर्वात भक्कम plan कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Launch sale creatives and campaigns days ahead, scale in steps, and use a cost cap to guard CPA",
+    "Quadruple the budget on the first sale morning and never touch it again",
+    "Launch 40 brand-new ad sets on the sale day with fresh audiences",
+    "Keep the budget flat and hope organic covers the sale"
+   ],
+   "hi": [
+    "Sale creatives aur campaigns kuch din pehle launch karo, steps mein scale karo, aur CPA bachane ke liye cost cap use karo",
+    "Sale ki pehli subah budget chaar guna karo aur phir haath mat lagao",
+    "Sale ke din fresh audiences ke saath 40 naye ad sets launch karo",
+    "Budget flat rakho aur umeed karo ki organic sale sambhal lega"
+   ],
+   "mr": [
+    "Sale creatives आणि campaigns काही दिवस आधी launch करा, टप्प्याटप्प्याने scale करा, आणि CPA राखण्यासाठी cost cap वापरा",
+    "Sale च्या पहिल्या सकाळी budget चौपट करा आणि नंतर हात लावू नका",
+    "Sale च्या दिवशी नव्या audiences सह 40 नवे ad sets launch करा",
+    "Budget तसेच ठेवा आणि organic sale सांभाळेल अशी आशा करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Launching early lets campaigns finish learning before the sale, stepped scaling avoids shock, and a cost cap tells Meta not to buy conversions above your target, trading some volume for efficiency. Launching many new ad sets on sale day means they all start in learning.",
+   "hi": "Pehle launch karne se campaigns sale se pehle learning poori kar lete hain, steps mein scale karne se jhatka nahi lagta, aur cost cap Meta ko target se mehngi conversions khareedne se rokta hai (kuch volume kam, efficiency zyada). Sale ke din naye ad sets sab learning se hi shuru honge.",
+   "mr": "आधी launch केल्याने campaigns sale पूर्वी learning पूर्ण करतात, टप्प्याटप्प्याने scale केल्याने धक्का बसत नाही, आणि cost cap Meta ला target पेक्षा महाग conversions घेऊ देत नाही (थोडा volume कमी, efficiency जास्त). Sale च्या दिवशी नवे ad sets सगळे learning मधूनच सुरू होतील."
+  }
+ },
+ {
+  "id": "soc-70",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A pharma-adjacent wellness brand notices Meta's automatic creative enhancements have altered text and visuals in ads that carry legally reviewed claims. What's the right action?",
+   "hi": "Ek pharma-adjacent wellness brand dekhta hai ki Meta ke automatic creative enhancements ne legally reviewed claims wale ads ke text aur visuals badal diye. Sahi action kya hai?",
+   "mr": "एका pharma-adjacent wellness brand ला दिसते की Meta च्या automatic creative enhancements नी legally reviewed claims असलेल्या ads मधील text आणि visuals बदलले. योग्य पाऊल कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Keep them; any change that raises CTR is acceptable",
+    "Turn off the relevant enhancements for these ads, review live versions, and keep compliance sign-off on final creatives",
+    "Delete the ad account and start fresh",
+    "Remove all claims from every ad forever"
+   ],
+   "hi": [
+    "Rehne do; CTR badhane wala koi bhi change chalega",
+    "In ads ke liye relevant enhancements band karo, live versions review karo, aur final creatives pe compliance sign-off rakho",
+    "Ad account delete karke naya shuru karo",
+    "Har ad se saare claims hamesha ke liye hata do"
+   ],
+   "mr": [
+    "तसेच ठेवा; CTR वाढवणारा कोणताही बदल चालतो",
+    "या ads साठी संबंधित enhancements बंद करा, live versions तपासा, आणि final creatives वर compliance sign-off ठेवा",
+    "Ad account delete करून नवीन सुरू करा",
+    "प्रत्येक ad मधून सर्व claims कायमचे काढा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Creative enhancements can be switched off individually. In regulated categories, the exact wording approved by legal must be what runs, so disable risky enhancements and check what actually serves. Throwing away the account or all claims is overkill.",
+   "hi": "Creative enhancements individually off ho sakte hain. Regulated categories mein wahi exact wording chalni chahiye jo legal ne approve ki, toh risky enhancements band karo aur check karo ki asal mein kya serve ho raha hai. Account ya saare claims hata dena overkill hai.",
+   "mr": "Creative enhancements स्वतंत्रपणे बंद करता येतात. Regulated categories मध्ये legal ने मंजूर केलेले नेमके शब्दच चालले पाहिजेत, म्हणून धोकादायक enhancements बंद करा आणि प्रत्यक्ष काय दिसते ते तपासा. Account किंवा सगळे claims काढणे अतिरेक आहे."
+  }
+ },
+ {
+  "id": "soc-71",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "You duplicated an ad set to test a new landing page. The copy shows 30% lower CPA after 4 days, but the two ad sets targeted overlapping audiences. How should you make a trustworthy decision?",
+   "hi": "Aapne naya landing page test karne ke liye ad set duplicate kiya. 4 din baad copy ka CPA 30% kam hai, par dono ad sets overlapping audiences target kar rahe the. Bharosemand decision kaise lein?",
+   "mr": "नवे landing page test करण्यासाठी तुम्ही ad set duplicate केला. 4 दिवसांनी copy चा CPA 30% कमी आहे, पण दोन्ही ad sets overlapping audiences target करत होते. विश्वासार्ह निर्णय कसा घ्यावा?"
+  },
+  "opts": {
+   "en": [
+    "Declare the copy the winner now; 30% is a big gap",
+    "Average the two CPAs and keep both running",
+    "Re-run it as a proper A/B test with split, non-overlapping audiences, one variable, and a preset metric and duration",
+    "Ask the team to vote on which landing page looks better"
+   ],
+   "hi": [
+    "Copy ko abhi winner declare karo; 30% bada farak hai",
+    "Dono CPA ka average nikaal ke dono chalate raho",
+    "Ise proper A/B test ki tarah dobara chalao: split, non-overlapping audiences, ek variable, pehle se tay metric aur duration",
+    "Team se vote karwao kaunsa landing page achha dikhta hai"
+   ],
+   "mr": [
+    "Copy ला आत्ताच winner जाहीर करा; 30% मोठा फरक आहे",
+    "दोन्ही CPA ची सरासरी काढून दोन्ही चालू ठेवा",
+    "हे proper A/B test म्हणून पुन्हा चालवा: split, non-overlapping audiences, एक variable, आधी ठरवलेला metric आणि कालावधी",
+    "कोणते landing page चांगले दिसते यावर team चे मत घ्या"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "With overlapping audiences, the ad sets compete in the same auctions and delivery is uneven, so the gap may be noise. Meta's A/B test tool splits people into separate groups so one variable can be judged fairly, with enough time and conversions.",
+   "hi": "Overlapping audiences mein ad sets same auctions mein compete karte hain aur delivery uneven hoti hai, toh farak sirf noise ho sakta hai. Meta ka A/B test tool logon ko alag groups mein baant-ta hai taaki ek variable ko fairly judge kiya ja sake, kaafi time aur conversions ke saath.",
+   "mr": "Overlapping audiences मध्ये ad sets त्याच auctions मध्ये स्पर्धा करतात आणि delivery असमान होते, त्यामुळे फरक फक्त noise असू शकतो. Meta चे A/B test tool लोकांना वेगळ्या groups मध्ये विभागते म्हणजे पुरेसा वेळ आणि conversions सह एक variable न्याय्यपणे तपासता येतो."
+  }
+ },
+ {
+  "id": "soc-72",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand has ₹5L for influencer marketing with a sales goal. The founder wants one big celebrity post. As the strategist, what's the strongest plan?",
+   "hi": "Ek D2C brand ke paas sales goal ke saath influencer marketing ke liye ₹5L hain. Founder ek bada celebrity post chahta hai. Strategist ke roop mein sabse strong plan kya hai?",
+   "mr": "एका D2C brand कडे sales च्या उद्देशाने influencer marketing साठी ₹5L आहेत. Founder ला एक मोठी celebrity post हवी आहे. Strategist म्हणून सर्वात मजबूत plan कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Spend it all on one celebrity post; bigger reach always wins",
+    "Split it equally among 500 nano creators with no tracking",
+    "Spend it on buying followers for the brand page first",
+    "Test a vetted mix of micro-creators with unique codes/UTMs, then put winners' content into partnership ads"
+   ],
+   "hi": [
+    "Saara ek celebrity post pe lagao; badi reach hamesha jeetti hai",
+    "Bina tracking ke 500 nano creators mein barabar baant do",
+    "Pehle brand page ke liye followers khareedne mein lagao",
+    "Vetted micro-creators ka mix unique codes/UTMs ke saath test karo, phir winners ka content partnership ads mein daalo"
+   ],
+   "mr": [
+    "सगळे एका celebrity post वर खर्च करा; मोठी reach नेहमी जिंकते",
+    "कोणत्याही tracking शिवाय 500 nano creators मध्ये समान वाटा",
+    "आधी brand page साठी followers विकत घेण्यावर खर्च करा",
+    "तपासलेल्या micro-creators चे mix unique codes/UTMs सह test करा, मग winners चे content partnership ads मध्ये टाका"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "For a sales goal, a tracked portfolio shows which creators and messages actually sell, and partnership ads let you scale proven creator content with paid targeting. One celebrity post is a single, hard-to-measure bet.",
+   "hi": "Sales goal ke liye tracked portfolio dikhata hai kaunse creators aur messages sach mein bechte hain, aur partnership ads se proven creator content ko paid targeting ke saath scale kar sakte ho. Ek celebrity post ek hi, mushkil se measure hone wala daav hai.",
+   "mr": "Sales च्या उद्देशासाठी tracked portfolio दाखवतो की कोणते creators आणि messages खरोखर विकतात, आणि partnership ads मुळे सिद्ध झालेले creator content paid targeting सह scale करता येते. एक celebrity post म्हणजे एकच, मोजायला कठीण असा जुगार."
+  }
+ },
+ {
+  "id": "soc-73",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "Your team wants to upload 20,000 customer phone numbers collected at billing counters to Meta for a Custom Audience. What's the most important check before uploading?",
+   "hi": "Team billing counters pe collect kiye 20,000 customer phone numbers Meta pe Custom Audience ke liye upload karna chahti hai. Upload se pehle sabse zaroori check kya hai?",
+   "mr": "Team ला billing counters वर गोळा केलेले 20,000 customer phone numbers Meta वर Custom Audience साठी upload करायचे आहेत. Upload करण्यापूर्वी सर्वात महत्त्वाची तपासणी कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Whether customers were informed and consented to marketing use, per the DPDP Act and Meta terms",
+    "Whether the file is under 5 MB",
+    "Whether numbers include +91 so the match rate is higher",
+    "Whether the audience is bigger than your competitor's"
+   ],
+   "hi": [
+    "Kya customers ko bataya gaya aur marketing use ki consent li gayi, DPDP Act aur Meta terms ke hisaab se",
+    "Kya file 5 MB se chhoti hai",
+    "Kya numbers mein +91 hai taaki match rate zyada ho",
+    "Kya audience competitor se badi hai"
+   ],
+   "mr": [
+    "ग्राहकांना कळवून marketing वापरासाठी संमती घेतली होती का, DPDP Act आणि Meta terms नुसार",
+    "File 5 MB पेक्षा लहान आहे का",
+    "Match rate जास्त व्हावा म्हणून numbers मध्ये +91 आहे का",
+    "Audience competitor पेक्षा मोठी आहे का"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Hashing protects data in transit, but you still need a lawful basis: under India's DPDP Act, 2023 and Meta's Custom Audience terms, people should have been informed and consented to marketing use. Country codes help match rate, but they're a formatting detail, not the key risk.",
+   "hi": "Hashing transit mein data bachata hai, par lawful basis phir bhi chahiye: India ke DPDP Act, 2023 aur Meta ke Custom Audience terms ke hisaab se logon ko bataya gaya ho aur marketing use ki consent di ho. Country code match rate badhata hai, par woh formatting hai, asli risk nahi.",
+   "mr": "Hashing मुळे data सुरक्षित जातो, पण lawful basis तरीही लागतो: भारताच्या DPDP Act, 2023 आणि Meta च्या Custom Audience terms नुसार लोकांना कळवलेले असावे आणि marketing वापरासाठी संमती दिलेली असावी. Country code match rate वाढवतो, पण तो formatting चा भाग आहे, मुख्य धोका नाही."
+  }
+ },
+ {
+  "id": "soc-74",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A CA-exam coaching YouTube channel gets 1M+ views a month on Shorts, but long-form views and course sign-ups are flat; Shorts viewers rarely watch full lectures. What's the best fix?",
+   "hi": "Ek CA-exam coaching YouTube channel ko Shorts pe mahine ke 1M+ views milte hain, par long-form views aur course sign-ups flat hain; Shorts viewers full lectures kam hi dekhte hain. Best fix kya hai?",
+   "mr": "एका CA-exam coaching YouTube channel ला Shorts वर महिन्याला 1M+ views मिळतात, पण long-form views आणि course sign-ups स्थिर आहेत; Shorts viewers पूर्ण lectures क्वचितच पाहतात. सर्वोत्तम उपाय कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Stop long-form entirely and post only Shorts",
+    "Make Shorts teasing a specific long video, link that related video, and judge by sign-ups",
+    "Post random viral trends to push Shorts views even higher",
+    "Upload full lectures cut into 60-second pieces with no context"
+   ],
+   "hi": [
+    "Long-form poori tarah band karke sirf Shorts post karo",
+    "Specific long video ko tease karne wale Shorts banao, woh related video link karo, sign-ups se judge karo",
+    "Shorts views aur badhane ke liye random viral trends post karo",
+    "Full lectures ko bina context 60-second tukdon mein upload karo"
+   ],
+   "mr": [
+    "Long-form पूर्णपणे बंद करून फक्त Shorts post करा",
+    "विशिष्ट long video tease करणारे Shorts बनवा, तो related video link करा, sign-ups वरून मूल्यांकन करा",
+    "Shorts views आणखी वाढवण्यासाठी random viral trends post करा",
+    "पूर्ण lectures संदर्भाशिवाय 60 सेकंदांच्या तुकड्यांत upload करा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Shorts and long-form viewers often behave like different audiences. Topic-aligned Shorts that use YouTube's related-video link create a path to the full lecture, and sign-ups are the metric that matters. Random trends grow views from the wrong audience.",
+   "hi": "Shorts aur long-form viewers aksar alag audience ki tarah behave karte hain. Topic-aligned Shorts jo YouTube ka related-video link use karein, full lecture tak rasta banate hain, aur sign-ups hi asli metric hai. Random trends galat audience se views badhate hain.",
+   "mr": "Shorts आणि long-form viewers अनेकदा वेगळ्या audience सारखे वागतात. YouTube चा related-video link वापरणारे विषयाशी जुळणारे Shorts पूर्ण lecture पर्यंत मार्ग तयार करतात, आणि sign-ups हाच खरा metric आहे. Random trends चुकीच्या audience कडून views वाढवतात."
+  }
+ },
+ {
+  "id": "soc-75",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "After a website redesign, Meta-reported purchases fell 60% overnight while Shopify orders stayed steady. CTR, CPM and frequency are unchanged. What should you do first?",
+   "hi": "Website redesign ke baad Meta-reported purchases raaton-raat 60% gir gaye, jabki Shopify orders steady rahe. CTR, CPM aur frequency same hain. Pehle kya karna chahiye?",
+   "mr": "Website redesign नंतर Meta-reported purchases एका रात्रीत 60% घटल्या, तर Shopify orders स्थिर राहिल्या. CTR, CPM आणि frequency बदललेले नाहीत. आधी काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Replace all creatives because they have fatigued",
+    "Broaden targeting to find new buyers",
+    "Verify Pixel/CAPI events on the new checkout in Events Manager and fix tracking first",
+    "Double the budget to make up for lost purchases"
+   ],
+   "hi": [
+    "Saare creatives badlo kyunki woh fatigue ho gaye",
+    "Naye buyers ke liye targeting broad karo",
+    "Events Manager mein naye checkout ke Pixel/CAPI events verify karo aur pehle tracking theek karo",
+    "Khoye purchases ki bharpai ke liye budget double karo"
+   ],
+   "mr": [
+    "सगळे creatives बदला कारण ते fatigue झाले",
+    "नवे buyers शोधण्यासाठी targeting broad करा",
+    "Events Manager मध्ये नव्या checkout वरील Pixel/CAPI events तपासा आणि आधी tracking दुरुस्त करा",
+    "गमावलेल्या purchases भरून काढण्यासाठी budget दुप्पट करा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Real orders are steady and ad metrics are unchanged, so the drop is in measurement, most likely events broken by the redesign. Until fixed, Meta is also optimizing on missing data. Changing creatives or budget would treat the wrong problem.",
+   "hi": "Asli orders steady hain aur ad metrics same hain, toh girawat measurement mein hai, shayad redesign se events toot gaye. Jab tak theek na ho, Meta missing data pe optimize kar raha hai. Creatives ya budget badalna galat problem ka ilaaj hoga.",
+   "mr": "खऱ्या orders स्थिर आहेत आणि ad metrics बदललेले नाहीत, म्हणजे घट measurement मध्ये आहे, बहुधा redesign मुळे events तुटले. दुरुस्त होईपर्यंत Meta अपूर्ण data वर optimize करत आहे. Creatives किंवा budget बदलणे म्हणजे चुकीच्या समस्येवर उपचार."
+  }
+ }
+]

@@ -1,17 +1,16 @@
 {
   "name": "digicrorepati",
-  "version": "2.0.0",
-  "description": "DigiCrorepati — free Digital Marketing & AI quiz game / mock test with a 10-level prize ladder, in English, Hinglish and Marathi",
+  "version": "3.0.0",
+  "description": "DigiCrorepati — free Digital Marketing & AI quiz game / mock test with a 10-level prize ladder, in English, Hinglish and Marathi. Fully offline question bank, no AI costs.",
   "type": "module",
   "main": "server.js",
   "engines": { "node": ">=20" },
   "scripts": {
-    "build": "node scripts/build-seo.mjs",
-    "start": "node scripts/build-seo.mjs && node server.js",
+    "build": "node scripts/build-bank.mjs && node scripts/build-seo.mjs",
+    "start": "npm run build && node server.js",
     "dev": "node server.js"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "latest",
     "@neondatabase/serverless": "latest"
   }
 }

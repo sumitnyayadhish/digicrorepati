@@ -1,6 +1,55 @@
 // Blog articles. body is HTML. Keep them genuinely useful — thin/mass-produced pages hurt SEO and AdSense approval.
 export const POSTS = [
   {
+    slug: "digital-marketing-formulas",
+    lang: "en",
+    title: "Digital Marketing Formulas Cheat Sheet: CTR, CPC, CPM, CPA, ROAS, ROI, LTV:CAC (with Examples)",
+    description: "Every digital marketing formula you need for interviews and exams — CTR, CPC, CPM, CPA, conversion rate, ROAS, ROI, break-even ROAS, LTV:CAC and CAC payback — with worked ₹ examples.",
+    date: "2026-09-24",
+    keywords: ["digital marketing formulas", "ROAS formula", "CTR formula", "CPM formula", "LTV CAC ratio", "break even ROAS"],
+    body: `
+<p>Interviewers love asking you to calculate a metric on the spot, and mixing up ROAS and ROI is the most common mistake. Here is every formula you need, with a worked example in rupees. When you're done, <a href="/quiz/marketing-maths-questions">practise with fresh numbers</a> — the game generates a new version of each question every time.</p>
+
+<h2>Traffic and engagement</h2>
+<ul>
+<li><strong>CTR (click-through rate)</strong> = Clicks ÷ Impressions × 100. <em>Example:</em> 450 clicks from 30,000 impressions = 1.5%.</li>
+<li><strong>Conversion rate</strong> = Conversions ÷ Clicks × 100. <em>Example:</em> 36 leads from 1,200 clicks = 3%.</li>
+<li><strong>GA4 engagement rate</strong> = Engaged sessions ÷ Sessions. <strong>Bounce rate</strong> = 100% − engagement rate.</li>
+<li><strong>Email CTOR (click-to-open rate)</strong> = Clicks ÷ Opens × 100 — not clicks ÷ delivered, which is the click rate.</li>
+</ul>
+
+<h2>Cost metrics</h2>
+<ul>
+<li><strong>CPC</strong> = Spend ÷ Clicks. ₹24,000 ÷ 1,600 clicks = ₹15.</li>
+<li><strong>CPM</strong> = Spend ÷ Impressions × 1,000. ₹18,000 for 1,20,000 impressions = ₹150 CPM.</li>
+<li><strong>CPA / CPL</strong> = Spend ÷ Conversions (or leads). ₹40,000 ÷ 80 leads = ₹500 per lead.</li>
+</ul>
+
+<h2>Return metrics</h2>
+<ul>
+<li><strong>ROAS</strong> = Ad revenue ÷ Ad spend. ₹2,00,000 sales from ₹50,000 spend = 4x.</li>
+<li><strong>Marketing ROI</strong> = (Revenue − product cost − ad spend) ÷ Ad spend × 100. With ₹2,00,000 sales, ₹90,000 product cost and ₹50,000 ads, profit is ₹60,000 and ROI is 120%. A high ROAS can still mean a loss if margins are thin.</li>
+<li><strong>Break-even ROAS</strong> = 1 ÷ Gross margin. At a 40% margin you need at least 2.5x ROAS just to cover ad spend.</li>
+</ul>
+
+<h2>Customer economics</h2>
+<ul>
+<li><strong>AOV</strong> = Revenue ÷ Orders.</li>
+<li><strong>LTV (margin-based)</strong> = AOV × Orders per year × Years retained × Gross margin. ₹1,000 × 4 × 2 × 50% = ₹4,000.</li>
+<li><strong>LTV:CAC</strong> = LTV ÷ CAC. With CAC ₹1,200, 4,000 ÷ 1,200 ≈ 3.3:1 — around 3:1 is a common healthy benchmark.</li>
+<li><strong>CAC payback (months)</strong> = CAC ÷ (Monthly revenue per customer × Gross margin).</li>
+</ul>
+
+<h2>Planning a budget backwards</h2>
+<p>Want 200 leads at a 4% conversion rate and ₹20 CPC? Clicks needed = 200 ÷ 0.04 = 5,000. Budget = 5,000 × ₹20 = ₹1,00,000. This is a favourite situation question in interviews.</p>
+
+<h2>Relative vs absolute change</h2>
+<p>If version A converts at 2% and B at 2.5%, the absolute difference is 0.5 percentage points, but the <strong>relative lift</strong> is (2.5 − 2) ÷ 2 = 25%. Always say which one you mean.</p>
+
+<p>Test yourself now: <a href="/quiz/marketing-maths-questions">marketing maths practice questions</a> or <a href="/">play the full game</a> — maths questions appear at every level.</p>
+`,
+  },
+  {
     slug: "digital-marketing-interview-questions",
     lang: "en",
     title: "30 Digital Marketing Interview Questions and Answers (2026)",
@@ -144,7 +193,7 @@ export const POSTS = [
 <p>An <strong>AI agent</strong> is a model plus tools plus a loop: it plans, calls tools (search, CRM, spreadsheets, a browser), reads the results and keeps going until the job is done. Agents can run whole workflows, but they need guardrails — especially against <strong>prompt injection</strong>, where hidden text in a web page or email tries to hijack the agent.</p>
 
 <h2>Test yourself</h2>
-<p>Every concept here appears in the <a href="/quiz/ai-llm-quiz">AI &amp; LLM quiz</a>, from beginner (tokens, prompts) to legend level (KV cache, speculative decoding). Play the <a href="/">full game</a> to see how far up the ladder you get.</p>
+<p>Every concept here appears in the <a href="/quiz/ai-llm-basics">AI &amp; LLM quiz</a>, from beginner (tokens, prompts) to legend level (KV cache, speculative decoding). Play the <a href="/">full game</a> to see how far up the ladder you get.</p>
 `,
   },
   {
@@ -251,8 +300,8 @@ export const POSTS = [
 <h2>Topic-wise mock tests</h2>
 <ul>
 <li><a href="/quiz/digital-marketing-quiz">Digital Marketing Quiz</a> — SEO, ads, email, analytics</li>
-<li><a href="/quiz/ai-llm-quiz">AI &amp; LLM Quiz</a> — from prompts to KV cache</li>
-<li><a href="/quiz/seo-web-tech-quiz">SEO &amp; Web Tech Quiz</a> — robots.txt, canonical, Core Web Vitals</li>
+<li><a href="/quiz/ai-llm-basics">AI &amp; LLM Quiz</a> — from prompts to KV cache</li>
+<li><a href="/quiz/seo">SEO &amp; Web Tech Quiz</a> — robots.txt, canonical, Core Web Vitals</li>
 <li><a href="/quiz/digital-marketing-situation-questions">Situation-Based Questions</a></li>
 </ul>
 `,
@@ -325,7 +374,7 @@ export const POSTS = [
 <h2>Step 7: Real project + practice</h2>
 <p>Kisi local business ya apne project pe ₹1,000–2,000 ka chhota ad test chalao, results document karo — yeh aapka portfolio hai. Aur roz 10 minute <a href="/">DigiCrorepati quiz</a> khelo — 10 levels, Hinglish mein explanations ke saath.</p>
 
-<p>Shuru karo: <a href="/hi/quiz/digital-marketing-quiz">Digital Marketing Quiz (Hinglish)</a> · <a href="/hi/quiz/ai-llm-quiz">AI &amp; LLM Quiz (Hinglish)</a></p>
+<p>Shuru karo: <a href="/hi/quiz/digital-marketing-quiz">Digital Marketing Quiz (Hinglish)</a> · <a href="/hi/quiz/ai-llm-basics">AI &amp; LLM Quiz (Hinglish)</a></p>
 `,
   },
 ];

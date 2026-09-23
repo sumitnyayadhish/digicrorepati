@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Digital Marketing & AI Quiz Game – Free Mock Test | DigiCrorepati</title>
-  <meta name="description" content="Play DigiCrorepati, the free Digital Marketing, SEO, Google Ads and AI/LLM quiz game. 10 levels from Rookie to Legend, real situation questions, explanations for every answer — in English, Hinglish and Marathi." />
+  <meta name="description" content="Play DigiCrorepati, the free Digital Marketing, SEO, Google Ads and AI/LLM quiz game. 1,000+ questions, 10 levels from Rookie to Legend, daily challenge, certificates and explanations — in English, Hinglish and Marathi." />
   <meta name="keywords" content="digital marketing quiz, digital marketing mock test, AI quiz, LLM quiz, SEO quiz, Google Ads quiz, digital marketing test online, digital marketing interview questions, marathi quiz, hinglish quiz" />
   <link rel="canonical" href="https://digicrorepati.vercel.app/" />
   <meta name="theme-color" content="#050a2e" />
@@ -12,11 +12,14 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="DigiCrorepati" />
   <meta property="og:title" content="DigiCrorepati – Digital Marketing & AI Quiz Game" />
-  <meta property="og:description" content="Climb 10 levels from Rookie to Legend. Free quiz on digital marketing, SEO, Google Ads, AI & LLMs — English, Hinglish, Marathi." />
+  <meta property="og:description" content="Climb 10 levels from Rookie to Legend. 1,000+ free questions on digital marketing, SEO, Google Ads, AI & LLMs — English, Hinglish, Marathi." />
   <meta property="og:url" content="https://digicrorepati.vercel.app/" />
-  <meta property="og:image" content="https://digicrorepati.vercel.app/og.svg" />
+  <meta property="og:image" content="https://digicrorepati.vercel.app/og.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/icon-192.png" />
   <link rel="manifest" href="/site.webmanifest" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -30,13 +33,13 @@
       { "@type": ["WebApplication", "VideoGame"], "name": "DigiCrorepati – Digital Marketing & AI Quiz", "url": "https://digicrorepati.vercel.app/",
         "applicationCategory": "EducationalApplication", "genre": ["Quiz", "Trivia", "Educational"], "operatingSystem": "Any (web browser)",
         "offers": { "@type": "Offer", "price": "0", "priceCurrency": "INR" },
-        "description": "Free 10-level quiz game on digital marketing, SEO, Google Ads, Meta Ads, analytics, AI and large language models, with explanations in English, Hinglish and Marathi.",
+        "description": "Free 10-level quiz game with 1,000+ questions on digital marketing, SEO, Google Ads, Meta Ads, analytics, AI and large language models, with explanations in English, Hinglish and Marathi.",
         "educationalLevel": ["Beginner", "Intermediate", "Advanced"], "teaches": ["Digital marketing", "SEO", "Google Ads", "Meta Ads", "Google Analytics 4", "Artificial intelligence", "Large language models"] },
       { "@type": "FAQPage", "mainEntity": [
-        { "@type": "Question", "name": "Is DigiCrorepati free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The quiz, all 10 levels, practice modes and explanations are completely free. No sign-up is needed." } },
-        { "@type": "Question", "name": "Can I use it as a digital marketing mock test?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Levels 1–5 cover fundamentals asked in digital marketing course exams and interviews; levels 6–10 cover advanced Google Ads, analytics, attribution and AI topics with real business situations." } },
+        { "@type": "Question", "name": "Is DigiCrorepati free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. All 10 levels, 1,000+ questions, the daily challenge, practice modes, explanations and certificates are free. No sign-up is needed." } },
+        { "@type": "Question", "name": "Can I use it as a digital marketing mock test?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Levels 1–5 cover fundamentals asked in digital marketing course exams and interviews; levels 6–10 cover advanced Google Ads, analytics, attribution and AI topics with real business situations and marketing maths." } },
         { "@type": "Question", "name": "Which languages are supported?", "acceptedAnswer": { "@type": "Answer", "text": "Every question and explanation is available in English, Hinglish and Marathi. You can switch language at any time." } },
-        { "@type": "Question", "name": "How are new AI questions added?", "acceptedAnswer": { "@type": "Answer", "text": "New questions about the latest AI launches and marketing platform updates are generated from current news and added to the game regularly." } }
+        { "@type": "Question", "name": "Do I get a certificate?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — download a free skill-practice certificate for every level you clear and share it on LinkedIn." } }
       ] }
     ]
   }
@@ -52,7 +55,8 @@
       <img src="/favicon.svg" alt="" width="30" height="30" /> <span>DigiCrorepati</span>
     </a>
     <nav class="top-nav" aria-label="Main">
-      <a href="/quiz/" data-i18n="navQuizzes">Quizzes</a>
+      <a href="/quiz/" data-nav="quiz" data-i18n="navQuizzes">Quizzes</a>
+      <a href="/glossary/" data-i18n="navGlossary">Glossary</a>
       <a href="/blog/" data-i18n="navBlog">Blog</a>
     </nav>
     <div class="top-right">
@@ -67,6 +71,8 @@
     </div>
   </header>
 
+  <div id="challengeBar" class="challenge-bar hidden"><span></span><button class="lz lz-gold small" id="acceptChallenge" data-i18n="acceptChallenge">Accept challenge</button></div>
+
   <main>
     <!-- HOME -->
     <section id="home" class="screen active">
@@ -77,8 +83,7 @@
             <radialGradient id="core" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#2f3fd6"/><stop offset="1" stop-color="#070d44"/></radialGradient></defs>
             <circle cx="100" cy="100" r="94" fill="none" stroke="url(#gold)" stroke-width="6"/>
             <circle cx="100" cy="100" r="82" fill="url(#core)" stroke="url(#gold)" stroke-width="2"/>
-            <g stroke="url(#gold)" stroke-width="2" opacity=".55">
-              <path d="M100 18v164M18 100h164M42 42l116 116M158 42 42 158" /></g>
+            <g stroke="url(#gold)" stroke-width="2" opacity=".55"><path d="M100 18v164M18 100h164M42 42l116 116M158 42 42 158" /></g>
             <circle cx="100" cy="100" r="46" fill="#070d44" stroke="url(#gold)" stroke-width="3"/>
             <text x="100" y="94" text-anchor="middle" font-family="Cinzel, serif" font-weight="900" font-size="26" fill="url(#gold)">DM·AI</text>
             <text x="100" y="122" text-anchor="middle" font-family="Cinzel, serif" font-weight="900" font-size="26" fill="url(#gold)">₹1Cr</text>
@@ -86,6 +91,7 @@
         </div>
         <h1 class="title"><span data-i18n="heroTitle">Digital Marketing &amp; AI Quiz</span></h1>
         <p class="sub" data-i18n="heroSub">Answer 10 levels of questions — from Rookie to Legend — and win the virtual ₹1 Crore.</p>
+        <p class="bank-stats" id="bankStats"></p>
         <div class="player-row">
           <label for="playerName" class="sr-only" data-i18n="yourName">Your name</label>
           <input id="playerName" maxlength="24" autocomplete="nickname" data-i18n-ph="yourName" placeholder="Your name" />
@@ -94,10 +100,11 @@
           <button class="lz lz-gold big" id="playBtn"><span data-i18n="play">▶ Play</span></button>
         </div>
         <div class="hero-actions">
-          <button class="lz small" id="playFresh">🔥 <span data-i18n="freshPlay">Latest AI Challenge</span></button>
+          <button class="lz small" id="dailyBtn">📅 <span data-i18n="daily">Daily Challenge</span></button>
           <button class="lz small" id="practiceBtn">🎯 <span data-i18n="practiceTitle">Practice</span></button>
         </div>
-        <p class="fresh-info" id="freshInfo"></p>
+        <p class="fresh-info" id="dailyInfo"></p>
+        <div class="sponsor-slot hidden"></div>
       </div>
 
       <div class="home-grid">
@@ -121,30 +128,31 @@
 
       <!-- Crawlable, keyword-rich content for SEO (also useful for players) -->
       <article class="panel seo-copy" id="about">
-        <h2>Free Digital Marketing & AI Quiz – Mock Test Online</h2>
-        <p><strong>DigiCrorepati</strong> is a free, game-style <strong>digital marketing quiz</strong> and <strong>AI quiz</strong> built for students, job seekers, freelancers and working marketers in India. It works like a mock test for digital marketing course exams, certification practice (Google Ads, Google Analytics 4, Meta) and <strong>digital marketing interview questions</strong> — but it's played on a quiz-show prize ladder.</p>
+        <h2>Free Digital Marketing & AI Quiz – 1,000+ Questions, Mock Test Online</h2>
+        <p><strong>DigiCrorepati</strong> is a free, game-style <strong>digital marketing quiz</strong> and <strong>AI quiz</strong> for students, job seekers, freelancers and working marketers in India. Use it as a <strong>digital marketing mock test</strong>, for Google Ads and GA4 certification practice, or to prepare for <strong>digital marketing interview questions</strong> — all on a quiz-show prize ladder.</p>
         <h3>How the 10 levels work</h3>
         <ul>
-          <li><strong>Levels 1–3 (Rookie → Practitioner):</strong> SEO basics, CTR, CTA, organic vs paid traffic, GA4 engagement rate, UTM tags, ROAS, what an LLM is, tokens, prompts and hallucinations.</li>
-          <li><strong>Levels 4–6 (Specialist → Expert):</strong> Core Web Vitals (INP), canonical and hreflang tags, email deliverability (SPF/DKIM/DMARC), Smart Bidding, E-E-A-T, RAG, embeddings, context windows, prompt injection and MCP.</li>
-          <li><strong>Levels 7–10 (Master → Legend):</strong> Conversions API, incrementality testing, Marketing Mix Modeling, Consent Mode v2, India's DPDP Act, LoRA, quantization, KV cache, speculative decoding and real business <em>situation questions</em>.</li>
+          <li><strong>Levels 1–3 (Rookie → Practitioner):</strong> SEO basics, CTR, CTA, organic vs paid, GA4 engagement, UTM tags, ROAS, what an LLM is, tokens, prompts and hallucinations.</li>
+          <li><strong>Levels 4–6 (Specialist → Expert):</strong> Core Web Vitals, canonical & hreflang, email deliverability, Smart Bidding, Meta Ads, E-E-A-T, RAG, embeddings and prompt injection.</li>
+          <li><strong>Levels 7–10 (Master → Legend):</strong> Conversions API, incrementality, MMM, Consent Mode, DPDP Act, unit economics, LoRA, quantization, KV cache and hard <em>situation questions</em>.</li>
         </ul>
+        <h3>Marketing maths with unlimited practice</h3>
+        <p>Practise the calculations interviewers love — CTR, CPC, CPM, CPA, ROAS, ROI, break-even ROAS, LTV:CAC, CAC payback and ad budget planning. Every maths question uses fresh numbers, so you never run out.</p>
+        <h3>Daily challenge, friend challenges and certificates</h3>
+        <p>Play the 10-question <em>Daily Challenge</em> to build a streak, challenge a friend to the exact same questions, and download a free certificate for every level you clear.</p>
         <h3>Explanations in English, Hinglish and Marathi</h3>
-        <p>Every answer — right or wrong — comes with a short explanation, so you learn while you play. Switch between English, Hinglish (Hindi in Roman letters) and Marathi (मराठी) any time. It's one of the few <strong>Marathi digital marketing quizzes</strong> online.</p>
-        <h3>Always up to date</h3>
-        <p>AI moves fast. The <em>Latest AI Challenge</em> adds new questions about recent AI model launches and ad-platform updates, generated from current news.</p>
+        <p>Every answer comes with a short explanation. Switch between English, Hinglish and Marathi (मराठी) any time — one of the few <strong>Marathi digital marketing quizzes</strong> online.</p>
         <h3>Explore by topic</h3>
         <p>
-          <a href="/quiz/digital-marketing-quiz">Digital Marketing Quiz</a> ·
-          <a href="/quiz/ai-llm-quiz">AI & LLM Quiz</a> ·
-          <a href="/quiz/seo-web-tech-quiz">SEO & Web Tech Quiz</a> ·
-          <a href="/quiz/digital-marketing-situation-questions">Situation-Based Questions</a> ·
-          <a href="/blog/">Study guides & blog</a>
+          <a href="/quiz/seo">SEO Quiz</a> · <a href="/quiz/google-ads-ppc">Google Ads Quiz</a> · <a href="/quiz/social-media-marketing">Social Media Quiz</a> ·
+          <a href="/quiz/analytics-cro">Analytics Quiz</a> · <a href="/quiz/content-email-crm">Content & Email Quiz</a> · <a href="/quiz/ai-llm-basics">AI & LLM Quiz</a> ·
+          <a href="/quiz/advanced-ai-llm">Advanced AI Quiz</a> · <a href="/quiz/web-tech-ecommerce">Web & E-commerce Quiz</a> ·
+          <a href="/quiz/digital-marketing-situation-questions">Situation-Based Questions</a> · <a href="/glossary/">Glossary</a> · <a href="/blog/">Study guides</a>
         </p>
         <h3>FAQ</h3>
         <details><summary>Is it free?</summary><p>Yes — completely free, no sign-up required.</p></details>
-        <details><summary>Can I use it to prepare for interviews or exams?</summary><p>Yes. Each topic page lists all questions with answers and explanations, and the game tests you under time pressure.</p></details>
-        <details><summary>Is the ₹1 Crore real?</summary><p>No — prize amounts are virtual points for fun. What you win is knowledge (and a spot on the leaderboard).</p></details>
+        <details><summary>Can I use it to prepare for interviews or exams?</summary><p>Yes. Each topic page lists questions with answers and explanations, and the game tests you under time pressure.</p></details>
+        <details><summary>Is the ₹1 Crore real?</summary><p>No — prize amounts are virtual points for fun. What you win is knowledge, a certificate and a spot on the leaderboard.</p></details>
       </article>
     </section>
 
@@ -161,6 +169,7 @@
             </div>
             <div class="timer-ring" id="timerRing"><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="19" class="track"/><circle cx="22" cy="22" r="19" class="bar" id="timerCircle"/></svg><b id="timerNum">45</b></div>
           </div>
+          <button class="reward-btn hidden" id="rewardBtn"></button>
 
           <div class="round-info">
             <div class="quiz-title" id="quizTitle"></div>
@@ -176,9 +185,7 @@
           <div id="feedback" class="feedback hidden">
             <div id="fbTitle" class="fb-title"></div>
             <p id="fbText"></p>
-            <div id="aiExplain" class="ai-explain hidden"></div>
             <div class="row">
-              <button class="lz small" id="deeperBtn">🤖 <span data-i18n="explainDeeper">Explain deeper (AI)</span></button>
               <button class="lz lz-gold small" id="nextBtn" data-i18n="next">Next →</button>
             </div>
           </div>
@@ -203,13 +210,21 @@
           <button class="lz lz-gold small" id="nextLevelBtn" data-i18n="nextLevel">Next level →</button>
           <button class="lz small" id="homeBtn" data-i18n="home">Home</button>
         </div>
+        <div class="row center">
+          <button class="pill-btn" id="shareCardBtn" data-i18n="shareCard">🖼️ Share score card</button>
+          <button class="pill-btn gold" id="certBtn" data-i18n="certificate">🎓 Download certificate</button>
+          <button class="pill-btn" id="challengeBtn" data-i18n="challengeFriend">⚔️ Challenge a friend</button>
+        </div>
         <div class="row center share">
           <span class="hint" data-i18n="share">Challenge your friends:</span>
           <a id="shareWa" target="_blank" rel="noopener" class="share-btn wa">WhatsApp</a>
           <a id="shareLi" target="_blank" rel="noopener" class="share-btn li">LinkedIn</a>
           <a id="shareX" target="_blank" rel="noopener" class="share-btn x">X</a>
         </div>
+        <div class="sponsor-slot hidden"></div>
       </div>
+      <div class="panel hidden" id="leadBox"></div>
+      <div class="panel hidden" id="affiliates"></div>
       <div class="ad-slot" data-slot="result" aria-label="Advertisement"></div>
       <div class="panel">
         <h2 class="panel-title" data-i18n="reviewTitle">📘 Review & explanations</h2>
@@ -218,15 +233,25 @@
     </section>
   </main>
 
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-card panel">
+      <button class="icon-btn modal-close" id="modalClose" aria-label="Close">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+
   <footer class="foot">
     <nav aria-label="Footer">
-      <a href="/quiz/">Quizzes</a> · <a href="/blog/">Blog</a> · <a href="/about">About</a> · <a href="/contact">Contact</a> · <a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms</a>
+      <a href="/quiz/">Quizzes</a> · <a href="/glossary/">Glossary</a> · <a href="/blog/">Blog</a> · <a href="/about">About</a> · <a href="/advertise">Advertise</a> · <a href="/contact">Contact</a> · <a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms</a>
+      <a id="supportLink" class="hidden" target="_blank" rel="noopener"></a>
     </nav>
-    <p data-i18n="footer">Built-in bank + AI-generated questions from live news. Prize money is virtual. Facts change fast — always verify before acting.</p>
+    <p data-i18n="footer">Offline question bank — free forever. Prize money is virtual. Facts change fast — always verify before acting.</p>
   </footer>
 
-  <script src="/questions.js"></script>
+  <script src="/calc.js"></script>
   <script src="/sound.js"></script>
+  <script src="/share.js"></script>
   <script src="/app.js"></script>
 </body>
 </html>

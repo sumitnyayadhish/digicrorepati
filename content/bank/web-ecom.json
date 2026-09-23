@@ -1,0 +1,2777 @@
+[
+ {
+  "id": "web-1",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "In a website address, what does the 'S' in HTTPS stand for?",
+   "hi": "Website address mein HTTPS ke 'S' ka matlab kya hai?",
+   "mr": "वेबसाइट पत्त्यातील HTTPS मधील 'S' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Speed",
+    "Secure",
+    "Server",
+    "Search"
+   ],
+   "hi": [
+    "Speed",
+    "Secure",
+    "Server",
+    "Search"
+   ],
+   "mr": [
+    "Speed",
+    "Secure",
+    "Server",
+    "Search"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "HTTPS = HyperText Transfer Protocol Secure. Data between the browser and the website is encrypted using TLS (still commonly called SSL). It is not about speed or search.",
+   "hi": "HTTPS = HyperText Transfer Protocol Secure. Browser aur website ke beech ka data TLS (jise log abhi bhi SSL bolte hain) se encrypt hota hai. Iska speed ya search se lena-dena nahi.",
+   "mr": "HTTPS = HyperText Transfer Protocol Secure. Browser आणि वेबसाइटमधील data TLS (ज्याला अजूनही SSL म्हणतात) ने encrypt होतो. याचा speed किंवा search शी संबंध नाही."
+  }
+ },
+ {
+  "id": "web-2",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is the main job of DNS (Domain Name System)?",
+   "hi": "DNS (Domain Name System) ka main kaam kya hai?",
+   "mr": "DNS (Domain Name System) चे मुख्य काम काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "Storing your website's images and files",
+    "Encrypting passwords on your website",
+    "Translating domain names into IP addresses",
+    "Ranking websites in Google search"
+   ],
+   "hi": [
+    "Website ki images aur files store karna",
+    "Website pe passwords encrypt karna",
+    "Domain names ko IP addresses mein translate karna",
+    "Google search mein websites ko rank karna"
+   ],
+   "mr": [
+    "वेबसाइटच्या images आणि files store करणे",
+    "वेबसाइटवरील passwords encrypt करणे",
+    "Domain names चे IP addresses मध्ये भाषांतर करणे",
+    "Google search मध्ये वेबसाइट्सना rank करणे"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "DNS is like the internet's phonebook: it turns a name like mybakery.in into the IP address of the server. Storing files is the hosting's job, not DNS.",
+   "hi": "DNS internet ki phonebook jaisa hai: mybakery.in jaise naam ko server ke IP address mein badalta hai. Files store karna hosting ka kaam hai, DNS ka nahi.",
+   "mr": "DNS हे internet चे phonebook आहे: mybakery.in सारखे नाव server च्या IP address मध्ये बदलते. Files store करणे हे hosting चे काम आहे, DNS चे नाही."
+  }
+ },
+ {
+  "id": "web-3",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "WordPress is best described as a…",
+   "hi": "WordPress ko best kis tarah describe karenge?",
+   "mr": "WordPress चे सर्वात योग्य वर्णन कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Web browser",
+    "Domain registrar",
+    "Payment gateway",
+    "Content Management System (CMS)"
+   ],
+   "hi": [
+    "Web browser",
+    "Domain registrar",
+    "Payment gateway",
+    "Content Management System (CMS)"
+   ],
+   "mr": [
+    "Web browser",
+    "Domain registrar",
+    "Payment gateway",
+    "Content Management System (CMS)"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "A CMS lets you create and edit website pages and blog posts without coding. WordPress is the most widely used CMS; you still need a domain and hosting separately (unless you use WordPress.com).",
+   "hi": "CMS se bina coding ke website pages aur blogs banaye/edit kiye ja sakte hain. WordPress sabse popular CMS hai; domain aur hosting alag se chahiye (WordPress.com use na karo toh).",
+   "mr": "CMS मुळे coding न करता वेबसाइट pages आणि blogs तयार/edit करता येतात. WordPress हा सर्वात लोकप्रिय CMS आहे; domain आणि hosting वेगळे लागतात (WordPress.com वापरत नसाल तर)."
+  }
+ },
+ {
+  "id": "web-4",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does HTML stand for?",
+   "hi": "HTML ka full form kya hai?",
+   "mr": "HTML चे पूर्ण रूप काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "HyperText Markup Language",
+    "High Traffic Marketing Link",
+    "Home Tool Markup Language",
+    "HyperText Media Loader"
+   ],
+   "hi": [
+    "HyperText Markup Language",
+    "High Traffic Marketing Link",
+    "Home Tool Markup Language",
+    "HyperText Media Loader"
+   ],
+   "mr": [
+    "HyperText Markup Language",
+    "High Traffic Marketing Link",
+    "Home Tool Markup Language",
+    "HyperText Media Loader"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "HTML = HyperText Markup Language. It gives a web page its structure: headings, paragraphs, links, images and forms. CSS handles the look; JavaScript adds interactivity.",
+   "hi": "HTML = HyperText Markup Language. Yeh page ka structure banata hai: headings, paragraphs, links, images, forms. Look CSS se aata hai, interactivity JavaScript se.",
+   "mr": "HTML = HyperText Markup Language. हे page ची रचना ठरवते: headings, paragraphs, links, images, forms. दिसणे CSS ठरवते आणि interactivity JavaScript देते."
+  }
+ },
+ {
+  "id": "web-5",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "How is AOV (Average Order Value) calculated?",
+   "hi": "AOV (Average Order Value) kaise calculate karte hain?",
+   "mr": "AOV (Average Order Value) कसा काढतात?"
+  },
+  "opts": {
+   "en": [
+    "Total orders ÷ total visitors",
+    "Total revenue ÷ number of orders",
+    "Total revenue ÷ number of visitors",
+    "Ad spend ÷ number of orders"
+   ],
+   "hi": [
+    "Total orders ÷ total visitors",
+    "Total revenue ÷ number of orders",
+    "Total revenue ÷ number of visitors",
+    "Ad spend ÷ number of orders"
+   ],
+   "mr": [
+    "Total orders ÷ total visitors",
+    "Total revenue ÷ number of orders",
+    "Total revenue ÷ number of visitors",
+    "Ad spend ÷ number of orders"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "AOV = revenue ÷ orders. ₹2,00,000 from 400 orders = ₹500 AOV. Orders ÷ visitors is conversion rate; revenue ÷ visitors is revenue per visitor.",
+   "hi": "AOV = revenue ÷ orders. 400 orders se ₹2,00,000 = ₹500 AOV. Orders ÷ visitors conversion rate hai; revenue ÷ visitors revenue per visitor hai.",
+   "mr": "AOV = revenue ÷ orders. 400 orders मधून ₹2,00,000 = ₹500 AOV. Orders ÷ visitors म्हणजे conversion rate; revenue ÷ visitors म्हणजे revenue per visitor."
+  }
+ },
+ {
+  "id": "web-6",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In Indian digital payments, what does UPI stand for?",
+   "hi": "Indian digital payments mein UPI ka full form kya hai?",
+   "mr": "भारतीय digital payments मध्ये UPI चे पूर्ण रूप काय?"
+  },
+  "opts": {
+   "en": [
+    "Universal Payment Index",
+    "United Payment Interchange",
+    "Unified Payments Interface",
+    "User Pay Integration"
+   ],
+   "hi": [
+    "Universal Payment Index",
+    "United Payment Interchange",
+    "Unified Payments Interface",
+    "User Pay Integration"
+   ],
+   "mr": [
+    "Universal Payment Index",
+    "United Payment Interchange",
+    "Unified Payments Interface",
+    "User Pay Integration"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "UPI = Unified Payments Interface, built by NPCI. It lets customers pay instantly from their bank account via apps like PhonePe, Google Pay or Paytm, which is why checkouts in India show UPI prominently.",
+   "hi": "UPI = Unified Payments Interface, jo NPCI ne banaya. Customer PhonePe, Google Pay, Paytm jaise apps se seedha bank account se turant pay karta hai — isliye Indian checkout mein UPI upar dikhaya jata hai.",
+   "mr": "UPI = Unified Payments Interface, जे NPCI ने बनवले. ग्राहक PhonePe, Google Pay, Paytm सारख्या apps मधून थेट bank account मधून लगेच pay करतो — म्हणून भारतीय checkout मध्ये UPI ठळक दिसते."
+  }
+ },
+ {
+  "id": "web-7",
+  "level": 1,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In Indian e-commerce, what does COD mean?",
+   "hi": "Indian e-commerce mein COD ka matlab kya hai?",
+   "mr": "भारतीय e-commerce मध्ये COD म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Cost of Delivery",
+    "Customer Order Discount",
+    "Code of Dispatch",
+    "Cash on Delivery"
+   ],
+   "hi": [
+    "Cost of Delivery",
+    "Customer Order Discount",
+    "Code of Dispatch",
+    "Cash on Delivery"
+   ],
+   "mr": [
+    "Cost of Delivery",
+    "Customer Order Discount",
+    "Code of Dispatch",
+    "Cash on Delivery"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "COD = Cash on Delivery: the customer pays when the parcel arrives. It builds trust for first-time buyers but raises the risk of refused orders, which come back as costly RTO.",
+   "hi": "COD = Cash on Delivery: customer parcel aane pe pay karta hai. Naye buyers ka trust badhta hai, lekin refused orders ka risk bhi badhta hai jo mehenga RTO ban ke wapas aata hai.",
+   "mr": "COD = Cash on Delivery: parcel आल्यावर ग्राहक पैसे देतो. नवीन ग्राहकांचा विश्वास वाढतो, पण order नाकारण्याचा धोका वाढतो, जो महागडा RTO बनून परत येतो."
+  }
+ },
+ {
+  "id": "web-8",
+  "level": 1,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is 2FA (two-factor authentication)?",
+   "hi": "2FA (two-factor authentication) kya hota hai?",
+   "mr": "2FA (two-factor authentication) म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A second check, like an OTP or app code, on top of your password",
+    "Using two different passwords for two websites",
+    "Logging in from two devices at once",
+    "Changing your password twice a year"
+   ],
+   "hi": [
+    "Password ke upar ek second check, jaise OTP ya app code",
+    "Do websites ke liye do alag passwords rakhna",
+    "Ek saath do devices se login karna",
+    "Saal mein do baar password badalna"
+   ],
+   "mr": [
+    "Password सोबत दुसरी तपासणी, जसे OTP किंवा app code",
+    "दोन websites साठी दोन वेगळे passwords ठेवणे",
+    "एकाच वेळी दोन devices वरून login करणे",
+    "वर्षातून दोनदा password बदलणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "2FA asks for something extra besides the password (OTP, authenticator app, security key). Even if a phishing page steals your password, the attacker usually can't log in. Turn it on for Ads, Meta Business and your website admin.",
+   "hi": "2FA password ke alawa kuch extra maangta hai (OTP, authenticator app, security key). Phishing se password chori ho bhi jaye, attacker aam taur pe login nahi kar pata. Ads, Meta Business aur website admin sab pe on karo.",
+   "mr": "2FA password शिवाय आणखी काहीतरी मागते (OTP, authenticator app, security key). Phishing ने password चोरीला गेला तरी attacker सहसा login करू शकत नाही. Ads, Meta Business आणि वेबसाइट admin वर हे चालू ठेवा."
+  }
+ },
+ {
+  "id": "web-9",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "On a website, what is CSS mainly used for?",
+   "hi": "Website pe CSS mainly kis kaam aata hai?",
+   "mr": "वेबसाइटवर CSS मुख्यतः कशासाठी वापरतात?"
+  },
+  "opts": {
+   "en": [
+    "Storing customer data in a database",
+    "Styling: colours, fonts, spacing and layout",
+    "Sending order emails to customers",
+    "Connecting the domain to the server"
+   ],
+   "hi": [
+    "Database mein customer data store karna",
+    "Styling: colours, fonts, spacing aur layout",
+    "Customers ko order emails bhejna",
+    "Domain ko server se connect karna"
+   ],
+   "mr": [
+    "Database मध्ये customer data store करणे",
+    "Styling: रंग, fonts, spacing आणि layout",
+    "ग्राहकांना order emails पाठवणे",
+    "Domain ला server शी जोडणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "CSS (Cascading Style Sheets) controls how HTML looks: colours, fonts, spacing and responsive layouts for mobile. Databases, emails and DNS are handled elsewhere.",
+   "hi": "CSS (Cascading Style Sheets) decide karta hai HTML kaisa dikhega: colours, fonts, spacing, aur mobile ke liye responsive layout. Database, emails, DNS alag cheezein hain.",
+   "mr": "CSS (Cascading Style Sheets) HTML कसे दिसेल ते ठरवते: रंग, fonts, spacing आणि mobile साठी responsive layout. Database, emails, DNS या वेगळ्या गोष्टी आहेत."
+  }
+ },
+ {
+  "id": "web-10",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does 'web hosting' provide?",
+   "hi": "'Web hosting' kya provide karta hai?",
+   "mr": "'Web hosting' काय पुरवते?"
+  },
+  "opts": {
+   "en": [
+    "The name people type, like mybrand.in",
+    "A logo and brand design for the site",
+    "A server that stores your site's files and serves them to visitors",
+    "Paid ads that bring traffic to your site"
+   ],
+   "hi": [
+    "Woh naam jo log type karte hain, jaise mybrand.in",
+    "Site ke liye logo aur brand design",
+    "Ek server jo site ki files store karke visitors ko dikhata hai",
+    "Paid ads jo site pe traffic laate hain"
+   ],
+   "mr": [
+    "लोक type करतात ते नाव, जसे mybrand.in",
+    "साइटसाठी logo आणि brand design",
+    "साइटच्या files साठवून visitors ना दाखवणारा server",
+    "साइटवर traffic आणणाऱ्या paid ads"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Hosting is the server space where your website lives. The domain is just the address; DNS points that address to the hosting server. You need both for a live site.",
+   "hi": "Hosting woh server space hai jahan website rehti hai. Domain sirf address hai; DNS us address ko hosting server tak point karta hai. Live site ke liye dono chahiye.",
+   "mr": "Hosting म्हणजे server वरील जागा जिथे वेबसाइट राहते. Domain फक्त पत्ता आहे; DNS तो पत्ता hosting server कडे वळवतो. Live साइटसाठी दोन्ही लागतात."
+  }
+ },
+ {
+  "id": "web-11",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In e-commerce, what is 'cart abandonment'?",
+   "hi": "E-commerce mein 'cart abandonment' kya hai?",
+   "mr": "E-commerce मध्ये 'cart abandonment' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A customer returning a product after delivery",
+    "A product going out of stock in the cart",
+    "The store deleting old carts every night",
+    "A shopper adding items to cart but leaving without buying"
+   ],
+   "hi": [
+    "Delivery ke baad customer ka product return karna",
+    "Cart mein product ka out of stock ho jana",
+    "Store ka har raat purane carts delete karna",
+    "Shopper ka cart mein items daal ke bina kharide chale jana"
+   ],
+   "mr": [
+    "Delivery नंतर ग्राहकाने product परत करणे",
+    "Cart मधील product out of stock होणे",
+    "Store ने दररोज रात्री जुने carts delete करणे",
+    "Shopper ने cart मध्ये items टाकून न घेता निघून जाणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Cart abandonment = carts created but not purchased. Common causes are surprise shipping costs, forced sign-up and limited payment options. Reminder emails/WhatsApp and a simpler checkout help recover sales.",
+   "hi": "Cart abandonment = cart bana par purchase nahi hua. Common reasons: achanak shipping charge, zabardasti sign-up, kam payment options. Reminder email/WhatsApp aur simple checkout se sales wapas aati hai.",
+   "mr": "Cart abandonment = cart तयार झाला पण खरेदी झाली नाही. सामान्य कारणे: अचानक shipping charge, सक्तीचे sign-up, कमी payment पर्याय. Reminder email/WhatsApp आणि सोपा checkout यामुळे sales परत मिळतात."
+  }
+ },
+ {
+  "id": "web-12",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'phishing'?",
+   "hi": "'Phishing' kya hota hai?",
+   "mr": "'Phishing' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Fake emails or messages that trick you into giving logins or payment details",
+    "A method to find new customers on social media",
+    "Buying email lists to send offers",
+    "Testing two versions of a landing page"
+   ],
+   "hi": [
+    "Fake emails ya messages jo dhokhe se login ya payment details nikalwate hain",
+    "Social media pe naye customers dhoondhne ka tareeka",
+    "Offers bhejne ke liye email lists kharidna",
+    "Landing page ke do versions test karna"
+   ],
+   "mr": [
+    "खोटे emails किंवा messages जे फसवून login किंवा payment details काढून घेतात",
+    "Social media वर नवीन ग्राहक शोधण्याची पद्धत",
+    "Offers पाठवण्यासाठी email lists विकत घेणे",
+    "Landing page च्या दोन versions ची चाचणी"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Phishing messages pretend to be Google, Meta, a bank or a courier and send you to a lookalike login page. Check the real domain, never enter passwords from a link in a message, and use 2FA.",
+   "hi": "Phishing messages Google, Meta, bank ya courier ban ke aate hain aur lookalike login page pe bhejte hain. Asli domain check karo, message ke link se kabhi password mat daalo, aur 2FA use karo.",
+   "mr": "Phishing messages Google, Meta, bank किंवा courier असल्याचे भासवून lookalike login page वर नेतात. खरे domain तपासा, message मधील link वरून कधीही password टाकू नका, आणि 2FA वापरा."
+  }
+ },
+ {
+  "id": "web-13",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is Shopify?",
+   "hi": "Shopify kya hai?",
+   "mr": "Shopify म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A free web browser for online shopping",
+    "A hosted platform to build and run your own online store",
+    "A government marketplace for small sellers",
+    "A courier company for e-commerce parcels"
+   ],
+   "hi": [
+    "Online shopping ke liye free web browser",
+    "Apna online store banane aur chalane ka hosted platform",
+    "Chhote sellers ke liye government marketplace",
+    "E-commerce parcels ki courier company"
+   ],
+   "mr": [
+    "Online shopping साठी मोफत web browser",
+    "स्वतःचे online store तयार करून चालवण्याचा hosted platform",
+    "छोट्या विक्रेत्यांसाठी सरकारी marketplace",
+    "E-commerce parcels साठी courier कंपनी"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Shopify is a subscription (SaaS) e-commerce platform: hosting, checkout, product catalogue and apps are included. Unlike Amazon or Flipkart, it's your own branded store, so you own the customer relationship.",
+   "hi": "Shopify ek subscription (SaaS) e-commerce platform hai: hosting, checkout, product catalogue, apps sab included. Amazon/Flipkart se alag, yeh aapka apna branded store hai, customer relationship aapka hota hai.",
+   "mr": "Shopify हा subscription (SaaS) e-commerce platform आहे: hosting, checkout, product catalogue, apps सर्व समाविष्ट. Amazon/Flipkart पेक्षा वेगळे, हे तुमचे स्वतःचे branded store आहे, ग्राहकाशी नाते तुमचे राहते."
+  }
+ },
+ {
+  "id": "web-14",
+  "level": 2,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "The domain ending '.in' is India's…",
+   "hi": "Domain ending '.in' India ka kya hai?",
+   "mr": "'.in' हा domain शेवट भारताचा काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "Government-only domain",
+    "Internal network domain",
+    "Country-code top-level domain (ccTLD)",
+    "Domain reserved for startups"
+   ],
+   "hi": [
+    "Sirf government ka domain",
+    "Internal network domain",
+    "Country-code top-level domain (ccTLD)",
+    "Startups ke liye reserved domain"
+   ],
+   "mr": [
+    "फक्त सरकारी domain",
+    "Internal network domain",
+    "Country-code top-level domain (ccTLD)",
+    "Startups साठी राखीव domain"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": ".in is India's ccTLD and anyone can register it. It signals an Indian audience. Government sites use .gov.in, which is restricted; .com is a generic TLD.",
+   "hi": ".in India ka ccTLD hai aur koi bhi register kar sakta hai. Yeh Indian audience ka signal deta hai. Government sites .gov.in use karti hain jo restricted hai; .com generic TLD hai.",
+   "mr": ".in हा भारताचा ccTLD आहे आणि कोणीही register करू शकतो. तो भारतीय audience चा संकेत देतो. सरकारी साइट्स .gov.in वापरतात जे मर्यादित आहे; .com हा generic TLD आहे."
+  }
+ },
+ {
+  "id": "web-15",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "How is CAC (Customer Acquisition Cost) usually calculated?",
+   "hi": "CAC (Customer Acquisition Cost) usually kaise calculate hota hai?",
+   "mr": "CAC (Customer Acquisition Cost) सहसा कसा काढतात?"
+  },
+  "opts": {
+   "en": [
+    "Revenue ÷ number of customers",
+    "Ad spend ÷ number of clicks",
+    "Number of customers ÷ marketing spend",
+    "Sales & marketing spend ÷ new customers acquired"
+   ],
+   "hi": [
+    "Revenue ÷ number of customers",
+    "Ad spend ÷ number of clicks",
+    "Number of customers ÷ marketing spend",
+    "Sales & marketing spend ÷ naye customers"
+   ],
+   "mr": [
+    "Revenue ÷ number of customers",
+    "Ad spend ÷ number of clicks",
+    "Number of customers ÷ marketing spend",
+    "Sales & marketing spend ÷ नवीन ग्राहक"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "CAC = spend to acquire customers ÷ new customers won. ₹1,00,000 spend bringing 200 new buyers = ₹500 CAC. Ad spend ÷ clicks is CPC, a much earlier-funnel metric.",
+   "hi": "CAC = customers laane ka kharcha ÷ naye customers. ₹1,00,000 spend se 200 naye buyers = ₹500 CAC. Ad spend ÷ clicks CPC hai, jo funnel ka bahut shuru ka metric hai.",
+   "mr": "CAC = ग्राहक मिळवण्याचा खर्च ÷ नवीन ग्राहक. ₹1,00,000 खर्चातून 200 नवीन buyers = ₹500 CAC. Ad spend ÷ clicks म्हणजे CPC, funnel च्या खूप सुरुवातीचा metric."
+  }
+ },
+ {
+  "id": "web-16",
+  "level": 2,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is a referral program?",
+   "hi": "Referral program kya hota hai?",
+   "mr": "Referral program म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Rewarding existing customers for bringing in new customers",
+    "Paying a celebrity to post about your brand",
+    "Showing ads to people who visited your site",
+    "Listing your products on a marketplace"
+   ],
+   "hi": [
+    "Existing customers ko naye customers laane pe reward dena",
+    "Celebrity ko brand ke baare mein post karne ke paise dena",
+    "Site visit karne walon ko ads dikhana",
+    "Marketplace pe products list karna"
+   ],
+   "mr": [
+    "सध्याच्या ग्राहकांना नवीन ग्राहक आणल्याबद्दल reward देणे",
+    "Celebrity ला brand बद्दल post करण्यासाठी पैसे देणे",
+    "साइटला भेट दिलेल्यांना ads दाखवणे",
+    "Marketplace वर products list करणे"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Referral programs ('Give ₹100, Get ₹100') turn happy customers into an acquisition channel. Referred customers arrive with trust from a friend. Celebrity posts are influencer marketing; ads to past visitors are retargeting.",
+   "hi": "Referral programs ('Give ₹100, Get ₹100') khush customers ko acquisition channel bana dete hain. Dost ke trust ke saath naya customer aata hai. Celebrity post influencer marketing hai; past visitors ko ads retargeting hai.",
+   "mr": "Referral programs ('Give ₹100, Get ₹100') समाधानी ग्राहकांना acquisition channel बनवतात. मित्राच्या विश्वासासह नवीन ग्राहक येतो. Celebrity post म्हणजे influencer marketing; जुन्या visitors ना ads म्हणजे retargeting."
+  }
+ },
+ {
+  "id": "web-17",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "A site shows the padlock icon (HTTPS). What does that actually guarantee?",
+   "hi": "Site pe padlock icon (HTTPS) dikh raha hai. Iski asli guarantee kya hai?",
+   "mr": "साइटवर padlock icon (HTTPS) दिसतोय. याची खरी हमी काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "The business behind the site is genuine and safe",
+    "Data between you and the site is encrypted in transit",
+    "The site has been approved by Google",
+    "The site cannot be hacked"
+   ],
+   "hi": [
+    "Site ke peeche ka business genuine aur safe hai",
+    "Aapke aur site ke beech data transit mein encrypted hai",
+    "Site Google se approved hai",
+    "Site hack nahi ho sakti"
+   ],
+   "mr": [
+    "साइटमागचा व्यवसाय खरा आणि सुरक्षित आहे",
+    "तुमच्या आणि साइटमधील data प्रवासात encrypted आहे",
+    "साइट Google ने मंजूर केली आहे",
+    "साइट hack होऊ शकत नाही"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "The padlock only means the connection is encrypted. Phishing sites can get free certificates too, so a padlock doesn't prove the site is trustworthy — always check the actual domain.",
+   "hi": "Padlock ka matlab sirf itna hai ki connection encrypted hai. Phishing sites ko bhi free certificate mil jata hai, toh padlock trust ka proof nahi — hamesha asli domain check karo.",
+   "mr": "Padlock चा अर्थ फक्त connection encrypted आहे इतकाच. Phishing साइट्सनाही मोफत certificate मिळते, म्हणून padlock विश्वासाचा पुरावा नाही — नेहमी खरे domain तपासा."
+  }
+ },
+ {
+  "id": "web-18",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does a CDN (Content Delivery Network) do for a website?",
+   "hi": "CDN (Content Delivery Network) website ke liye kya karta hai?",
+   "mr": "CDN (Content Delivery Network) वेबसाइटसाठी काय करते?"
+  },
+  "opts": {
+   "en": [
+    "Writes SEO content automatically",
+    "Registers your domain in many countries",
+    "Serves copies of your files from servers close to each visitor",
+    "Blocks all bots from visiting your site"
+   ],
+   "hi": [
+    "Automatically SEO content likhta hai",
+    "Aapka domain kai countries mein register karta hai",
+    "Visitor ke paas wale servers se aapki files ki copies serve karta hai",
+    "Saare bots ko site pe aane se rokta hai"
+   ],
+   "mr": [
+    "आपोआप SEO content लिहिते",
+    "तुमचे domain अनेक देशांत register करते",
+    "प्रत्येक visitor जवळच्या servers वरून तुमच्या files च्या copies देते",
+    "सर्व bots ना साइटवर येण्यापासून रोखते"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "A CDN (e.g. Cloudflare, Akamai, CloudFront) caches images, CSS and JS on servers worldwide, so a user in Nagpur gets files from a nearby location. Result: faster pages and less load on your main server.",
+   "hi": "CDN (jaise Cloudflare, Akamai, CloudFront) images, CSS, JS ko duniya bhar ke servers pe cache karta hai, toh Nagpur ka user paas ki location se files leta hai. Result: fast pages aur main server pe kam load.",
+   "mr": "CDN (उदा. Cloudflare, Akamai, CloudFront) images, CSS, JS जगभरातील servers वर cache करते, त्यामुळे नागपूरच्या user ला जवळच्या ठिकाणाहून files मिळतात. परिणाम: वेगवान pages आणि मुख्य server वर कमी load."
+  }
+ },
+ {
+  "id": "web-19",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does Google's 'mobile-first indexing' mean?",
+   "hi": "Google ki 'mobile-first indexing' ka matlab kya hai?",
+   "mr": "Google च्या 'mobile-first indexing' चा अर्थ काय?"
+  },
+  "opts": {
+   "en": [
+    "Mobile sites get a paid boost in results",
+    "Only apps are indexed, not websites",
+    "Desktop pages are removed from Google",
+    "Google mainly uses your site's mobile version for indexing and ranking"
+   ],
+   "hi": [
+    "Mobile sites ko results mein paid boost milta hai",
+    "Sirf apps index hote hain, websites nahi",
+    "Desktop pages Google se hata diye jaate hain",
+    "Google mainly aapki site ka mobile version indexing aur ranking ke liye use karta hai"
+   ],
+   "mr": [
+    "Mobile साइट्सना results मध्ये paid boost मिळतो",
+    "फक्त apps index होतात, websites नाही",
+    "Desktop pages Google मधून काढले जातात",
+    "Google मुख्यतः तुमच्या साइटचे mobile version indexing आणि ranking साठी वापरते"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "With mobile-first indexing, Googlebot crawls as a smartphone. If your mobile version hides content, reviews or structured data that desktop shows, you can lose rankings — keep content the same on both.",
+   "hi": "Mobile-first indexing mein Googlebot smartphone ban ke crawl karta hai. Agar mobile version mein woh content, reviews ya structured data chhupa hai jo desktop pe hai, toh ranking gir sakti hai — dono pe same content rakho.",
+   "mr": "Mobile-first indexing मध्ये Googlebot smartphone म्हणून crawl करतो. Desktop वर असलेले content, reviews किंवा structured data mobile version मध्ये लपलेले असल्यास ranking घसरू शकते — दोन्हीवर सारखे content ठेवा."
+  }
+ },
+ {
+  "id": "web-20",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What does 'repeat purchase rate' measure?",
+   "hi": "'Repeat purchase rate' kya measure karta hai?",
+   "mr": "'Repeat purchase rate' काय मोजतो?"
+  },
+  "opts": {
+   "en": [
+    "% of customers who bought more than once in a period",
+    "% of orders that were returned",
+    "% of visitors who added to cart",
+    "% of revenue spent on ads"
+   ],
+   "hi": [
+    "Kisi period mein ek se zyada baar kharidne wale customers ka %",
+    "Return hue orders ka %",
+    "Add to cart karne wale visitors ka %",
+    "Ads pe kharch hue revenue ka %"
+   ],
+   "mr": [
+    "ठराविक कालावधीत एकापेक्षा जास्त वेळा खरेदी करणाऱ्या ग्राहकांचा %",
+    "परत आलेल्या orders चा %",
+    "Add to cart करणाऱ्या visitors चा %",
+    "Ads वर खर्च झालेल्या revenue चा %"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Repeat purchase rate = customers with 2+ orders ÷ total customers (for a period). A high rate means the product delivers value and lowers your effective CAC, because repeat orders need little or no ad spend.",
+   "hi": "Repeat purchase rate = 2+ orders wale customers ÷ total customers (kisi period ke liye). High rate matlab product value de raha hai aur effective CAC kam hota hai, kyunki repeat orders pe ad spend kam lagta hai.",
+   "mr": "Repeat purchase rate = 2+ orders असलेले ग्राहक ÷ एकूण ग्राहक (ठराविक कालावधीसाठी). जास्त दर म्हणजे product मूल्य देतो आणि effective CAC कमी होतो, कारण repeat orders ला कमी ad spend लागतो."
+  }
+ },
+ {
+  "id": "web-21",
+  "level": 3,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A Pune bakery's customers say Chrome shows 'Not secure' next to its website address. What should the owner do?",
+   "hi": "Pune ki ek bakery ke customers bolte hain ki Chrome website address ke paas 'Not secure' dikhata hai. Owner ko kya karna chahiye?",
+   "mr": "पुण्यातील एका बेकरीचे ग्राहक सांगतात की Chrome वेबसाइट पत्त्याजवळ 'Not secure' दाखवते. मालकाने काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Ask customers to use a different browser",
+    "Install an SSL/TLS certificate and redirect all HTTP pages to HTTPS",
+    "Buy a new .com domain",
+    "Remove the contact form from the site"
+   ],
+   "hi": [
+    "Customers ko doosra browser use karne bolo",
+    "SSL/TLS certificate install karo aur saare HTTP pages ko HTTPS pe redirect karo",
+    "Naya .com domain kharido",
+    "Site se contact form hata do"
+   ],
+   "mr": [
+    "ग्राहकांना दुसरा browser वापरायला सांगा",
+    "SSL/TLS certificate install करा आणि सर्व HTTP pages HTTPS वर redirect करा",
+    "नवीन .com domain विकत घ्या",
+    "साइटवरून contact form काढून टाका"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Chrome labels plain HTTP pages 'Not secure'. Most hosts offer free certificates (e.g. Let's Encrypt); after installing, 301-redirect HTTP to HTTPS. A new domain wouldn't fix it.",
+   "hi": "Chrome plain HTTP pages ko 'Not secure' dikhata hai. Zyada tar hosts free certificate dete hain (jaise Let's Encrypt); install karke HTTP ko HTTPS pe 301 redirect karo. Naya domain lene se fix nahi hoga.",
+   "mr": "Chrome साध्या HTTP pages ना 'Not secure' दाखवते. बहुतेक hosts मोफत certificate देतात (उदा. Let's Encrypt); install करून HTTP ला HTTPS वर 301 redirect करा. नवीन domain घेतल्याने प्रश्न सुटणार नाही."
+  }
+ },
+ {
+  "id": "web-22",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is a browser cookie?",
+   "hi": "Browser cookie kya hoti hai?",
+   "mr": "Browser cookie म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A virus that slows down your computer",
+    "A pop-up offer shown to new visitors",
+    "A small piece of data a site stores in your browser, e.g. to keep you logged in",
+    "A type of image file used in ads"
+   ],
+   "hi": [
+    "Ek virus jo computer slow karta hai",
+    "Naye visitors ko dikhne wala pop-up offer",
+    "Site ka aapke browser mein store kiya chhota data, jaise login yaad rakhne ke liye",
+    "Ads mein use hone wali image file"
+   ],
+   "mr": [
+    "संगणक मंद करणारा virus",
+    "नवीन visitors ना दिसणारी pop-up offer",
+    "साइटने तुमच्या browser मध्ये साठवलेला छोटा data, उदा. login लक्षात ठेवण्यासाठी",
+    "Ads मध्ये वापरली जाणारी image file"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Cookies are small text values the browser stores and sends back to the site. They power logins, carts and analytics; ad cookies raise privacy concerns, which is why consent banners exist. They are not viruses.",
+   "hi": "Cookies chhote text values hain jo browser store karke site ko wapas bhejta hai. Login, cart aur analytics inse chalte hain; ad cookies se privacy concern hota hai, isliye consent banners hote hain. Yeh virus nahi hain.",
+   "mr": "Cookies म्हणजे browser साठवून साइटला परत पाठवतो ते छोटे text values. Login, cart आणि analytics यावर चालतात; ad cookies मुळे privacy चिंता येते, म्हणून consent banners असतात. हे virus नाहीत."
+  }
+ },
+ {
+  "id": "web-23",
+  "level": 3,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Which DNS record points a domain directly to a server's IPv4 address?",
+   "hi": "Kaunsa DNS record domain ko seedha server ke IPv4 address pe point karta hai?",
+   "mr": "कोणता DNS record domain ला थेट server च्या IPv4 address कडे वळवतो?"
+  },
+  "opts": {
+   "en": [
+    "MX record",
+    "TXT record",
+    "NS record",
+    "A record"
+   ],
+   "hi": [
+    "MX record",
+    "TXT record",
+    "NS record",
+    "A record"
+   ],
+   "mr": [
+    "MX record",
+    "TXT record",
+    "NS record",
+    "A record"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "An A record maps a name to an IPv4 address (AAAA does IPv6). MX records route email, TXT holds verification/SPF text, and NS says which nameservers control the domain.",
+   "hi": "A record naam ko IPv4 address se map karta hai (IPv6 ke liye AAAA). MX email route karta hai, TXT mein verification/SPF text hota hai, aur NS batata hai kaunse nameservers domain control karte hain.",
+   "mr": "A record नावाला IPv4 address शी जोडतो (IPv6 साठी AAAA). MX email route करतो, TXT मध्ये verification/SPF मजकूर असतो, आणि NS सांगतो कोणते nameservers domain नियंत्रित करतात."
+  }
+ },
+ {
+  "id": "web-24",
+  "level": 3,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "How are Amazon 'Sponsored Products' ads mainly charged?",
+   "hi": "Amazon 'Sponsored Products' ads ka charge mainly kaise hota hai?",
+   "mr": "Amazon 'Sponsored Products' ads साठी मुख्यतः कसे पैसे आकारले जातात?"
+  },
+  "opts": {
+   "en": [
+    "Per click (CPC), shown in search results and product pages",
+    "A fixed monthly fee per product",
+    "A share of every organic sale",
+    "Per 1,000 app downloads"
+   ],
+   "hi": [
+    "Per click (CPC), search results aur product pages pe dikhte hain",
+    "Har product ki fixed monthly fee",
+    "Har organic sale ka hissa",
+    "Har 1,000 app downloads pe"
+   ],
+   "mr": [
+    "प्रति click (CPC), search results आणि product pages वर दिसतात",
+    "प्रत्येक product साठी ठराविक मासिक शुल्क",
+    "प्रत्येक organic sale चा वाटा",
+    "प्रति 1,000 app downloads"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Sponsored Products are keyword/product-targeted CPC ads that appear in Amazon search results and on product detail pages. Sellers track ACoS (ad spend ÷ ad-attributed sales) to judge them.",
+   "hi": "Sponsored Products keyword/product-targeted CPC ads hain jo Amazon search results aur product detail pages pe dikhte hain. Sellers inhe ACoS (ad spend ÷ ad-attributed sales) se judge karte hain.",
+   "mr": "Sponsored Products हे keyword/product-targeted CPC ads आहेत जे Amazon search results आणि product detail pages वर दिसतात. Sellers ते ACoS (ad spend ÷ ad-attributed sales) ने मोजतात."
+  }
+ },
+ {
+  "id": "web-25",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What is a webhook?",
+   "hi": "Webhook kya hota hai?",
+   "mr": "Webhook म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A hidden link used to boost SEO",
+    "An automatic message one app sends to a URL when an event happens, e.g. new order",
+    "A browser plug-in that blocks ads",
+    "A hook line used at the start of a Reel"
+   ],
+   "hi": [
+    "SEO boost karne ke liye chhupa link",
+    "Event hone pe ek app ka ek URL pe automatic message bhejna, jaise new order",
+    "Ads block karne wala browser plug-in",
+    "Reel ki shuruaat mein use hone wali hook line"
+   ],
+   "mr": [
+    "SEO वाढवण्यासाठी लपवलेली link",
+    "Event घडल्यावर एका app ने URL वर पाठवलेला automatic message, उदा. new order",
+    "Ads block करणारे browser plug-in",
+    "Reel च्या सुरुवातीची hook line"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A webhook pushes data the moment something happens: Shopify or Razorpay can POST 'order paid' to your CRM or WhatsApp tool instantly. With a normal API, your system would have to keep asking (polling).",
+   "hi": "Webhook event hote hi data push karta hai: Shopify ya Razorpay 'order paid' turant aapke CRM ya WhatsApp tool ko POST kar sakte hain. Normal API mein aapke system ko baar-baar poochna (polling) padta.",
+   "mr": "Webhook घटना घडताच data push करतो: Shopify किंवा Razorpay 'order paid' लगेच तुमच्या CRM किंवा WhatsApp tool ला POST करू शकतात. साध्या API मध्ये तुमच्या system ला वारंवार विचारावे (polling) लागते."
+  }
+ },
+ {
+  "id": "web-26",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "In simple terms, what is an API?",
+   "hi": "Simple words mein API kya hai?",
+   "mr": "सोप्या शब्दांत API म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A design template for landing pages",
+    "A type of paid ad on Google",
+    "A defined way for one software to request data or actions from another",
+    "A tool that checks website grammar"
+   ],
+   "hi": [
+    "Landing pages ka design template",
+    "Google pe ek type ka paid ad",
+    "Ek software ka doosre software se data ya action maangne ka fixed tareeka",
+    "Website ki grammar check karne wala tool"
+   ],
+   "mr": [
+    "Landing pages साठी design template",
+    "Google वरील एक प्रकारची paid ad",
+    "एका software ने दुसऱ्याकडून data किंवा action मागण्याचा ठरलेला मार्ग",
+    "वेबसाइटचे व्याकरण तपासणारे tool"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "API = Application Programming Interface. Example: your website asks a courier's API for delivery charges by PIN code, or pulls ad results from the Google Ads API into a dashboard.",
+   "hi": "API = Application Programming Interface. Example: website courier ke API se PIN code ke hisaab se delivery charge poochti hai, ya dashboard Google Ads API se ad results kheenchta hai.",
+   "mr": "API = Application Programming Interface. उदा. वेबसाइट courier च्या API कडून PIN code नुसार delivery charge विचारते, किंवा dashboard Google Ads API मधून ad results आणतो."
+  }
+ },
+ {
+  "id": "web-27",
+  "level": 4,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In Indian e-commerce logistics, what is RTO?",
+   "hi": "Indian e-commerce logistics mein RTO kya hai?",
+   "mr": "भारतीय e-commerce logistics मध्ये RTO म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Regional Transport Office approval for delivery vans",
+    "Rate of Transaction Online",
+    "Return Ticket Order raised by the customer",
+    "Return to Origin: undelivered parcel shipped back to the seller"
+   ],
+   "hi": [
+    "Delivery vans ke liye Regional Transport Office approval",
+    "Rate of Transaction Online",
+    "Customer ka raise kiya Return Ticket Order",
+    "Return to Origin: undelivered parcel seller ko wapas bhejna"
+   ],
+   "mr": [
+    "Delivery vans साठी Regional Transport Office मंजुरी",
+    "Rate of Transaction Online",
+    "ग्राहकाने raise केलेला Return Ticket Order",
+    "Return to Origin: न पोहोचलेले parcel विक्रेत्याकडे परत पाठवणे"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "RTO = Return to Origin: the parcel couldn't be delivered (refused COD, wrong address, customer unreachable) and returns to the seller. You pay forward and return shipping and earn nothing, so RTO% hits margins hard.",
+   "hi": "RTO = Return to Origin: parcel deliver nahi hua (COD refuse, galat address, customer unreachable) aur seller ko wapas aaya. Aane-jaane ka shipping aap dete ho aur kamaai zero, isliye RTO% margin ko bahut maarta hai.",
+   "mr": "RTO = Return to Origin: parcel पोहोचले नाही (COD नाकारले, चुकीचा पत्ता, ग्राहक संपर्कात नाही) आणि विक्रेत्याकडे परत आले. जाण्या-येण्याचे shipping तुम्ही भरता आणि कमाई शून्य, म्हणून RTO% margin ला मोठा फटका देतो."
+  }
+ },
+ {
+  "id": "web-28",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A coaching institute sells ₹1,500 study kits online. 35% of COD orders are refused at the door. What's the best first step?",
+   "hi": "Ek coaching institute online ₹1,500 ke study kits bechta hai. 35% COD orders door pe refuse ho jaate hain. Best first step kya hai?",
+   "mr": "एक coaching institute online ₹1,500 चे study kits विकते. 35% COD orders दारात नाकारल्या जातात. सर्वोत्तम पहिले पाऊल कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Confirm COD orders via WhatsApp/call before dispatch and offer a small prepaid discount",
+    "Stop selling online and move to walk-in sales only",
+    "Switch to a more expensive courier partner",
+    "Increase ad spend to get more COD orders"
+   ],
+   "hi": [
+    "Dispatch se pehle WhatsApp/call se COD orders confirm karo aur prepaid pe chhota discount do",
+    "Online bechna band karo, sirf walk-in sales rakho",
+    "Zyada mehenga courier partner le lo",
+    "Zyada COD orders ke liye ad spend badhao"
+   ],
+   "mr": [
+    "Dispatch आधी WhatsApp/call ने COD orders confirm करा आणि prepaid वर छोटी सूट द्या",
+    "Online विक्री बंद करून फक्त walk-in विक्री ठेवा",
+    "जास्त महाग courier partner घ्या",
+    "जास्त COD orders साठी ad spend वाढवा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Order confirmation filters out impulse and fake orders before you pay shipping, and a prepaid nudge (e.g. ₹50 off on UPI) shifts buyers to payments that can't be refused. More ads would just buy more RTO.",
+   "hi": "Order confirmation se impulse aur fake orders shipping kharch se pehle hi filter ho jaate hain, aur prepaid nudge (jaise UPI pe ₹50 off) buyers ko aise payment pe le jata hai jo refuse nahi ho sakta. Zyada ads se bas zyada RTO aayega.",
+   "mr": "Order confirmation मुळे impulse आणि खोट्या orders shipping खर्चाआधीच गाळल्या जातात, आणि prepaid nudge (उदा. UPI वर ₹50 सूट) ग्राहकांना नाकारता न येणाऱ्या payment कडे वळवते. जास्त ads मुळे फक्त जास्त RTO येईल."
+  }
+ },
+ {
+  "id": "web-29",
+  "level": 4,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is 'contribution margin' per order in D2C?",
+   "hi": "D2C mein per order 'contribution margin' kya hota hai?",
+   "mr": "D2C मध्ये प्रति order 'contribution margin' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Total revenue including GST",
+    "Revenue minus variable costs like product cost, shipping and payment fees",
+    "Profit after rent, salaries and all fixed costs",
+    "The discount given on each order"
+   ],
+   "hi": [
+    "GST ke saath total revenue",
+    "Revenue minus variable costs jaise product cost, shipping, payment fees",
+    "Rent, salaries aur saare fixed costs ke baad profit",
+    "Har order pe diya gaya discount"
+   ],
+   "mr": [
+    "GST सह एकूण revenue",
+    "Revenue वजा variable costs जसे product cost, shipping, payment fees",
+    "भाडे, पगार आणि सर्व fixed costs नंतरचा नफा",
+    "प्रत्येक order वर दिलेली सूट"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Contribution margin = what each order 'contributes' after costs that scale with orders (COGS, packaging, shipping, gateway fees, returns). Fixed costs like rent come later, in net profit. It decides how much CAC you can afford.",
+   "hi": "Contribution margin = har order se, order ke saath badhne wale costs (COGS, packaging, shipping, gateway fees, returns) ke baad bacha hissa. Rent jaise fixed costs baad mein net profit mein aate hain. Isi se decide hota hai kitna CAC afford kar sakte ho.",
+   "mr": "Contribution margin = order सोबत वाढणारे खर्च (COGS, packaging, shipping, gateway fees, returns) वजा करून प्रत्येक order चा उरलेला वाटा. भाड्यासारखे fixed costs नंतर net profit मध्ये येतात. किती CAC परवडेल हे यावरून ठरते."
+  }
+ },
+ {
+  "id": "web-30",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Shopify asks you to point 'www' to shops.myshopify.com. Which DNS record type points one hostname to another hostname?",
+   "hi": "Shopify bolta hai 'www' ko shops.myshopify.com pe point karo. Kaunsa DNS record ek hostname ko doosre hostname pe point karta hai?",
+   "mr": "Shopify 'www' ला shops.myshopify.com कडे point करायला सांगते. कोणता DNS record एका hostname ला दुसऱ्या hostname कडे वळवतो?"
+  },
+  "opts": {
+   "en": [
+    "MX record",
+    "A record",
+    "CNAME record",
+    "SPF record"
+   ],
+   "hi": [
+    "MX record",
+    "A record",
+    "CNAME record",
+    "SPF record"
+   ],
+   "mr": [
+    "MX record",
+    "A record",
+    "CNAME record",
+    "SPF record"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "A CNAME is an alias: www.mybrand.in → shops.myshopify.com. If the platform later changes its IPs, your site keeps working. An A record needs a fixed IP; MX is for email.",
+   "hi": "CNAME ek alias hai: www.mybrand.in → shops.myshopify.com. Platform baad mein IP badle toh bhi site chalti rahegi. A record ko fixed IP chahiye; MX email ke liye hai.",
+   "mr": "CNAME हा alias आहे: www.mybrand.in → shops.myshopify.com. Platform ने नंतर IP बदलला तरी साइट चालू राहते. A record ला ठराविक IP लागतो; MX email साठी आहे."
+  }
+ },
+ {
+  "id": "web-31",
+  "level": 4,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C snacks brand has an AOV of ₹620 and offers free shipping on all orders. It wants to raise AOV without hurting conversion much. Best move?",
+   "hi": "Ek D2C snacks brand ka AOV ₹620 hai aur sab orders pe free shipping hai. Conversion zyada hurt kiye bina AOV badhana hai. Best move?",
+   "mr": "एका D2C snacks brand चा AOV ₹620 आहे आणि सर्व orders वर free shipping आहे. Conversion ला फारसा धक्का न देता AOV वाढवायचा आहे. सर्वोत्तम पाऊल?"
+  },
+  "opts": {
+   "en": [
+    "Raise all prices by 30% overnight",
+    "Set a minimum order value of ₹2,000",
+    "Remove smaller pack sizes from the site",
+    "Set free shipping from about ₹799 and suggest relevant add-ons in the cart"
+   ],
+   "hi": [
+    "Raaton-raat saari prices 30% badha do",
+    "₹2,000 ka minimum order value laga do",
+    "Site se chhote pack sizes hata do",
+    "Lagbhag ₹799 se free shipping rakho aur cart mein relevant add-ons suggest karo"
+   ],
+   "mr": [
+    "रातोरात सर्व किंमती 30% वाढवा",
+    "₹2,000 चा minimum order value ठेवा",
+    "साइटवरून छोटे pack sizes काढा",
+    "सुमारे ₹799 पासून free shipping ठेवा आणि cart मध्ये संबंधित add-ons सुचवा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "A free-shipping threshold a little above current AOV nudges shoppers to add one more item, and add-on suggestions make that easy. A ₹2,000 minimum or sudden 30% price hike would kill conversion.",
+   "hi": "Current AOV se thoda upar free-shipping threshold shoppers ko ek aur item add karne ke liye nudge karta hai, aur add-on suggestions isse aasaan banate hain. ₹2,000 minimum ya achanak 30% price hike conversion khatam kar dega.",
+   "mr": "सध्याच्या AOV पेक्षा थोडा वर free-shipping threshold ग्राहकांना आणखी एक item घ्यायला प्रवृत्त करतो, आणि add-on सूचना ते सोपे करतात. ₹2,000 minimum किंवा अचानक 30% दरवाढ conversion संपवेल."
+  }
+ },
+ {
+  "id": "web-32",
+  "level": 4,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What's a key difference between cookies and localStorage in a browser?",
+   "hi": "Browser mein cookies aur localStorage mein key difference kya hai?",
+   "mr": "Browser मधील cookies आणि localStorage मध्ये मुख्य फरक काय?"
+  },
+  "opts": {
+   "en": [
+    "Cookies are sent to the server with requests; localStorage stays in the browser",
+    "localStorage is sent with every request; cookies never leave the browser",
+    "Cookies can store more data than localStorage",
+    "localStorage is deleted every time the tab closes"
+   ],
+   "hi": [
+    "Cookies requests ke saath server ko jaati hain; localStorage browser mein hi rehta hai",
+    "localStorage har request ke saath jaata hai; cookies browser se bahar nahi jaati",
+    "Cookies localStorage se zyada data store kar sakti hain",
+    "Tab band hote hi localStorage delete ho jaata hai"
+   ],
+   "mr": [
+    "Cookies requests सोबत server ला जातात; localStorage browser मध्येच राहते",
+    "localStorage प्रत्येक request सोबत जाते; cookies browser बाहेर जात नाहीत",
+    "Cookies मध्ये localStorage पेक्षा जास्त data साठवता येतो",
+    "Tab बंद होताच localStorage delete होते"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Cookies (a few KB each) travel with HTTP requests, so servers use them for logins and sessions. localStorage holds more data (typically a few MB), is read only by page scripts, and persists until cleared. sessionStorage is the one that clears when the tab closes.",
+   "hi": "Cookies (kuch KB) HTTP requests ke saath jaati hain, isliye server login/session ke liye use karta hai. localStorage zyada data (aam taur pe kuch MB) rakhta hai, sirf page scripts padhti hain, aur clear karne tak rehta hai. Tab band hone pe sessionStorage clear hota hai.",
+   "mr": "Cookies (काही KB) HTTP requests सोबत जातात, म्हणून server login/session साठी वापरतो. localStorage जास्त data (सहसा काही MB) ठेवते, फक्त page scripts वाचतात, आणि clear करेपर्यंत राहते. Tab बंद झाल्यावर sessionStorage clear होते."
+  }
+ },
+ {
+  "id": "web-33",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What is ONDC (Open Network for Digital Commerce)?",
+   "hi": "ONDC (Open Network for Digital Commerce) kya hai?",
+   "mr": "ONDC (Open Network for Digital Commerce) म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "A government-owned shopping app like Amazon",
+    "A government-backed open network letting buyer apps and seller apps work together",
+    "A new UPI app for merchants",
+    "A tax filing portal for online sellers"
+   ],
+   "hi": [
+    "Amazon jaisa government-owned shopping app",
+    "Government-backed open network jisme buyer apps aur seller apps ek saath kaam karte hain",
+    "Merchants ke liye naya UPI app",
+    "Online sellers ke liye tax filing portal"
+   ],
+   "mr": [
+    "Amazon सारखे सरकारी shopping app",
+    "सरकार-समर्थित open network ज्यात buyer apps आणि seller apps एकत्र काम करतात",
+    "Merchants साठी नवीन UPI app",
+    "Online sellers साठी tax filing portal"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "ONDC, an initiative backed by DPIIT, is a network protocol, not a single app. A seller listed via one seller app can be discovered by shoppers on different buyer apps, similar to how UPI connects different payment apps.",
+   "hi": "ONDC, DPIIT-backed initiative, ek network protocol hai, single app nahi. Ek seller app pe listed seller alag-alag buyer apps pe shoppers ko dikh sakta hai — jaise UPI alag payment apps ko jodta hai.",
+   "mr": "ONDC, DPIIT-समर्थित उपक्रम, हा network protocol आहे, एकच app नाही. एका seller app वर listed विक्रेता वेगवेगळ्या buyer apps वरील ग्राहकांना दिसू शकतो — जसे UPI वेगवेगळ्या payment apps ना जोडते."
+  }
+ },
+ {
+  "id": "web-34",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In D2C unit economics, what is 'CAC payback period'?",
+   "hi": "D2C unit economics mein 'CAC payback period' kya hai?",
+   "mr": "D2C unit economics मध्ये 'CAC payback period' म्हणजे काय?"
+  },
+  "opts": {
+   "en": [
+    "Days taken for the payment gateway to settle money",
+    "Time until the ad platform refunds unused budget",
+    "Time for a customer's contribution margin to cover the cost of acquiring them",
+    "Months until the product's warranty expires"
+   ],
+   "hi": [
+    "Payment gateway ko paisa settle karne mein lagne wale din",
+    "Ad platform ka unused budget refund karne tak ka time",
+    "Customer ke contribution margin se unka acquisition cost cover hone ka time",
+    "Product ki warranty khatam hone tak ke mahine"
+   ],
+   "mr": [
+    "Payment gateway ला पैसे settle करायला लागणारे दिवस",
+    "Ad platform न वापरलेले budget परत करेपर्यंतचा वेळ",
+    "ग्राहकाच्या contribution margin ने त्याचा acquisition cost भरून निघण्याचा वेळ",
+    "Product ची warranty संपेपर्यंतचे महिने"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Payback = how long until cumulative contribution from a customer's orders equals CAC. Short payback means you can recycle cash into growth quickly; long payback needs more funding even if LTV looks great.",
+   "hi": "Payback = customer ke orders ka cumulative contribution CAC ke barabar hone mein kitna time lagta hai. Short payback matlab cash jaldi growth mein wapas laga sakte ho; long payback mein LTV achha ho tab bhi zyada funding chahiye.",
+   "mr": "Payback = ग्राहकाच्या orders मधील एकूण contribution CAC इतके होण्यास लागणारा वेळ. कमी payback म्हणजे cash लवकर पुन्हा growth मध्ये लावता येतो; जास्त payback ला LTV चांगला असूनही जास्त funding लागते."
+  }
+ },
+ {
+  "id": "web-35",
+  "level": 5,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A Shopify jewellery store's product pages take 8+ seconds to load on 4G. Each product photo is a 3–4 MB PNG. What's the best first fix?",
+   "hi": "Ek Shopify jewellery store ke product pages 4G pe 8+ second mein load hote hain. Har product photo 3–4 MB ka PNG hai. Best first fix?",
+   "mr": "एका Shopify jewellery store चे product pages 4G वर 8+ सेकंदात load होतात. प्रत्येक product photo 3–4 MB चा PNG आहे. सर्वोत्तम पहिला उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Move to a more expensive Shopify plan",
+    "Add more product photos per page to look premium",
+    "Turn off HTTPS to save loading time",
+    "Resize and compress images, use WebP/AVIF, and lazy-load below-the-fold images"
+   ],
+   "hi": [
+    "Zyada mehenga Shopify plan le lo",
+    "Premium dikhne ke liye har page pe aur photos daalo",
+    "Loading time bachane ke liye HTTPS band karo",
+    "Images resize aur compress karo, WebP/AVIF use karo, aur neeche wali images lazy-load karo"
+   ],
+   "mr": [
+    "जास्त महाग Shopify plan घ्या",
+    "Premium दिसण्यासाठी प्रत्येक page वर आणखी photos टाका",
+    "Loading वेळ वाचवण्यासाठी HTTPS बंद करा",
+    "Images resize आणि compress करा, WebP/AVIF वापरा, आणि खालच्या images lazy-load करा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Oversized images are the most common cause of slow product pages. Properly sized, compressed WebP/AVIF files are often 80–90% smaller with no visible loss. Keep the main (LCP) image eager-loaded; lazy-load the rest.",
+   "hi": "Bade images slow product pages ki sabse common wajah hain. Sahi size ki compressed WebP/AVIF files aksar 80–90% chhoti hoti hain bina visible loss ke. Main (LCP) image turant load karo; baaki lazy-load.",
+   "mr": "मोठ्या images हे मंद product pages चे सर्वात सामान्य कारण आहे. योग्य आकाराच्या compressed WebP/AVIF files अनेकदा दिसणारा फरक न होता 80–90% लहान असतात. मुख्य (LCP) image लगेच load करा; बाकीच्या lazy-load करा."
+  }
+ },
+ {
+  "id": "web-36",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "A café prices coffee: Small ₹180, Medium ₹290, Large ₹310. Most people now pick Large. Which pricing tactic is this?",
+   "hi": "Ek café coffee ki pricing: Small ₹180, Medium ₹290, Large ₹310. Ab zyada log Large lete hain. Yeh kaunsi pricing tactic hai?",
+   "mr": "एका café ची coffee pricing: Small ₹180, Medium ₹290, Large ₹310. आता बहुतेक लोक Large घेतात. ही कोणती pricing tactic आहे?"
+  },
+  "opts": {
+   "en": [
+    "Decoy effect",
+    "Charm pricing",
+    "Penetration pricing",
+    "Dynamic pricing"
+   ],
+   "hi": [
+    "Decoy effect",
+    "Charm pricing",
+    "Penetration pricing",
+    "Dynamic pricing"
+   ],
+   "mr": [
+    "Decoy effect",
+    "Charm pricing",
+    "Penetration pricing",
+    "Dynamic pricing"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Medium is the decoy: it's priced so close to Large that Large looks like the obvious value. Charm pricing is ending prices in 9 (₹299); penetration pricing is launching low to win share.",
+   "hi": "Medium decoy hai: iski price Large ke itne paas hai ki Large obvious value lagta hai. Charm pricing matlab price 9 pe khatam karna (₹299); penetration pricing matlab share jeetne ke liye low price pe launch.",
+   "mr": "Medium हा decoy आहे: त्याची किंमत Large च्या इतकी जवळ आहे की Large स्पष्टपणे फायद्याचा वाटतो. Charm pricing म्हणजे किंमत 9 ने संपवणे (₹299); penetration pricing म्हणजे बाजार हिस्सा मिळवण्यासाठी कमी किंमतीत launch."
+  }
+ },
+ {
+  "id": "web-37",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "What makes a good 'North Star metric'?",
+   "hi": "Achha 'North Star metric' kaisa hota hai?",
+   "mr": "चांगला 'North Star metric' कसा असतो?"
+  },
+  "opts": {
+   "en": [
+    "The metric that looks biggest in investor decks",
+    "A single metric that captures the core value customers get and predicts long-term growth",
+    "Total page views across all channels",
+    "The number of social media followers"
+   ],
+   "hi": [
+    "Investor decks mein sabse bada dikhne wala metric",
+    "Ek metric jo customers ko milne wali core value capture kare aur long-term growth predict kare",
+    "Saare channels ke total page views",
+    "Social media followers ki ginti"
+   ],
+   "mr": [
+    "Investor decks मध्ये सर्वात मोठा दिसणारा metric",
+    "ग्राहकांना मिळणारे मुख्य मूल्य पकडणारा आणि दीर्घकालीन growth सूचित करणारा एक metric",
+    "सर्व channels वरील एकूण page views",
+    "Social media followers ची संख्या"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "A North Star reflects delivered value, e.g. 'weekly orders delivered' for a grocery app or 'active paying clinics' for clinic software. Page views and followers are vanity metrics that can grow while the business doesn't.",
+   "hi": "North Star delivered value dikhata hai, jaise grocery app ke liye 'weekly orders delivered' ya clinic software ke liye 'active paying clinics'. Page views aur followers vanity metrics hain jo business na badhe tab bhi badh sakte hain.",
+   "mr": "North Star दिलेले मूल्य दाखवतो, उदा. grocery app साठी 'weekly orders delivered' किंवा clinic software साठी 'active paying clinics'. Page views आणि followers हे vanity metrics आहेत जे व्यवसाय न वाढताही वाढू शकतात."
+  }
+ },
+ {
+  "id": "web-38",
+  "level": 5,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A clinic's marketer gets an email: 'Your Google Ads account is suspended — verify now', linking to g00gle-ads-support.com. What should she do?",
+   "hi": "Ek clinic ke marketer ko email aata hai: 'Your Google Ads account is suspended — verify now', link g00gle-ads-support.com ka hai. Use kya karna chahiye?",
+   "mr": "एका clinic च्या marketer ला email येतो: 'Your Google Ads account is suspended — verify now', link g00gle-ads-support.com ची आहे. तिने काय करावे?"
+  },
+  "opts": {
+   "en": [
+    "Click quickly and log in so ads don't stop",
+    "Forward it to the whole team so everyone can verify",
+    "Don't click; open ads.google.com directly to check, and report the email as phishing",
+    "Reply to the email asking for proof"
+   ],
+   "hi": [
+    "Jaldi click karke login karo taaki ads na rukein",
+    "Poori team ko forward karo taaki sab verify karein",
+    "Click mat karo; seedha ads.google.com khol ke check karo aur email ko phishing report karo",
+    "Email ka reply karke proof maango"
+   ],
+   "mr": [
+    "Ads थांबू नयेत म्हणून पटकन click करून login करा",
+    "सगळ्यांनी verify करावे म्हणून पूर्ण team ला forward करा",
+    "Click करू नका; थेट ads.google.com उघडून तपासा आणि email phishing म्हणून report करा",
+    "Email ला reply करून पुरावा मागा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "The lookalike domain (zeros instead of o's) and urgency are classic phishing signs. Always check account status by typing the real site yourself. Replying or forwarding only spreads the risk.",
+   "hi": "Lookalike domain (o ki jagah zero) aur urgency classic phishing signs hain. Account status hamesha khud asli site type karke check karo. Reply ya forward karne se risk bas failta hai.",
+   "mr": "Lookalike domain (o ऐवजी शून्य) आणि घाई ही phishing ची ठळक लक्षणे आहेत. Account status नेहमी स्वतः खरी साइट type करून तपासा. Reply किंवा forward केल्याने धोका फक्त पसरतो."
+  }
+ },
+ {
+  "id": "web-39",
+  "level": 5,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "You changed a DNS record, but some users still reach the old server for hours. Why?",
+   "hi": "Aapne DNS record badla, par kuch users ghanton tak purane server pe hi ja rahe hain. Kyun?",
+   "mr": "तुम्ही DNS record बदलला, पण काही users तासन्तास जुन्याच server वर जात आहेत. का?"
+  },
+  "opts": {
+   "en": [
+    "The domain registrar is blocking the change",
+    "Browsers need the website to be re-indexed by Google first",
+    "The SSL certificate forces users to the old server",
+    "DNS resolvers cache the old record until its TTL expires"
+   ],
+   "hi": [
+    "Domain registrar change block kar raha hai",
+    "Browsers ko pehle Google se re-index chahiye",
+    "SSL certificate users ko purane server pe bhejta hai",
+    "DNS resolvers purana record TTL khatam hone tak cache rakhte hain"
+   ],
+   "mr": [
+    "Domain registrar बदल अडवत आहे",
+    "Browsers ला आधी Google कडून re-index लागते",
+    "SSL certificate users ना जुन्या server वर पाठवते",
+    "DNS resolvers जुना record TTL संपेपर्यंत cache ठेवतात"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Each DNS record has a TTL (time to live). ISPs and devices keep the cached answer until it expires, so changes 'propagate' gradually. Google indexing has nothing to do with where DNS points.",
+   "hi": "Har DNS record ka TTL (time to live) hota hai. ISPs aur devices cached answer expire hone tak rakhte hain, isliye change dheere-dheere 'propagate' hota hai. Google indexing ka DNS se koi lena-dena nahi.",
+   "mr": "प्रत्येक DNS record ला TTL (time to live) असतो. ISPs आणि devices cache केलेले उत्तर expire होईपर्यंत ठेवतात, म्हणून बदल हळूहळू 'propagate' होतो. Google indexing चा DNS शी संबंध नाही."
+  }
+ },
+ {
+  "id": "web-40",
+  "level": 5,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "How is a 'growth loop' different from a traditional funnel?",
+   "hi": "'Growth loop' traditional funnel se kaise alag hai?",
+   "mr": "'Growth loop' पारंपरिक funnel पेक्षा कसा वेगळा आहे?"
+  },
+  "opts": {
+   "en": [
+    "The output of one cycle, like new users or content, feeds the next cycle",
+    "It only works with paid ads",
+    "It removes the need for a product",
+    "It measures only the top of the funnel"
+   ],
+   "hi": [
+    "Ek cycle ka output, jaise naye users ya content, agle cycle ko feed karta hai",
+    "Yeh sirf paid ads ke saath chalta hai",
+    "Isme product ki zaroorat hi nahi",
+    "Yeh sirf funnel ka top measure karta hai"
+   ],
+   "mr": [
+    "एका cycle चे output, जसे नवीन users किंवा content, पुढच्या cycle ला खाद्य देते",
+    "हे फक्त paid ads सोबत चालते",
+    "यात product ची गरजच नाही",
+    "हे फक्त funnel चा वरचा भाग मोजते"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "A funnel ends at conversion; a loop reinvests its output. Example: users post reviews → reviews rank in Google → new visitors sign up → they post more reviews. Loops compound; funnels need constant fresh input.",
+   "hi": "Funnel conversion pe khatam hota hai; loop apna output wapas lagata hai. Example: users reviews post karte hain → reviews Google mein rank → naye visitors sign up → woh aur reviews post karte hain. Loops compound hote hain; funnels ko hamesha naya input chahiye.",
+   "mr": "Funnel conversion ला संपतो; loop त्याचे output पुन्हा वापरतो. उदा. users reviews टाकतात → reviews Google मध्ये rank होतात → नवीन visitors sign up करतात → ते आणखी reviews टाकतात. Loops चक्रवाढ होतात; funnels ना सतत नवीन input लागतो."
+  }
+ },
+ {
+  "id": "web-41",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C haircare brand: AOV ₹1,000, contribution before ads ₹400 per order, CAC ₹600. The first order loses ₹200. When does this model work?",
+   "hi": "Ek D2C haircare brand: AOV ₹1,000, ads se pehle contribution ₹400 per order, CAC ₹600. Pehla order ₹200 ka loss deta hai. Yeh model kab chalega?",
+   "mr": "एक D2C haircare brand: AOV ₹1,000, ads आधी contribution ₹400 प्रति order, CAC ₹600. पहिल्या order ला ₹200 तोटा होतो. हे model कधी चालेल?"
+  },
+  "opts": {
+   "en": [
+    "Only if AOV is raised above ₹5,000",
+    "If enough customers reorder so cumulative contribution beats CAC within a payback you can fund",
+    "Never — any first-order loss means the business is broken",
+    "If the brand stops tracking CAC"
+   ],
+   "hi": [
+    "Sirf tab jab AOV ₹5,000 se upar ho",
+    "Agar kaafi customers reorder karein taaki cumulative contribution affordable payback mein CAC se aage nikle",
+    "Kabhi nahi — first-order loss matlab business toota hua hai",
+    "Agar brand CAC track karna band kar de"
+   ],
+   "mr": [
+    "फक्त AOV ₹5,000 च्या वर गेला तर",
+    "पुरेसे ग्राहक पुन्हा order करून एकूण contribution परवडणाऱ्या payback मध्ये CAC पेक्षा जास्त झाले तर",
+    "कधीच नाही — first-order तोटा म्हणजे व्यवसाय बिघडलेला",
+    "Brand ने CAC track करणे बंद केले तर"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Many consumable D2C brands lose money on order one and profit on repeats. Here one more order (₹400) turns the customer profitable — but only if repeat rates are real and you have cash to wait. Ignoring CAC hides the problem.",
+   "hi": "Kai consumable D2C brands pehle order pe loss aur repeats pe profit karte hain. Yahan ek aur order (₹400) customer ko profitable bana deta hai — par sirf tab jab repeat rate asli ho aur wait karne ka cash ho. CAC ignore karna problem chhupata hai.",
+   "mr": "अनेक consumable D2C brands पहिल्या order वर तोटा आणि repeats वर नफा कमावतात. इथे आणखी एक order (₹400) ग्राहकाला फायदेशीर बनवते — पण फक्त repeat दर खरा असेल आणि थांबण्याइतका cash असेल तर. CAC दुर्लक्षित केल्याने समस्या लपते."
+  }
+ },
+ {
+  "id": "web-42",
+  "level": 6,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which is the best example of product-led growth (PLG)?",
+   "hi": "Product-led growth (PLG) ka best example kaunsa hai?",
+   "mr": "Product-led growth (PLG) चे सर्वोत्तम उदाहरण कोणते?"
+  },
+  "opts": {
+   "en": [
+    "A sales team cold-calling 500 leads a day",
+    "A TV campaign during a cricket match",
+    "A free plan where users share designs that carry the tool's link, pulling in new users",
+    "Hiring more sales reps to close enterprise deals"
+   ],
+   "hi": [
+    "Sales team roz 500 leads ko cold-call kare",
+    "Cricket match ke dauraan TV campaign",
+    "Free plan jisme users designs share karte hain jin pe tool ka link hota hai, aur naye users aate hain",
+    "Enterprise deals ke liye zyada sales reps hire karna"
+   ],
+   "mr": [
+    "Sales team दररोज 500 leads ना cold-call करते",
+    "Cricket सामन्यादरम्यान TV campaign",
+    "Free plan ज्यात users tool ची link असलेले designs share करतात आणि नवीन users येतात",
+    "Enterprise deals साठी जास्त sales reps नेमणे"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "In PLG the product itself drives acquisition, activation and upgrades — free plans, trials and in-product sharing (think Canva, Zoom invites). Cold calling and TV are sales-led or marketing-led motions.",
+   "hi": "PLG mein product khud acquisition, activation aur upgrades chalata hai — free plans, trials, in-product sharing (Canva, Zoom invites jaisa). Cold calling aur TV sales-led ya marketing-led motions hain.",
+   "mr": "PLG मध्ये product स्वतः acquisition, activation आणि upgrades चालवतो — free plans, trials, in-product sharing (Canva, Zoom invites सारखे). Cold calling आणि TV हे sales-led किंवा marketing-led मार्ग आहेत."
+  }
+ },
+ {
+  "id": "web-43",
+  "level": 6,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A Pune clothing brand is moving from oldbrand.in to newbrand.in. Its blog and product pages get good Google traffic. Best way to keep rankings?",
+   "hi": "Ek Pune clothing brand oldbrand.in se newbrand.in pe shift ho raha hai. Iske blog aur product pages pe achha Google traffic hai. Rankings bachane ka best tareeka?",
+   "mr": "पुण्यातील एक clothing brand oldbrand.in वरून newbrand.in वर जात आहे. त्याच्या blog आणि product pages ना चांगला Google traffic आहे. Rankings टिकवण्याचा सर्वोत्तम मार्ग?"
+  },
+  "opts": {
+   "en": [
+    "Redirect every old URL to the new homepage",
+    "Let the old domain expire and start fresh",
+    "Copy all content to the new domain and keep both live",
+    "301-redirect each old URL to its matching new URL and use Search Console's Change of Address tool"
+   ],
+   "hi": [
+    "Har purana URL naye homepage pe redirect karo",
+    "Purana domain expire hone do aur fresh start karo",
+    "Saara content naye domain pe copy karo aur dono live rakho",
+    "Har purane URL ko matching naye URL pe 301-redirect karo aur Search Console ka Change of Address tool use karo"
+   ],
+   "mr": [
+    "प्रत्येक जुनी URL नवीन homepage वर redirect करा",
+    "जुने domain expire होऊ द्या आणि नव्याने सुरुवात करा",
+    "सर्व content नवीन domain वर copy करून दोन्ही live ठेवा",
+    "प्रत्येक जुनी URL तिच्या जुळणाऱ्या नवीन URL वर 301-redirect करा आणि Search Console चे Change of Address tool वापरा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Page-to-page 301s pass signals to the right new pages, and Change of Address tells Google about the move. Redirecting everything to the homepage is treated like soft 404s; keeping both live creates duplicate content.",
+   "hi": "Page-to-page 301 signals sahi naye pages tak pahunchate hain, aur Change of Address Google ko move ke baare mein batata hai. Sab kuch homepage pe redirect karna soft 404 jaisa maana jata hai; dono live rakhne se duplicate content banta hai.",
+   "mr": "Page-to-page 301 signals योग्य नवीन pages पर्यंत पोहोचवतात, आणि Change of Address Google ला बदलाची माहिती देते. सर्व काही homepage वर redirect करणे soft 404 सारखे मानले जाते; दोन्ही live ठेवल्याने duplicate content तयार होतो."
+  }
+ },
+ {
+  "id": "web-44",
+  "level": 6,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A Shopify store sees most carts abandoned right after the ₹99 shipping fee appears at the last checkout step. Best fix?",
+   "hi": "Ek Shopify store mein zyada tar carts tab abandon hote hain jab last checkout step pe ₹99 shipping fee dikhti hai. Best fix?",
+   "mr": "एका Shopify store मध्ये शेवटच्या checkout step वर ₹99 shipping fee दिसताच बहुतेक carts सोडले जातात. सर्वोत्तम उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Show shipping cost (or free-shipping threshold) early, on product and cart pages",
+    "Hide the fee until after payment",
+    "Add more steps to checkout to build trust",
+    "Send more retargeting ads without changing checkout"
+   ],
+   "hi": [
+    "Shipping cost (ya free-shipping threshold) pehle hi product aur cart pages pe dikhao",
+    "Fee ko payment ke baad tak chhupao",
+    "Trust badhane ke liye checkout mein aur steps jodo",
+    "Checkout badle bina aur retargeting ads chalao"
+   ],
+   "mr": [
+    "Shipping खर्च (किंवा free-shipping threshold) आधीच product आणि cart pages वर दाखवा",
+    "Payment नंतरपर्यंत fee लपवा",
+    "विश्वास वाढवण्यासाठी checkout मध्ये आणखी steps जोडा",
+    "Checkout न बदलता आणखी retargeting ads चालवा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Unexpected extra costs at the end are one of the most-cited reasons for abandonment. Being upfront (or building shipping into price/threshold) removes the shock. Hiding fees is deceptive; retargeting doesn't fix the leak.",
+   "hi": "End mein achanak extra cost abandonment ki sabse zyada batayi jaane wali wajahon mein se ek hai. Pehle se batana (ya shipping ko price/threshold mein jodna) shock hata deta hai. Fee chhupana dhokha hai; retargeting leak fix nahi karta.",
+   "mr": "शेवटी अचानक येणारा अतिरिक्त खर्च हे cart सोडण्याचे सर्वाधिक नमूद कारण आहे. आधीच सांगणे (किंवा shipping किंमत/threshold मध्ये धरणे) धक्का टाळते. Fee लपवणे फसवणूक आहे; retargeting गळती थांबवत नाही."
+  }
+ },
+ {
+  "id": "web-45",
+  "level": 6,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Your server receives 'payment successful' webhooks from a payment gateway. What's the key security step before trusting them?",
+   "hi": "Aapke server ko payment gateway se 'payment successful' webhooks aate hain. Trust karne se pehle key security step kya hai?",
+   "mr": "तुमच्या server ला payment gateway कडून 'payment successful' webhooks येतात. त्यांवर विश्वास ठेवण्याआधी मुख्य security पाऊल कोणते?"
+  },
+  "opts": {
+   "en": [
+    "Check that the request came from an Indian IP",
+    "Verify the webhook's signature using your shared secret",
+    "Accept only webhooks received during business hours",
+    "Ask the customer to confirm by email"
+   ],
+   "hi": [
+    "Check karo ki request Indian IP se aayi",
+    "Apne shared secret se webhook ka signature verify karo",
+    "Sirf business hours mein aaye webhooks accept karo",
+    "Customer se email pe confirm karwao"
+   ],
+   "mr": [
+    "Request भारतीय IP वरून आली का ते तपासा",
+    "तुमच्या shared secret ने webhook ची signature verify करा",
+    "फक्त कामाच्या वेळेत आलेले webhooks स्वीकारा",
+    "ग्राहकाला email वर confirm करायला सांगा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Gateways and platforms like Razorpay and Shopify sign webhooks (HMAC) with a secret only you and they know. Verifying it stops anyone from faking a 'paid' call to your endpoint. IP location proves nothing.",
+   "hi": "Razorpay aur Shopify jaise platforms webhooks ko secret se sign (HMAC) karte hain jo sirf aap aur woh jaante ho. Verify karne se koi bhi fake 'paid' call nahi bhej sakta. IP location se kuch prove nahi hota.",
+   "mr": "Razorpay आणि Shopify सारखे platforms webhooks फक्त तुम्हाला आणि त्यांना माहीत असलेल्या secret ने sign (HMAC) करतात. Verify केल्याने कोणीही खोटा 'paid' call पाठवू शकत नाही. IP location काहीही सिद्ध करत नाही."
+  }
+ },
+ {
+  "id": "web-46",
+  "level": 6,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Showing 'MRP ₹1,999' struck through next to 'Now ₹999' mainly uses which psychological effect?",
+   "hi": "'Now ₹999' ke paas kata hua 'MRP ₹1,999' dikhana mainly kaunsa psychological effect use karta hai?",
+   "mr": "'Now ₹999' शेजारी खोडलेली 'MRP ₹1,999' दाखवणे मुख्यतः कोणता मानसशास्त्रीय परिणाम वापरते?"
+  },
+  "opts": {
+   "en": [
+    "Social proof",
+    "Scarcity",
+    "Anchoring",
+    "Reciprocity"
+   ],
+   "hi": [
+    "Social proof",
+    "Scarcity",
+    "Anchoring",
+    "Reciprocity"
+   ],
+   "mr": [
+    "Social proof",
+    "Scarcity",
+    "Anchoring",
+    "Reciprocity"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "The first number seen (₹1,999) becomes the anchor, so ₹999 feels like a big saving. Scarcity is 'only 3 left'; social proof is '10,000 happy customers'. The reference price must be genuine to stay honest and legal.",
+   "hi": "Pehla dikha number (₹1,999) anchor ban jata hai, toh ₹999 badi saving lagti hai. Scarcity matlab 'sirf 3 bache'; social proof matlab '10,000 happy customers'. Reference price genuine honi chahiye, warna yeh misleading hai.",
+   "mr": "पहिला दिसलेला आकडा (₹1,999) anchor बनतो, त्यामुळे ₹999 मोठी बचत वाटते. Scarcity म्हणजे 'फक्त 3 शिल्लक'; social proof म्हणजे '10,000 समाधानी ग्राहक'. Reference किंमत खरी असावी, नाहीतर ती दिशाभूल करणारी ठरते."
+  }
+ },
+ {
+  "id": "web-47",
+  "level": 6,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "You're browsing mybrand.in. Which cookie is a 'first-party' cookie?",
+   "hi": "Aap mybrand.in browse kar rahe ho. Kaunsi cookie 'first-party' cookie hai?",
+   "mr": "तुम्ही mybrand.in browse करत आहात. कोणती cookie 'first-party' cookie आहे?"
+  },
+  "opts": {
+   "en": [
+    "A cookie set by an ad network's domain loaded on the page",
+    "Any cookie that stores an email address",
+    "Any cookie that expires within one day",
+    "A cookie set by mybrand.in itself"
+   ],
+   "hi": [
+    "Page pe load hue ad network ke domain ki cookie",
+    "Koi bhi cookie jo email address store kare",
+    "Koi bhi cookie jo ek din mein expire ho",
+    "mybrand.in ki khud ki set ki hui cookie"
+   ],
+   "mr": [
+    "Page वर load झालेल्या ad network च्या domain ने set केलेली cookie",
+    "Email address साठवणारी कोणतीही cookie",
+    "एका दिवसात expire होणारी कोणतीही cookie",
+    "mybrand.in ने स्वतः set केलेली cookie"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "First-party = set by the domain in the address bar; third-party = set by another domain (e.g. an ad network) embedded in the page. Browsers restrict third-party cookies far more, which is why first-party data matters.",
+   "hi": "First-party = address bar wale domain ki cookie; third-party = page mein embedded doosre domain (jaise ad network) ki. Browsers third-party cookies ko kaafi zyada restrict karte hain, isliye first-party data important hai.",
+   "mr": "First-party = address bar मधील domain ने set केलेली; third-party = page मध्ये embedded दुसऱ्या domain (उदा. ad network) ने set केलेली. Browsers third-party cookies वर खूप जास्त बंधने घालतात, म्हणून first-party data महत्त्वाचा आहे."
+  }
+ },
+ {
+  "id": "web-48",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "An Amazon seller's Sponsored Products show ACoS of 40%. The product's margin before ad costs is 30% of the selling price. What does this mean?",
+   "hi": "Ek Amazon seller ke Sponsored Products ka ACoS 40% hai. Ad cost se pehle product ka margin selling price ka 30% hai. Iska matlab?",
+   "mr": "एका Amazon seller च्या Sponsored Products चा ACoS 40% आहे. Ad खर्चाआधी product चे margin विक्री किंमतीच्या 30% आहे. याचा अर्थ?"
+  },
+  "opts": {
+   "en": [
+    "Ad-attributed sales lose about 10% of sale value, unless ads lift organic rank or repeats enough",
+    "The ads are highly profitable because ACoS is below 50%",
+    "ACoS doesn't matter on Amazon, only clicks do",
+    "The seller should raise bids to lower ACoS"
+   ],
+   "hi": [
+    "Ad-attributed sales pe sale value ka lagbhag 10% loss hai, jab tak ads organic rank ya repeats na badhayein",
+    "ACoS 50% se kam hai toh ads bahut profitable hain",
+    "Amazon pe ACoS matter nahi karta, sirf clicks",
+    "ACoS kam karne ke liye bids badhao"
+   ],
+   "mr": [
+    "Ad-attributed sales वर विक्री मूल्याच्या सुमारे 10% तोटा आहे, जोपर्यंत ads organic rank किंवा repeats पुरेसे वाढवत नाहीत",
+    "ACoS 50% पेक्षा कमी आहे म्हणून ads खूप फायदेशीर आहेत",
+    "Amazon वर ACoS महत्त्वाचा नाही, फक्त clicks",
+    "ACoS कमी करण्यासाठी bids वाढवा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Break-even ACoS ≈ your pre-ad margin (30%). At 40%, each ad sale costs more in ads than it earns. It can still be a deliberate launch investment if sales velocity lifts organic ranking; watch TACoS (ad spend ÷ total sales). Higher bids usually raise ACoS.",
+   "hi": "Break-even ACoS ≈ ad se pehle ka margin (30%). 40% pe har ad sale kamaai se zyada ad cost leti hai. Launch investment ho sakta hai agar sales velocity organic ranking badhaye; TACoS (ad spend ÷ total sales) dekho. Bids badhane se aksar ACoS badhta hai.",
+   "mr": "Break-even ACoS ≈ ad आधीचे margin (30%). 40% वर प्रत्येक ad sale कमाईपेक्षा जास्त ad खर्च घेते. Sales velocity ने organic ranking वाढत असेल तर ही launch गुंतवणूक असू शकते; TACoS (ad spend ÷ total sales) पहा. Bids वाढवल्याने सहसा ACoS वाढतो."
+  }
+ },
+ {
+  "id": "web-49",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A skincare brand's 'Refer & get ₹300' program is being abused: people refer their own second numbers and cancel orders after collecting rewards. Best fix?",
+   "hi": "Ek skincare brand ke 'Refer & get ₹300' program ka misuse ho raha hai: log apne hi doosre number refer karke reward lene ke baad order cancel kar dete hain. Best fix?",
+   "mr": "एका skincare brand च्या 'Refer & get ₹300' program चा गैरवापर होतोय: लोक स्वतःचेच दुसरे नंबर refer करतात आणि reward घेऊन order रद्द करतात. सर्वोत्तम उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Shut down referrals completely",
+    "Release rewards only after the referee's order is delivered and past the return window, with duplicate checks",
+    "Double the reward so honest users stay motivated",
+    "Allow referrals only on Instagram"
+   ],
+   "hi": [
+    "Referrals poori tarah band karo",
+    "Reward tabhi do jab referee ka order deliver ho aur return window nikal jaye, saath mein duplicate checks",
+    "Honest users ke liye reward double karo",
+    "Referrals sirf Instagram pe allow karo"
+   ],
+   "mr": [
+    "Referrals पूर्णपणे बंद करा",
+    "Referee ची order deliver होऊन return window संपल्यावरच reward द्या, सोबत duplicate checks",
+    "प्रामाणिक users साठी reward दुप्पट करा",
+    "Referrals फक्त Instagram वर परवानगी द्या"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Tie rewards to a real, completed purchase and add checks for the same device, address, phone or payment method. That keeps the channel alive for genuine referrers; doubling rewards only increases the fraud incentive.",
+   "hi": "Reward ko asli, complete purchase se jodo aur same device, address, phone ya payment method ke checks lagao. Isse genuine referrers ke liye channel zinda rehta hai; reward double karne se fraud ka incentive badhta hai.",
+   "mr": "Reward खऱ्या, पूर्ण झालेल्या खरेदीशी जोडा आणि एकच device, पत्ता, phone किंवा payment method यांची तपासणी करा. यामुळे खऱ्या referrers साठी channel चालू राहतो; reward दुप्पट केल्याने फसवणुकीचा मोह वाढतो."
+  }
+ },
+ {
+  "id": "web-50",
+  "level": 7,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Why do growth teams analyse repeat purchases by monthly cohorts instead of one overall repeat rate?",
+   "hi": "Growth teams repeat purchases ko ek overall repeat rate ki jagah monthly cohorts mein kyun analyse karti hain?",
+   "mr": "Growth teams repeat purchases एकूण repeat rate ऐवजी monthly cohorts मध्ये का तपासतात?"
+  },
+  "opts": {
+   "en": [
+    "Cohorts always show higher numbers for investors",
+    "Ad platforms only report data in cohorts",
+    "The overall rate mixes old and new customers, hiding whether recent customers are retaining better or worse",
+    "Cohorts remove the need to track CAC"
+   ],
+   "hi": [
+    "Cohorts investors ko hamesha bade numbers dikhate hain",
+    "Ad platforms sirf cohorts mein data dete hain",
+    "Overall rate purane-naye customers mila deta hai, aur chhupata hai ki recent customers behtar retain ho rahe ya nahi",
+    "Cohorts se CAC track karne ki zaroorat khatam"
+   ],
+   "mr": [
+    "Cohorts गुंतवणूकदारांना नेहमी मोठे आकडे दाखवतात",
+    "Ad platforms फक्त cohorts मध्ये data देतात",
+    "एकूण दर जुने आणि नवीन ग्राहक मिसळतो, आणि अलीकडचे ग्राहक चांगले टिकताहेत की वाईट हे लपवतो",
+    "Cohorts मुळे CAC track करण्याची गरज संपते"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Grouping customers by first-order month shows if, say, festive-sale buyers repeat less than organic buyers, or if a product change improved retention. A blended rate can look stable while newer cohorts quietly get worse.",
+   "hi": "Customers ko first-order month se group karne se dikhta hai ki, jaise, festive-sale buyers organic buyers se kam repeat karte hain, ya product change se retention sudhra. Blended rate stable dikh sakta hai jabki naye cohorts chupchaap bigad rahe hon.",
+   "mr": "ग्राहकांना पहिल्या order च्या महिन्यानुसार गटबद्ध केल्यास दिसते की, उदा. festive-sale buyers organic buyers पेक्षा कमी repeat करतात, किंवा product बदलामुळे retention सुधारले. Blended दर स्थिर दिसू शकतो तर नवीन cohorts शांतपणे खराब होत असतात."
+  }
+ },
+ {
+  "id": "web-51",
+  "level": 7,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "You replaced the Diwali sale banner on your site with a new one using the same file name, banner.jpg. Many users still see the old banner. Most likely cause and fix?",
+   "hi": "Aapne site ka Diwali sale banner same file name banner.jpg ke saath naye se replace kiya. Kai users ko abhi bhi purana banner dikh raha hai. Sabse likely cause aur fix?",
+   "mr": "तुम्ही साइटवरील Diwali sale banner त्याच file name banner.jpg ने नवीनने बदलला. अनेक users ना अजूनही जुना banner दिसतोय. बहुधा कारण आणि उपाय?"
+  },
+  "opts": {
+   "en": [
+    "The domain expired — renew it",
+    "Google hasn't re-indexed the image — request indexing",
+    "The SSL certificate is caching the image — reinstall it",
+    "CDN/browser caching — purge the CDN cache and use a new versioned file name"
+   ],
+   "hi": [
+    "Domain expire ho gaya — renew karo",
+    "Google ne image re-index nahi ki — indexing request karo",
+    "SSL certificate image cache kar raha hai — reinstall karo",
+    "CDN/browser caching — CDN cache purge karo aur naya versioned file name use karo"
+   ],
+   "mr": [
+    "Domain expire झाले — renew करा",
+    "Google ने image re-index केली नाही — indexing request करा",
+    "SSL certificate image cache करत आहे — reinstall करा",
+    "CDN/browser caching — CDN cache purge करा आणि नवीन versioned file name वापरा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "CDNs and browsers keep cached copies of static files for their cache lifetime. Purging the CDN helps, but a new file name (banner-v2.jpg or ?v=2) guarantees everyone fetches the new image. SSL doesn't cache files.",
+   "hi": "CDNs aur browsers static files ki cached copy cache lifetime tak rakhte hain. CDN purge madad karta hai, par naya file name (banner-v2.jpg ya ?v=2) guarantee karta hai ki sab nayi image lein. SSL files cache nahi karta.",
+   "mr": "CDNs आणि browsers static files ची cached copy cache कालावधीपर्यंत ठेवतात. CDN purge मदत करते, पण नवीन file name (banner-v2.jpg किंवा ?v=2) सर्वांना नवीन image मिळेल याची खात्री देते. SSL files cache करत नाही."
+  }
+ },
+ {
+  "id": "web-52",
+  "level": 7,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "Your store marks orders 'paid' only when the customer lands on the thank-you page. Some UPI buyers pay in their app but never return, so paid orders stay 'pending'. Best fix?",
+   "hi": "Aapka store order ko 'paid' tabhi mark karta hai jab customer thank-you page pe aata hai. Kuch UPI buyers app mein pay karte hain par wapas nahi aate, toh paid orders 'pending' reh jaate hain. Best fix?",
+   "mr": "तुमचे store order फक्त ग्राहक thank-you page वर आल्यावरच 'paid' mark करते. काही UPI buyers app मध्ये pay करतात पण परत येत नाहीत, त्यामुळे paid orders 'pending' राहतात. सर्वोत्तम उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Confirm payment from the gateway's server-to-server webhook (plus a status check), not the browser redirect",
+    "Remove UPI and accept only cards",
+    "Ask customers to email a payment screenshot",
+    "Mark every order as paid automatically after one hour"
+   ],
+   "hi": [
+    "Payment ko gateway ke server-to-server webhook (plus status check) se confirm karo, browser redirect se nahi",
+    "UPI hata do aur sirf cards lo",
+    "Customers se payment screenshot email karwao",
+    "Ek ghante baad har order ko automatically paid mark karo"
+   ],
+   "mr": [
+    "Payment gateway च्या server-to-server webhook (आणि status check) ने confirm करा, browser redirect ने नाही",
+    "UPI काढून फक्त cards स्वीकारा",
+    "ग्राहकांना payment screenshot email करायला सांगा",
+    "एका तासानंतर प्रत्येक order आपोआप paid mark करा"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Browser redirects are unreliable: users close tabs, switch apps or lose network. The gateway's webhook (verified) plus a fallback status API call is the source of truth. Auto-marking orders paid would ship unpaid orders.",
+   "hi": "Browser redirects bharosemand nahi: users tab band karte hain, app switch karte hain, network jaata hai. Gateway ka (verified) webhook plus fallback status API call hi source of truth hai. Auto-paid mark karne se unpaid orders ship ho jayenge.",
+   "mr": "Browser redirects विश्वसनीय नाहीत: users tab बंद करतात, app बदलतात, network जाते. Gateway चा (verified) webhook आणि fallback status API call हाच खरा आधार आहे. आपोआप paid mark केल्यास न भरलेल्या orders ship होतील."
+  }
+ },
+ {
+  "id": "web-53",
+  "level": 7,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand ran a flat 30% sitewide discount for a week. Orders rose 50%, but profit for the week fell. What most likely happened?",
+   "hi": "Ek D2C brand ne ek hafte flat 30% sitewide discount chalaya. Orders 50% badhe, par hafte ka profit gir gaya. Sabse likely kya hua?",
+   "mr": "एका D2C brand ने आठवडाभर flat 30% sitewide discount चालवला. Orders 50% वाढल्या, पण आठवड्याचा नफा घटला. बहुधा काय झाले?"
+  },
+  "opts": {
+   "en": [
+    "The payment gateway charged extra fees during sales",
+    "The discount ate most of the contribution margin, and many buyers would have paid full price anyway",
+    "Discounts always increase profit, so the data must be wrong",
+    "Customers bought fewer items per order"
+   ],
+   "hi": [
+    "Sale ke dauraan payment gateway ne extra fees li",
+    "Discount ne zyada tar contribution margin kha liya, aur kai buyers waise bhi full price pe kharidte",
+    "Discount hamesha profit badhata hai, toh data galat hoga",
+    "Customers ne har order mein kam items liye"
+   ],
+   "mr": [
+    "Sale दरम्यान payment gateway ने जास्त fees घेतली",
+    "Discount ने बहुतेक contribution margin खाल्ले, आणि अनेक ग्राहक तसेही पूर्ण किंमतीत घेतले असते",
+    "Discount नेहमी नफा वाढवतो, म्हणून data चुकीचा असेल",
+    "ग्राहकांनी प्रत्येक order मध्ये कमी items घेतले"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "If contribution margin is 40%, a 30% discount leaves roughly a quarter of it per order — you need several times the orders just to break even. Blanket discounts also subsidise loyal buyers. Targeted offers (bundles, thresholds, first-order) protect margin better.",
+   "hi": "Agar contribution margin 40% hai, toh 30% discount ke baad per order uska lagbhag chauthai hi bachta hai — break-even ke liye kai guna orders chahiye. Blanket discounts loyal buyers ko bhi subsidise karte hain. Targeted offers (bundles, thresholds, first-order) margin behtar bachate hain.",
+   "mr": "Contribution margin 40% असल्यास 30% सुटीनंतर प्रति order त्याचा साधारण एक-चतुर्थांश उरतो — break-even साठी अनेक पट orders लागतात. Blanket discounts निष्ठावान ग्राहकांनाही सवलत देतात. Targeted offers (bundles, thresholds, first-order) margin चांगले जपतात."
+  }
+ },
+ {
+  "id": "web-54",
+  "level": 7,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "You plan to move your website to a new host tomorrow. Why do experts lower the DNS record's TTL a day or two before the switch?",
+   "hi": "Kal website naye host pe shift karni hai. Experts switch se ek-do din pehle DNS record ka TTL kam kyun karte hain?",
+   "mr": "उद्या वेबसाइट नवीन host वर हलवायची आहे. तज्ज्ञ switch च्या एक-दोन दिवस आधी DNS record चा TTL कमी का करतात?"
+  },
+  "opts": {
+   "en": [
+    "Lower TTL improves Google rankings permanently",
+    "Lower TTL makes the SSL certificate renew faster",
+    "So caches expire quickly and users reach the new server soon after the change",
+    "Lower TTL is required to transfer a domain"
+   ],
+   "hi": [
+    "Kam TTL se Google rankings permanently sudharti hain",
+    "Kam TTL se SSL certificate jaldi renew hota hai",
+    "Taaki caches jaldi expire hon aur change ke baad users jaldi naye server pe pahunchein",
+    "Domain transfer ke liye kam TTL zaroori hai"
+   ],
+   "mr": [
+    "कमी TTL मुळे Google rankings कायमस्वरूपी सुधारतात",
+    "कमी TTL मुळे SSL certificate लवकर renew होते",
+    "Caches लवकर expire होऊन बदलानंतर users लवकर नवीन server वर पोहोचावेत म्हणून",
+    "Domain transfer साठी कमी TTL आवश्यक आहे"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "If TTL is 24 hours, some users may hit the old server for a day after you switch. Dropping it to ~5 minutes ahead of time (and waiting for the old TTL to pass) makes the cut-over fast; raise it again afterwards.",
+   "hi": "TTL 24 ghante ho toh switch ke baad kuch users ek din tak purane server pe ja sakte hain. Pehle se ~5 minute karne se (aur purana TTL guzarne dene se) cut-over fast hota hai; baad mein wapas badha do.",
+   "mr": "TTL 24 तास असेल तर switch नंतर काही users दिवसभर जुन्या server वर जाऊ शकतात. आधीच ~5 मिनिटे केल्यास (आणि जुना TTL संपू दिल्यास) cut-over वेगाने होतो; नंतर पुन्हा वाढवा."
+  }
+ },
+ {
+  "id": "web-55",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A protein-snack brand: CAC ₹900, contribution ₹300 per order, and retained customers reorder every 2 months. Assuming they keep reordering, roughly what is the CAC payback?",
+   "hi": "Ek protein-snack brand: CAC ₹900, contribution ₹300 per order, aur retained customers har 2 mahine mein reorder karte hain. Maano woh reorder karte rahein, toh CAC payback lagbhag kitna hai?",
+   "mr": "एक protein-snack brand: CAC ₹900, contribution ₹300 प्रति order, आणि टिकलेले ग्राहक दर 2 महिन्यांनी पुन्हा order करतात. ते order करत राहिले असे मानल्यास CAC payback साधारण किती?"
+  },
+  "opts": {
+   "en": [
+    "Immediately, on the first order",
+    "About 2 months",
+    "About 6 months",
+    "About 4 months (at the 3rd order)"
+   ],
+   "hi": [
+    "Turant, pehle order pe",
+    "Lagbhag 2 mahine",
+    "Lagbhag 6 mahine",
+    "Lagbhag 4 mahine (3rd order pe)"
+   ],
+   "mr": [
+    "लगेच, पहिल्या order वर",
+    "सुमारे 2 महिने",
+    "सुमारे 6 महिने",
+    "सुमारे 4 महिने (3ऱ्या order ला)"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Orders at month 0, 2 and 4 give ₹300 each; cumulative contribution reaches ₹900 at the 3rd order, month 4. In reality not everyone reorders, so use cohort retention — real payback is usually longer.",
+   "hi": "Month 0, 2 aur 4 pe orders, har ek ₹300; cumulative contribution 3rd order (month 4) pe ₹900 hota hai. Asli mein sab reorder nahi karte, toh cohort retention use karo — real payback aksar lamba hota hai.",
+   "mr": "महिना 0, 2 आणि 4 ला orders, प्रत्येकी ₹300; एकूण contribution 3ऱ्या order ला (महिना 4) ₹900 होते. प्रत्यक्षात सर्वजण पुन्हा order करत नाहीत, म्हणून cohort retention वापरा — खरा payback सहसा जास्त असतो."
+  }
+ },
+ {
+  "id": "web-56",
+  "level": 8,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "Why should marketers be very careful about adding third-party JavaScript tags (chat widgets, trackers) on checkout pages?",
+   "hi": "Marketers ko checkout pages pe third-party JavaScript tags (chat widgets, trackers) daalne mein bahut careful kyun rehna chahiye?",
+   "mr": "Marketers नी checkout pages वर third-party JavaScript tags (chat widgets, trackers) टाकताना खूप काळजी का घ्यावी?"
+  },
+  "opts": {
+   "en": [
+    "Scripts run with full page access and, if compromised, can read what users type, including payment details",
+    "Third-party scripts always block Google from indexing checkout",
+    "Browsers refuse to load scripts on HTTPS pages",
+    "Scripts on checkout automatically double the ad spend"
+   ],
+   "hi": [
+    "Scripts ko poore page ka access hai; compromise hone pe woh typed data, payment details samet, padh sakte hain",
+    "Third-party scripts hamesha Google ko checkout index karne se rokte hain",
+    "Browsers HTTPS pages pe scripts load nahi karte",
+    "Checkout pe scripts ad spend automatically double kar dete hain"
+   ],
+   "mr": [
+    "Scripts ना पूर्ण page चा access असतो आणि compromise झाल्यास ते user ने type केलेले, payment details सह, वाचू शकतात",
+    "Third-party scripts नेहमी Google ला checkout index करण्यापासून रोखतात",
+    "Browsers HTTPS pages वर scripts load करत नाहीत",
+    "Checkout वरील scripts ad spend आपोआप दुप्पट करतात"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Any script you load runs with the same power as your own code. If a vendor is hacked, card-skimming code can be injected (so-called Magecart attacks). Keep checkout scripts minimal, vetted and monitored.",
+   "hi": "Jo bhi script load karte ho woh aapke apne code jitni power se chalti hai. Vendor hack ho jaye toh card-skimming code inject ho sakta hai (Magecart attacks). Checkout pe scripts kam, vetted aur monitored rakho.",
+   "mr": "तुम्ही load केलेली प्रत्येक script तुमच्या स्वतःच्या code इतक्याच अधिकाराने चालते. Vendor hack झाल्यास card-skimming code घुसवला जाऊ शकतो (Magecart attacks). Checkout वर scripts कमी, तपासलेल्या आणि monitored ठेवा."
+  }
+ },
+ {
+  "id": "web-57",
+  "level": 8,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "Which of these is a true self-reinforcing growth loop for an online design tool?",
+   "hi": "Online design tool ke liye inmein se kaunsa sachcha self-reinforcing growth loop hai?",
+   "mr": "Online design tool साठी यापैकी कोणता खरा self-reinforcing growth loop आहे?"
+  },
+  "opts": {
+   "en": [
+    "Spending more on Google Ads each month to get more sign-ups",
+    "Users publish designs with a 'Made with' link → viewers sign up → they publish more designs",
+    "Sending a monthly newsletter to existing users",
+    "Hiring influencers for a one-time launch campaign"
+   ],
+   "hi": [
+    "Har mahine zyada sign-ups ke liye Google Ads pe zyada kharch karna",
+    "Users 'Made with' link wale designs publish karte hain → viewers sign up → woh aur designs publish karte hain",
+    "Existing users ko monthly newsletter bhejna",
+    "Ek-baar ke launch campaign ke liye influencers hire karna"
+   ],
+   "mr": [
+    "दरमहा जास्त sign-ups साठी Google Ads वर जास्त खर्च करणे",
+    "Users 'Made with' link असलेले designs प्रकाशित करतात → viewers sign up करतात → ते आणखी designs प्रकाशित करतात",
+    "सध्याच्या users ना monthly newsletter पाठवणे",
+    "एकदाच्या launch campaign साठी influencers नेमणे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "In a loop, the output (published designs) becomes the input for new users, who create more output. Ads, newsletters and one-off influencer pushes are linear: they stop when spending stops.",
+   "hi": "Loop mein output (published designs) naye users ka input ban jata hai, jo aur output banate hain. Ads, newsletters aur ek-baar ke influencer push linear hain: kharch rukte hi ruk jaate hain.",
+   "mr": "Loop मध्ये output (प्रकाशित designs) नवीन users चा input बनतो, जे आणखी output तयार करतात. Ads, newsletters आणि एकदाचे influencer push हे linear आहेत: खर्च थांबला की थांबतात."
+  }
+ },
+ {
+  "id": "web-58",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand has 50% gross margin; shipping, payment fees and RTO cost another 20% of revenue. Its Meta ads report 3x ROAS. Are the ads profitable?",
+   "hi": "Ek D2C brand ka gross margin 50% hai; shipping, payment fees aur RTO revenue ka aur 20% khaate hain. Meta ads 3x ROAS report karte hain. Kya ads profitable hain?",
+   "mr": "एका D2C brand चे gross margin 50% आहे; shipping, payment fees आणि RTO revenue चे आणखी 20% खातात. Meta ads 3x ROAS दाखवतात. Ads फायदेशीर आहेत का?"
+  },
+  "opts": {
+   "en": [
+    "Yes — any ROAS above 1x is profitable",
+    "Yes — 3x ROAS means 200% profit",
+    "No — contribution before ads is 30%, so break-even ROAS is about 3.3x",
+    "Can't say without knowing the CTR"
+   ],
+   "hi": [
+    "Haan — 1x se upar koi bhi ROAS profitable hai",
+    "Haan — 3x ROAS matlab 200% profit",
+    "Nahi — ads se pehle contribution 30% hai, toh break-even ROAS lagbhag 3.3x hai",
+    "CTR jaane bina nahi keh sakte"
+   ],
+   "mr": [
+    "हो — 1x पेक्षा जास्त कोणताही ROAS फायदेशीर आहे",
+    "हो — 3x ROAS म्हणजे 200% नफा",
+    "नाही — ads आधी contribution 30% आहे, म्हणून break-even ROAS सुमारे 3.3x आहे",
+    "CTR माहीत नसताना सांगता येणार नाही"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Break-even ROAS = 1 ÷ contribution margin before ads = 1 ÷ 0.30 ≈ 3.33x. At 3x, every ₹100 of ad spend returns ₹300 revenue but only ₹90 contribution — a ₹10 loss (ignoring any repeat purchases).",
+   "hi": "Break-even ROAS = 1 ÷ ads se pehle ka contribution margin = 1 ÷ 0.30 ≈ 3.33x. 3x pe har ₹100 ad spend se ₹300 revenue par sirf ₹90 contribution — ₹10 loss (repeat purchases ignore karke).",
+   "mr": "Break-even ROAS = 1 ÷ ads आधीचे contribution margin = 1 ÷ 0.30 ≈ 3.33x. 3x वर प्रत्येक ₹100 ad खर्चातून ₹300 revenue पण फक्त ₹90 contribution — ₹10 तोटा (repeat purchases वगळून)."
+  }
+ },
+ {
+  "id": "web-59",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A COD-heavy fashion brand judges Meta campaigns by 'orders placed'. One campaign has the lowest cost per order but a 45% RTO rate. What should it optimise on?",
+   "hi": "Ek COD-heavy fashion brand Meta campaigns ko 'orders placed' se judge karta hai. Ek campaign ka cost per order sabse kam hai par RTO rate 45%. Kis metric pe optimise karna chahiye?",
+   "mr": "एक COD-heavy fashion brand Meta campaigns 'orders placed' वरून तपासतो. एका campaign चा cost per order सर्वात कमी आहे पण RTO दर 45%. कोणत्या metric वर optimise करावे?"
+  },
+  "opts": {
+   "en": [
+    "Clicks, since they are the earliest signal",
+    "Orders placed, because that's what Meta reports",
+    "Impressions, to maximise reach",
+    "Cost per delivered (net of RTO) order and contribution per delivered order"
+   ],
+   "hi": [
+    "Clicks, kyunki woh sabse pehla signal hain",
+    "Orders placed, kyunki Meta wahi report karta hai",
+    "Impressions, reach maximise karne ke liye",
+    "Cost per delivered (RTO ke baad) order aur contribution per delivered order"
+   ],
+   "mr": [
+    "Clicks, कारण ते सर्वात पहिला signal आहेत",
+    "Orders placed, कारण Meta तेच दाखवते",
+    "Impressions, reach वाढवण्यासाठी",
+    "Cost per delivered (RTO वगळून) order आणि contribution per delivered order"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "A 'cheap' order that comes back as RTO earns nothing and costs double shipping. Judge campaigns on delivered orders; where possible, send delivered/prepaid events back to the ad platform so it learns which buyers actually complete.",
+   "hi": "'Sasta' order jo RTO ban ke wapas aaye, kuch nahi kamata aur double shipping lagti hai. Campaigns ko delivered orders pe judge karo; ho sake toh delivered/prepaid events ad platform ko wapas bhejo taaki woh seekhe kaunse buyers sach mein complete karte hain.",
+   "mr": "RTO होऊन परत येणारी 'स्वस्त' order काहीच कमवत नाही आणि दुहेरी shipping लागते. Campaigns delivered orders वर तपासा; शक्य असल्यास delivered/prepaid events ad platform ला परत पाठवा म्हणजे खरेच पूर्ण करणारे buyers कोण हे ते शिकेल."
+  }
+ },
+ {
+  "id": "web-60",
+  "level": 8,
+  "cat": "tech",
+  "type": "mcq",
+  "q": {
+   "en": "What does the HSTS (HTTP Strict Transport Security) header tell browsers?",
+   "hi": "HSTS (HTTP Strict Transport Security) header browsers ko kya batata hai?",
+   "mr": "HSTS (HTTP Strict Transport Security) header browsers ना काय सांगतो?"
+  },
+  "opts": {
+   "en": [
+    "Always connect to this site over HTTPS for a set period, never plain HTTP",
+    "Block all third-party cookies on this site",
+    "Cache every page of this site for a year",
+    "Allow this site to be embedded in any iframe"
+   ],
+   "hi": [
+    "Ek tay period tak is site se hamesha HTTPS pe hi connect karo, plain HTTP pe kabhi nahi",
+    "Is site pe saari third-party cookies block karo",
+    "Is site ka har page ek saal tak cache karo",
+    "Is site ko kisi bhi iframe mein embed hone do"
+   ],
+   "mr": [
+    "ठराविक कालावधीसाठी या साइटशी नेहमी HTTPS वरच connect व्हा, साध्या HTTP वर कधीच नाही",
+    "या साइटवरील सर्व third-party cookies block करा",
+    "या साइटचे प्रत्येक page वर्षभर cache करा",
+    "ही साइट कोणत्याही iframe मध्ये embed होऊ द्या"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "HSTS stops downgrade attacks where someone on public Wi-Fi forces a victim onto insecure HTTP. Once a browser sees the header, it upgrades every visit to HTTPS automatically until max-age expires. Enable it only after HTTPS works everywhere.",
+   "hi": "HSTS downgrade attacks rokta hai jisme public Wi-Fi pe koi victim ko insecure HTTP pe dhakel deta hai. Browser header dekh le toh max-age tak har visit automatically HTTPS pe upgrade karta hai. HTTPS har jagah chalne ke baad hi enable karo.",
+   "mr": "HSTS downgrade attacks थांबवतो ज्यात public Wi-Fi वर कोणी पीडिताला असुरक्षित HTTP वर ढकलतो. Browser ने header पाहिल्यावर max-age पर्यंत प्रत्येक भेट आपोआप HTTPS वर नेतो. HTTPS सगळीकडे चालू झाल्यावरच enable करा."
+  }
+ },
+ {
+  "id": "web-61",
+  "level": 8,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A food-delivery startup picks 'app downloads' as its North Star metric. Why is this a weak choice, and what's better?",
+   "hi": "Ek food-delivery startup ne 'app downloads' ko North Star metric banaya. Yeh weak choice kyun hai, aur behtar kya hai?",
+   "mr": "एका food-delivery startup ने 'app downloads' ला North Star metric निवडले. ही कमकुवत निवड का आहे, आणि चांगले काय?"
+  },
+  "opts": {
+   "en": [
+    "It's fine — downloads are the best measure of growth",
+    "Downloads don't show value delivered; something like 'orders delivered on time per week' is better",
+    "It's weak because downloads are hard to count; use website visits",
+    "It's weak; the North Star should be the marketing budget"
+   ],
+   "hi": [
+    "Theek hai — downloads growth ka best measure hain",
+    "Downloads delivered value nahi dikhate; 'orders delivered on time per week' jaisa metric behtar hai",
+    "Weak hai kyunki downloads ginna mushkil hai; website visits use karo",
+    "Weak hai; North Star marketing budget hona chahiye"
+   ],
+   "mr": [
+    "ठीक आहे — downloads हे growth चे सर्वोत्तम माप आहे",
+    "Downloads दिलेले मूल्य दाखवत नाहीत; 'orders delivered on time per week' सारखा metric चांगला",
+    "कमकुवत कारण downloads मोजणे कठीण; website visits वापरा",
+    "कमकुवत; North Star म्हणजे marketing budget असावे"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "People can download and never order, so downloads can grow while the business stalls. A value metric like on-time orders delivered captures both customer value and growth, and every team can influence it.",
+   "hi": "Log download karke kabhi order na karein, toh downloads badh sakte hain jabki business ruka ho. On-time orders delivered jaisa value metric customer value aur growth dono capture karta hai, aur har team use influence kar sakti hai.",
+   "mr": "लोक download करून कधीच order करत नाहीत, त्यामुळे व्यवसाय थांबलेला असतानाही downloads वाढू शकतात. On-time orders delivered सारखा value metric ग्राहक मूल्य आणि growth दोन्ही पकडतो, आणि प्रत्येक team त्यावर परिणाम करू शकते."
+  }
+ },
+ {
+  "id": "web-62",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A ghee brand gets 70% of sales from Amazon/Flipkart, but after commissions, ads and returns, marketplace orders earn far less contribution than its own site. Its own site brings repeat buyers. Best strategy?",
+   "hi": "Ek ghee brand ki 70% sales Amazon/Flipkart se aati hain, par commissions, ads aur returns ke baad marketplace orders ka contribution apni site se kaafi kam hai. Apni site se repeat buyers aate hain. Best strategy?",
+   "mr": "एका ghee brand च्या 70% sales Amazon/Flipkart वरून येतात, पण commissions, ads आणि returns नंतर marketplace orders चे contribution स्वतःच्या साइटपेक्षा खूप कमी आहे. स्वतःच्या साइटवरून repeat buyers येतात. सर्वोत्तम strategy?"
+  },
+  "opts": {
+   "en": [
+    "Leave marketplaces immediately and go 100% D2C",
+    "Put the entire budget into marketplace ads since volume is highest",
+    "Use marketplaces for discovery and volume, but grow own-site retention and compare contribution per channel",
+    "Match marketplace prices on its own site by removing all margin"
+   ],
+   "hi": [
+    "Turant marketplaces chhodo aur 100% D2C jao",
+    "Volume sabse zyada hai toh poora budget marketplace ads mein daalo",
+    "Marketplaces discovery/volume ke liye rakho, apni site ka retention badhao, har channel ka contribution compare karo",
+    "Saara margin hata ke apni site pe marketplace prices match karo"
+   ],
+   "mr": [
+    "लगेच marketplaces सोडा आणि 100% D2C व्हा",
+    "Volume सर्वात जास्त असल्याने संपूर्ण budget marketplace ads मध्ये टाका",
+    "Marketplaces discovery/volume साठी ठेवा, स्वतःच्या साइटचे retention वाढवा, प्रत्येक channel चे contribution तुलना करा",
+    "सर्व margin काढून स्वतःच्या साइटवर marketplace किंमती जुळवा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Marketplaces bring intent-rich shoppers but own the customer data; the brand site earns more per order and enables repeats. A channel mix judged on contribution (not just revenue) beats an all-or-nothing exit that would crash volume.",
+   "hi": "Marketplaces intent wale shoppers laate hain par customer data unka hota hai; brand site per order zyada kamaati hai aur repeats possible banati hai. Contribution (sirf revenue nahi) pe judge kiya channel mix all-or-nothing exit se behtar hai jo volume gira dega.",
+   "mr": "Marketplaces खरेदीच्या उद्देशाने आलेले ग्राहक आणतात पण customer data त्यांचा असतो; brand साइट प्रति order जास्त कमावते आणि repeats शक्य करते. Contribution (फक्त revenue नाही) वर तपासलेले channel mix, volume कोसळवणाऱ्या all-or-nothing exit पेक्षा चांगले."
+  }
+ },
+ {
+  "id": "web-63",
+  "level": 9,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "Your 'order paid' webhook handler sometimes creates duplicate orders in your CRM, because the gateway retries when your server responds slowly. Best fix?",
+   "hi": "Aapka 'order paid' webhook handler kabhi-kabhi CRM mein duplicate orders bana deta hai, kyunki server slow respond kare toh gateway retry karta hai. Best fix?",
+   "mr": "तुमचा 'order paid' webhook handler कधी कधी CRM मध्ये duplicate orders तयार करतो, कारण server हळू प्रतिसाद देतो तेव्हा gateway retry करतो. सर्वोत्तम उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Ask the gateway to disable retries",
+    "Delete duplicates manually every evening",
+    "Switch off the webhook and export orders weekly",
+    "Make the handler idempotent (dedupe by event/order ID) and return 2xx fast, processing in the background"
+   ],
+   "hi": [
+    "Gateway se retries band karwao",
+    "Har shaam manually duplicates delete karo",
+    "Webhook band karo aur har hafte orders export karo",
+    "Handler ko idempotent banao (event/order ID se dedupe) aur 2xx jaldi return karke background mein process karo"
+   ],
+   "mr": [
+    "Gateway ला retries बंद करायला सांगा",
+    "दररोज संध्याकाळी duplicates हाताने delete करा",
+    "Webhook बंद करून दर आठवड्याला orders export करा",
+    "Handler idempotent करा (event/order ID ने dedupe) आणि 2xx लगेच परत करून background मध्ये process करा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Webhooks are typically delivered 'at least once', so duplicates are normal. Storing processed event IDs makes repeats harmless, and acknowledging quickly avoids timeouts that trigger retries. Disabling retries would lose real orders.",
+   "hi": "Webhooks aam taur pe 'at least once' deliver hote hain, toh duplicates normal hain. Processed event IDs store karne se repeats harmless ho jaate hain, aur jaldi acknowledge karne se retry trigger karne wale timeouts nahi hote. Retries band karne se asli orders kho jayenge.",
+   "mr": "Webhooks सहसा 'at least once' पोहोचवले जातात, म्हणून duplicates सामान्य आहेत. Processed event IDs साठवल्याने पुनरावृत्ती निरुपद्रवी होते, आणि लगेच acknowledge केल्याने retry घडवणारे timeouts टळतात. Retries बंद केल्यास खऱ्या orders हरवतील."
+  }
+ },
+ {
+  "id": "web-64",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A brand cuts its reported CAC from ₹800 to ₹500 by offering 40% off the first order, but only counts ad spend in CAC. What's the flaw?",
+   "hi": "Ek brand ne first order pe 40% off dekar reported CAC ₹800 se ₹500 kar diya, par CAC mein sirf ad spend ginta hai. Flaw kya hai?",
+   "mr": "एका brand ने पहिल्या order वर 40% सूट देऊन reported CAC ₹800 वरून ₹500 केला, पण CAC मध्ये फक्त ad spend मोजतो. त्रुटी काय आहे?"
+  },
+  "opts": {
+   "en": [
+    "The first-order discount is also an acquisition cost; true CAC and payback may be no better",
+    "There is no flaw — lower CAC is always better",
+    "CAC should include only organic customers",
+    "Discounts should be counted as revenue, not cost"
+   ],
+   "hi": [
+    "First-order discount bhi acquisition cost hai; asli CAC aur payback shayad behtar nahi hue",
+    "Koi flaw nahi — kam CAC hamesha achha hai",
+    "CAC mein sirf organic customers hone chahiye",
+    "Discounts ko revenue ginna chahiye, cost nahi"
+   ],
+   "mr": [
+    "पहिल्या order ची सूट हाही acquisition खर्च आहे; खरा CAC आणि payback कदाचित सुधारलेले नाहीत",
+    "कोणतीही त्रुटी नाही — कमी CAC नेहमी चांगला",
+    "CAC मध्ये फक्त organic ग्राहक असावेत",
+    "Discounts revenue म्हणून मोजावेत, खर्च म्हणून नाही"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Margin given away to win the first order is part of what it costs to acquire the customer. Deep discounts can also attract deal-seekers who don't repeat, hurting LTV. Compare fully-loaded CAC and cohort payback before and after.",
+   "hi": "Pehla order jeetne ke liye diya gaya margin bhi customer laane ki cost ka hissa hai. Bade discounts deal-seekers ko laate hain jo repeat nahi karte, LTV girta hai. Pehle aur baad ka fully-loaded CAC aur cohort payback compare karo.",
+   "mr": "पहिली order मिळवण्यासाठी सोडलेले margin हाही ग्राहक मिळवण्याच्या खर्चाचा भाग आहे. मोठ्या सवलती repeat न करणारे deal-seekers आणतात, LTV घटतो. आधी आणि नंतरचा fully-loaded CAC आणि cohort payback तुलना करा."
+  }
+ },
+ {
+  "id": "web-65",
+  "level": 9,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand's site crashed during last year's flash sale even though images and CSS were on a CDN. The sale is next month. What's the best preparation?",
+   "hi": "Ek D2C brand ki site pichle saal flash sale mein crash ho gayi thi, jabki images aur CSS CDN pe the. Sale agle mahine hai. Best preparation kya hai?",
+   "mr": "एका D2C brand ची साइट गेल्या वर्षी flash sale मध्ये crash झाली, जरी images आणि CSS CDN वर होते. Sale पुढच्या महिन्यात आहे. सर्वोत्तम तयारी कोणती?"
+  },
+  "opts": {
+   "en": [
+    "Put the checkout page itself on the CDN cache for everyone",
+    "Load-test the origin, cache non-personalised pages, scale cart/checkout capacity and consider a queue/waiting room",
+    "Remove all product images to reduce load",
+    "Send the sale link to everyone at the exact same second"
+   ],
+   "hi": [
+    "Checkout page ko hi sabke liye CDN cache pe daal do",
+    "Origin load-test karo, non-personalised pages cache karo, cart/checkout scale karo, queue/waiting room socho",
+    "Load kam karne ke liye saari product images hata do",
+    "Sale link sabko ek hi second pe bhejo"
+   ],
+   "mr": [
+    "Checkout page च सर्वांसाठी CDN cache वर ठेवा",
+    "Origin load-test करा, non-personalised pages cache करा, cart/checkout क्षमता वाढवा, queue/waiting room विचारात घ्या",
+    "Load कमी करण्यासाठी सर्व product images काढा",
+    "Sale link सर्वांना एकाच सेकंदाला पाठवा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "CDNs offload static files, but carts, inventory and payments hit your origin and database. Load testing reveals the bottleneck; caching browse pages and queueing traffic protect checkout. Caching personalised checkout pages could show one user's cart to another.",
+   "hi": "CDN static files ka load leta hai, par cart, inventory aur payments origin aur database pe jaate hain. Load testing bottleneck dikhata hai; browse pages cache karna aur traffic queue karna checkout ko bachata hai. Personalised checkout cache karne se ek user ka cart doosre ko dikh sakta hai.",
+   "mr": "CDN static files चा भार घेते, पण cart, inventory आणि payments origin आणि database वर जातात. Load testing bottleneck दाखवते; browse pages cache करणे आणि traffic queue करणे checkout वाचवते. Personalised checkout cache केल्यास एकाचा cart दुसऱ्याला दिसू शकतो."
+  }
+ },
+ {
+  "id": "web-66",
+  "level": 9,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A SaaS for Indian CA firms has 10,000 free-plan signups but under 1% upgrade. Most users create one client file and never return. What should the growth team focus on first?",
+   "hi": "Indian CA firms ke liye ek SaaS ke 10,000 free-plan signups hain par 1% se kam upgrade karte hain. Zyada tar users ek client file banake wapas nahi aate. Growth team ko pehle kis pe focus karna chahiye?",
+   "mr": "भारतीय CA firms साठीच्या एका SaaS चे 10,000 free-plan signups आहेत पण 1% पेक्षा कमी upgrade करतात. बहुतेक users एक client file बनवून परत येत नाहीत. Growth team ने आधी कशावर लक्ष द्यावे?"
+  },
+  "opts": {
+   "en": [
+    "Double ad spend to get 20,000 more signups",
+    "Remove the free plan entirely",
+    "Find the 'aha' action that retained users do, guide new users to it, and tie upgrade prompts to real usage limits",
+    "Cut the paid plan's price by 80%"
+   ],
+   "hi": [
+    "20,000 aur signups ke liye ad spend double karo",
+    "Free plan poori tarah hata do",
+    "Retained users ka aha action dhoondo, naye users ko wahan tak le jao, upgrade prompts asli usage limits se jodo",
+    "Paid plan ki price 80% kam karo"
+   ],
+   "mr": [
+    "आणखी 20,000 signups साठी ad spend दुप्पट करा",
+    "Free plan पूर्णपणे काढा",
+    "टिकलेले users करतात ती 'aha' कृती शोधा, नवीन users ना तिथे न्या, आणि upgrade prompts खऱ्या usage limits शी जोडा",
+    "Paid plan ची किंमत 80% कमी करा"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "The leak is activation, not acquisition or price: users don't reach value. Fix onboarding toward the behaviour that predicts retention (e.g. adding several clients), then upgrades follow naturally. More signups into a leaky bucket waste money.",
+   "hi": "Leak activation mein hai, acquisition ya price mein nahi: users value tak pahunchte hi nahi. Onboarding ko us behaviour ki taraf le jao jo retention predict karta hai (jaise kai clients add karna), phir upgrades naturally aate hain. Leaky bucket mein aur signups paisa barbaad hai.",
+   "mr": "गळती activation मध्ये आहे, acquisition किंवा किंमतीत नाही: users मूल्यापर्यंत पोहोचतच नाहीत. Retention सूचित करणाऱ्या वर्तनाकडे (उदा. अनेक clients जोडणे) onboarding न्या, मग upgrades आपोआप येतात. गळक्या बादलीत आणखी signups म्हणजे पैसे वाया."
+  }
+ },
+ {
+  "id": "web-67",
+  "level": 9,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A clinic moved its website to a new host and switched the domain's nameservers. The site works, but company email (on Google Workspace) stopped receiving mail. Most likely cause?",
+   "hi": "Ek clinic ne website naye host pe shift ki aur domain ke nameservers badle. Site chal rahi hai, par company email (Google Workspace pe) mein mail aana band ho gaya. Sabse likely cause?",
+   "mr": "एका clinic ने वेबसाइट नवीन host वर हलवली आणि domain चे nameservers बदलले. साइट चालते, पण company email (Google Workspace वर) मध्ये mail येणे बंद झाले. बहुधा कारण?"
+  },
+  "opts": {
+   "en": [
+    "Google Workspace blocks websites on new hosts",
+    "The SSL certificate on the new host blocks email",
+    "Changing hosts always deletes old emails",
+    "The MX (and related TXT) records weren't recreated in the new DNS zone"
+   ],
+   "hi": [
+    "Google Workspace naye hosts wali websites ko block karta hai",
+    "Naye host ka SSL certificate email block karta hai",
+    "Host badalne se purane emails hamesha delete ho jaate hain",
+    "MX (aur related TXT) records naye DNS zone mein dobara nahi banaye gaye"
+   ],
+   "mr": [
+    "Google Workspace नवीन hosts वरील websites block करते",
+    "नवीन host चे SSL certificate email block करते",
+    "Host बदलल्याने जुने emails नेहमी delete होतात",
+    "MX (आणि संबंधित TXT) records नवीन DNS zone मध्ये पुन्हा तयार केले नाहीत"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Switching nameservers moves the whole DNS zone. If only the website's A/CNAME records were added, mail has no MX route. Copy every record (MX, SPF/DKIM TXT, verification) before switching nameservers.",
+   "hi": "Nameservers badalne se poora DNS zone shift hota hai. Agar sirf website ke A/CNAME records daale, toh mail ka MX route hi nahi. Nameservers badalne se pehle har record (MX, SPF/DKIM TXT, verification) copy karo.",
+   "mr": "Nameservers बदलल्याने संपूर्ण DNS zone हलतो. फक्त वेबसाइटचे A/CNAME records टाकले तर mail ला MX मार्गच नाही. Nameservers बदलण्याआधी प्रत्येक record (MX, SPF/DKIM TXT, verification) copy करा."
+  }
+ },
+ {
+  "id": "web-68",
+  "level": 9,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In the common D2C 'CM1/CM2/CM3' framework, what does CM3 usually represent?",
+   "hi": "Common D2C 'CM1/CM2/CM3' framework mein CM3 usually kya dikhata hai?",
+   "mr": "सामान्य D2C 'CM1/CM2/CM3' framework मध्ये CM3 सहसा काय दर्शवतो?"
+  },
+  "opts": {
+   "en": [
+    "Contribution after product, fulfilment and marketing costs",
+    "Revenue after GST only",
+    "Gross margin after product cost only",
+    "Net profit after rent and salaries"
+   ],
+   "hi": [
+    "Product, fulfilment aur marketing costs ke baad ka contribution",
+    "Sirf GST ke baad ka revenue",
+    "Sirf product cost ke baad ka gross margin",
+    "Rent aur salaries ke baad ka net profit"
+   ],
+   "mr": [
+    "Product, fulfilment आणि marketing खर्चानंतरचे contribution",
+    "फक्त GST नंतरचे revenue",
+    "फक्त product खर्चानंतरचे gross margin",
+    "भाडे आणि पगारानंतरचा net profit"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Typically CM1 = revenue − product cost; CM2 = CM1 − fulfilment (shipping, packaging, payment fees, returns); CM3 = CM2 − marketing. Definitions vary slightly by company, but fixed overheads like salaries sit below CM3.",
+   "hi": "Aam taur pe CM1 = revenue − product cost; CM2 = CM1 − fulfilment (shipping, packaging, payment fees, returns); CM3 = CM2 − marketing. Company ke hisaab se definitions thodi badalti hain, par salaries jaise fixed overheads CM3 ke neeche aate hain.",
+   "mr": "सहसा CM1 = revenue − product खर्च; CM2 = CM1 − fulfilment (shipping, packaging, payment fees, returns); CM3 = CM2 − marketing. Company नुसार व्याख्या थोड्या बदलतात, पण पगारासारखे fixed overheads CM3 च्या खाली येतात."
+  }
+ },
+ {
+  "id": "web-69",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A D2C brand's blended Meta ROAS is a healthy 4x, but most attributed purchases come from returning customers being retargeted. The CEO wants to scale spend 3x. What should you check first?",
+   "hi": "Ek D2C brand ka blended Meta ROAS healthy 4x hai, par zyada tar attributed purchases retarget kiye ja rahe returning customers se aate hain. CEO spend 3x karna chahta hai. Pehle kya check karoge?",
+   "mr": "एका D2C brand चा blended Meta ROAS चांगला 4x आहे, पण बहुतेक attributed purchases retarget होणाऱ्या returning ग्राहकांकडून येतात. CEO ला spend 3x करायचा आहे. आधी काय तपासाल?"
+  },
+  "opts": {
+   "en": [
+    "Whether CPM is below ₹100",
+    "New-customer CAC and first-order economics, ideally with an incrementality test",
+    "Whether the ad creatives use the brand colours",
+    "Only the blended ROAS trend for the last 7 days"
+   ],
+   "hi": [
+    "Kya CPM ₹100 se kam hai",
+    "New-customer CAC aur first-order economics, ho sake toh incrementality test ke saath",
+    "Kya ad creatives brand colours use karte hain",
+    "Sirf pichle 7 din ka blended ROAS trend"
+   ],
+   "mr": [
+    "CPM ₹100 पेक्षा कमी आहे का",
+    "New-customer CAC आणि first-order economics, शक्यतो incrementality test सह",
+    "Ad creatives brand रंग वापरतात का",
+    "फक्त गेल्या 7 दिवसांचा blended ROAS trend"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Retargeting existing buyers inflates ROAS — many would have bought anyway. Scaling needs new customers, whose cost is much higher. Measure spend ÷ new customers and test incrementality before tripling budget.",
+   "hi": "Existing buyers ko retarget karna ROAS ko inflate karta hai — kai log waise bhi kharidte. Scale ke liye naye customers chahiye, jinki cost kaafi zyada hoti hai. Budget 3x karne se pehle spend ÷ new customers measure karo aur incrementality test karo.",
+   "mr": "सध्याच्या buyers ना retarget केल्याने ROAS फुगतो — अनेकांनी तसेही घेतले असते. Scale साठी नवीन ग्राहक लागतात, ज्यांचा खर्च खूप जास्त असतो. Budget 3x करण्याआधी spend ÷ new customers मोजा आणि incrementality test करा."
+  }
+ },
+ {
+  "id": "web-70",
+  "level": 10,
+  "cat": "dm",
+  "type": "mcq",
+  "q": {
+   "en": "In a referral loop, each new user sends 4 invites on average and 10% of invites convert. For every 100 users you acquire via ads, about how many total extra users will referrals add?",
+   "hi": "Referral loop mein har naya user average 4 invites bhejta hai aur 10% invites convert hote hain. Ads se laaye har 100 users pe referrals kul milake lagbhag kitne extra users jodenge?",
+   "mr": "Referral loop मध्ये प्रत्येक नवीन user सरासरी 4 invites पाठवतो आणि 10% invites convert होतात. Ads मधून आणलेल्या प्रत्येक 100 users मागे referrals एकूण साधारण किती अतिरिक्त users जोडतील?"
+  },
+  "opts": {
+   "en": [
+    "Unlimited — the loop grows forever",
+    "About 40, and then it stops at the first round",
+    "About 67 in total across all rounds",
+    "About 400"
+   ],
+   "hi": [
+    "Unlimited — loop hamesha badhta rahega",
+    "Lagbhag 40, aur pehle round ke baad ruk jayega",
+    "Saare rounds milake kul lagbhag 67",
+    "Lagbhag 400"
+   ],
+   "mr": [
+    "अमर्याद — loop कायम वाढत राहील",
+    "सुमारे 40, आणि पहिल्या फेरीनंतर थांबेल",
+    "सर्व फेऱ्या मिळून एकूण सुमारे 67",
+    "सुमारे 400"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Viral coefficient K = 4 × 10% = 0.4. Each round brings 40%: 40 + 16 + 6.4 + … ≈ 67 extra (total = 100 ÷ (1 − 0.4)). K below 1 won't grow on its own but amplifies paid acquisition by ~1.67x.",
+   "hi": "Viral coefficient K = 4 × 10% = 0.4. Har round 40% laata hai: 40 + 16 + 6.4 + … ≈ 67 extra (total = 100 ÷ (1 − 0.4)). K 1 se kam ho toh khud nahi badhta, par paid acquisition ko ~1.67x amplify karta hai.",
+   "mr": "Viral coefficient K = 4 × 10% = 0.4. प्रत्येक फेरी 40% आणते: 40 + 16 + 6.4 + … ≈ 67 अतिरिक्त (एकूण = 100 ÷ (1 − 0.4)). K 1 पेक्षा कमी असल्यास स्वतः वाढत नाही, पण paid acquisition ~1.67x वाढवतो."
+  }
+ },
+ {
+  "id": "web-71",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "Your lead form redirects to /thank-you?email=user@gmail.com&phone=98xxxxxx. Meta and Google tags fire on that page. What's the problem and fix?",
+   "hi": "Aapka lead form /thank-you?email=user@gmail.com&phone=98xxxxxx pe redirect karta hai. Us page pe Meta aur Google tags fire hote hain. Problem kya hai aur fix?",
+   "mr": "तुमचा lead form /thank-you?email=user@gmail.com&phone=98xxxxxx वर redirect करतो. त्या page वर Meta आणि Google tags fire होतात. समस्या काय आणि उपाय?"
+  },
+  "opts": {
+   "en": [
+    "No problem — ad platforms need the email for matching",
+    "The URL is too long for Google to index — shorten it",
+    "Tags don't fire on thank-you pages — move them to the homepage",
+    "Personal data in the URL leaks to third-party tags and logs; remove it and pass data only via approved, hashed methods"
+   ],
+   "hi": [
+    "Koi problem nahi — ad platforms ko matching ke liye email chahiye",
+    "URL Google index ke liye bahut lamba hai — chhota karo",
+    "Thank-you pages pe tags fire nahi hote — homepage pe daalo",
+    "URL ka personal data third-party tags aur logs tak leak hota hai; hatao, data sirf approved hashed methods se bhejo"
+   ],
+   "mr": [
+    "समस्या नाही — ad platforms ना matching साठी email लागतो",
+    "URL Google index साठी खूप मोठी आहे — लहान करा",
+    "Thank-you pages वर tags fire होत नाहीत — homepage वर हलवा",
+    "URL मधील personal data third-party tags आणि logs पर्यंत leak होतो; तो काढा आणि data फक्त मान्य, hashed पद्धतींनी पाठवा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "URLs are captured by analytics, ad pixels, server logs and referrers, so PII in query strings leaks to third parties and breaks platform policies and privacy laws. Use enhanced conversions/CAPI with hashed data and user consent instead.",
+   "hi": "URLs analytics, ad pixels, server logs aur referrers mein capture hote hain, toh query string mein PII third parties tak leak hota hai aur platform policies aur privacy laws todta hai. Iski jagah hashed data aur user consent ke saath enhanced conversions/CAPI use karo.",
+   "mr": "URLs analytics, ad pixels, server logs आणि referrers मध्ये नोंदल्या जातात, त्यामुळे query string मधील PII third parties पर्यंत जातो आणि platform policies व privacy कायदे मोडतो. त्याऐवजी hashed data आणि user consent सह enhanced conversions/CAPI वापरा."
+  }
+ },
+ {
+  "id": "web-72",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A brand raised its free-shipping threshold from ₹499 to ₹999. AOV jumped 35%, but conversion rate fell 40%. The team celebrates AOV. What should decide if the change worked?",
+   "hi": "Ek brand ne free-shipping threshold ₹499 se ₹999 kar diya. AOV 35% badha, par conversion rate 40% gira. Team AOV celebrate kar rahi hai. Change kaam kiya ya nahi, yeh kya decide karega?",
+   "mr": "एका brand ने free-shipping threshold ₹499 वरून ₹999 केला. AOV 35% वाढला, पण conversion rate 40% घसरला. Team AOV साजरा करतेय. बदल यशस्वी झाला का हे काय ठरवेल?"
+  },
+  "opts": {
+   "en": [
+    "Contribution per visitor (conversion × AOV × margin, net of shipping) versus before",
+    "AOV alone, since it went up",
+    "Conversion rate alone, since it went down",
+    "Number of items per order"
+   ],
+   "hi": [
+    "Contribution per visitor (conversion × AOV × margin, shipping ke baad) pehle ke mukable",
+    "Sirf AOV, kyunki woh badha",
+    "Sirf conversion rate, kyunki woh gira",
+    "Per order items ki ginti"
+   ],
+   "mr": [
+    "Contribution per visitor (conversion × AOV × margin, shipping वजा) आधीच्या तुलनेत",
+    "फक्त AOV, कारण तो वाढला",
+    "फक्त conversion rate, कारण तो घटला",
+    "प्रति order items ची संख्या"
+   ]
+  },
+  "a": 0,
+  "exp": {
+   "en": "Revenue per visitor = CR × AOV: 0.60 × 1.35 ≈ 0.81, i.e. about 19% less revenue per visitor. Saved shipping might offset part of that, so compare contribution per visitor — single metrics mislead in opposite directions.",
+   "hi": "Revenue per visitor = CR × AOV: 0.60 × 1.35 ≈ 0.81, yaani per visitor lagbhag 19% kam revenue. Bachi shipping iska kuch hissa cover kar sakti hai, toh contribution per visitor compare karo — single metrics ulti dishaon mein gumraah karte hain.",
+   "mr": "Revenue per visitor = CR × AOV: 0.60 × 1.35 ≈ 0.81, म्हणजे प्रति visitor सुमारे 19% कमी revenue. वाचलेले shipping याचा काही भाग भरून काढू शकते, म्हणून contribution per visitor तुलना करा — एकेकटे metrics उलट दिशांना दिशाभूल करतात."
+  }
+ },
+ {
+  "id": "web-73",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "An agency's 6-person team shares one Meta login and one Google Ads password over WhatsApp. An employee just left on bad terms. What's the best fix?",
+   "hi": "Ek agency ki 6 logon ki team ek Meta login aur ek Google Ads password WhatsApp pe share karti hai. Ek employee abhi bure terms pe chhod ke gaya. Best fix?",
+   "mr": "एका agency ची 6 जणांची team एक Meta login आणि एक Google Ads password WhatsApp वर शेअर करते. एक कर्मचारी नुकताच वाईट अटींवर सोडून गेला. सर्वोत्तम उपाय?"
+  },
+  "opts": {
+   "en": [
+    "Change the password and share the new one on WhatsApp again",
+    "Give everyone their own login with role-based access, enforce 2FA, and remove leavers immediately",
+    "Create a second shared account as a backup",
+    "Keep the password but ask the ex-employee not to log in"
+   ],
+   "hi": [
+    "Password badlo aur naya wala phir WhatsApp pe share karo",
+    "Har insaan ko role-based access wala apna login do, 2FA enforce karo, aur chhodne walon ko turant hatao",
+    "Backup ke liye doosra shared account banao",
+    "Password wahi rakho par ex-employee ko login na karne bolo"
+   ],
+   "mr": [
+    "Password बदला आणि नवीन पुन्हा WhatsApp वर शेअर करा",
+    "प्रत्येकाला role-based access सह स्वतःचा login द्या, 2FA सक्तीचे करा, आणि सोडणाऱ्यांना लगेच काढा",
+    "Backup साठी दुसरे shared account तयार करा",
+    "Password तसाच ठेवा पण माजी कर्मचाऱ्याला login करू नको सांगा"
+   ]
+  },
+  "a": 1,
+  "exp": {
+   "en": "Shared credentials can't be revoked per person, leave no audit trail and violate platform terms. Individual access with roles lets you remove one person in seconds, and 2FA stops leaked passwords being used. Resharing on chat repeats the risk.",
+   "hi": "Shared credentials ko per person revoke nahi kar sakte, audit trail nahi hota, aur platform terms todte hain. Roles ke saath individual access se ek insaan ko seconds mein hata sakte ho, aur 2FA leak hue passwords ko bekaar kar deta hai. Chat pe dobara share karna wahi risk dohrata hai.",
+   "mr": "Shared credentials व्यक्तीनुसार रद्द करता येत नाहीत, audit trail राहत नाही, आणि platform अटी मोडतात. Roles सह वैयक्तिक access मुळे एका व्यक्तीला काही सेकंदात काढता येते, आणि 2FA leak झालेले passwords निरुपयोगी करते. Chat वर पुन्हा शेअर करणे तोच धोका पुन्हा आणते."
+  }
+ },
+ {
+  "id": "web-74",
+  "level": 10,
+  "cat": "dm",
+  "type": "situation",
+  "q": {
+   "en": "A profitable D2C brand has a 3-month CAC payback and must pay suppliers 60 days before goods sell. For Diwali, it wants to triple ad spend in one month. What's the biggest risk?",
+   "hi": "Ek profitable D2C brand ka CAC payback 3 mahine hai aur use suppliers ko goods bikne se 60 din pehle pay karna padta hai. Diwali ke liye ek mahine mein ad spend 3x karna hai. Sabse bada risk kya hai?",
+   "mr": "एका फायदेशीर D2C brand चा CAC payback 3 महिने आहे आणि त्याला माल विकला जाण्याच्या 60 दिवस आधी suppliers ना पैसे द्यावे लागतात. Diwali साठी एका महिन्यात ad spend 3x करायचा आहे. सर्वात मोठा धोका कोणता?"
+  },
+  "opts": {
+   "en": [
+    "Ad platforms will reject the higher budget",
+    "ROAS will certainly double at higher spend",
+    "A cash crunch: ad spend and inventory are paid long before contribution comes back",
+    "The brand will gain too many repeat customers"
+   ],
+   "hi": [
+    "Ad platforms zyada budget reject kar denge",
+    "Zyada spend pe ROAS pakka double hoga",
+    "Cash crunch: ad spend aur inventory ka paisa contribution wapas aane se kaafi pehle jaata hai",
+    "Brand ke bahut zyada repeat customers ho jayenge"
+   ],
+   "mr": [
+    "Ad platforms जास्त budget नाकारतील",
+    "जास्त spend वर ROAS नक्की दुप्पट होईल",
+    "Cash crunch: ad spend आणि inventory चे पैसे contribution परत येण्याच्या खूप आधी जातात",
+    "Brand ला खूप जास्त repeat ग्राहक मिळतील"
+   ]
+  },
+  "a": 2,
+  "exp": {
+   "en": "Profitable-on-paper growth can still run out of cash: you prepay inventory, pay for ads now, and recover CAC over months. Scaling also tends to raise marginal CAC. Model monthly cash flow (and credit lines) before tripling spend.",
+   "hi": "Kagaz pe profitable growth ka bhi cash khatam ho sakta hai: inventory advance mein, ads ka paisa abhi, aur CAC mahino mein wapas. Scale karne se marginal CAC bhi badhta hai. Spend 3x karne se pehle monthly cash flow (aur credit lines) model karo.",
+   "mr": "कागदावर फायदेशीर growth चेही cash संपू शकते: inventory आधी, ads चे पैसे आता, आणि CAC महिन्यांनंतर परत. Scale केल्याने marginal CAC ही वाढतो. Spend 3x करण्याआधी मासिक cash flow (आणि credit lines) model करा."
+  }
+ },
+ {
+  "id": "web-75",
+  "level": 10,
+  "cat": "tech",
+  "type": "situation",
+  "q": {
+   "en": "A growing D2C brand on a Shopify theme has a slow mobile site. Its 2-person team (no developers) is pitched a custom 'headless' rebuild. What's the smartest first move?",
+   "hi": "Shopify theme pe chalne wale ek growing D2C brand ki mobile site slow hai. Uski 2 logon ki team (koi developer nahi) ko custom 'headless' rebuild pitch kiya gaya hai. Sabse smart first move?",
+   "mr": "Shopify theme वर चालणाऱ्या एका वाढत्या D2C brand ची mobile साइट मंद आहे. त्याच्या 2 जणांच्या team ला (एकही developer नाही) custom 'headless' rebuild pitch केले आहे. सर्वात हुशार पहिले पाऊल?"
+  },
+  "opts": {
+   "en": [
+    "Go headless immediately — it's always faster",
+    "Move to a different platform every year",
+    "Add a speed-booster app on top of all existing apps",
+    "Audit and remove unused apps/scripts, optimise images and theme first; consider headless only if limits remain"
+   ],
+   "hi": [
+    "Turant headless jao — woh hamesha fast hota hai",
+    "Har saal doosra platform le lo",
+    "Saare existing apps ke upar ek speed-booster app daal do",
+    "Pehle unused apps/scripts audit karke hatao, images aur theme optimise karo; limits bani rahein tabhi headless socho"
+   ],
+   "mr": [
+    "लगेच headless व्हा — ते नेहमी वेगवान असते",
+    "दरवर्षी दुसरा platform घ्या",
+    "सर्व existing apps वर आणखी एक speed-booster app टाका",
+    "आधी न वापरलेले apps/scripts audit करून काढा, images आणि theme optimise करा; मर्यादा राहिल्यासच headless विचार करा"
+   ]
+  },
+  "a": 3,
+  "exp": {
+   "en": "Most slow Shopify stores are slowed by app scripts, heavy images and theme bloat, which a small team can fix cheaply. Headless can be fast but adds ongoing developer cost and complexity. Another app usually adds more script weight.",
+   "hi": "Zyada tar slow Shopify stores app scripts, bhaari images aur theme bloat ki wajah se slow hote hain, jo chhoti team sasta fix kar sakti hai. Headless fast ho sakta hai par ongoing developer cost aur complexity badhata hai. Ek aur app aksar aur script weight jodta hai.",
+   "mr": "बहुतेक मंद Shopify stores app scripts, जड images आणि theme bloat मुळे मंद असतात, जे छोटी team स्वस्तात दुरुस्त करू शकते. Headless वेगवान असू शकते पण सततचा developer खर्च आणि गुंतागुंत वाढवते. आणखी एक app सहसा script चे वजन वाढवते."
+  }
+ }
+]

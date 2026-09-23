@@ -1,0 +1,2777 @@
+[
+  {
+    "id": "con-1",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In copywriting, what does the AIDA formula stand for?",
+      "hi": "Copywriting mein AIDA formula ka full form kya hai?",
+      "mr": "Copywriting मध्ये AIDA formula चे पूर्ण रूप काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Attention, Interest, Desire, Action",
+        "Awareness, Insight, Demand, Approval",
+        "Audience, Idea, Design, Advertising",
+        "Attract, Inform, Deliver, Analyse"
+      ],
+      "hi": [
+        "Attention, Interest, Desire, Action",
+        "Awareness, Insight, Demand, Approval",
+        "Audience, Idea, Design, Advertising",
+        "Attract, Inform, Deliver, Analyse"
+      ],
+      "mr": [
+        "Attention, Interest, Desire, Action",
+        "Awareness, Insight, Demand, Approval",
+        "Audience, Idea, Design, Advertising",
+        "Attract, Inform, Deliver, Analyse"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "AIDA = Attention, Interest, Desire, Action. Good copy first grabs attention, builds interest, creates desire and then asks for a clear action.",
+      "hi": "AIDA = Attention, Interest, Desire, Action. Achhi copy pehle attention pakadti hai, interest banati hai, desire create karti hai aur phir clear action maangti hai.",
+      "mr": "AIDA = Attention, Interest, Desire, Action. चांगली copy आधी लक्ष वेधते, interest वाढवते, desire निर्माण करते आणि मग स्पष्ट action मागते."
+    }
+  },
+  {
+    "id": "con-2",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In the marketing funnel, what does TOFU stand for?",
+      "hi": "Marketing funnel mein TOFU ka matlab kya hai?",
+      "mr": "Marketing funnel मध्ये TOFU म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Total Online Followers Update",
+        "Time Of First Usage",
+        "Top Of the Funnel",
+        "Target Offer For Users"
+      ],
+      "hi": [
+        "Total Online Followers Update",
+        "Time Of First Usage",
+        "Top Of the Funnel",
+        "Target Offer For Users"
+      ],
+      "mr": [
+        "Total Online Followers Update",
+        "Time Of First Usage",
+        "Top Of the Funnel",
+        "Target Offer For Users"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "TOFU = Top Of the Funnel, the awareness stage where people first discover you. MOFU is the middle (consideration) and BOFU the bottom (decision).",
+      "hi": "TOFU = Top Of the Funnel, yaani awareness stage jahan log aapko pehli baar discover karte hain. MOFU middle (consideration) aur BOFU bottom (decision) stage hai.",
+      "mr": "TOFU = Top Of the Funnel, म्हणजे awareness टप्पा जिथे लोक तुम्हाला पहिल्यांदा ओळखतात. MOFU मधला (consideration) आणि BOFU शेवटचा (decision) टप्पा आहे."
+    }
+  },
+  {
+    "id": "con-3",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a 'buyer persona'?",
+      "hi": "'Buyer persona' kya hota hai?",
+      "mr": "'Buyer persona' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "A list of all customers who bought last month",
+        "A research-based profile of your ideal customer",
+        "The brand ambassador who appears in your ads",
+        "A customer's login account on your website"
+      ],
+      "hi": [
+        "Pichhle mahine kharidne wale sab customers ki list",
+        "Research par based aapke ideal customer ka profile",
+        "Aapke ads mein aane wala brand ambassador",
+        "Website par customer ka login account"
+      ],
+      "mr": [
+        "मागच्या महिन्यात खरेदी केलेल्या सर्व ग्राहकांची यादी",
+        "Research वर आधारित तुमच्या आदर्श ग्राहकाचे profile",
+        "तुमच्या ads मध्ये दिसणारा brand ambassador",
+        "वेबसाइटवरील ग्राहकाचे login account"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "A buyer persona is a semi-fictional profile of your ideal customer (goals, problems, habits) built from real research. It helps you write content that speaks to real needs.",
+      "hi": "Buyer persona aapke ideal customer ka semi-fictional profile hai (goals, problems, habits), jo real research se banta hai. Isse content real needs ke hisaab se likha ja sakta hai.",
+      "mr": "Buyer persona म्हणजे खऱ्या research वर आधारित तुमच्या आदर्श ग्राहकाचे अर्ध-काल्पनिक profile (goals, समस्या, सवयी). त्यामुळे content ग्राहकाच्या खऱ्या गरजांनुसार लिहिता येते."
+    }
+  },
+  {
+    "id": "con-4",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does CRM stand for?",
+      "hi": "CRM ka full form kya hai?",
+      "mr": "CRM चे पूर्ण रूप काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Content Reach Metric",
+        "Campaign Revenue Model",
+        "Customer Response Message",
+        "Customer Relationship Management"
+      ],
+      "hi": [
+        "Content Reach Metric",
+        "Campaign Revenue Model",
+        "Customer Response Message",
+        "Customer Relationship Management"
+      ],
+      "mr": [
+        "Content Reach Metric",
+        "Campaign Revenue Model",
+        "Customer Response Message",
+        "Customer Relationship Management"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "CRM = Customer Relationship Management: the process and software (like HubSpot, Zoho CRM, Salesforce) used to track leads, customers and every interaction with them.",
+      "hi": "CRM = Customer Relationship Management: leads, customers aur unke saath har interaction track karne ka process aur software (jaise HubSpot, Zoho CRM, Salesforce).",
+      "mr": "CRM = Customer Relationship Management: leads, ग्राहक आणि त्यांच्याशी झालेला प्रत्येक संवाद track करण्याची पद्धत आणि software (उदा. HubSpot, Zoho CRM, Salesforce)."
+    }
+  },
+  {
+    "id": "con-5",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a 'lead magnet'?",
+      "hi": "'Lead magnet' kya hota hai?",
+      "mr": "'Lead magnet' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "A free, useful offer given in exchange for contact details",
+        "A paid ad that shows only to existing customers",
+        "A tool that removes fake leads from your CRM",
+        "A discount given after the third purchase"
+      ],
+      "hi": [
+        "Contact details ke badle diya jaane wala free, useful offer",
+        "Sirf existing customers ko dikhne wala paid ad",
+        "CRM se fake leads hatane wala tool",
+        "Teesri purchase ke baad milne wala discount"
+      ],
+      "mr": [
+        "Contact details च्या बदल्यात दिलेली मोफत, उपयुक्त ऑफर",
+        "फक्त existing ग्राहकांना दिसणारी paid ad",
+        "CRM मधून fake leads काढणारे tool",
+        "तिसऱ्या खरेदीनंतर मिळणारी सवलत"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "A lead magnet is something valuable offered free (e-book, checklist, free class, sample) in exchange for an email or phone number, so you can keep marketing to that person.",
+      "hi": "Lead magnet ek valuable free cheez hai (e-book, checklist, free class, sample) jo email ya phone number ke badle di jaati hai, taaki aap us person ko aage market kar sako.",
+      "mr": "Lead magnet म्हणजे email किंवा phone number च्या बदल्यात दिलेली मोफत उपयुक्त गोष्ट (e-book, checklist, free class, sample), ज्यामुळे त्या व्यक्तीपर्यंत पुढे marketing करता येते."
+    }
+  },
+  {
+    "id": "con-6",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Why must marketing emails include an 'unsubscribe' link?",
+      "hi": "Marketing emails mein 'unsubscribe' link kyun zaroori hai?",
+      "mr": "Marketing emails मध्ये 'unsubscribe' link का आवश्यक असते?"
+    },
+    "opts": {
+      "en": [
+        "To track how many people opened the email",
+        "To let the brand add more people to the list",
+        "To let recipients easily stop getting marketing emails",
+        "To make the email load faster on mobile"
+      ],
+      "hi": [
+        "Kitne logon ne email open kiya yeh track karne ke liye",
+        "Brand list mein aur log add kar sake isliye",
+        "Taaki receiver aasani se marketing emails band kar sake",
+        "Mobile par email jaldi load ho isliye"
+      ],
+      "mr": [
+        "किती लोकांनी email उघडला हे track करण्यासाठी",
+        "Brand ला list मध्ये आणखी लोक जोडता यावेत म्हणून",
+        "प्राप्तकर्त्याला marketing emails सहज बंद करता यावेत म्हणून",
+        "Mobile वर email लवकर load व्हावा म्हणून"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Laws like the US CAN-SPAM Act and major inbox providers require a clear way to opt out. Hiding it makes people hit 'Report spam' instead, which hurts deliverability.",
+      "hi": "US ka CAN-SPAM Act jaise laws aur bade inbox providers clear opt-out maangte hain. Link chhupaoge toh log 'Report spam' dabayenge, jisse deliverability kharab hoti hai.",
+      "mr": "US चा CAN-SPAM Act सारखे कायदे आणि मोठे inbox providers स्पष्ट opt-out मागतात. Link लपवला तर लोक 'Report spam' दाबतात आणि deliverability खराब होते."
+    }
+  },
+  {
+    "id": "con-7",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In marketing, what does 'PR' usually stand for?",
+      "hi": "Marketing mein 'PR' ka matlab usually kya hota hai?",
+      "mr": "Marketing मध्ये 'PR' चा अर्थ सहसा काय असतो?"
+    },
+    "opts": {
+      "en": [
+        "Paid Reach",
+        "Public Relations",
+        "Product Review",
+        "Page Rank"
+      ],
+      "hi": [
+        "Paid Reach",
+        "Public Relations",
+        "Product Review",
+        "Page Rank"
+      ],
+      "mr": [
+        "Paid Reach",
+        "Public Relations",
+        "Product Review",
+        "Page Rank"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "PR = Public Relations: managing a brand's reputation and relationships with media and the public, often earning free (earned) coverage rather than paying for ads.",
+      "hi": "PR = Public Relations: media aur public ke saath brand ki reputation aur relations manage karna, aksar ads ke paise diye bina earned (free) coverage paana.",
+      "mr": "PR = Public Relations: media आणि लोकांशी brand ची प्रतिष्ठा व संबंध सांभाळणे, अनेकदा ads साठी पैसे न देता earned (मोफत) coverage मिळवणे."
+    }
+  },
+  {
+    "id": "con-8",
+    "level": 1,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does 'customer retention' mean?",
+      "hi": "'Customer retention' ka matlab kya hai?",
+      "mr": "'Customer retention' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Getting as many first-time buyers as possible",
+        "Collecting customer data for ads targeting",
+        "Returning a customer's money after a complaint",
+        "Keeping existing customers buying from you over time"
+      ],
+      "hi": [
+        "Zyada se zyada first-time buyers laana",
+        "Ads targeting ke liye customer data collect karna",
+        "Complaint ke baad customer ka paisa lautana",
+        "Existing customers ko lambe samay tak aapse khareedte rakhna"
+      ],
+      "mr": [
+        "शक्य तितके नवीन first-time खरेदीदार आणणे",
+        "Ads targeting साठी ग्राहकांचा data गोळा करणे",
+        "तक्रारीनंतर ग्राहकाचे पैसे परत करणे",
+        "सध्याचे ग्राहक दीर्घकाळ तुमच्याकडून खरेदी करत राहतील असे करणे"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Retention is about keeping existing customers active and buying again. It is usually cheaper than acquiring new customers and raises lifetime value.",
+      "hi": "Retention ka matlab existing customers ko active rakhna aur dobara khareedwana. Yeh usually naye customers laane se sasta padta hai aur lifetime value badhata hai.",
+      "mr": "Retention म्हणजे सध्याच्या ग्राहकांना सक्रिय ठेवून पुन्हा खरेदी करायला लावणे. हे सहसा नवीन ग्राहक मिळवण्यापेक्षा स्वस्त पडते आणि lifetime value वाढवते."
+    }
+  },
+  {
+    "id": "con-9",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In the PAS copywriting formula, what does the 'A' stand for?",
+      "hi": "PAS copywriting formula mein 'A' ka matlab kya hai?",
+      "mr": "PAS copywriting formula मध्ये 'A' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Action",
+        "Agitate",
+        "Audience",
+        "Advantage"
+      ],
+      "hi": [
+        "Action",
+        "Agitate",
+        "Audience",
+        "Advantage"
+      ],
+      "mr": [
+        "Action",
+        "Agitate",
+        "Audience",
+        "Advantage"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "PAS = Problem, Agitate, Solution. You name the problem, 'agitate' it by showing how painful it is, then present your product as the solution. 'Action' belongs to AIDA.",
+      "hi": "PAS = Problem, Agitate, Solution. Pehle problem batao, phir usse 'agitate' karo (dard dikhao), phir product ko solution ki tarah rakho. 'Action' AIDA ka part hai.",
+      "mr": "PAS = Problem, Agitate, Solution. आधी समस्या सांगा, मग ती किती त्रासदायक आहे हे दाखवून 'agitate' करा आणि शेवटी product उपाय म्हणून मांडा. 'Action' हा AIDA चा भाग आहे."
+    }
+  },
+  {
+    "id": "con-10",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is email list segmentation?",
+      "hi": "Email list segmentation kya hota hai?",
+      "mr": "Email list segmentation म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Splitting subscribers into groups to send more relevant emails",
+        "Sending one email to the whole list at the same time",
+        "Breaking a long email into several shorter emails",
+        "Removing the unsubscribe link for loyal customers"
+      ],
+      "hi": [
+        "Subscribers ko groups mein baantna taaki relevant emails jaayein",
+        "Poori list ko ek hi time par ek hi email bhejna",
+        "Ek lambe email ko kai chhote emails mein todna",
+        "Loyal customers ke liye unsubscribe link hata dena"
+      ],
+      "mr": [
+        "Subscribers ना गटांमध्ये विभागून अधिक relevant emails पाठवणे",
+        "संपूर्ण list ला एकाच वेळी एकच email पाठवणे",
+        "एका मोठ्या email चे अनेक छोटे emails करणे",
+        "Loyal ग्राहकांसाठी unsubscribe link काढून टाकणे"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Segmentation groups subscribers by traits like location, interests or purchase history, so each group gets relevant content. This usually improves clicks and reduces unsubscribes.",
+      "hi": "Segmentation mein subscribers ko location, interest ya purchase history jaise traits se group kiya jaata hai, taaki har group ko relevant content mile. Isse clicks badhte hain aur unsubscribes kam hote hain.",
+      "mr": "Segmentation मध्ये subscribers ना location, आवड किंवा purchase history नुसार गटांत विभागले जाते, म्हणजे प्रत्येक गटाला relevant content मिळते. त्यामुळे clicks वाढतात आणि unsubscribes कमी होतात."
+    }
+  },
+  {
+    "id": "con-11",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a 'drip campaign' in email marketing?",
+      "hi": "Email marketing mein 'drip campaign' kya hota hai?",
+      "mr": "Email marketing मध्ये 'drip campaign' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "A campaign that sends one email to a rented list",
+        "A campaign that slowly reduces product prices",
+        "A single newsletter sent every Monday to everyone",
+        "A pre-planned series of automated emails sent over time"
+      ],
+      "hi": [
+        "Rented list ko ek email bhejne wala campaign",
+        "Dheere dheere product prices kam karne wala campaign",
+        "Har Monday sabko jaane wala ek newsletter",
+        "Time ke saath automatically jaane wale pre-planned emails ki series"
+      ],
+      "mr": [
+        "भाड्याच्या list ला एक email पाठवणारी campaign",
+        "हळूहळू product च्या किमती कमी करणारी campaign",
+        "दर Monday सर्वांना जाणारे एकच newsletter",
+        "ठराविक अंतराने आपोआप जाणाऱ्या पूर्वनियोजित emails ची मालिका"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "A drip campaign is a sequence of automated emails sent on a schedule or after a trigger (e.g., Day 0 welcome, Day 2 tips, Day 5 offer). A weekly newsletter to all is a broadcast, not a drip.",
+      "hi": "Drip campaign automated emails ki series hai jo schedule ya trigger ke baad jaati hai (jaise Day 0 welcome, Day 2 tips, Day 5 offer). Sabko jaane wala weekly newsletter broadcast hai, drip nahi.",
+      "mr": "Drip campaign म्हणजे schedule किंवा trigger नंतर जाणाऱ्या automated emails ची मालिका (उदा. Day 0 welcome, Day 2 tips, Day 5 offer). सर्वांना जाणारे weekly newsletter हे broadcast आहे, drip नाही."
+    }
+  },
+  {
+    "id": "con-12",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does MQL stand for in lead management?",
+      "hi": "Lead management mein MQL ka full form kya hai?",
+      "mr": "Lead management मध्ये MQL चे पूर्ण रूप काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Most Qualified Lister",
+        "Monthly Quota Limit",
+        "Marketing Qualified Lead",
+        "Media Quality Level"
+      ],
+      "hi": [
+        "Most Qualified Lister",
+        "Monthly Quota Limit",
+        "Marketing Qualified Lead",
+        "Media Quality Level"
+      ],
+      "mr": [
+        "Most Qualified Lister",
+        "Monthly Quota Limit",
+        "Marketing Qualified Lead",
+        "Media Quality Level"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "An MQL (Marketing Qualified Lead) has shown enough interest and fit, per marketing's criteria, to be worth passing on. Once sales accepts and qualifies it, it becomes an SQL (Sales Qualified Lead).",
+      "hi": "MQL (Marketing Qualified Lead) woh lead hai jisne marketing ke criteria ke hisaab se kaafi interest aur fit dikhaya hai. Sales jab usse qualify karti hai toh woh SQL (Sales Qualified Lead) ban jaata hai.",
+      "mr": "MQL (Marketing Qualified Lead) म्हणजे marketing च्या निकषांनुसार पुरेसा interest आणि fit दाखवलेली lead. Sales ने ती qualify केली की ती SQL (Sales Qualified Lead) बनते."
+    }
+  },
+  {
+    "id": "con-13",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is 'brand positioning'?",
+      "hi": "'Brand positioning' kya hai?",
+      "mr": "'Brand positioning' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "The distinct place a brand wants to hold in customers' minds",
+        "The physical shelf location of a product in a shop",
+        "The ranking of a brand's website on Google",
+        "The position of the logo on the packaging"
+      ],
+      "hi": [
+        "Customers ke mind mein brand ki alag, khaas jagah",
+        "Dukaan mein product ki shelf par jagah",
+        "Google par brand ki website ki ranking",
+        "Packaging par logo ki position"
+      ],
+      "mr": [
+        "ग्राहकांच्या मनात brand ला हवी असलेली वेगळी, खास जागा",
+        "दुकानात product ची shelf वरील जागा",
+        "Google वर brand च्या website ची ranking",
+        "Packaging वरील logo ची जागा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Positioning is how you want your target customers to think of you compared with competitors, e.g., 'the safest', 'the cheapest', 'the most premium'. All messaging should reinforce it.",
+      "hi": "Positioning matlab target customers competitors ke comparison mein aapke baare mein kya sochein, jaise 'sabse safe', 'sabse sasta', 'sabse premium'. Saari messaging isi ko strong kare.",
+      "mr": "Positioning म्हणजे स्पर्धकांच्या तुलनेत target ग्राहकांनी तुमच्याबद्दल काय विचार करावा, उदा. 'सर्वात सुरक्षित', 'सर्वात स्वस्त', 'सर्वात premium'. सर्व messaging ने तेच पक्के करावे."
+    }
+  },
+  {
+    "id": "con-14",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is 'double opt-in' in email marketing?",
+      "hi": "Email marketing mein 'double opt-in' kya hai?",
+      "mr": "Email marketing मध्ये 'double opt-in' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Sending every campaign twice to improve open rate",
+        "New subscribers confirm via a link in a confirmation email",
+        "Asking customers to sign up on two different websites",
+        "Adding a contact to two lists at once"
+      ],
+      "hi": [
+        "Open rate badhane ke liye har campaign do baar bhejna",
+        "Naya subscriber confirmation email ke link se confirm karta hai",
+        "Customers ko do alag websites par sign up karwana",
+        "Ek contact ko ek saath do lists mein daalna"
+      ],
+      "mr": [
+        "Open rate वाढवण्यासाठी प्रत्येक campaign दोनदा पाठवणे",
+        "नवीन subscriber confirmation email मधील link ने खात्री करतो",
+        "ग्राहकांना दोन वेगवेगळ्या websites वर sign up करायला लावणे",
+        "एक contact एकाच वेळी दोन lists मध्ये टाकणे"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "With double opt-in, a person signs up and then clicks a confirmation link before being added. It keeps fake or mistyped addresses off your list and protects deliverability.",
+      "hi": "Double opt-in mein person sign up karta hai aur phir confirmation link click karta hai, tabhi list mein add hota hai. Isse fake ya galat addresses list mein nahi aate aur deliverability safe rehti hai.",
+      "mr": "Double opt-in मध्ये व्यक्ती sign up करते आणि मग confirmation link क्लिक करते, त्यानंतरच list मध्ये जोडली जाते. त्यामुळे fake किंवा चुकीचे addresses येत नाहीत आणि deliverability सुरक्षित राहते."
+    }
+  },
+  {
+    "id": "con-15",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In a Reel or short video, what is the 'hook'?",
+      "hi": "Reel ya short video mein 'hook' kya hota hai?",
+      "mr": "Reel किंवा short video मध्ये 'hook' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "The link to your website in the caption",
+        "The background music used in the video",
+        "The call-to-action at the very end",
+        "The opening line or seconds that stop the scroll"
+      ],
+      "hi": [
+        "Caption mein website ka link",
+        "Video mein use hua background music",
+        "Bilkul end mein call-to-action",
+        "Shuru ki line ya seconds jo scroll rok de"
+      ],
+      "mr": [
+        "Caption मधील website ची link",
+        "Video मधील background music",
+        "अगदी शेवटी असलेला call-to-action",
+        "सुरुवातीची ओळ किंवा सेकंद जे scroll थांबवतात"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "The hook is the first line or first few seconds designed to grab attention so viewers don't scroll past. Without a strong hook, even great content gets little watch time.",
+      "hi": "Hook pehli line ya pehle kuch seconds hote hain jo attention pakadte hain taaki viewer scroll na kare. Strong hook ke bina achha content bhi kam watch time paata hai.",
+      "mr": "Hook म्हणजे पहिली ओळ किंवा पहिले काही सेकंद जे लक्ष वेधून घेतात, म्हणजे viewer पुढे scroll करत नाही. मजबूत hook शिवाय चांगल्या content लाही कमी watch time मिळतो."
+    }
+  },
+  {
+    "id": "con-16",
+    "level": 2,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is Online Reputation Management (ORM)?",
+      "hi": "Online Reputation Management (ORM) kya hai?",
+      "mr": "Online Reputation Management (ORM) म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Buying followers to make a brand look popular",
+        "Deleting every negative comment about a brand",
+        "Monitoring and shaping how a brand is seen online",
+        "Running paid ads only on review websites"
+      ],
+      "hi": [
+        "Brand popular dikhe isliye followers khareedna",
+        "Brand ke har negative comment ko delete karna",
+        "Brand online kaise dikhta hai use monitor aur shape karna",
+        "Sirf review websites par paid ads chalana"
+      ],
+      "mr": [
+        "Brand लोकप्रिय दिसावा म्हणून followers विकत घेणे",
+        "Brand बद्दलची प्रत्येक negative comment delete करणे",
+        "Brand online कसा दिसतो ते monitor करून घडवणे",
+        "फक्त review websites वर paid ads चालवणे"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "ORM means tracking reviews, mentions and search results about your brand and responding well: thanking fans, fixing complaints, and building genuine positive content. Deleting criticism usually backfires.",
+      "hi": "ORM matlab brand ke reviews, mentions aur search results track karna aur sahi response dena: fans ko thanks, complaints solve karna, genuine positive content banana. Criticism delete karna usually ulta padta hai.",
+      "mr": "ORM म्हणजे brand बद्दलचे reviews, mentions आणि search results track करून योग्य प्रतिसाद देणे: चाहत्यांचे आभार, तक्रारी सोडवणे आणि खरे सकारात्मक content तयार करणे. टीका delete केल्यास सहसा उलटा परिणाम होतो."
+    }
+  },
+  {
+    "id": "con-17",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In the FAB copywriting framework, which element answers the customer's 'So what's in it for me?'",
+      "hi": "FAB copywriting framework mein kaunsa element customer ke 'Mujhe isse kya milega?' ka jawab deta hai?",
+      "mr": "FAB copywriting framework मध्ये कोणता घटक ग्राहकाच्या 'मला यातून काय मिळणार?' प्रश्नाचे उत्तर देतो?"
+    },
+    "opts": {
+      "en": [
+        "Feature",
+        "Advantage",
+        "Function",
+        "Benefit"
+      ],
+      "hi": [
+        "Feature",
+        "Advantage",
+        "Function",
+        "Benefit"
+      ],
+      "mr": [
+        "Feature",
+        "Advantage",
+        "Function",
+        "Benefit"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "FAB = Features, Advantages, Benefits. A feature is what it is (5000 mAh battery), an advantage is what it does (lasts 2 days), and the benefit is what the customer gains (no charging anxiety on trips).",
+      "hi": "FAB = Features, Advantages, Benefits. Feature = kya hai (5000 mAh battery), advantage = kya karta hai (2 din chalti hai), benefit = customer ko kya milta hai (trip par charging ki tension nahi).",
+      "mr": "FAB = Features, Advantages, Benefits. Feature = ते काय आहे (5000 mAh battery), advantage = ते काय करते (2 दिवस टिकते), benefit = ग्राहकाला काय मिळते (प्रवासात charging ची काळजी नाही)."
+    }
+  },
+  {
+    "id": "con-18",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "How is email Click-to-Open Rate (CTOR) calculated?",
+      "hi": "Email Click-to-Open Rate (CTOR) kaise calculate hota hai?",
+      "mr": "Email Click-to-Open Rate (CTOR) कसा काढतात?"
+    },
+    "opts": {
+      "en": [
+        "Unique clicks ÷ emails delivered × 100",
+        "Unique clicks ÷ unique opens × 100",
+        "Unique opens ÷ emails sent × 100",
+        "Conversions ÷ unique clicks × 100"
+      ],
+      "hi": [
+        "Unique clicks ÷ emails delivered × 100",
+        "Unique clicks ÷ unique opens × 100",
+        "Unique opens ÷ emails sent × 100",
+        "Conversions ÷ unique clicks × 100"
+      ],
+      "mr": [
+        "Unique clicks ÷ emails delivered × 100",
+        "Unique clicks ÷ unique opens × 100",
+        "Unique opens ÷ emails sent × 100",
+        "Conversions ÷ unique clicks × 100"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "CTOR = unique clicks ÷ unique opens × 100. It shows how compelling the email content was to people who opened it. Clicks ÷ delivered is the click-through rate (CTR).",
+      "hi": "CTOR = unique clicks ÷ unique opens × 100. Yeh batata hai ki open karne walon ko content kitna pasand aaya. Clicks ÷ delivered toh click-through rate (CTR) hai.",
+      "mr": "CTOR = unique clicks ÷ unique opens × 100. Email उघडणाऱ्यांना content किती आकर्षक वाटले हे यातून कळते. Clicks ÷ delivered म्हणजे click-through rate (CTR)."
+    }
+  },
+  {
+    "id": "con-19",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In email marketing, what is a 'hard bounce'?",
+      "hi": "Email marketing mein 'hard bounce' kya hota hai?",
+      "mr": "Email marketing मध्ये 'hard bounce' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "A permanent failure, e.g. the address doesn't exist",
+        "A temporary failure because the inbox is full",
+        "An email that was delivered but not opened",
+        "An email that the recipient marked as spam"
+      ],
+      "hi": [
+        "Permanent failure, jaise address exist hi nahi karta",
+        "Inbox full hone ki wajah se temporary failure",
+        "Email deliver hua par open nahi hua",
+        "Receiver ne email ko spam mark kiya"
+      ],
+      "mr": [
+        "कायमचे अपयश, उदा. address अस्तित्वातच नाही",
+        "Inbox full असल्यामुळे तात्पुरते अपयश",
+        "Email पोहोचला पण उघडला गेला नाही",
+        "प्राप्तकर्त्याने email ला spam म्हणून mark केले"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "A hard bounce is a permanent delivery failure (invalid or non-existent address, blocked domain). Remove such addresses immediately. A full inbox is a soft (temporary) bounce.",
+      "hi": "Hard bounce permanent delivery failure hai (invalid ya non-existent address, blocked domain). Aise addresses turant hatao. Inbox full hona soft (temporary) bounce hai.",
+      "mr": "Hard bounce म्हणजे कायमचे delivery अपयश (अवैध किंवा अस्तित्वात नसलेला address, blocked domain). असे addresses लगेच काढा. Inbox full असणे हे soft (तात्पुरते) bounce आहे."
+    }
+  },
+  {
+    "id": "con-20",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which content piece best fits the BOFU (bottom of funnel) stage?",
+      "hi": "BOFU (bottom of funnel) stage ke liye kaunsa content sabse sahi hai?",
+      "mr": "BOFU (bottom of funnel) टप्प्यासाठी कोणते content सर्वात योग्य आहे?"
+    },
+    "opts": {
+      "en": [
+        "A funny meme about Monday mornings",
+        "A general blog: '10 facts about digital marketing'",
+        "A pricing comparison with a free demo offer",
+        "An industry news roundup newsletter"
+      ],
+      "hi": [
+        "Monday morning par funny meme",
+        "General blog: 'Digital marketing ke 10 facts'",
+        "Free demo offer ke saath pricing comparison",
+        "Industry news roundup newsletter"
+      ],
+      "mr": [
+        "Monday morning वरचा मजेदार meme",
+        "सर्वसाधारण blog: 'Digital marketing बद्दल 10 facts'",
+        "Free demo ऑफरसह pricing comparison",
+        "Industry news roundup newsletter"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "BOFU content helps people who are ready to decide: pricing pages, comparisons, case studies, demos and trials. Memes and general blogs are TOFU awareness content.",
+      "hi": "BOFU content decide karne ke liye ready logon ki madad karta hai: pricing pages, comparisons, case studies, demos aur trials. Memes aur general blogs TOFU awareness content hain.",
+      "mr": "BOFU content निर्णय घ्यायला तयार असलेल्यांना मदत करते: pricing pages, comparisons, case studies, demos आणि trials. Memes आणि सर्वसाधारण blogs हे TOFU awareness content आहे."
+    }
+  },
+  {
+    "id": "con-21",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In Net Promoter Score (NPS) on a 0–10 scale, which scores count as 'promoters'?",
+      "hi": "0–10 scale wale Net Promoter Score (NPS) mein kaunse scores 'promoters' gine jaate hain?",
+      "mr": "0–10 scale वरील Net Promoter Score (NPS) मध्ये कोणते scores 'promoters' मानले जातात?"
+    },
+    "opts": {
+      "en": [
+        "7 and above",
+        "9 and 10",
+        "Only 10",
+        "6 and above"
+      ],
+      "hi": [
+        "7 aur upar",
+        "9 aur 10",
+        "Sirf 10",
+        "6 aur upar"
+      ],
+      "mr": [
+        "7 आणि त्यावरील",
+        "9 आणि 10",
+        "फक्त 10",
+        "6 आणि त्यावरील"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "In NPS, 9–10 are promoters, 7–8 passives and 0–6 detractors. NPS = % promoters − % detractors, so it ranges from −100 to +100.",
+      "hi": "NPS mein 9–10 promoters, 7–8 passives aur 0–6 detractors hote hain. NPS = % promoters − % detractors, isliye range −100 se +100 tak hoti hai.",
+      "mr": "NPS मध्ये 9–10 promoters, 7–8 passives आणि 0–6 detractors असतात. NPS = % promoters − % detractors, म्हणून त्याची range −100 ते +100 असते."
+    }
+  },
+  {
+    "id": "con-22",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is 'preheader' text in an email?",
+      "hi": "Email mein 'preheader' text kya hota hai?",
+      "mr": "Email मधील 'preheader' text म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "The sender name shown in the inbox list",
+        "The legal footer with the company's address",
+        "The alt text of the email's first image",
+        "Preview text shown after the subject line"
+      ],
+      "hi": [
+        "Inbox list mein dikhne wala sender name",
+        "Company address wala legal footer",
+        "Email ki pehli image ka alt text",
+        "Subject line ke baad dikhne wala preview text"
+      ],
+      "mr": [
+        "Inbox list मध्ये दिसणारे sender name",
+        "Company चा address असलेला legal footer",
+        "Email मधील पहिल्या image चा alt text",
+        "Subject line नंतर दिसणारा preview text"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Preheader text is the short preview shown next to or below the subject line in most inboxes. Use it to add to the subject line; if left empty, the inbox may show random text like 'View in browser'.",
+      "hi": "Preheader text subject line ke saath/neeche dikhne wala chhota preview hai. Isse subject line ko support karo; khaali chhodoge toh inbox 'View in browser' jaisa random text dikha sakta hai.",
+      "mr": "Preheader text म्हणजे बहुतेक inboxes मध्ये subject line शेजारी/खाली दिसणारा छोटा preview. त्याने subject line ला पूरक माहिती द्या; रिकामा ठेवला तर 'View in browser' सारखा कोणताही text दिसू शकतो."
+    }
+  },
+  {
+    "id": "con-23",
+    "level": 3,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In content strategy, what is a 'pillar page'?",
+      "hi": "Content strategy mein 'pillar page' kya hota hai?",
+      "mr": "Content strategy मध्ये 'pillar page' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "An in-depth page on a core topic, linking to related posts",
+        "The website's contact page with the office address and map",
+        "A landing page that lists only paid advertising offers",
+        "A short social post pinned to the top of your profile"
+      ],
+      "hi": [
+        "Core topic par detailed page jo related posts se link kare",
+        "Office address aur map wala website ka contact page",
+        "Sirf paid advertising offers wala landing page",
+        "Profile ke top par pinned chhota social post"
+      ],
+      "mr": [
+        "मुख्य विषयावरील सविस्तर page जे संबंधित posts ना link करते",
+        "Office address आणि map असलेले website चे contact page",
+        "फक्त paid advertising offers असलेले landing page",
+        "Profile च्या वर pin केलेली छोटी social post"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "A pillar page covers a core topic comprehensively and links to 'cluster' articles on subtopics, which link back. This topic-cluster structure helps users and search engines understand your expertise.",
+      "hi": "Pillar page ek core topic ko poori tarah cover karta hai aur subtopics wale 'cluster' articles se link karta hai, jo wapas link karte hain. Yeh topic-cluster structure users aur search engines dono ko aapki expertise samjhata hai.",
+      "mr": "Pillar page एका मुख्य विषयाचा सविस्तर आढावा घेते आणि उपविषयांवरील 'cluster' articles शी link करते, जे परत link करतात. ही topic-cluster रचना users आणि search engines दोघांना तुमचे कौशल्य समजायला मदत करते."
+    }
+  },
+  {
+    "id": "con-24",
+    "level": 3,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Pune bakery has 600 customers who ordered once via WhatsApp but rarely return. With almost no budget, what is the best first step?",
+      "hi": "Pune ki ek bakery ke 600 customers ne WhatsApp se ek baar order kiya par wapas kam aate hain. Budget lagbhag zero hai. Best first step kya hai?",
+      "mr": "Pune मधील एका bakery च्या 600 ग्राहकांनी WhatsApp वरून एकदा order केली पण ते क्वचितच परत येतात. Budget जवळजवळ शून्य आहे. सर्वोत्तम पहिले पाऊल कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Buy a list of 10,000 local numbers and message them all",
+        "Stop using WhatsApp and put all effort into Google Ads",
+        "Start a simple loyalty reward and message opted-in buyers",
+        "Post the same offer 5 times a day on every platform"
+      ],
+      "hi": [
+        "10,000 local numbers ki list khareedo aur sabko message karo",
+        "WhatsApp use karna band karo aur saara effort Google Ads mein daalo",
+        "Simple loyalty reward shuru karo aur opted-in buyers ko message karo",
+        "Har platform par din mein 5 baar same offer post karo"
+      ],
+      "mr": [
+        "10,000 स्थानिक numbers ची list विकत घेऊन सगळ्यांना message करा",
+        "WhatsApp वापरणे बंद करून सगळे लक्ष Google Ads वर द्या",
+        "साधे loyalty reward सुरू करा आणि opted-in खरेदीदारांना message करा",
+        "प्रत्येक platform वर दिवसातून 5 वेळा तीच offer post करा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Existing customers already trust you, so a simple reward (e.g., a treat on the 5th order) plus relevant, permission-based updates is the cheapest way to lift repeat orders. Bought lists are unconsented spam and risk your WhatsApp number being blocked.",
+      "hi": "Existing customers pehle se trust karte hain, isliye simple reward (jaise 5th order par treat) aur permission-based relevant updates repeat orders badhane ka sabse sasta tareeka hai. Khareedi hui list bina consent ka spam hai aur WhatsApp number block ho sakta hai.",
+      "mr": "सध्याचे ग्राहक आधीच विश्वास ठेवतात, म्हणून साधे reward (उदा. 5 व्या order वर treat) आणि परवानगी घेऊन पाठवलेले relevant updates हा repeat orders वाढवण्याचा सर्वात स्वस्त मार्ग आहे. विकत घेतलेली list म्हणजे संमतीशिवाय spam, त्यामुळे WhatsApp number block होऊ शकतो."
+    }
+  },
+  {
+    "id": "con-25",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which is an example of implicit (behavioural) lead-scoring data?",
+      "hi": "Implicit (behavioural) lead-scoring data ka example kaunsa hai?",
+      "mr": "Implicit (behavioural) lead-scoring data चे उदाहरण कोणते?"
+    },
+    "opts": {
+      "en": [
+        "The lead's job title is 'Marketing Manager'",
+        "The lead visited the pricing page three times this week",
+        "The lead's company has 200 employees",
+        "The lead is located in Bengaluru"
+      ],
+      "hi": [
+        "Lead ka job title 'Marketing Manager' hai",
+        "Lead ne is hafte pricing page teen baar dekha",
+        "Lead ki company mein 200 employees hain",
+        "Lead Bengaluru mein hai"
+      ],
+      "mr": [
+        "Lead चे job title 'Marketing Manager' आहे",
+        "Lead ने या आठवड्यात pricing page तीन वेळा पाहिले",
+        "Lead च्या company मध्ये 200 कर्मचारी आहेत",
+        "Lead Bengaluru मध्ये आहे"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Implicit data comes from behaviour (page visits, email clicks, downloads). Job title, company size and location are explicit (fit/firmographic) data the lead provides or you look up.",
+      "hi": "Implicit data behaviour se aata hai (page visits, email clicks, downloads). Job title, company size aur location explicit (fit/firmographic) data hai jo lead deta hai ya aap dhoondhte ho.",
+      "mr": "Implicit data वर्तनातून येतो (page visits, email clicks, downloads). Job title, company size आणि location हा explicit (fit/firmographic) data आहे जो lead देते किंवा तुम्ही शोधता."
+    }
+  },
+  {
+    "id": "con-26",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What are SPF, DKIM and DMARC used for in email marketing?",
+      "hi": "Email marketing mein SPF, DKIM aur DMARC kis kaam aate hain?",
+      "mr": "Email marketing मध्ये SPF, DKIM आणि DMARC कशासाठी वापरतात?"
+    },
+    "opts": {
+      "en": [
+        "Authenticating that emails really come from your domain",
+        "Designing responsive email templates for mobile",
+        "Measuring open and click rates of campaigns",
+        "Compressing images so emails load faster"
+      ],
+      "hi": [
+        "Yeh prove karna ki emails sach mein aapke domain se aa rahe hain",
+        "Mobile ke liye responsive email templates design karna",
+        "Campaigns ke open aur click rates measure karna",
+        "Images compress karna taaki email jaldi load ho"
+      ],
+      "mr": [
+        "Emails खरोखर तुमच्याच domain वरून येतात हे सिद्ध करणे",
+        "Mobile साठी responsive email templates design करणे",
+        "Campaigns चे open आणि click rates मोजणे",
+        "Email लवकर load व्हावा म्हणून images compress करणे"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "SPF lists servers allowed to send for your domain, DKIM adds a cryptographic signature, and DMARC tells inboxes what to do if checks fail. Together they prevent spoofing and improve deliverability.",
+      "hi": "SPF batata hai kaunse servers aapke domain se bhej sakte hain, DKIM cryptographic signature lagata hai, aur DMARC inbox ko batata hai checks fail hone par kya karna hai. Teeno milkar spoofing rokte hain aur deliverability sudharte hain.",
+      "mr": "SPF सांगते कोणते servers तुमच्या domain कडून पाठवू शकतात, DKIM cryptographic signature जोडते आणि DMARC checks fail झाल्यास inbox ने काय करावे ते सांगते. तिन्ही मिळून spoofing थांबवतात आणि deliverability सुधारतात."
+    }
+  },
+  {
+    "id": "con-27",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "On the WhatsApp Business Platform (API), how must you message a customer who hasn't messaged you in the last 24 hours?",
+      "hi": "WhatsApp Business Platform (API) par jis customer ne pichhle 24 ghante mein message nahi kiya, use kaise message karna padta hai?",
+      "mr": "WhatsApp Business Platform (API) वर ज्या ग्राहकाने मागील 24 तासांत message केलेला नाही, त्याला कसा message करावा लागतो?"
+    },
+    "opts": {
+      "en": [
+        "Any free-form text, as long as it has no links",
+        "Only through a voice call first",
+        "By adding them to a WhatsApp group",
+        "Only with a pre-approved message template"
+      ],
+      "hi": [
+        "Koi bhi free-form text, bas usmein link na ho",
+        "Pehle sirf voice call ke through",
+        "Unhe WhatsApp group mein add karke",
+        "Sirf pre-approved message template se"
+      ],
+      "mr": [
+        "कोणताही free-form text, फक्त त्यात link नसावी",
+        "आधी फक्त voice call करून",
+        "त्यांना WhatsApp group मध्ये जोडून",
+        "फक्त pre-approved message template वापरून"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Free-form replies are allowed only within 24 hours of the customer's last message (the customer service window). Outside it, businesses must use templates approved by Meta, and only to users who opted in.",
+      "hi": "Free-form replies sirf customer ke last message ke 24 ghante ke andar allowed hain (customer service window). Uske bahar Meta se approved templates hi use karne padte hain, woh bhi opted-in users ko.",
+      "mr": "Free-form उत्तरे फक्त ग्राहकाच्या शेवटच्या message नंतर 24 तासांत (customer service window) चालतात. त्यानंतर Meta ने approve केलेले templates च वापरावे लागतात, तेही फक्त opt-in केलेल्या users ना."
+    }
+  },
+  {
+    "id": "con-28",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is 'evergreen content'?",
+      "hi": "'Evergreen content' kya hota hai?",
+      "mr": "'Evergreen content' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Content about environment and sustainability only",
+        "Content posted every day without a break",
+        "Content that stays relevant and useful for a long time",
+        "Content that is promoted only with paid ads"
+      ],
+      "hi": [
+        "Sirf environment aur sustainability wala content",
+        "Bina break roz post hone wala content",
+        "Aisa content jo lambe samay tak relevant aur useful rahe",
+        "Sirf paid ads se promote hone wala content"
+      ],
+      "mr": [
+        "फक्त पर्यावरण आणि sustainability वरील content",
+        "रोज न चुकता post होणारे content",
+        "दीर्घकाळ relevant आणि उपयुक्त राहणारे content",
+        "फक्त paid ads ने promote होणारे content"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Evergreen content (e.g., 'How to write a resume', 'What is GST') stays useful for years and keeps bringing traffic, unlike news or trend posts that fade quickly.",
+      "hi": "Evergreen content (jaise 'Resume kaise likhein', 'GST kya hai') saalon tak useful rehta hai aur traffic laata rehta hai, news ya trend posts ki tarah jaldi fade nahi hota.",
+      "mr": "Evergreen content (उदा. 'Resume कसा लिहावा', 'GST म्हणजे काय') वर्षानुवर्षे उपयुक्त राहते आणि traffic आणत राहते, news किंवा trend posts सारखे लवकर जुने होत नाही."
+    }
+  },
+  {
+    "id": "con-29",
+    "level": 4,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Nagpur coaching institute got 2,000 leads from a free webinar. Counsellors call everyone in random order and complain most leads are 'useless'. What should you set up?",
+      "hi": "Nagpur ke ek coaching institute ko free webinar se 2,000 leads mile. Counsellors sabko random order mein call karte hain aur kehte hain zyada leads 'bekaar' hain. Aapko kya set up karna chahiye?",
+      "mr": "Nagpur मधील एका coaching institute ला free webinar मधून 2,000 leads मिळाल्या. Counsellors सगळ्यांना कोणत्याही क्रमाने call करतात आणि म्हणतात बहुतेक leads 'निरुपयोगी' आहेत. तुम्ही काय set up करावे?"
+    },
+    "opts": {
+      "en": [
+        "Lead scoring with agreed MQL rules, and nurture emails for the rest",
+        "A bigger webinar next month to get 5,000 more leads",
+        "A rule that counsellors must call every lead 5 times",
+        "An instruction to delete all leads older than one week"
+      ],
+      "hi": [
+        "Agreed MQL rules ke saath lead scoring, aur baaki ke liye nurture emails",
+        "Agle mahine bada webinar, taaki 5,000 aur leads milein",
+        "Rule ki counsellors har lead ko 5 baar call karein",
+        "Ek hafte se purane saare leads delete karne ka instruction"
+      ],
+      "mr": [
+        "ठरलेल्या MQL नियमांसह lead scoring, आणि उरलेल्यांसाठी nurture emails",
+        "पुढच्या महिन्यात 5,000 आणखी leads साठी मोठा webinar",
+        "Counsellors नी प्रत्येक lead ला 5 वेळा call करावा असा नियम",
+        "एका आठवड्यापेक्षा जुन्या सगळ्या leads delete करण्याची सूचना"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Scoring leads on fit (class, exam, city) and engagement (attended full webinar, asked about fees) lets counsellors call the hottest first, while others are nurtured until ready. More volume just adds more noise.",
+      "hi": "Leads ko fit (class, exam, city) aur engagement (poora webinar dekha, fees poochhi) par score karne se counsellors pehle hot leads ko call karte hain, baaki nurture hote hain jab tak ready na hon. Sirf volume badhane se noise badhta hai.",
+      "mr": "Fit (class, exam, शहर) आणि engagement (पूर्ण webinar पाहिला, fees विचारली) नुसार leads ना score केल्यास counsellors आधी hot leads ना call करतात, बाकीच्यांना तयार होईपर्यंत nurture केले जाते. फक्त संख्या वाढवल्याने गोंधळच वाढतो."
+    }
+  },
+  {
+    "id": "con-30",
+    "level": 4,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "Your D2C snacks brand sees many shoppers add items to cart and leave without paying. Which automation should you build first?",
+      "hi": "Aapke D2C snacks brand par bahut shoppers cart mein items daalkar bina pay kiye chale jaate hain. Sabse pehle kaunsa automation banana chahiye?",
+      "mr": "तुमच्या D2C snacks brand वर अनेक shoppers cart मध्ये items टाकून पैसे न भरता निघून जातात. सर्वात आधी कोणते automation बनवावे?"
+    },
+    "opts": {
+      "en": [
+        "A monthly newsletter to the full list with brand news",
+        "An abandoned-cart reminder sequence sent within hours",
+        "A birthday email asking customers for their date of birth",
+        "A yearly survey asking about packaging preferences"
+      ],
+      "hi": [
+        "Poori list ko brand news wala monthly newsletter",
+        "Kuch ghanton mein jaane wala abandoned-cart reminder sequence",
+        "Customers se date of birth maangne wala birthday email",
+        "Packaging preferences poochhne wala saalana survey"
+      ],
+      "mr": [
+        "संपूर्ण list ला brand news असलेले monthly newsletter",
+        "काही तासांत जाणारा abandoned-cart reminder sequence",
+        "ग्राहकांची जन्मतारीख विचारणारा birthday email",
+        "Packaging आवडीनिवडी विचारणारा वार्षिक survey"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Cart abandoners have shown very high purchase intent, so a timely reminder (often a first message within a few hours, then 1–2 follow-ups) recovers revenue quickly. The other options don't target this leak.",
+      "hi": "Cart abandoners ne high purchase intent dikhaya hai, isliye timely reminder (aksar kuch ghanton mein pehla message, phir 1–2 follow-ups) jaldi revenue wapas laata hai. Baaki options is leak ko target nahi karte.",
+      "mr": "Cart सोडणाऱ्यांनी खरेदीची तीव्र इच्छा दाखवली आहे, म्हणून वेळेवर reminder (सहसा काही तासांत पहिला message, मग 1–2 follow-ups) लवकर revenue परत आणतो. इतर पर्याय ही गळती थांबवत नाहीत."
+    }
+  },
+  {
+    "id": "con-31",
+    "level": 4,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A dental clinic gets a 1-star Google review saying 'rude staff, waited 2 hours'. What is the best response?",
+      "hi": "Ek dental clinic ko Google par 1-star review mila: 'rude staff, 2 ghante wait kiya'. Best response kya hai?",
+      "mr": "एका dental clinic ला Google वर 1-star review मिळाला: 'उद्धट staff, 2 तास थांबावे लागले'. सर्वोत्तम प्रतिसाद कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Reply with the patient's treatment details to prove them wrong",
+        "Ask friends to post five 5-star reviews to bury it",
+        "Ignore it, since replying draws more attention",
+        "Reply politely, apologise for the experience and invite them to talk offline"
+      ],
+      "hi": [
+        "Patient ke treatment details reply mein daalkar unhe galat saabit karo",
+        "Doston se 5 five-star reviews dalwao taaki yeh neeche chala jaaye",
+        "Ignore karo, reply karne se aur attention milega",
+        "Politely reply karo, experience ke liye sorry bolo aur offline baat karne bulao"
+      ],
+      "mr": [
+        "रुग्णाच्या उपचारांची माहिती reply मध्ये टाकून त्यांना चुकीचे ठरवा",
+        "मित्रांकडून पाच 5-star reviews टाकून हा review खाली ढकला",
+        "दुर्लक्ष करा, reply केल्याने जास्त लक्ष जाते",
+        "नम्रपणे reply करा, अनुभवाबद्दल दिलगिरी व्यक्त करा आणि offline बोलायला बोलवा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "A calm, public, empathetic reply shows future patients you care, and moving the details offline protects patient privacy. Fake reviews break Google's policies, and ignoring it looks careless.",
+      "hi": "Calm, public aur empathetic reply future patients ko dikhata hai ki aap care karte ho, aur details offline le jaane se patient privacy safe rehti hai. Fake reviews Google policy ke khilaaf hain aur ignore karna laparwahi lagta hai.",
+      "mr": "शांत, सार्वजनिक आणि सहानुभूतीपूर्ण reply भावी रुग्णांना दाखवतो की तुम्हाला काळजी आहे, आणि तपशील offline नेल्याने रुग्णाची गोपनीयता जपली जाते. Fake reviews Google च्या policy विरुद्ध आहेत आणि दुर्लक्ष करणे बेफिकीर वाटते."
+    }
+  },
+  {
+    "id": "con-32",
+    "level": 4,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In the StoryBrand messaging framework, who is the 'hero' of the story?",
+      "hi": "StoryBrand messaging framework mein story ka 'hero' kaun hota hai?",
+      "mr": "StoryBrand messaging framework मध्ये कथेचा 'hero' कोण असतो?"
+    },
+    "opts": {
+      "en": [
+        "The brand's founder",
+        "The brand itself",
+        "The customer",
+        "The competitor"
+      ],
+      "hi": [
+        "Brand ka founder",
+        "Khud brand",
+        "Customer",
+        "Competitor"
+      ],
+      "mr": [
+        "Brand चा founder",
+        "स्वतः brand",
+        "ग्राहक",
+        "स्पर्धक"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "StoryBrand (Donald Miller) makes the customer the hero who has a problem; the brand is the guide that gives them a plan and helps them succeed. Brands that cast themselves as the hero tend to lose attention.",
+      "hi": "StoryBrand (Donald Miller) mein customer hero hota hai jiske paas problem hai; brand guide hai jo plan deta hai aur success dilata hai. Jo brands khud ko hero banate hain, woh attention kho dete hain.",
+      "mr": "StoryBrand (Donald Miller) मध्ये ग्राहक हा समस्या असलेला hero असतो; brand हा guide असतो जो plan देतो आणि यशस्वी व्हायला मदत करतो. स्वतःला hero बनवणारे brands लक्ष गमावतात."
+    }
+  },
+  {
+    "id": "con-33",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Which formula gives the Customer Retention Rate for a period? (S = customers at start, E = at end, N = new customers acquired)",
+      "hi": "Kisi period ka Customer Retention Rate kaunse formula se nikalta hai? (S = start ke customers, E = end ke, N = naye customers)",
+      "mr": "एखाद्या कालावधीचा Customer Retention Rate कोणत्या formula ने काढतात? (S = सुरुवातीचे ग्राहक, E = शेवटचे, N = नवीन ग्राहक)"
+    },
+    "opts": {
+      "en": [
+        "((E − N) ÷ S) × 100",
+        "((S − E) ÷ N) × 100",
+        "((E + N) ÷ S) × 100",
+        "(N ÷ E) × 100"
+      ],
+      "hi": [
+        "((E − N) ÷ S) × 100",
+        "((S − E) ÷ N) × 100",
+        "((E + N) ÷ S) × 100",
+        "(N ÷ E) × 100"
+      ],
+      "mr": [
+        "((E − N) ÷ S) × 100",
+        "((S − E) ÷ N) × 100",
+        "((E + N) ÷ S) × 100",
+        "(N ÷ E) × 100"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Retention rate = ((E − N) ÷ S) × 100. You subtract new customers so only the ones you kept from the start are counted. Example: start 200, end 210, new 30 → (180 ÷ 200) × 100 = 90%.",
+      "hi": "Retention rate = ((E − N) ÷ S) × 100. Naye customers minus karte hain taaki sirf start wale retained customers gine jaayein. Example: start 200, end 210, new 30 → (180 ÷ 200) × 100 = 90%.",
+      "mr": "Retention rate = ((E − N) ÷ S) × 100. नवीन ग्राहक वजा करतात म्हणजे फक्त सुरुवातीपासून टिकलेले ग्राहक मोजले जातात. उदा. सुरुवात 200, शेवट 210, नवीन 30 → (180 ÷ 200) × 100 = 90%."
+    }
+  },
+  {
+    "id": "con-34",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In customer segmentation, what does RFM stand for?",
+      "hi": "Customer segmentation mein RFM ka full form kya hai?",
+      "mr": "Customer segmentation मध्ये RFM चे पूर्ण रूप काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Reach, Frequency, Media",
+        "Revenue, Funnel, Margin",
+        "Referral, Feedback, Membership",
+        "Recency, Frequency, Monetary value"
+      ],
+      "hi": [
+        "Reach, Frequency, Media",
+        "Revenue, Funnel, Margin",
+        "Referral, Feedback, Membership",
+        "Recency, Frequency, Monetary value"
+      ],
+      "mr": [
+        "Reach, Frequency, Media",
+        "Revenue, Funnel, Margin",
+        "Referral, Feedback, Membership",
+        "Recency, Frequency, Monetary value"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "RFM scores customers on how recently they bought, how often they buy, and how much they spend. It quickly finds champions, at-risk and lapsed customers for retention campaigns. 'Reach, Frequency' is media-planning language.",
+      "hi": "RFM customers ko score karta hai: kitna recently khareeda, kitni baar khareedte hain, kitna kharch karte hain. Isse champions, at-risk aur lapsed customers jaldi mil jaate hain. 'Reach, Frequency' media planning ki language hai.",
+      "mr": "RFM ग्राहकांना score करते: किती अलीकडे खरेदी केली, किती वेळा करतात आणि किती खर्च करतात. त्यातून champions, at-risk आणि lapsed ग्राहक पटकन ओळखता येतात. 'Reach, Frequency' ही media planning ची भाषा आहे."
+    }
+  },
+  {
+    "id": "con-35",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Since Apple's Mail Privacy Protection launched (2021), why are email open rates less reliable?",
+      "hi": "Apple ke Mail Privacy Protection (2021) ke baad email open rates kam reliable kyun ho gaye?",
+      "mr": "Apple चे Mail Privacy Protection (2021) आल्यापासून email open rates कमी विश्वासार्ह का झाले?"
+    },
+    "opts": {
+      "en": [
+        "It blocks all marketing emails from reaching the inbox",
+        "It can preload tracking pixels, logging opens that aren't real",
+        "It hides the subject line until the user taps the email",
+        "It deletes emails that are not opened within 24 hours"
+      ],
+      "hi": [
+        "Yeh saare marketing emails ko inbox tak pahunchne se rokta hai",
+        "Yeh tracking pixels preload kar sakta hai, jisse fake opens record hote hain",
+        "Yeh user ke tap karne tak subject line chhupata hai",
+        "Yeh 24 ghante mein na khule emails delete kar deta hai"
+      ],
+      "mr": [
+        "ते सर्व marketing emails inbox पर्यंत पोहोचू देत नाही",
+        "ते tracking pixels आधीच load करू शकते, त्यामुळे खोटे opens नोंदवले जातात",
+        "User email tap करेपर्यंत ते subject line लपवते",
+        "24 तासांत न उघडलेले emails ते delete करते"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "With MPP enabled, Apple's servers can download email images (including the open-tracking pixel) in the background, so opens get inflated. Clicks and conversions are now more trustworthy signals.",
+      "hi": "MPP on hone par Apple ke servers background mein email images (open-tracking pixel samet) download kar sakte hain, isliye opens inflate ho jaate hain. Ab clicks aur conversions zyada bharosemand signals hain.",
+      "mr": "MPP सुरू असल्यास Apple चे servers पार्श्वभूमीत email images (open-tracking pixel सह) download करू शकतात, त्यामुळे opens फुगतात. आता clicks आणि conversions हे अधिक विश्वासार्ह संकेत आहेत."
+    }
+  },
+  {
+    "id": "con-36",
+    "level": 5,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A B2B software firm: marketing reports 500 MQLs this month, but sales says only 20 were worth a call and ignores the rest. What is the root fix?",
+      "hi": "Ek B2B software firm: marketing kehti hai is mahine 500 MQLs diye, par sales kehti hai sirf 20 call karne layak the aur baaki ignore karti hai. Root fix kya hai?",
+      "mr": "एका B2B software firm मध्ये marketing म्हणते या महिन्यात 500 MQLs दिल्या, पण sales म्हणते फक्त 20 call करण्यायोग्य होत्या आणि बाकीकडे दुर्लक्ष करते. मूळ उपाय काय?"
+    },
+    "opts": {
+      "en": [
+        "Double the MQL target so sales gets more leads to choose from",
+        "Let the sales team buy their own lead lists instead",
+        "Agree shared MQL/SQL definitions and a sales–marketing SLA",
+        "Stop scoring and send every form fill to sales instantly"
+      ],
+      "hi": [
+        "MQL target double karo taaki sales ke paas chunne ko zyada leads hon",
+        "Sales team ko apni lead lists khud khareedne do",
+        "Shared MQL/SQL definitions aur sales–marketing SLA tay karo",
+        "Scoring band karo aur har form fill turant sales ko bhejo"
+      ],
+      "mr": [
+        "MQL target दुप्पट करा म्हणजे sales ला निवडायला जास्त leads मिळतील",
+        "Sales team ला स्वतःच्या lead lists विकत घेऊ द्या",
+        "सामायिक MQL/SQL व्याख्या आणि sales–marketing SLA ठरवा",
+        "Scoring बंद करा आणि प्रत्येक form fill लगेच sales ला पाठवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "The gap is misalignment, not volume. Jointly defining what qualifies a lead, committing to follow-up times (SLA), and feeding back why leads were rejected lets scoring improve every month.",
+      "hi": "Problem alignment ka hai, volume ka nahi. Milkar tay karo lead kab qualify hoti hai, follow-up time par commit karo (SLA), aur reject hone ki wajah feedback karo taaki scoring har mahine behtar ho.",
+      "mr": "समस्या संख्येची नाही, ताळमेळाची आहे. Lead कधी qualify होते हे एकत्र ठरवणे, follow-up वेळेची बांधिलकी (SLA) आणि leads का नाकारल्या याचा feedback दिल्यास scoring दर महिन्याला सुधारते."
+    }
+  },
+  {
+    "id": "con-37",
+    "level": 5,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "You moved your newsletter to a brand-new sending domain and want to email all 50,000 subscribers. What's the best approach?",
+      "hi": "Aapne newsletter ko bilkul naye sending domain par shift kiya hai aur saare 50,000 subscribers ko email karna hai. Best approach kya hai?",
+      "mr": "तुम्ही newsletter नवीन sending domain वर हलवले आहे आणि सर्व 50,000 subscribers ना email करायचा आहे. सर्वोत्तम पद्धत कोणती?"
+    },
+    "opts": {
+      "en": [
+        "Warm up gradually, starting with your most engaged subscribers",
+        "Send to all 50,000 on day one to build reputation fast",
+        "Send to your oldest, least active subscribers first",
+        "Use a new domain every week to avoid spam filters"
+      ],
+      "hi": [
+        "Dheere dheere warm up karo, sabse engaged subscribers se shuru karke",
+        "Reputation jaldi banane ke liye pehle hi din saare 50,000 ko bhejo",
+        "Pehle sabse purane, kam active subscribers ko bhejo",
+        "Spam filters se bachne ke liye har hafte naya domain use karo"
+      ],
+      "mr": [
+        "हळूहळू warm up करा, सर्वात engaged subscribers पासून सुरुवात करून",
+        "Reputation लवकर बनवण्यासाठी पहिल्याच दिवशी सर्व 50,000 ना पाठवा",
+        "आधी सर्वात जुन्या, कमी सक्रिय subscribers ना पाठवा",
+        "Spam filters टाळण्यासाठी दर आठवड्याला नवीन domain वापरा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "A new domain has no reputation, so a sudden spike looks like spam. Ramping up volume over weeks, starting with people who open and click, builds positive signals. Rotating domains is a spammer tactic.",
+      "hi": "Naye domain ki koi reputation nahi hoti, isliye achanak spike spam jaisa dikhta hai. Hafton mein dheere volume badhao, open aur click karne walon se shuru karke, taaki positive signals banein. Domains rotate karna spammers ka tareeka hai.",
+      "mr": "नवीन domain ला reputation नसते, म्हणून अचानक मोठा volume spam सारखा दिसतो. आठवड्यांमध्ये हळूहळू volume वाढवा, open आणि click करणाऱ्यांपासून सुरुवात करून, म्हणजे चांगले संकेत तयार होतात. Domains बदलत राहणे ही spammers ची युक्ती आहे."
+    }
+  },
+  {
+    "id": "con-38",
+    "level": 5,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In a classic positioning statement ('For [target] who [need], [brand] is the [category] that [benefit]. Unlike [competitor]...'), what does the 'Unlike' part communicate?",
+      "hi": "Classic positioning statement ('For [target] who [need], [brand] is the [category] that [benefit]. Unlike [competitor]...') mein 'Unlike' wala part kya batata hai?",
+      "mr": "Classic positioning statement ('For [target] who [need], [brand] is the [category] that [benefit]. Unlike [competitor]...') मध्ये 'Unlike' भाग काय सांगतो?"
+    },
+    "opts": {
+      "en": [
+        "The price discount compared with last year",
+        "The list of channels where ads will run",
+        "The brand's founding story and history",
+        "The key point of difference versus alternatives"
+      ],
+      "hi": [
+        "Pichhle saal ke comparison mein price discount",
+        "Channels ki list jahan ads chalenge",
+        "Brand ki founding story aur history",
+        "Alternatives ke comparison mein main point of difference"
+      ],
+      "mr": [
+        "मागील वर्षाच्या तुलनेत किमतीतील सवलत",
+        "Ads चालणाऱ्या channels ची यादी",
+        "Brand ची स्थापना कथा आणि इतिहास",
+        "पर्यायांच्या तुलनेत मुख्य वेगळेपणा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "The 'Unlike [competitor], our product [differentiator]' line states why customers should choose you over alternatives. Without a clear difference, positioning collapses into 'me too'.",
+      "hi": "'Unlike [competitor], our product [differentiator]' wali line batati hai ki customer alternatives ke bajaye aapko kyun chune. Clear difference ke bina positioning 'me too' ban jaati hai.",
+      "mr": "'Unlike [competitor], our product [differentiator]' ही ओळ सांगते की ग्राहकाने पर्यायांऐवजी तुम्हालाच का निवडावे. स्पष्ट वेगळेपणा नसेल तर positioning 'me too' होते."
+    }
+  },
+  {
+    "id": "con-39",
+    "level": 5,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "An online saree seller used the WhatsApp Business app's broadcast list to message 800 contacts, but many never received it. What is the most likely reason?",
+      "hi": "Ek online saree seller ne WhatsApp Business app ki broadcast list se 800 contacts ko message bheja, par bahut logon ko mila hi nahi. Sabse likely reason kya hai?",
+      "mr": "एका online साडी विक्रेत्याने WhatsApp Business app च्या broadcast list मधून 800 contacts ना message पाठवला, पण अनेकांना तो मिळालाच नाही. सर्वात संभाव्य कारण कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Broadcasts work only between 9 AM and 6 PM each day",
+        "Only contacts who saved your number receive broadcasts",
+        "Broadcasts are delivered only to users on iPhone",
+        "Messages containing a price are blocked automatically"
+      ],
+      "hi": [
+        "Broadcasts roz sirf 9 AM se 6 PM ke beech chalte hain",
+        "Broadcast sirf unhe milta hai jinhone aapka number save kiya",
+        "Broadcast sirf iPhone users ko deliver hota hai",
+        "Price wale messages automatically block ho jaate hain"
+      ],
+      "mr": [
+        "Broadcasts रोज फक्त सकाळी 9 ते संध्याकाळी 6 चालतात",
+        "तुमचा number save केलेल्यांनाच broadcast मिळतो",
+        "Broadcast फक्त iPhone users ना पोहोचतो",
+        "किंमत असलेले messages आपोआप block होतात"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "In the WhatsApp (Business) app, a broadcast is delivered only to recipients who have your number saved. Ask customers to save your number, or use the WhatsApp Business Platform with opted-in templates for larger sends.",
+      "hi": "WhatsApp (Business) app mein broadcast sirf unhi ko jaata hai jinke paas aapka number saved hai. Customers se number save karwao, ya bade sends ke liye opted-in templates ke saath WhatsApp Business Platform use karo.",
+      "mr": "WhatsApp (Business) app मध्ये broadcast फक्त ज्यांनी तुमचा number save केला आहे त्यांनाच जातो. ग्राहकांना number save करायला सांगा, किंवा मोठ्या sends साठी opt-in templates सह WhatsApp Business Platform वापरा."
+    }
+  },
+  {
+    "id": "con-40",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Under Gmail and Yahoo's bulk-sender rules (from February 2024), which is a requirement for marketing emails?",
+      "hi": "Gmail aur Yahoo ke bulk-sender rules (February 2024 se) mein marketing emails ke liye kya zaroori hai?",
+      "mr": "Gmail आणि Yahoo च्या bulk-sender नियमांनुसार (February 2024 पासून) marketing emails साठी काय आवश्यक आहे?"
+    },
+    "opts": {
+      "en": [
+        "Every marketing email must include at least one image",
+        "Bulk emails may be sent only on weekdays, never weekends",
+        "One-click unsubscribe, spam complaint rate below 0.3%",
+        "Subject lines must be shorter than 30 characters"
+      ],
+      "hi": [
+        "Har marketing email mein kam se kam ek image honi chahiye",
+        "Bulk emails sirf weekdays par, weekends par kabhi nahi",
+        "One-click unsubscribe, spam complaint rate 0.3% se neeche",
+        "Subject lines 30 characters se chhoti honi chahiye"
+      ],
+      "mr": [
+        "प्रत्येक marketing email मध्ये किमान एक image असावी",
+        "Bulk emails फक्त आठवड्याच्या दिवशी, weekends ला कधीच नाही",
+        "One-click unsubscribe, spam complaint rate 0.3% पेक्षा कमी",
+        "Subject lines 30 characters पेक्षा लहान असाव्यात"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Since 2024, bulk senders to Gmail and Yahoo must authenticate (SPF, DKIM, DMARC), offer one-click unsubscribe, and keep spam complaints below 0.3%. Images, send days and subject length are not rules.",
+      "hi": "2024 se Gmail aur Yahoo ke bulk senders ko authenticate karna (SPF, DKIM, DMARC), one-click unsubscribe dena aur spam complaints 0.3% se neeche rakhna zaroori hai. Images, din ya subject length rules nahi hain.",
+      "mr": "2024 पासून Gmail आणि Yahoo ला bulk पाठवणाऱ्यांनी authentication (SPF, DKIM, DMARC), one-click unsubscribe देणे आणि spam complaints 0.3% पेक्षा कमी ठेवणे आवश्यक आहे. Images, दिवस किंवा subject ची लांबी हे नियम नाहीत."
+    }
+  },
+  {
+    "id": "con-41",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a 'sunset policy' in email marketing?",
+      "hi": "Email marketing mein 'sunset policy' kya hoti hai?",
+      "mr": "Email marketing मध्ये 'sunset policy' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Suppressing subscribers still inactive after a re-engagement try",
+        "Sending every campaign in the evening to get better open rates",
+        "Pausing all email sends during the festival season rush",
+        "Deleting the brand's old email templates at the end of each year"
+      ],
+      "hi": [
+        "Re-engagement try ke baad bhi inactive subscribers ko suppress karna",
+        "Better open rates ke liye har campaign shaam ko bhejna",
+        "Festival season ki bheed mein saare email sends rok dena",
+        "Har saal ke end mein brand ke purane email templates delete karna"
+      ],
+      "mr": [
+        "Re-engagement प्रयत्नानंतरही निष्क्रिय subscribers ना suppress करणे",
+        "चांगल्या open rates साठी प्रत्येक campaign संध्याकाळी पाठवणे",
+        "सणासुदीच्या गर्दीत सर्व email sends थांबवणे",
+        "दरवर्षी शेवटी brand चे जुने email templates delete करणे"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "A sunset policy defines when unengaged subscribers (e.g., no clicks for 6–12 months) get a last re-engagement attempt and are then suppressed. Mailing people who never engage hurts sender reputation.",
+      "hi": "Sunset policy tay karti hai ki unengaged subscribers (jaise 6–12 mahine se koi click nahi) ko aakhri re-engagement try milegi, phir suppress kiya jaayega. Kabhi engage na karne walon ko mail karna sender reputation bigaadta hai.",
+      "mr": "Sunset policy ठरवते की unengaged subscribers ना (उदा. 6–12 महिने एकही click नाही) शेवटचा re-engagement प्रयत्न मिळेल आणि मग suppress केले जाईल. कधीच engage न करणाऱ्यांना mail केल्याने sender reputation खराब होते."
+    }
+  },
+  {
+    "id": "con-42",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In lead qualification, what does BANT stand for?",
+      "hi": "Lead qualification mein BANT ka full form kya hai?",
+      "mr": "Lead qualification मध्ये BANT चे पूर्ण रूप काय आहे?"
+    },
+    "opts": {
+      "en": [
+        "Brand, Audience, Niche, Traffic",
+        "Budget, Authority, Need, Timeline",
+        "Benefit, Action, Nurture, Trust",
+        "Business, Analytics, Network, Target"
+      ],
+      "hi": [
+        "Brand, Audience, Niche, Traffic",
+        "Budget, Authority, Need, Timeline",
+        "Benefit, Action, Nurture, Trust",
+        "Business, Analytics, Network, Target"
+      ],
+      "mr": [
+        "Brand, Audience, Niche, Traffic",
+        "Budget, Authority, Need, Timeline",
+        "Benefit, Action, Nurture, Trust",
+        "Business, Analytics, Network, Target"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "BANT checks whether a lead has the Budget, the Authority to decide, a real Need, and a Timeline to buy. It is a classic sales framework for deciding which leads to prioritise.",
+      "hi": "BANT check karta hai ki lead ke paas Budget hai, decide karne ki Authority hai, real Need hai aur khareedne ki Timeline hai. Yeh leads prioritise karne ka classic sales framework hai.",
+      "mr": "BANT तपासते की lead कडे Budget आहे का, निर्णय घेण्याची Authority आहे का, खरी Need आहे का आणि खरेदीची Timeline आहे का. Leads ना प्राधान्य देण्याचा हा classic sales framework आहे."
+    }
+  },
+  {
+    "id": "con-43",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A fashion D2C blog gets 80,000 monthly visits from posts like 'Top 10 trends', but almost no sales. What is the best content change?",
+      "hi": "Ek fashion D2C blog ko 'Top 10 trends' jaise posts se 80,000 monthly visits milte hain, par sales lagbhag zero. Best content change kya hai?",
+      "mr": "एका fashion D2C blog ला 'Top 10 trends' सारख्या posts मधून महिन्याला 80,000 visits मिळतात, पण विक्री जवळजवळ शून्य आहे. सर्वोत्तम content बदल कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Publish twice as many trend posts to grow traffic further",
+        "Remove the blog completely and spend only on ads",
+        "Add pop-ups asking every visitor to buy immediately",
+        "Add MOFU/BOFU content like size guides linked to products"
+      ],
+      "hi": [
+        "Traffic aur badhane ke liye double trend posts publish karo",
+        "Blog poora hata do aur sirf ads par kharch karo",
+        "Har visitor ko turant khareedne ke pop-ups lagao",
+        "Products se linked size guides jaisa MOFU/BOFU content add karo"
+      ],
+      "mr": [
+        "Traffic आणखी वाढवण्यासाठी दुप्पट trend posts publish करा",
+        "Blog पूर्ण काढून फक्त ads वर खर्च करा",
+        "प्रत्येक visitor ला लगेच खरेदी करायला सांगणारे pop-ups लावा",
+        "Products शी जोडलेल्या size guides सारखे MOFU/BOFU content जोडा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "The blog only serves the top of the funnel. Content that helps buying decisions (fit guides, fabric comparisons, 'how to style this kurta') with internal links to products turns readers into buyers. More TOFU just adds more non-buying traffic.",
+      "hi": "Blog sirf funnel ke top ko serve kar raha hai. Buying decisions mein madad karne wala content (fit guides, fabric comparisons, 'yeh kurta kaise style karein') products ke internal links ke saath readers ko buyers banata hai. Aur TOFU se sirf non-buying traffic badhega.",
+      "mr": "Blog फक्त funnel च्या वरच्या भागाला सेवा देत आहे. खरेदीचा निर्णय घ्यायला मदत करणारे content (fit guides, fabric तुलना, 'हा कुर्ता कसा style करावा') products च्या internal links सह वाचकांना खरेदीदार बनवते. आणखी TOFU मुळे फक्त खरेदी न करणारे traffic वाढेल."
+    }
+  },
+  {
+    "id": "con-44",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A Mumbai retailer's promotional SMS campaign for a Diwali sale fails to deliver to most numbers. What is the most likely cause in India?",
+      "hi": "Mumbai ke ek retailer ka Diwali sale ka promotional SMS campaign zyada numbers par deliver nahi hua. India mein sabse likely cause kya hai?",
+      "mr": "Mumbai मधील एका retailer ची Diwali sale ची promotional SMS campaign बहुतेक numbers वर पोहोचली नाही. भारतात सर्वात संभाव्य कारण कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Header or template not registered on TRAI's DLT platform",
+        "SMS containing the word 'Diwali' is blocked by operators",
+        "Promotional SMS is delivered only to Jio numbers",
+        "Promotional SMS must be written only in Hindi script"
+      ],
+      "hi": [
+        "Header ya template TRAI ke DLT platform par registered nahi",
+        "'Diwali' word wala SMS operators block kar dete hain",
+        "Promotional SMS sirf Jio numbers par deliver hota hai",
+        "Promotional SMS sirf Hindi script mein likhna zaroori hai"
+      ],
+      "mr": [
+        "Header किंवा template TRAI च्या DLT platform वर registered नाही",
+        "'Diwali' शब्द असलेले SMS operators block करतात",
+        "Promotional SMS फक्त Jio numbers वरच पोहोचतो",
+        "Promotional SMS फक्त हिंदी लिपीतच लिहावा लागतो"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Under TRAI's commercial-communication rules, businesses must register as an entity and register their headers and message templates on the DLT platform; unregistered content gets blocked. Promotional SMS also respects customers' DND preferences.",
+      "hi": "TRAI ke commercial-communication rules ke tahat business ko entity, headers aur message templates DLT platform par register karne padte hain; unregistered content block ho jaata hai. Promotional SMS customers ki DND preferences ka bhi dhyan rakhta hai.",
+      "mr": "TRAI च्या commercial-communication नियमांनुसार businesses नी entity, headers आणि message templates DLT platform वर register करणे आवश्यक आहे; unregistered content block होते. Promotional SMS ग्राहकांच्या DND प्राधान्यांचाही आदर करतो."
+    }
+  },
+  {
+    "id": "con-45",
+    "level": 6,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is 'zero-party data'?",
+      "hi": "'Zero-party data' kya hota hai?",
+      "mr": "'Zero-party data' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Data bought from a third-party data broker or list seller",
+        "Data collected by cookies without the user knowing",
+        "Data a customer intentionally shares, like quiz answers",
+        "Data that has been fully anonymised and deleted"
+      ],
+      "hi": [
+        "Third-party data broker ya list seller se khareeda data",
+        "User ke jaane bina cookies se collect hua data",
+        "Customer jaan-boojhkar share kiya data, jaise quiz answers",
+        "Poori tarah anonymise karke delete kiya gaya data"
+      ],
+      "mr": [
+        "Third-party data broker किंवा list विक्रेत्याकडून घेतलेला data",
+        "User ला न कळता cookies ने गोळा केलेला data",
+        "ग्राहकाने स्वतःहून दिलेला data, उदा. quiz उत्तरे",
+        "पूर्णपणे anonymise करून delete केलेला data"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Zero-party data is information customers proactively give you (skin type in a quiz, preferred language, sizes). It is accurate and consented, making it ideal for personalisation. First-party data is behaviour you observe on your own channels.",
+      "hi": "Zero-party data woh info hai jo customer khud deta hai (quiz mein skin type, preferred language, size). Yeh accurate aur consented hota hai, personalisation ke liye perfect. First-party data aapke channels par observe kiya behaviour hai.",
+      "mr": "Zero-party data म्हणजे ग्राहक स्वतःहून देतो ती माहिती (quiz मधील skin type, आवडती भाषा, size). ती अचूक आणि संमतीने मिळालेली असते, personalisation साठी उत्तम. First-party data म्हणजे तुमच्या channels वर पाहिलेले वर्तन."
+    }
+  },
+  {
+    "id": "con-46",
+    "level": 6,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A monthly subscription box finds that about a third of its churned customers left because their card payment failed, not by choice. Best tactic?",
+      "hi": "Ek monthly subscription box ko pata chala ki churn hue lagbhag ek-tihai customers card payment fail hone se gaye, apni marzi se nahi. Best tactic?",
+      "mr": "एका monthly subscription box ला कळले की गेलेल्या ग्राहकांपैकी सुमारे एक-तृतीयांश ग्राहक card payment fail झाल्यामुळे गेले, स्वतःच्या इच्छेने नाही. सर्वोत्तम उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Offer a flat 50% discount to every active subscriber now",
+        "Dunning: automatic payment retries plus card-update reminders",
+        "Run more Instagram ads to replace the lost customers",
+        "Send a survey asking churned customers why they cancelled"
+      ],
+      "hi": [
+        "Har active subscriber ko abhi flat 50% discount do",
+        "Dunning: automatic payment retries aur card-update reminders",
+        "Khoye customers replace karne ke liye aur Instagram ads chalao",
+        "Gaye customers se survey mein poochho ki cancel kyun kiya"
+      ],
+      "mr": [
+        "प्रत्येक सक्रिय subscriber ला आत्ता सरसकट 50% सवलत द्या",
+        "Dunning: automatic payment retries आणि card-update reminders",
+        "गेलेले ग्राहक भरून काढण्यासाठी आणखी Instagram ads चालवा",
+        "गेलेल्या ग्राहकांना survey मध्ये cancel का केले ते विचारा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "This is involuntary churn: customers didn't choose to leave. Dunning (automatic retries plus email/SMS/WhatsApp nudges to update the card or UPI mandate) recovers them cheaply. A 'why did you cancel' survey misses the point.",
+      "hi": "Yeh involuntary churn hai: customers ne jaana choose nahi kiya. Dunning (automatic retries aur card ya UPI mandate update karne ke email/SMS/WhatsApp nudges) unhe sasta wapas laata hai. 'Cancel kyun kiya' survey point miss karta hai.",
+      "mr": "हा involuntary churn आहे: ग्राहकांनी जाण्याचा निर्णय घेतला नाही. Dunning (automatic retries आणि card किंवा UPI mandate update करण्यासाठी email/SMS/WhatsApp nudges) त्यांना स्वस्तात परत आणते. 'का cancel केले' survey मूळ मुद्दा चुकवतो."
+    }
+  },
+  {
+    "id": "con-47",
+    "level": 7,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What does a DMARC policy of 'p=none' do?",
+      "hi": "DMARC policy 'p=none' kya karti hai?",
+      "mr": "DMARC policy 'p=none' काय करते?"
+    },
+    "opts": {
+      "en": [
+        "Rejects every email that fails SPF or DKIM",
+        "Sends failing emails straight to the spam folder",
+        "Disables SPF and DKIM checks for the domain",
+        "Only monitors and reports; nothing is blocked"
+      ],
+      "hi": [
+        "SPF ya DKIM fail karne wala har email reject karti hai",
+        "Fail hone wale emails seedha spam folder mein bhejti hai",
+        "Domain ke liye SPF aur DKIM checks band kar deti hai",
+        "Sirf monitor aur report karti hai; kuch block nahi hota"
+      ],
+      "mr": [
+        "SPF किंवा DKIM fail होणारा प्रत्येक email reject करते",
+        "Fail होणारे emails थेट spam folder मध्ये पाठवते",
+        "Domain साठी SPF आणि DKIM checks बंद करते",
+        "फक्त monitor आणि report करते; काहीही block होत नाही"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "p=none is monitoring mode: receivers send reports, but take no DMARC enforcement action. 'p=quarantine' sends failures to spam and 'p=reject' blocks them.",
+      "hi": "p=none monitoring mode hai: receivers reports bhejte hain par DMARC enforcement action nahi lete. 'p=quarantine' failures ko spam mein daalta hai aur 'p=reject' unhe block karta hai.",
+      "mr": "p=none म्हणजे monitoring mode: receivers reports पाठवतात पण DMARC enforcement कारवाई करत नाहीत. 'p=quarantine' fail झालेले mail spam मध्ये टाकते आणि 'p=reject' ते block करते."
+    }
+  },
+  {
+    "id": "con-48",
+    "level": 7,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "What is a 'pristine spam trap'?",
+      "hi": "'Pristine spam trap' kya hota hai?",
+      "mr": "'Pristine spam trap' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "An address no real person ever used, set up to catch bought or scraped lists",
+        "An old customer address that hard-bounced once last year",
+        "A subscriber who opens every single email but never clicks",
+        "The Gmail folder where most promotional emails are filtered"
+      ],
+      "hi": [
+        "Aisa address jo kabhi kisi ne use nahi kiya, khareedi/scraped lists pakadne ke liye",
+        "Purane customer ka address jo pichhle saal ek baar hard-bounce hua",
+        "Subscriber jo har ek email kholta hai par kabhi click nahi karta",
+        "Gmail ka folder jahan zyada promotional emails filter hote hain"
+      ],
+      "mr": [
+        "कधीही कोणी न वापरलेला address, विकत/scraped lists पकडण्यासाठी तयार केलेला",
+        "जुन्या ग्राहकाचा address जो मागच्या वर्षी एकदा hard-bounce झाला",
+        "प्रत्येक email उघडणारा पण कधीच click न करणारा subscriber",
+        "Gmail चा folder जिथे बहुतेक promotional emails filter होतात"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Pristine traps are addresses that never signed up anywhere, often hidden on web pages. Hitting one proves you used scraped or purchased data and can get you blocklisted. Recycled traps, by contrast, are old abandoned addresses.",
+      "hi": "Pristine traps aise addresses hain jinhone kahin sign up nahi kiya, aksar web pages par chhupe hote hain. Inhe hit karna saabit karta hai ki aapne scraped ya khareeda data use kiya, aur blocklist ho sakte ho. Recycled traps purane abandoned addresses hote hain.",
+      "mr": "Pristine traps असे addresses असतात ज्यांनी कुठेही sign up केलेले नसते, अनेकदा web pages वर लपवलेले. त्यावर mail गेल्यास तुम्ही scraped किंवा विकत घेतलेला data वापरल्याचे सिद्ध होते आणि blocklist होऊ शकता. Recycled traps हे जुने सोडून दिलेले addresses असतात."
+    }
+  },
+  {
+    "id": "con-49",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "After more subscribers moved to iPhones, your email open rate jumped 25%, but clicks and revenue stayed flat. You were choosing A/B test winners by open rate. What now?",
+      "hi": "Zyada subscribers iPhone par shift hue, open rate 25% badh gaya, par clicks aur revenue flat hain. Aap A/B test winners open rate se chun rahe the. Ab kya?",
+      "mr": "अधिक subscribers iPhone वर गेल्यानंतर open rate 25% वाढला, पण clicks आणि revenue स्थिर आहेत. तुम्ही A/B test विजेते open rate वरून ठरवत होता. आता काय?"
+    },
+    "opts": {
+      "en": [
+        "Celebrate: the subject lines are clearly working better",
+        "Send more emails per week since engagement is rising",
+        "Judge tests and health by clicks, conversions and revenue, not opens",
+        "Remove all iPhone users from the email list"
+      ],
+      "hi": [
+        "Celebrate karo: subject lines clearly better kaam kar rahi hain",
+        "Engagement badh raha hai, isliye har hafte zyada emails bhejo",
+        "Tests aur health ko opens ke bajaye clicks, conversions aur revenue se judge karo",
+        "Saare iPhone users ko email list se hata do"
+      ],
+      "mr": [
+        "उत्सव साजरा करा: subject lines स्पष्टपणे चांगल्या चालत आहेत",
+        "Engagement वाढत आहे म्हणून दर आठवड्याला जास्त emails पाठवा",
+        "Tests आणि आरोग्य opens ऐवजी clicks, conversions आणि revenue वरून तपासा",
+        "सर्व iPhone users ना email list मधून काढा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Apple's Mail Privacy Protection can register machine 'opens', inflating open rates without real engagement. Flat clicks and revenue confirm it. Use clicks/conversions as the success metric, and treat open-based segments with caution.",
+      "hi": "Apple ka Mail Privacy Protection machine 'opens' record kar sakta hai, jisse bina real engagement ke open rate inflate hota hai. Flat clicks aur revenue yahi confirm karte hain. Success metric clicks/conversions rakho aur open-based segments ko dhyan se use karo.",
+      "mr": "Apple चे Mail Privacy Protection machine 'opens' नोंदवू शकते, त्यामुळे खऱ्या engagement शिवाय open rate फुगतो. स्थिर clicks आणि revenue हेच दाखवतात. यशाचा metric म्हणून clicks/conversions वापरा आणि open-based segments सावधपणे वापरा."
+    }
+  },
+  {
+    "id": "con-50",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "People who received your welcome email series bought 3x more than people who didn't. The CEO wants to credit the series with all that revenue. Your concern?",
+      "hi": "Jin logon ko welcome email series mili unhone baaki logon se 3x zyada khareeda. CEO saara revenue series ko credit dena chahte hain. Aapki concern kya hai?",
+      "mr": "ज्यांना welcome email series मिळाली त्यांनी इतरांपेक्षा 3 पट जास्त खरेदी केली. CEO ला सगळे revenue त्या series ला द्यायचे आहे. तुमची शंका काय?"
+    },
+    "opts": {
+      "en": [
+        "The emails had too few images to really drive sales",
+        "Selection bias: measure true lift with a random holdout group",
+        "Open rate is a better success metric than revenue here",
+        "Welcome series are proven never to affect purchases"
+      ],
+      "hi": [
+        "Emails mein itni kam images thi ki sales nahi ho sakti",
+        "Selection bias: random holdout group se asli lift measure karo",
+        "Yahan revenue se behtar success metric open rate hai",
+        "Proven hai ki welcome series purchases par asar nahi karti"
+      ],
+      "mr": [
+        "Emails मध्ये इतक्या कमी images होत्या की विक्री होणे शक्य नाही",
+        "Selection bias: random holdout group ने खरी lift मोजा",
+        "इथे revenue पेक्षा open rate हा चांगला success metric आहे",
+        "Welcome series चा खरेदीवर परिणाम होत नाही हे सिद्ध आहे"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "People who subscribe and receive welcome emails may already be more interested buyers. Only by randomly withholding the series from a small control group can you see the true incremental revenue it causes.",
+      "hi": "Jo log subscribe karke welcome emails paate hain, woh pehle se hi zyada interested buyers ho sakte hain. Ek chhote control group se series randomly rok kar hi aap asli incremental revenue dekh sakte ho.",
+      "mr": "जे लोक subscribe करून welcome emails मिळवतात ते आधीपासूनच जास्त इच्छुक खरेदीदार असू शकतात. एका छोट्या control group कडून series randomly रोखूनच तिचे खरे incremental revenue दिसू शकते."
+    }
+  },
+  {
+    "id": "con-51",
+    "level": 7,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Why do mature lead-scoring models apply 'score decay'?",
+      "hi": "Mature lead-scoring models 'score decay' kyun lagate hain?",
+      "mr": "प्रगत lead-scoring models 'score decay' का लावतात?"
+    },
+    "opts": {
+      "en": [
+        "To punish leads who unsubscribe from emails",
+        "To make every lead reach MQL faster",
+        "To reduce the CRM's storage costs",
+        "So old engagement stops making inactive leads look hot"
+      ],
+      "hi": [
+        "Emails se unsubscribe karne wale leads ko punish karne ke liye",
+        "Har lead ko jaldi MQL banane ke liye",
+        "CRM ka storage cost kam karne ke liye",
+        "Taaki purana engagement inactive leads ko hot na dikhaye"
+      ],
+      "mr": [
+        "Emails मधून unsubscribe करणाऱ्या leads ना शिक्षा करण्यासाठी",
+        "प्रत्येक lead लवकर MQL व्हावी म्हणून",
+        "CRM चा storage खर्च कमी करण्यासाठी",
+        "जुन्या engagement मुळे निष्क्रिय leads 'hot' दिसू नयेत म्हणून"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "A pricing-page visit from 8 months ago says little about intent today. Decay gradually lowers behavioural points over time, so sales focuses on leads that are engaged now.",
+      "hi": "8 mahine purana pricing-page visit aaj ke intent ke baare mein kam batata hai. Decay time ke saath behavioural points dheere kam karta hai, taaki sales abhi engaged leads par focus kare.",
+      "mr": "8 महिन्यांपूर्वीची pricing-page भेट आजच्या इच्छेबद्दल फारसे सांगत नाही. Decay कालांतराने behavioural points हळूहळू कमी करते, म्हणजे sales सध्या engaged असलेल्या leads वर लक्ष देते."
+    }
+  },
+  {
+    "id": "con-52",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A customer's video showing a stale cake from your Mumbai outlet goes viral and outrage is growing on X and Instagram. What's the best move in the first hours?",
+      "hi": "Aapke Mumbai outlet ke baasi cake ka customer video viral ho gaya aur X aur Instagram par gussa badh raha hai. Pehle kuch ghanton mein best move kya hai?",
+      "mr": "तुमच्या Mumbai outlet मधील शिळ्या cake चा ग्राहकाचा video viral झाला आणि X व Instagram वर संताप वाढतोय. पहिल्या काही तासांत सर्वोत्तम पाऊल कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Acknowledge fast, investigate, act visibly and share updates",
+        "Stay silent and wait for the story to die down on its own",
+        "Delete critical comments and block the customer's account",
+        "Send the customer a legal notice for defamation right away"
+      ],
+      "hi": [
+        "Jaldi acknowledge karo, investigate karo, dikhne wala action lo, updates do",
+        "Chup raho aur story ke khud khatam hone ka wait karo",
+        "Critical comments delete karo aur customer ka account block karo",
+        "Customer ko turant defamation ka legal notice bhejo"
+      ],
+      "mr": [
+        "लवकर मान्य करा, चौकशी करा, दिसेल अशी कारवाई करा, updates द्या",
+        "गप्प राहा आणि बातमी आपोआप शांत होण्याची वाट पाहा",
+        "टीकात्मक comments delete करा आणि ग्राहकाचे account block करा",
+        "ग्राहकाला लगेच मानहानीची legal notice पाठवा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "In a crisis, silence lets others write your story, and deleting or threatening usually amplifies it. A fast, human acknowledgement, a clear corrective action (e.g., checking stock, contacting the customer) and follow-up updates rebuild trust.",
+      "hi": "Crisis mein chup rehne se doosre aapki story likhte hain, aur delete ya dhamki dene se baat aur failti hai. Tez, insaani acknowledgement, clear corrective action (jaise stock check, customer se contact) aur follow-up updates trust wapas laate hain.",
+      "mr": "संकटात गप्प राहिल्यास इतर लोक तुमची कथा लिहितात, आणि delete किंवा धमकी दिल्यास प्रकरण आणखी पसरते. जलद, माणुसकीची कबुली, स्पष्ट सुधारात्मक कारवाई (उदा. stock तपासणे, ग्राहकाशी संपर्क) आणि पुढील updates विश्वास परत मिळवतात."
+    }
+  },
+  {
+    "id": "con-53",
+    "level": 7,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "Your brand's WhatsApp marketing templates are being blocked and reported by many users, and your phone number's quality rating has dropped. What should you do?",
+      "hi": "Aapke brand ke WhatsApp marketing templates ko bahut users block aur report kar rahe hain, aur number ki quality rating gir gayi hai. Kya karna chahiye?",
+      "mr": "तुमच्या brand चे WhatsApp marketing templates अनेक users block आणि report करत आहेत, आणि number ची quality rating घसरली आहे. काय करावे?"
+    },
+    "opts": {
+      "en": [
+        "Switch to a new phone number and resend the same messages",
+        "Increase frequency so the brand stays top of mind",
+        "Cut frequency; message only relevant opted-in segments",
+        "Add more emojis and bold text to the templates"
+      ],
+      "hi": [
+        "Naya phone number lo aur wahi messages dobara bhejo",
+        "Frequency badhao taaki brand top of mind rahe",
+        "Frequency kam karo; sirf relevant opted-in segments ko bhejo",
+        "Templates mein aur emojis aur bold text daalo"
+      ],
+      "mr": [
+        "नवीन phone number घेऊन तेच messages पुन्हा पाठवा",
+        "Brand लक्षात राहावा म्हणून frequency वाढवा",
+        "Frequency कमी करा; फक्त relevant opt-in segments ना पाठवा",
+        "Templates मध्ये आणखी emojis आणि bold text टाका"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Blocks and reports signal unwanted messages and lower your quality rating, which can restrict your messaging. Fewer, more relevant messages to people who asked for them, with an easy way out, fix the cause. A new number just repeats the problem.",
+      "hi": "Blocks aur reports unwanted messages ka signal hain aur quality rating girate hain, jisse messaging restrict ho sakti hai. Maangne walon ko kam aur zyada relevant messages, easy opt-out ke saath, asli cause theek karte hain. Naya number sirf problem repeat karega.",
+      "mr": "Blocks आणि reports हे नको असलेल्या messages चे संकेत आहेत आणि quality rating कमी करतात, त्यामुळे messaging मर्यादित होऊ शकते. मागणाऱ्यांनाच कमी पण अधिक relevant messages, सोप्या opt-out सह, हे मूळ कारण दूर करतात. नवीन number ने फक्त समस्या पुन्हा होईल."
+    }
+  },
+  {
+    "id": "con-54",
+    "level": 8,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "To show your brand logo in supporting inboxes via BIMI, which email authentication condition must be met?",
+      "hi": "BIMI se supporting inboxes mein brand logo dikhane ke liye kaunsi email authentication condition zaroori hai?",
+      "mr": "BIMI द्वारे supporting inboxes मध्ये brand logo दाखवण्यासाठी कोणती email authentication अट आवश्यक आहे?"
+    },
+    "opts": {
+      "en": [
+        "SPF alone with a '~all' soft-fail record",
+        "DMARC at enforcement: p=quarantine or p=reject",
+        "A DMARC policy of p=none for monitoring",
+        "A dedicated IP address with 100% open rate"
+      ],
+      "hi": [
+        "Sirf SPF, '~all' soft-fail record ke saath",
+        "DMARC enforcement par: p=quarantine ya p=reject",
+        "Monitoring ke liye DMARC policy p=none",
+        "100% open rate wala dedicated IP address"
+      ],
+      "mr": [
+        "फक्त SPF, '~all' soft-fail record सह",
+        "DMARC enforcement वर: p=quarantine किंवा p=reject",
+        "Monitoring साठी DMARC policy p=none",
+        "100% open rate असलेला dedicated IP address"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "BIMI requires DMARC at an enforcement policy (quarantine or reject); p=none is not enough. Some inboxes such as Gmail also require a verified mark certificate for the logo.",
+      "hi": "BIMI ke liye DMARC enforcement policy (quarantine ya reject) par hona chahiye; p=none kaafi nahi hai. Gmail jaise kuch inboxes logo ke liye verified mark certificate bhi maangte hain.",
+      "mr": "BIMI साठी DMARC enforcement policy (quarantine किंवा reject) वर असणे आवश्यक आहे; p=none पुरेसे नाही. Gmail सारखे काही inboxes logo साठी verified mark certificate सुद्धा मागतात."
+    }
+  },
+  {
+    "id": "con-55",
+    "level": 8,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "In reputation management, what is the 'Streisand effect'?",
+      "hi": "Reputation management mein 'Streisand effect' kya hai?",
+      "mr": "Reputation management मध्ये 'Streisand effect' म्हणजे काय?"
+    },
+    "opts": {
+      "en": [
+        "Celebrity endorsements always improve brand trust",
+        "Negative reviews disappear automatically after a year",
+        "Positive press releases rank above news articles",
+        "Trying to suppress information ends up spreading it further"
+      ],
+      "hi": [
+        "Celebrity endorsements hamesha brand trust badhate hain",
+        "Negative reviews ek saal baad khud gayab ho jaate hain",
+        "Positive press releases news articles se upar rank karti hain",
+        "Kisi info ko dabane ki koshish use aur zyada faila deti hai"
+      ],
+      "mr": [
+        "Celebrity endorsements नेहमी brand वरचा विश्वास वाढवतात",
+        "Negative reviews एका वर्षानंतर आपोआप नाहीशी होतात",
+        "Positive press releases news articles पेक्षा वर rank होतात",
+        "एखादी माहिती दडपण्याचा प्रयत्न ती आणखी पसरवतो"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Named after a 2003 case where Barbra Streisand's attempt to suppress a photo of her house made it far more famous. Heavy-handed takedowns or legal threats against critics often go viral themselves.",
+      "hi": "Yeh naam 2003 ke case se aaya jab Barbra Streisand ne apne ghar ki photo dabane ki koshish ki aur woh aur famous ho gayi. Critics par heavy takedowns ya legal dhamkiyan aksar khud viral ho jaati hain.",
+      "mr": "हे नाव 2003 च्या प्रकरणावरून आले, जेव्हा Barbra Streisand ने आपल्या घराचा फोटो दडपण्याचा प्रयत्न केला आणि तो जास्तच प्रसिद्ध झाला. टीकाकारांवर कठोर takedowns किंवा कायदेशीर धमक्या अनेकदा स्वतःच viral होतात."
+    }
+  },
+  {
+    "id": "con-56",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "In your B2B HR-software CRM, students and competitors who download many e-books are reaching MQL status because they score high on engagement. Best fix?",
+      "hi": "Aapke B2B HR-software CRM mein students aur competitors bahut e-books download karke MQL ban rahe hain kyunki engagement score high hai. Best fix?",
+      "mr": "तुमच्या B2B HR-software CRM मध्ये बरीच e-books download करणारे students आणि स्पर्धक engagement score जास्त असल्याने MQL होत आहेत. सर्वोत्तम उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Score fit and engagement separately, with negative points for bad fit",
+        "Stop offering e-books so nobody can download them anymore",
+        "Raise the MQL threshold so only about 5 leads qualify each month",
+        "Give every e-book download zero points in the scoring model"
+      ],
+      "hi": [
+        "Fit aur engagement alag score karo, bad fit par negative points",
+        "E-books dena band karo taaki koi download hi na kar sake",
+        "MQL threshold itna badhao ki mahine mein sirf ~5 leads qualify hon",
+        "Scoring model mein har e-book download ko zero points do"
+      ],
+      "mr": [
+        "Fit आणि engagement वेगळे score करा, bad fit साठी negative points",
+        "E-books देणे बंद करा म्हणजे कोणी download करूच शकणार नाही",
+        "MQL threshold इतका वाढवा की महिन्याला ~5 leads च qualify होतील",
+        "Scoring model मध्ये प्रत्येक e-book download ला शून्य points द्या"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Engagement alone can't tell a curious student from a buyer. A two-axis model (fit × engagement) with negative scoring for bad-fit signals keeps active but unqualified people out, without killing useful content.",
+      "hi": "Sirf engagement se curious student aur buyer mein farak nahi pata chalta. Two-axis model (fit × engagement) aur bad-fit signals par negative scoring active par unqualified logon ko bahar rakhta hai, useful content band kiye bina.",
+      "mr": "फक्त engagement वरून उत्सुक student आणि खरेदीदार यांतील फरक कळत नाही. Two-axis model (fit × engagement) आणि bad-fit संकेतांसाठी negative scoring सक्रिय पण अपात्र लोकांना बाहेर ठेवते, उपयुक्त content बंद न करता."
+    }
+  },
+  {
+    "id": "con-57",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A small brand sends about 20,000 emails a month and has inbox-placement issues. The team wants to buy a dedicated IP to fix it. Your advice?",
+      "hi": "Ek chhota brand mahine mein lagbhag 20,000 emails bhejta hai aur inbox placement problems hain. Team fix ke liye dedicated IP khareedna chahti hai. Aapki advice?",
+      "mr": "एक छोटा brand महिन्याला सुमारे 20,000 emails पाठवतो आणि inbox placement च्या अडचणी आहेत. Team ला उपाय म्हणून dedicated IP घ्यायचा आहे. तुमचा सल्ला?"
+    },
+    "opts": {
+      "en": [
+        "Yes, a dedicated IP will instantly guarantee inbox placement",
+        "Yes, and mail the full list daily to warm the new IP faster",
+        "Probably not: volume is too low; fix auth, hygiene and engagement first",
+        "No, send from a free Gmail account instead to look personal"
+      ],
+      "hi": [
+        "Haan, dedicated IP turant inbox placement guarantee kar dega",
+        "Haan, aur naya IP jaldi warm karne ke liye roz poori list ko bhejo",
+        "Shayad nahi: volume kam hai; pehle auth, hygiene aur engagement sudharo",
+        "Nahi, personal dikhne ke liye free Gmail account se bhejo"
+      ],
+      "mr": [
+        "हो, dedicated IP लगेच inbox placement ची खात्री देईल",
+        "हो, आणि नवीन IP लवकर warm करण्यासाठी रोज संपूर्ण list ला पाठवा",
+        "बहुधा नाही: volume कमी आहे; आधी auth, hygiene आणि engagement सुधारा",
+        "नाही, personal वाटावे म्हणून free Gmail account वरून पाठवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "A dedicated IP needs steady, meaningful volume to build and keep a reputation; at low volume it can perform worse than a well-managed shared IP. Most placement issues come from authentication, list quality and low engagement.",
+      "hi": "Dedicated IP ko reputation banane aur banaye rakhne ke liye steady, achha volume chahiye; kam volume par yeh achhe managed shared IP se bhi bura perform kar sakta hai. Zyada placement issues authentication, list quality aur low engagement se aate hain.",
+      "mr": "Dedicated IP ला reputation बनवण्यासाठी आणि टिकवण्यासाठी सातत्यपूर्ण, पुरेसा volume लागतो; कमी volume वर तो चांगल्या managed shared IP पेक्षाही वाईट चालू शकतो. बहुतेक placement अडचणी authentication, list quality आणि कमी engagement मुळे येतात."
+    }
+  },
+  {
+    "id": "con-58",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A café chain's points programme: members just redeem points as discounts, margins are shrinking, and visit frequency hasn't changed versus non-members. Best redesign?",
+      "hi": "Ek café chain ka points programme: members sirf points ko discount mein redeem karte hain, margins ghat rahe hain, aur non-members ke comparison mein visit frequency nahi badhi. Best redesign?",
+      "mr": "एका café chain चा points programme: सदस्य फक्त points सवलतीत redeem करतात, margins कमी होत आहेत आणि non-members च्या तुलनेत भेटींची वारंवारता बदललेली नाही. सर्वोत्तम redesign?"
+    },
+    "opts": {
+      "en": [
+        "Double the points earned per rupee to excite existing members",
+        "Shut the programme down and move the whole budget into ads",
+        "Replace points with the same flat 20% discount for every member",
+        "Add behaviour-based tiers and non-discount perks, tested vs a control"
+      ],
+      "hi": [
+        "Existing members ko excite karne ke liye har rupee par double points",
+        "Programme band karo aur poora budget ads mein daal do",
+        "Points hatao aur har member ko same flat 20% discount do",
+        "Behaviour-based tiers aur non-discount perks, control group se test karke"
+      ],
+      "mr": [
+        "सध्याच्या सदस्यांना उत्साहित करण्यासाठी प्रत्येक रुपयावर दुप्पट points",
+        "Programme बंद करून संपूर्ण budget ads कडे वळवा",
+        "Points काढून प्रत्येक सदस्याला सरसकट 20% सवलत द्या",
+        "वर्तनावर आधारित tiers आणि सवलतीशिवायचे perks, control group सोबत test करून"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "The programme is subsidising purchases that would happen anyway. Tiers that reward the behaviour you want (e.g., more visits) plus experiential perks (early menu tastings, free upgrades) cost less than discounts, and a control group shows if behaviour really changes.",
+      "hi": "Programme un purchases ko subsidise kar raha hai jo waise bhi hote. Chahe gaye behaviour (jaise zyada visits) ko reward karne wale tiers aur experiential perks (early menu tasting, free upgrade) discount se saste hain, aur control group batata hai ki behaviour sach mein badla ya nahi.",
+      "mr": "Programme अशा खरेदीला अनुदान देत आहे जी तशीही झाली असती. हव्या असलेल्या वर्तनाला (उदा. जास्त भेटी) reward देणारे tiers आणि अनुभवात्मक perks (नवीन menu चाखणे, free upgrade) सवलतीपेक्षा स्वस्त पडतात, आणि control group दाखवतो की वर्तन खरोखर बदलले का."
+    }
+  },
+  {
+    "id": "con-59",
+    "level": 8,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Using Eugene Schwartz's 'stages of awareness', what copy approach suits a 'most aware' prospect who knows your product and wants it?",
+      "hi": "Eugene Schwartz ke 'stages of awareness' ke hisaab se 'most aware' prospect (jo product jaanta hai aur chahta hai) ke liye kaunsa copy approach sahi hai?",
+      "mr": "Eugene Schwartz च्या 'stages of awareness' नुसार 'most aware' prospect (ज्याला product माहीत आहे आणि हवा आहे) साठी कोणता copy approach योग्य?"
+    },
+    "opts": {
+      "en": [
+        "A long story that slowly introduces the problem",
+        "Lead straight with the offer: price, deal and a clear CTA",
+        "Educational content explaining that the problem exists",
+        "A teaser ad that hides the product name"
+      ],
+      "hi": [
+        "Lambi story jo dheere se problem introduce kare",
+        "Seedha offer se shuru karo: price, deal aur clear CTA",
+        "Educational content jo bataye ki problem exist karti hai",
+        "Teaser ad jo product ka naam chhupaaye"
+      ],
+      "mr": [
+        "हळूहळू समस्या मांडणारी लांब कथा",
+        "थेट offer ने सुरुवात: किंमत, deal आणि स्पष्ट CTA",
+        "समस्या अस्तित्वात आहे हे समजावणारे educational content",
+        "Product चे नाव लपवणारी teaser ad"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "The more aware the prospect, the more direct the copy should be. 'Most aware' buyers only need the deal and a reason to act now; problem-education is for unaware or problem-aware audiences.",
+      "hi": "Prospect jitna zyada aware, copy utni hi direct honi chahiye. 'Most aware' buyers ko sirf deal aur abhi act karne ki wajah chahiye; problem-education unaware ya problem-aware audience ke liye hai.",
+      "mr": "Prospect जितका जास्त aware, copy तितकी थेट असावी. 'Most aware' खरेदीदारांना फक्त deal आणि आत्ता कृती करण्याचे कारण हवे असते; समस्येचे शिक्षण unaware किंवा problem-aware audience साठी असते."
+    }
+  },
+  {
+    "id": "con-60",
+    "level": 8,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A coaching institute sends the same 10-email nurture sequence to every lead, whether they want JEE, NEET or MPSC coaching. Unsubscribes are high. Best fix?",
+      "hi": "Ek coaching institute har lead ko same 10-email nurture sequence bhejta hai, chahe use JEE, NEET ya MPSC coaching chahiye. Unsubscribes high hain. Best fix?",
+      "mr": "एक coaching institute प्रत्येक lead ला एकच 10-email nurture sequence पाठवते, मग त्याला JEE, NEET किंवा MPSC coaching हवे असो. Unsubscribes जास्त आहेत. सर्वोत्तम उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Branch by exam interest and stage, with exit rules after booking",
+        "Cut the sequence down to a single email for everyone",
+        "Send all 10 emails on the same day so the sequence ends faster",
+        "Remove the unsubscribe link from all nurture emails"
+      ],
+      "hi": [
+        "Exam interest aur stage se branch karo, booking ke baad exit rules",
+        "Sabke liye sequence ko sirf ek email tak kaat do",
+        "Saare 10 emails ek hi din bhejo taaki sequence jaldi khatam ho",
+        "Saare nurture emails se unsubscribe link hata do"
+      ],
+      "mr": [
+        "Exam आवड आणि टप्प्यानुसार branch करा, booking नंतर exit नियम",
+        "सर्वांसाठी sequence फक्त एका email पर्यंत कमी करा",
+        "Sequence लवकर संपावी म्हणून सर्व 10 emails एकाच दिवशी पाठवा",
+        "सर्व nurture emails मधून unsubscribe link काढा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Irrelevant content drives unsubscribes. Branching by declared interest (JEE/NEET/MPSC) and behaviour, plus goal/exit criteria so converted leads stop getting nurture emails, makes every message relevant. Removing unsubscribe links breaks the law and inbox rules.",
+      "hi": "Irrelevant content se unsubscribes badhte hain. Declared interest (JEE/NEET/MPSC) aur behaviour se branching, aur goal/exit criteria taaki convert hue leads ko nurture emails na jaayein, har message relevant banata hai. Unsubscribe link hatana law aur inbox rules todta hai.",
+      "mr": "Irrelevant content मुळे unsubscribes वाढतात. सांगितलेल्या आवडीनुसार (JEE/NEET/MPSC) आणि वर्तनानुसार branching, तसेच convert झालेल्या leads ना nurture emails थांबवणारे goal/exit निकष, प्रत्येक message relevant करतात. Unsubscribe link काढणे कायदा आणि inbox नियम मोडते."
+    }
+  },
+  {
+    "id": "con-61",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A D2C protein brand has a 12% repeat-purchase rate while CAC keeps rising. The CEO's plan is to double ad spend. What's the smarter strategic move?",
+      "hi": "Ek D2C protein brand ka repeat-purchase rate 12% hai aur CAC badhta ja raha hai. CEO ad spend double karna chahte hain. Zyada smart strategic move kya hai?",
+      "mr": "एका D2C protein brand चा repeat-purchase rate 12% आहे आणि CAC सतत वाढत आहे. CEO ला ad spend दुप्पट करायचा आहे. अधिक हुशार strategic पाऊल कोणते?"
+    },
+    "opts": {
+      "en": [
+        "Double ad spend, but concentrate it on just one platform",
+        "Cut prices by 30% to win many more first-time orders",
+        "Fix retention first: onboarding, refill reminders, loyalty, referral",
+        "Pause all marketing until the repeat rate improves by itself"
+      ],
+      "hi": [
+        "Ad spend double karo, par sirf ek platform par focus karo",
+        "Kaafi zyada first-time orders ke liye price 30% kam karo",
+        "Pehle retention sudharo: onboarding, refill reminders, loyalty, referral",
+        "Repeat rate khud sudhre tab tak saari marketing rok do"
+      ],
+      "mr": [
+        "Ad spend दुप्पट करा, पण फक्त एका platform वर केंद्रित करा",
+        "खूप जास्त पहिल्या orders साठी किंमत 30% कमी करा",
+        "आधी retention सुधारा: onboarding, refill reminders, loyalty, referral",
+        "Repeat rate आपोआप सुधारेपर्यंत सगळे marketing थांबवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "With low repeat rates, each costlier new customer is worth little, so doubling spend scales a leaky bucket. Raising LTV through well-timed replenishment reminders (a 1 kg tub lasts roughly a month), onboarding and referrals makes higher CAC affordable. Track it with cohorts.",
+      "hi": "Low repeat rate mein har mehenga naya customer kam value deta hai, isliye spend double karna leaky bucket ko scale karna hai. Sahi time par refill reminders (1 kg tub lagbhag ek mahina chalta hai), onboarding aur referrals se LTV badhta hai aur zyada CAC afford hota hai. Cohorts se track karo.",
+      "mr": "Repeat rate कमी असताना प्रत्येक महागडा नवीन ग्राहक कमी मूल्य देतो, म्हणून खर्च दुप्पट करणे म्हणजे गळक्या बादलीत पाणी ओतणे. योग्य वेळी refill reminders (1 kg tub साधारण महिनाभर पुरतो), onboarding आणि referrals मुळे LTV वाढतो आणि जास्त CAC परवडतो. Cohorts ने track करा."
+    }
+  },
+  {
+    "id": "con-62",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "IT moved your domain's DMARC straight from nothing to p=reject. Now invoices sent by your third-party billing tool are being rejected. What's the right rollout?",
+      "hi": "IT ne domain ka DMARC seedha kuch nahi se p=reject kar diya. Ab third-party billing tool se jaane wale invoices reject ho rahe hain. Sahi rollout kya hai?",
+      "mr": "IT ने domain चा DMARC थेट काहीच नाही वरून p=reject केला. आता third-party billing tool मधून जाणारे invoices reject होत आहेत. योग्य rollout कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Keep p=reject and ask customers to check their spam folders",
+        "Start at p=none, find all senders via reports, align, then tighten",
+        "Delete the DMARC record permanently to stop the rejections",
+        "Send invoices from staff members' personal Gmail accounts"
+      ],
+      "hi": [
+        "p=reject rakho aur customers se spam folder check karne ko kaho",
+        "p=none se shuru karo, reports se saare senders dhoondo, align karo, phir tight karo",
+        "Rejections rokne ke liye DMARC record hamesha ke liye delete karo",
+        "Invoices staff ke personal Gmail accounts se bhejo"
+      ],
+      "mr": [
+        "p=reject ठेवा आणि ग्राहकांना spam folder तपासायला सांगा",
+        "p=none पासून सुरुवात, reports मधून सर्व senders शोधा, align करा, मग कडक करा",
+        "Rejections थांबवण्यासाठी DMARC record कायमचा delete करा",
+        "Invoices staff च्या personal Gmail accounts वरून पाठवा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "DMARC should be phased: monitor with p=none, read aggregate (rua) reports to discover every legitimate sender (CRM, billing, helpdesk), authenticate and align them, then tighten to quarantine and finally reject.",
+      "hi": "DMARC phases mein lagta hai: p=none se monitor karo, aggregate (rua) reports padhkar har legitimate sender (CRM, billing, helpdesk) dhoondo, unhe authenticate aur align karo, phir quarantine aur aakhir mein reject karo.",
+      "mr": "DMARC टप्प्याटप्प्याने लावावे: p=none ने monitor करा, aggregate (rua) reports वाचून प्रत्येक वैध sender (CRM, billing, helpdesk) शोधा, त्यांना authenticate आणि align करा, मग quarantine आणि शेवटी reject करा."
+    }
+  },
+  {
+    "id": "con-63",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "Your CRM credits every B2B deal to the last touch, 'Demo request form', so leadership plans to cut the content budget, even though prospects often mention your webinars. What's the best case to make?",
+      "hi": "Aapka CRM har B2B deal ko last touch 'Demo request form' ko credit karta hai, isliye leadership content budget kaatna chahti hai, jabki prospects aksar aapke webinars ka zikr karte hain. Sabse achha argument kya hai?",
+      "mr": "तुमचे CRM प्रत्येक B2B deal चे श्रेय last touch 'Demo request form' ला देते, म्हणून leadership content budget कापणार आहे, जरी prospects अनेकदा तुमच्या webinars चा उल्लेख करतात. सर्वोत्तम युक्तिवाद कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Show multi-touch influence reports and 'How did you hear about us?' data",
+        "Argue that content should simply never be measured at all",
+        "Ask sales to manually tag every closed deal as 'content'",
+        "Switch to first-touch attribution only and ignore demo forms"
+      ],
+      "hi": [
+        "Multi-touch influence reports aur 'Humare baare mein kaise suna?' data dikhao",
+        "Kaho ki content ko kabhi measure hi nahi karna chahiye",
+        "Sales se har closed deal ko manually 'content' tag karwao",
+        "Sirf first-touch attribution par jao aur demo forms ignore karo"
+      ],
+      "mr": [
+        "Multi-touch influence reports आणि 'आमच्याबद्दल कसे कळले?' data दाखवा",
+        "Content कधीच मोजूच नये असा युक्तिवाद करा",
+        "Sales कडून प्रत्येक closed deal ला manually 'content' tag करून घ्या",
+        "फक्त first-touch attribution वापरा आणि demo forms कडे दुर्लक्ष करा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Last-touch hides everything that created demand before the form fill. Showing how many won deals touched content along the way, backed by what buyers themselves say, gives a fair, balanced view. Swapping to first-touch just moves the bias.",
+      "hi": "Last-touch form fill se pehle demand banane wali har cheez chhupa deta hai. Kitne won deals ne raaste mein content touch kiya, aur buyers khud kya kehte hain, yeh dikhane se fair, balanced view milta hai. First-touch par jaana sirf bias shift karta hai.",
+      "mr": "Last-touch हे form fill पूर्वी मागणी निर्माण करणारे सर्व काही लपवते. जिंकलेल्या किती deals नी वाटेत content ला स्पर्श केला आणि खरेदीदार स्वतः काय सांगतात हे दाखवल्यास न्याय्य, संतुलित चित्र मिळते. First-touch वर जाणे फक्त bias बदलते."
+    }
+  },
+  {
+    "id": "con-64",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A 30-year-old Kolhapuri chappal brand is seen as 'cheap tourist footwear' and wants premium positioning. What approach will actually work?",
+      "hi": "30 saal purana Kolhapuri chappal brand 'saste tourist footwear' ki tarah dekha jaata hai aur premium positioning chahta hai. Kaunsa approach sach mein kaam karega?",
+      "mr": "30 वर्षे जुना Kolhapuri चप्पल brand 'स्वस्त पर्यटक footwear' म्हणून ओळखला जातो आणि त्याला premium positioning हवे आहे. कोणता मार्ग खरोखर यशस्वी होईल?"
+    },
+    "opts": {
+      "en": [
+        "Change only the logo and colours and keep everything else",
+        "Run heavy discounts to attract more premium-minded buyers",
+        "Add the word 'premium' to every ad without other changes",
+        "Align product, craft story, pricing, packaging and distribution to premium"
+      ],
+      "hi": [
+        "Sirf logo aur colours badlo, baaki sab waisa hi rakho",
+        "Premium soch wale buyers laane ke liye heavy discounts chalao",
+        "Baaki kuch badle bina har ad mein 'premium' word jodo",
+        "Product, craft story, pricing, packaging aur distribution ko premium se align karo"
+      ],
+      "mr": [
+        "फक्त logo आणि रंग बदला, बाकी सगळे तसेच ठेवा",
+        "Premium विचारांचे खरेदीदार आणण्यासाठी मोठ्या सवलती द्या",
+        "इतर काहीही न बदलता प्रत्येक ad मध्ये 'premium' शब्द जोडा",
+        "Product, कारागिरीची कथा, pricing, packaging आणि distribution premium शी जुळवा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Positioning lives in customers' minds and is shaped by every touchpoint. A new logo or 'premium' claims can't beat cheap-feeling products, discounts or roadside distribution. Proof across product, story, price and place is what shifts perception.",
+      "hi": "Positioning customers ke mind mein hoti hai aur har touchpoint se banti hai. Naya logo ya 'premium' claims saste lagne wale product, discounts ya roadside distribution ko nahi hara sakte. Product, story, price aur place par proof hi perception badalta hai.",
+      "mr": "Positioning ग्राहकांच्या मनात असते आणि प्रत्येक touchpoint ने घडते. नवीन logo किंवा 'premium' दावे स्वस्त वाटणारे product, सवलती किंवा रस्त्याकडेचे distribution हरवू शकत नाहीत. Product, कथा, किंमत आणि ठिकाण यांतील पुरावाच धारणा बदलतो."
+    }
+  },
+  {
+    "id": "con-65",
+    "level": 9,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "Why is 'review gating' (asking only happy customers for Google reviews and steering unhappy ones elsewhere) a bad idea?",
+      "hi": "'Review gating' (sirf khush customers se Google review maangna aur naraz walon ko kahin aur bhejna) kharab idea kyun hai?",
+      "mr": "'Review gating' (फक्त समाधानी ग्राहकांकडून Google reviews मागणे आणि नाराजांना दुसरीकडे वळवणे) ही वाईट कल्पना का आहे?"
+    },
+    "opts": {
+      "en": [
+        "It makes the average rating fall below 3 stars",
+        "Google only counts reviews written in English",
+        "It breaks Google's review policies and misleads customers",
+        "Unhappy customers can't legally post online reviews"
+      ],
+      "hi": [
+        "Isse average rating 3 stars se neeche gir jaati hai",
+        "Google sirf English reviews ginta hai",
+        "Yeh Google ki review policies todta hai aur customers ko mislead karta hai",
+        "Naraz customers legally online review post nahi kar sakte"
+      ],
+      "mr": [
+        "त्यामुळे सरासरी rating 3 stars च्या खाली जाते",
+        "Google फक्त English मधील reviews मोजते",
+        "हे Google च्या review policies मोडते आणि ग्राहकांची दिशाभूल करते",
+        "नाराज ग्राहक कायदेशीररित्या online review देऊ शकत नाहीत"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Google's policies prohibit selectively soliciting positive reviews or discouraging negative ones; violating reviews can be removed. Ask all customers for honest reviews and handle complaints separately.",
+      "hi": "Google policies selectively positive reviews maangna ya negative reviews ko rokna mana karti hain; aise reviews hataye ja sakte hain. Sabhi customers se honest review maango aur complaints alag se handle karo.",
+      "mr": "Google च्या policies निवडकपणे सकारात्मक reviews मागणे किंवा नकारात्मक reviews रोखणे यावर बंदी घालतात; असे reviews काढले जाऊ शकतात. सर्व ग्राहकांकडून प्रामाणिक reviews मागा आणि तक्रारी वेगळ्या हाताळा."
+    }
+  },
+  {
+    "id": "con-66",
+    "level": 9,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "A subscription business reports Net Revenue Retention (NRR) of 115%. What does this mean?",
+      "hi": "Ek subscription business ka Net Revenue Retention (NRR) 115% hai. Iska matlab kya hai?",
+      "mr": "एका subscription business चा Net Revenue Retention (NRR) 115% आहे. याचा अर्थ काय?"
+    },
+    "opts": {
+      "en": [
+        "It won 15% more new customers than it did last year",
+        "Upsells from existing customers outweighed churn and downgrades",
+        "115% of its customers renewed their plans this year",
+        "Its marketing spend came in 15% below the budget"
+      ],
+      "hi": [
+        "Pichhle saal se 15% zyada naye customers jeete",
+        "Existing customers ke upsells churn aur downgrades se zyada rahe",
+        "Is saal 115% customers ne apne plans renew kiye",
+        "Marketing spend budget se 15% kam raha"
+      ],
+      "mr": [
+        "मागील वर्षापेक्षा 15% जास्त नवीन ग्राहक मिळाले",
+        "सध्याच्या ग्राहकांचे upsells churn आणि downgrades पेक्षा जास्त राहिले",
+        "या वर्षी 115% ग्राहकांनी त्यांचे plans renew केले",
+        "Marketing खर्च budget पेक्षा 15% कमी राहिला"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "NRR looks only at revenue from an existing customer cohort: starting revenue + expansion − churn − downgrades, divided by starting revenue. Above 100% means the base grows even with zero new customers. New-customer revenue is excluded.",
+      "hi": "NRR sirf existing customer cohort ka revenue dekhta hai: starting revenue + expansion − churn − downgrades, divided by starting revenue. 100% se upar matlab bina naye customers ke bhi base badh raha hai. Naye customers ka revenue isme nahi gina jaata.",
+      "mr": "NRR फक्त सध्याच्या ग्राहक cohort चे revenue पाहतो: सुरुवातीचे revenue + expansion − churn − downgrades, भागिले सुरुवातीचे revenue. 100% पेक्षा जास्त म्हणजे नवीन ग्राहक नसतानाही base वाढत आहे. नवीन ग्राहकांचे revenue यात मोजले जात नाही."
+    }
+  },
+  {
+    "id": "con-67",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A news site publishes an article about your hospital chain with a clear factual error about your pricing. What is the best PR response?",
+      "hi": "Ek news site ne aapki hospital chain par article chhapa jismein pricing ke baare mein clear factual error hai. Best PR response kya hai?",
+      "mr": "एका news site ने तुमच्या hospital chain बद्दल लेख छापला ज्यात pricing बद्दल स्पष्ट तथ्यात्मक चूक आहे. सर्वोत्तम PR प्रतिसाद कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Privately send the editor evidence and request a correction",
+        "Post an angry thread attacking the journalist by name",
+        "Threaten the publication with a lawsuit on social media",
+        "Buy ads on the same site so the article gets removed"
+      ],
+      "hi": [
+        "Editor ko privately evidence bhejo aur correction maango",
+        "Journalist ka naam lekar gusse wala thread post karo",
+        "Social media par publication ko lawsuit ki dhamki do",
+        "Usi site par ads khareedo taaki article hat jaaye"
+      ],
+      "mr": [
+        "Editor ला खाजगीत पुरावा पाठवा आणि दुरुस्ती मागा",
+        "पत्रकाराचे नाव घेऊन रागाने thread post करा",
+        "Social media वर publication ला खटल्याची धमकी द्या",
+        "त्याच site वर ads विकत घ्या म्हणजे लेख काढला जाईल"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Most publications correct genuine factual errors when shown evidence calmly. You can also share a brief factual clarification on your own channels. Public attacks and threats damage media relationships and can amplify the story.",
+      "hi": "Zyada publications genuine factual errors calmly evidence dikhane par correct kar deti hain. Aap apne channels par short factual clarification bhi de sakte ho. Public attacks aur dhamkiyan media relations bigaadti hain aur story ko aur failaa sakti hain.",
+      "mr": "बहुतेक publications शांतपणे पुरावा दाखवल्यास खऱ्या तथ्यात्मक चुका दुरुस्त करतात. तुम्ही स्वतःच्या channels वर थोडक्यात तथ्यात्मक स्पष्टीकरणही देऊ शकता. सार्वजनिक हल्ले आणि धमक्या media संबंध बिघडवतात आणि बातमी आणखी पसरवू शकतात."
+    }
+  },
+  {
+    "id": "con-68",
+    "level": 9,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "Your abandoned-cart flow sends email, SMS and WhatsApp at the same moment, and still sends reminders after customers have bought. Complaints are rising. Best fix?",
+      "hi": "Aapka abandoned-cart flow email, SMS aur WhatsApp ek hi time par bhejta hai, aur khareedne ke baad bhi reminders bhejta rehta hai. Complaints badh rahi hain. Best fix?",
+      "mr": "तुमचा abandoned-cart flow email, SMS आणि WhatsApp एकाच वेळी पाठवतो, आणि खरेदीनंतरही reminders पाठवत राहतो. तक्रारी वाढत आहेत. सर्वोत्तम उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Turn off email and keep only SMS for every customer",
+        "Add a bigger discount to every reminder in the flow",
+        "Send the reminders only on weekends, when people shop",
+        "One journey: consented channel first, caps, stop on purchase"
+      ],
+      "hi": [
+        "Email band karo aur har customer ke liye sirf SMS rakho",
+        "Flow ke har reminder mein bada discount daalo",
+        "Reminders sirf weekends par bhejo, jab log shopping karte hain",
+        "Ek journey: pehle consented channel, caps, purchase par stop"
+      ],
+      "mr": [
+        "Email बंद करा आणि प्रत्येक ग्राहकासाठी फक्त SMS ठेवा",
+        "Flow मधील प्रत्येक reminder मध्ये मोठी सवलत द्या",
+        "लोक shopping करतात तेव्हा, फक्त weekends ला reminders पाठवा",
+        "एकच journey: आधी संमतीचा channel, caps, खरेदीनंतर थांबवा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "Channels should work as one sequence, not three parallel blasts: start with the customer's preferred/consented channel, escalate only if there's no response, cap total touches, and exit the flow the moment they purchase on any channel.",
+      "hi": "Channels ek sequence ki tarah kaam karein, teen parallel blasts ki tarah nahi: customer ke preferred/consented channel se shuru karo, response na aaye tabhi aage badho, total touches cap karo, aur kisi bhi channel par purchase hote hi flow se exit karo.",
+      "mr": "Channels नी तीन समांतर blasts नव्हे तर एकाच sequence सारखे काम करावे: ग्राहकाच्या आवडीच्या/संमती दिलेल्या channel ने सुरुवात करा, प्रतिसाद नसेल तरच पुढे जा, एकूण touches मर्यादित ठेवा आणि कोणत्याही channel वर खरेदी होताच flow मधून बाहेर काढा."
+    }
+  },
+  {
+    "id": "con-69",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A B2B SaaS team gated every blog and guide behind forms. MQLs rose 80%, but SQLs and pipeline stayed flat and sales morale is falling. What's the right strategic call?",
+      "hi": "Ek B2B SaaS team ne har blog aur guide ko form ke peeche gate kar diya. MQLs 80% badhe, par SQLs aur pipeline flat rahe aur sales ka morale gir raha hai. Sahi strategic call kya hai?",
+      "mr": "एका B2B SaaS team ने प्रत्येक blog आणि guide form मागे gate केले. MQLs 80% वाढल्या, पण SQLs आणि pipeline स्थिर राहिल्या आणि sales चे मनोबल घसरत आहे. योग्य strategic निर्णय कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Gate even more content to push MQLs up another 80%",
+        "Keep everything gated but lower the MQL score threshold",
+        "Judge by pipeline; ungate TOFU, keep high-intent offers gated",
+        "Stop producing content and move the budget to cold calling"
+      ],
+      "hi": [
+        "Aur content gate karo taaki MQLs 80% aur badhein",
+        "Sab gated rakho par MQL score threshold kam karo",
+        "Pipeline se judge karo; TOFU ungate, high-intent offers gated",
+        "Content banana band karo aur budget cold calling mein daalo"
+      ],
+      "mr": [
+        "MQLs आणखी 80% वाढवण्यासाठी आणखी content gate करा",
+        "सगळे gated ठेवा पण MQL score threshold कमी करा",
+        "Pipeline वरून मोजा; TOFU ungate, high-intent offers gated ठेवा",
+        "Content बनवणे बंद करून budget cold calling कडे वळवा"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "Form fills on educational content signal curiosity, not buying intent, so MQL volume became a vanity metric. Open TOFU content to build reach and trust, and capture leads on high-intent offers (demo, pricing, ROI calculator) measured by SQLs and pipeline.",
+      "hi": "Educational content par form fills curiosity dikhate hain, buying intent nahi, isliye MQL volume vanity metric ban gaya. TOFU content open karo taaki reach aur trust bane, aur high-intent offers (demo, pricing, ROI calculator) par leads lo, jinhe SQLs aur pipeline se measure karo.",
+      "mr": "Educational content वरील form fills उत्सुकता दाखवतात, खरेदीची इच्छा नाही, म्हणून MQL संख्या vanity metric झाली. पोहोच आणि विश्वास वाढवण्यासाठी TOFU content खुले करा, आणि high-intent offers (demo, pricing, ROI calculator) वर leads घ्या, ज्यांचे मोजमाप SQLs आणि pipeline ने करा."
+    }
+  },
+  {
+    "id": "con-70",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A D2C apparel brand finds 70% of orders use coupons, and full-price sales crash between sales. Customers now wait for discounts. Best long-term fix?",
+      "hi": "Ek D2C apparel brand mein 70% orders coupons se hote hain, aur sales ke beech full-price sales gir jaati hai. Customers ab discount ka wait karte hain. Best long-term fix?",
+      "mr": "एका D2C apparel brand मध्ये 70% orders coupons वापरून होतात, आणि sales दरम्यान full-price विक्री कोसळते. ग्राहक आता सवलतीची वाट पाहतात. सर्वोत्तम दीर्घकालीन उपाय?"
+    },
+    "opts": {
+      "en": [
+        "Taper blanket discounts, add value perks, and test who needs offers",
+        "Run a bigger sale every week so customers never have to wait",
+        "Stop all discounts overnight and remove the coupon field forever",
+        "Offer discounts only to first-time buyers via paid ads"
+      ],
+      "hi": [
+        "Blanket discounts dheere kam karo, value perks do, test karo kise offer chahiye",
+        "Har hafte bada sale chalao taaki customers ko wait na karna pade",
+        "Raaton-raat saare discounts band karo aur coupon field hata do",
+        "Discounts sirf paid ads se first-time buyers ko do"
+      ],
+      "mr": [
+        "सरसकट सवलती हळूहळू कमी करा, value perks द्या, कोणाला offer लागते ते test करा",
+        "दर आठवड्याला मोठा sale चालवा म्हणजे ग्राहकांना थांबावे लागणार नाही",
+        "रातोरात सर्व सवलती बंद करा आणि coupon field काढून टाका",
+        "सवलती फक्त paid ads द्वारे first-time खरेदीदारांना द्या"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Constant discounts train customers to wait and erode margin. Gradually reducing blanket offers, replacing them with non-price value, and using holdout tests to find who buys anyway protects both revenue and brand. Stopping overnight risks a sharp sales drop.",
+      "hi": "Lagataar discounts customers ko wait karna sikhate hain aur margin khaate hain. Blanket offers dheere kam karna, unki jagah non-price value dena, aur holdout tests se pata karna ki kaun bina discount bhi khareedta hai, revenue aur brand dono bachata hai. Raaton-raat band karne se sales achanak gir sakti hai.",
+      "mr": "सततच्या सवलती ग्राहकांना वाट पाहायला शिकवतात आणि margin खातात. सरसकट offers हळूहळू कमी करणे, त्याऐवजी किमतीव्यतिरिक्त value देणे आणि holdout tests ने कोण सवलतीशिवायही खरेदी करतो ते शोधणे revenue आणि brand दोन्ही वाचवते. रातोरात बंद केल्यास विक्री अचानक घसरू शकते."
+    }
+  },
+  {
+    "id": "con-71",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "An edtech firm wants to load 3 lakh leads collected 4 years ago (for a different course) into its new email and WhatsApp automation and blast them all. Your advice?",
+      "hi": "Ek edtech firm 4 saal pehle (alag course ke liye) collect hue 3 lakh leads ko naye email aur WhatsApp automation mein daalkar sabko blast karna chahti hai. Aapki advice?",
+      "mr": "एका edtech firm ला 4 वर्षांपूर्वी (वेगळ्या course साठी) गोळा केलेल्या 3 लाख leads नवीन email आणि WhatsApp automation मध्ये टाकून सर्वांना blast करायचे आहे. तुमचा सल्ला?"
+    },
+    "opts": {
+      "en": [
+        "Go ahead: leads once collected can be used for any purpose",
+        "Don't blast: consent was for another purpose; validate and re-permission",
+        "Send only WhatsApp, since consent rules apply just to email",
+        "Upload the list to a new ESP account to protect the old one's reputation"
+      ],
+      "hi": [
+        "Aage badho: ek baar mile leads kisi bhi purpose ke liye use ho sakte hain",
+        "Blast mat karo: consent alag purpose ka tha; validate karke fresh opt-in lo",
+        "Sirf WhatsApp bhejo, consent rules sirf email par lagte hain",
+        "Purane account ki reputation bachane ke liye list naye ESP par upload karo"
+      ],
+      "mr": [
+        "पुढे जा: एकदा मिळालेल्या leads कोणत्याही कारणासाठी वापरता येतात",
+        "Blast करू नका: संमती वेगळ्या कारणासाठी होती; validate करून नवीन opt-in घ्या",
+        "फक्त WhatsApp पाठवा, संमतीचे नियम फक्त email ला लागू होतात",
+        "जुन्या account ची reputation वाचवण्यासाठी list नवीन ESP वर upload करा"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Consent tied to a specific purpose is a core principle of India's DPDP Act, 2023, and WhatsApp also requires opt-in. Four-year-old data is full of dead addresses and possible spam traps, so a blast would wreck deliverability. Validate and run a permission campaign first.",
+      "hi": "Specific purpose se judi consent India ke DPDP Act, 2023 ka core principle hai, aur WhatsApp bhi opt-in maangta hai. 4 saal purane data mein dead addresses aur spam traps ho sakte hain, blast se deliverability barbaad hogi. Pehle validate karo aur permission campaign chalao.",
+      "mr": "विशिष्ट कारणाशी जोडलेली संमती हे भारताच्या DPDP Act, 2023 चे मूलभूत तत्त्व आहे, आणि WhatsApp सुद्धा opt-in मागते. 4 वर्षे जुन्या data मध्ये बंद addresses आणि spam traps असू शकतात, त्यामुळे blast केल्यास deliverability बिघडेल. आधी validate करून permission campaign चालवा."
+    }
+  },
+  {
+    "id": "con-72",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A premium packaged-foods company wants to launch a low-price range for Tier-3 towns, but fears it will cheapen the premium master brand. What's the best brand-architecture choice?",
+      "hi": "Ek premium packaged-foods company Tier-3 towns ke liye low-price range launch karna chahti hai, par darr hai ki premium master brand sasta dikhega. Best brand-architecture choice kya hai?",
+      "mr": "एका premium packaged-foods company ला Tier-3 शहरांसाठी कमी किमतीची range launch करायची आहे, पण premium master brand स्वस्त वाटेल अशी भीती आहे. सर्वोत्तम brand-architecture निवड कोणती?"
+    },
+    "opts": {
+      "en": [
+        "Put the master brand name prominently on the budget packs",
+        "Lower the price of the premium range to match",
+        "Skip packaging and sell the budget range loose",
+        "Launch it as a separate or lightly endorsed brand with its own positioning"
+      ],
+      "hi": [
+        "Budget packs par master brand ka naam bada karke lagao",
+        "Premium range ka price bhi utna hi kam karo",
+        "Packaging chhodo aur budget range loose becho",
+        "Ise alag ya lightly endorsed brand ki tarah, apni positioning ke saath launch karo"
+      ],
+      "mr": [
+        "Budget packs वर master brand चे नाव ठळकपणे लावा",
+        "Premium range ची किंमतही तितकीच कमी करा",
+        "Packaging टाळून budget range सुटी विका",
+        "याला वेगळा किंवा हलक्या endorsement चा brand म्हणून स्वतःच्या positioning सह launch करा"
+      ]
+    },
+    "a": 3,
+    "exp": {
+      "en": "A separate brand (house-of-brands) or a light endorsement lets the company reach a new price segment without diluting the parent's premium meaning. Putting the master brand front-and-centre on budget packs risks exactly the dilution they fear.",
+      "hi": "Alag brand (house-of-brands) ya light endorsement se company naya price segment pakad sakti hai bina parent ki premium image dilute kiye. Budget packs par master brand ko aage rakhna wahi dilution laata hai jiska darr hai.",
+      "mr": "वेगळा brand (house-of-brands) किंवा हलके endorsement वापरल्यास company parent ची premium ओळख कमी न करता नवीन किंमत गटापर्यंत पोहोचू शकते. Budget packs वर master brand ठळक ठेवल्यास नेमका तोच धोका निर्माण होतो."
+    }
+  },
+  {
+    "id": "con-73",
+    "level": 10,
+    "cat": "dm",
+    "type": "mcq",
+    "q": {
+      "en": "You A/B test two subject lines on a list of 2,000 subscribers; B gets 3 more clicks than A. What's the main pitfall in declaring B the winner?",
+      "hi": "Aap 2,000 subscribers ki list par do subject lines A/B test karte ho; B ko A se 3 clicks zyada milte hain. B ko winner declare karne mein main pitfall kya hai?",
+      "mr": "तुम्ही 2,000 subscribers च्या list वर दोन subject lines चा A/B test करता; B ला A पेक्षा 3 clicks जास्त मिळतात. B ला विजेता घोषित करण्यातील मुख्य धोका कोणता?"
+    },
+    "opts": {
+      "en": [
+        "Subject lines can't be A/B tested, only email bodies",
+        "Click data is never used to judge subject lines",
+        "The sample is too small; a 3-click gap is likely random noise",
+        "B should lose because it is the newer version"
+      ],
+      "hi": [
+        "Subject lines A/B test nahi ho sakti, sirf email body",
+        "Subject lines judge karne ke liye click data kabhi use nahi hota",
+        "Sample bahut chhota hai; 3 clicks ka farak shayad random noise hai",
+        "B ko haarna chahiye kyunki woh naya version hai"
+      ],
+      "mr": [
+        "Subject lines चा A/B test होऊ शकत नाही, फक्त email body चा",
+        "Subject lines तपासण्यासाठी click data कधीच वापरत नाहीत",
+        "Sample खूप लहान आहे; 3 clicks चा फरक बहुधा योगायोग आहे",
+        "B हरायला हवा कारण तो नवीन version आहे"
+      ]
+    },
+    "a": 2,
+    "exp": {
+      "en": "With ~1,000 people per variant, a difference of a few clicks is well within random variation, so it isn't statistically significant. Test bolder differences, pool results over several sends, or use a larger list before trusting a winner.",
+      "hi": "Har variant mein ~1,000 log hon toh kuch clicks ka farak random variation ke andar hai, statistically significant nahi. Bade differences test karo, kai sends ke results jodo, ya badi list use karo, tabhi winner par bharosa karo.",
+      "mr": "प्रत्येक variant मध्ये ~1,000 लोक असताना काही clicks चा फरक random चढउताराच्या आतच असतो, statistically significant नाही. मोठे फरक test करा, अनेक sends चे निकाल एकत्र करा किंवा मोठी list वापरा, मगच विजेत्यावर विश्वास ठेवा."
+    }
+  },
+  {
+    "id": "con-74",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "Overnight, a Pune restaurant gets 15 one-star Google reviews from accounts with no history that clearly never visited. What's the best course of action?",
+      "hi": "Ek raat mein Pune ke ek restaurant ko 15 one-star Google reviews mile, aise accounts se jinki koi history nahi aur jo clearly kabhi aaye hi nahi. Best course of action kya hai?",
+      "mr": "एका रात्रीत Pune मधील एका restaurant ला कोणताही इतिहास नसलेल्या, स्पष्टपणे कधीही न आलेल्या accounts कडून 15 one-star Google reviews मिळाले. सर्वोत्तम कृती कोणती?"
+    },
+    "opts": {
+      "en": [
+        "Report them to Google, keep evidence, reply calmly, keep earning real reviews",
+        "Buy 50 five-star reviews online to balance the rating quickly",
+        "Reply to each review publicly accusing a named competitor",
+        "Delete the Google Business Profile and create a fresh one"
+      ],
+      "hi": [
+        "Google ko report karo, evidence rakho, calmly reply karo, real reviews lete raho",
+        "Rating jaldi balance karne ke liye online 50 five-star reviews khareedo",
+        "Har review par publicly kisi competitor ka naam lekar ilzaam lagao",
+        "Google Business Profile delete karke ek naya banao"
+      ],
+      "mr": [
+        "Google कडे report करा, पुरावे ठेवा, शांत reply करा, खरे reviews मिळवत राहा",
+        "Rating लवकर सावरण्यासाठी online 50 five-star reviews विकत घ्या",
+        "प्रत्येक review वर जाहीरपणे एखाद्या स्पर्धकाचे नाव घेऊन आरोप करा",
+        "Google Business Profile delete करून नवीन तयार करा"
+      ]
+    },
+    "a": 0,
+    "exp": {
+      "en": "Fake-review attacks can be flagged to Google for removal; keeping screenshots and dates helps an appeal. Short, factual replies reassure readers, while buying reviews or naming rivals without proof creates new policy and legal risks. Deleting the profile loses all genuine reviews too.",
+      "hi": "Fake-review attacks ko removal ke liye Google ko flag kar sakte ho; screenshots aur dates rakhne se appeal mein madad milti hai. Chhote, factual replies readers ko assure karte hain, jabki reviews khareedna ya bina proof competitor ka naam lena naye policy aur legal risks laata hai. Profile delete karne se genuine reviews bhi chale jaate hain.",
+      "mr": "Fake-review हल्ले काढण्यासाठी Google कडे flag करता येतात; screenshots आणि तारखा ठेवल्यास appeal ला मदत होते. छोटे, तथ्यात्मक replies वाचकांना आश्वस्त करतात, तर reviews विकत घेणे किंवा पुराव्याशिवाय स्पर्धकाचे नाव घेणे नवीन policy आणि कायदेशीर धोके निर्माण करते. Profile delete केल्यास खरे reviews सुद्धा जातात."
+    }
+  },
+  {
+    "id": "con-75",
+    "level": 10,
+    "cat": "dm",
+    "type": "situation",
+    "q": {
+      "en": "A B2B brand's organic traffic is stable, but organic leads fell 40%. Traffic now goes mostly to how-to posts with no CTAs, while older comparison and pricing pages slipped in rankings. Best plan?",
+      "hi": "Ek B2B brand ka organic traffic stable hai, par organic leads 40% gir gaye. Traffic ab zyada bina CTA wale how-to posts par jaata hai, aur purane comparison aur pricing pages ki ranking gir gayi. Best plan?",
+      "mr": "एका B2B brand चे organic traffic स्थिर आहे, पण organic leads 40% घसरल्या. Traffic आता मुख्यतः CTA नसलेल्या how-to posts वर जाते, तर जुन्या comparison आणि pricing pages ची ranking घसरली. सर्वोत्तम योजना?"
+    },
+    "opts": {
+      "en": [
+        "Publish more how-to posts, since they already get the traffic",
+        "Refresh decayed high-intent pages; add CTAs and links from how-to posts",
+        "Delete all how-to posts so traffic flows to pricing pages",
+        "Replace all organic effort with paid search campaigns"
+      ],
+      "hi": [
+        "Aur how-to posts publish karo, traffic toh unhi par hai",
+        "Decay hue high-intent pages refresh karo; how-to posts mein CTAs aur links jodo",
+        "Saare how-to posts delete karo taaki traffic pricing pages par jaaye",
+        "Saara organic effort paid search campaigns se replace karo"
+      ],
+      "mr": [
+        "आणखी how-to posts publish करा, traffic तर तिथेच आहे",
+        "घसरलेली high-intent pages refresh करा; how-to posts मध्ये CTAs व links जोडा",
+        "Traffic pricing pages कडे जावे म्हणून सर्व how-to posts delete करा",
+        "सर्व organic प्रयत्न paid search campaigns ने बदला"
+      ]
+    },
+    "a": 1,
+    "exp": {
+      "en": "Leads fell because high-intent pages decayed and informational traffic has no path to convert. Updating comparison/pricing pages recovers buyer-intent rankings, and contextual CTAs or lead magnets plus internal links turn how-to readers into leads. Deleting useful posts would throw away traffic.",
+      "hi": "Leads isliye gire kyunki high-intent pages decay ho gaye aur informational traffic ke paas convert hone ka raasta nahi. Comparison/pricing pages update karne se buyer-intent rankings wapas aati hain, aur contextual CTAs ya lead magnets plus internal links how-to readers ko leads banate hain. Useful posts delete karna traffic phenkna hai.",
+      "mr": "Leads घसरल्या कारण high-intent pages मागे पडली आणि माहितीपर traffic ला convert होण्याचा मार्गच नाही. Comparison/pricing pages update केल्याने buyer-intent rankings परत येतात, आणि contextual CTAs किंवा lead magnets सह internal links how-to वाचकांना leads बनवतात. उपयुक्त posts delete करणे म्हणजे traffic वाया घालवणे."
+    }
+  }
+]

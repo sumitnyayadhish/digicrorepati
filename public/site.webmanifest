@@ -1,9 +1,14 @@
 {
   "name": "DigiCrorepati – Digital Marketing & AI Quiz",
   "short_name": "DigiCrorepati",
+  "description": "Free Digital Marketing & AI quiz game — 10 levels, daily challenge, English/Hinglish/Marathi.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#02041a",
   "theme_color": "#050a2e",
-  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
 }

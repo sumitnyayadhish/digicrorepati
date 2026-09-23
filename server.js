@@ -17,7 +17,6 @@ if (fs.existsSync(envPath)) {
   }
 }
 
-const { aiEnabled, generateFresh, getFresh } = await import("./lib/ai.js");
 const { storageKind } = await import("./lib/store.js");
 
 const MIME = {
@@ -67,14 +66,5 @@ http.createServer(async (req, res) => {
     res.end(JSON.stringify({ error: e.message }));
   }
 }).listen(PORT, () => {
-  console.log(`\n  DigiCrorepati running → http://localhost:${PORT}`);
-  console.log(`  Storage: ${storageKind()} · Live AI questions: ${aiEnabled() ? "ON" : "OFF (set ANTHROPIC_API_KEY in .env)"}\n`);
-  // Local stand-in for the Vercel cron: refresh every 12h.
-  const tick = async () => {
-    if (!aiEnabled()) return;
-    const { updatedAt } = await getFresh();
-    if (Date.now() - updatedAt > 12 * 60 * 60 * 1000) generateFresh().catch((e) => console.warn("[ai] generation failed:", e.message));
-  };
-  tick();
-  setInterval(tick, 60 * 60 * 1000);
+  console.log(`\n  DigiCrorepati running → http://localhost:${PORT}  (storage: ${storageKind()})\n`);
 });
