@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="bg" cx=".5" cy=".3" r=".8"><stop offset="0" stop-color="#2a1fa8"/><stop offset=".5" stop-color="#0b1260"/><stop offset="1" stop-color="#02041a"/></radialGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6c9"/><stop offset=".55" stop-color="#f5c542"/><stop offset="1" stop-color="#b37700"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="600" cy="190" r="110" fill="#070d44" stroke="url(#g)" stroke-width="8"/>
+  <text x="600" y="222" text-anchor="middle" font-family="Georgia, serif" font-weight="900" font-size="96" fill="url(#g)">₹</text>
+  <text x="600" y="390" text-anchor="middle" font-family="Georgia, serif" font-weight="900" font-size="84" fill="url(#g)">DigiCrorepati</text>
+  <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="38" fill="#dfe4ff">Digital Marketing &amp; AI Quiz · 10 Levels · ₹1 Crore (virtual)</text>
+  <text x="600" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#aeb6e6">English · Hinglish · मराठी</text>
+</svg>

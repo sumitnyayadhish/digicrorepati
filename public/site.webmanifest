@@ -1,0 +1,9 @@
+{
+  "name": "DigiCrorepati – Digital Marketing & AI Quiz",
+  "short_name": "DigiCrorepati",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02041a",
+  "theme_color": "#050a2e",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
